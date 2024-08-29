@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/66d06f0dd25d3c82b1772b76?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 29 |
+| **[Allstate](http://www.allstate.com)** | **[Agency Marketing Consultant Intern](https://jobright.ai/jobs/info/66d06112da8656c4ec1fe3f5?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Aug 29 |
+| **[MHP – A Porsche Company](https://www.mhp.com)** | **[Digital Advisory Intern (f/m/d)](https://jobright.ai/jobs/info/6697fbff14ddc0bb2f1fd208?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 29 |
+| **[Arcadis](http://www.arcadis.com)** | **[Emergency Managment Consultant Intern](https://jobright.ai/jobs/info/66c58bb54031dddaece8fb61?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 29 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consultant Intern](https://jobright.ai/jobs/info/66d023d0d848364b7ebb5a70?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/66d00b361b844008da938148?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | ↳ | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/66d00b361b844008da9382cf?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | ↳ | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/66d00b361b844008da938150?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 28 |
-| ↳ | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/66d00b361b844008da9382d2?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | ↳ | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/66d00b361b844008da9382d3?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
+| ↳ | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/66d00b361b844008da9382d2?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Don Beyer Volvo](http://donbeyervolvo.com)** | **[Digital Internet Sales Consultant](https://jobright.ai/jobs/info/66d029b346e5ed8dbe95860b?utm_campaign=1063&utm_source=git)** | Falls Church, VA | On Site | Aug 28 |
 | **[IBM](http://www.ibm.com)** | **[Associate Consultant Intern 2025](https://jobright.ai/jobs/info/66cfe8e95bcec831e322bfd8?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Valuation Consulting - Intern (2025)](https://jobright.ai/jobs/info/66cfd7694290f4bb7e3df02e?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Aug 28 |
@@ -149,24 +153,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Risk Consulting Intern - Summer 2025 - Women's Consulting Experience](https://jobright.ai/jobs/info/66cf1ccc540f3fa32f2bc359?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2025 - Women's Consulting Experience](https://jobright.ai/jobs/info/66cf1ccc540f3fa32f2bc3be?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Aug 23 |
 | **[Putnam Associates](http://www.putassoc.com)** | **[Summer Associate Consultant (Summer 2025)](https://jobright.ai/jobs/info/66c89a8868151ef429d9c061?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts | On Site | Aug 22 |
-| **[OrderConnect e-Prescribing](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant (Dec. 24/May 25 Grads) (PRIOR 2024 FUTURES ONLY)](https://jobright.ai/jobs/info/66c7c66437ac9ef1d3cea991?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Aug 22 |
-| ↳ | **[Solution Delivery Consultant Future (Summer 2025 Internship) (PRIOR 2024 FUTURES ONLY)](https://jobright.ai/jobs/info/66c7c66437ac9ef1d3cea97c?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Aug 22 |
+| **[OrderConnect e-Prescribing](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Future (Summer 2025 Internship) (PRIOR 2024 FUTURES ONLY)](https://jobright.ai/jobs/info/66c7c66437ac9ef1d3cea97c?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Aug 22 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/66c7babeb58997a29801f3eb?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant II- Cybersecurity and Compliance, ES&I -Campus 2025](https://jobright.ai/jobs/info/66c8b4f66d4997931e5c40ef?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Aug 22 |
-| **[PwC](http://pwc.com)** | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7ab7f5e7ac17ec5e1cf74?utm_campaign=1063&utm_source=git)** | Florham Park, NJ | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7ab7f5e7ac17ec5e1d44b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7ab7f5e7ac17ec5e1d45a?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7ab7f5e7ac17ec5e1d45b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7ab7f5e7ac17ec5e1d45d?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7ab7f5e7ac17ec5e1d456?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7ab7f5e7ac17ec5e1d461?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7b73eae43499602fa0c45?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7b73eae43499602fa0c5e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c7b73eae43499602fa0c61?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Aug 22 |
-| **[Verizon](https://www.verizon.com)** | **[Thrive Apprentice:  Data Analytics- Data Consultant](https://jobright.ai/jobs/info/66c7ab7f5e7ac17ec5e1d398?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Aug 22 |
-| ↳ | **[Thrive Apprentice:  Data Analytics- Data Consultant](https://jobright.ai/jobs/info/66c7856c1a493b7441076f3a?utm_campaign=1063&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 22 |
-| **[Baringa Partners](http://www.baringa.com/)** | **[US Summer Internship 2025 - Financial Services (New York)](https://jobright.ai/jobs/info/66c7961414e8b425b0ba548c?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
-| ↳ | **[US Summer Internship 2025 - Capabilities (New York)](https://jobright.ai/jobs/info/66c7a3afcc0c77bd3e8b215f?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
-| **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/66c7825382c544aa6c87d7f9?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Aug 22 |
-| ↳ | **[Miami Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/66c7825382c544aa6c87d7fc?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
