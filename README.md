@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ZS Associates](https://www.zs.com/)** | **[Decision Analytics Associate Consultant - Intern](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9eae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Sep 11 |
+| **[Arup](http://www.arup.com)** | **[Acoustic/Audio Visual Consulting Intern](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c26a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 11 |
+| ↳ | **[Acoustic/Audio Visual Consulting Intern](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c241?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Sep 11 |
+| ↳ | **[Acoustic/Audio Visual Consulting Intern](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c251?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
+| **[ZS Associates](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9f0f?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Sep 11 |
 | ↳ | **[Decision Analytics Consultant - Intern](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9ec2?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Sep 11 |
-| ↳ | **[Business Technology Solutions Consultant - Intern](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9f0f?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Sep 11 |
-| **[RSM](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c4e1fd22c004bf04847dc1?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 11 |
-| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c5464ab8ec8eecf481768d?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 11 |
+| ↳ | **[Decision Analytics Associate Consultant - Intern](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9eae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Sep 11 |
+| **[RSM](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c5464ab8ec8eecf481768d?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 11 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c4e1fd22c004bf04847dc1?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 11 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66c5464ab8ec8eecf4817691?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 11 |
 | **[Sureguard Financial](https://www.sureguard.org)** | **[Digital Sales Consultant](https://jobright.ai/jobs/info/66e18003b4e3b6dd532c9b35?utm_campaign=1063&utm_source=git)** | Scarborough, ME | Remote | Sep 11 |
+| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](http://www.gaccmidwest.org)** | **[Internship Business Development Consulting](https://jobright.ai/jobs/info/66e20fc25ed286a9926cbdaf?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Oregon (Returning Intern)](https://jobright.ai/jobs/info/66e0ef69f88d7bd011d88bbe?utm_campaign=1063&utm_source=git)** | Portland, OR | On Site | Sep 10 |
 | ↳ | **[Financial Wellness Consultant](https://jobright.ai/jobs/info/66e0ef69f88d7bd011d88bd3?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Sep 10 |
 | **[Charles River Associates](http://www.crai.com)** | **[Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66e0cd18327072dcd7e699e9?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Sep 10 |
@@ -72,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[GEP](https://www.gep.com)** | **[Summer Senior Associate, Consulting](https://jobright.ai/jobs/info/66e0ab34df58e2260eeca522?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 10 |
 | **[Arup](http://www.arup.com)** | **[Sustainability Consulting Intern](https://jobright.ai/jobs/info/66e0a9750b66fc6ffdb52f70?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 10 |
 | ↳ | **[Sustainability Consulting Intern](https://jobright.ai/jobs/info/66e0a9750b66fc6ffdb52f6e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
-| **[Excelon Solutions](https://www.excelonsolutions.com)** | **[PeopleSoft Func AM SME w/AP & PO](https://jobright.ai/jobs/info/66e0a673fec6cad6f585b24d?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Sep 10 |
 | **[Merck](http://www.merck.com)** | **[GEMS Consulting & Medical Education Summer Intern](https://jobright.ai/jobs/info/66dab5fe6dc6460bea5659bd?utm_campaign=1063&utm_source=git)** | Rahway, NJ | Hybrid | Sep 10 |
 | **[DuCharme, McMillen & Associates](https://www.dmainc.com/)** | **[Property Tax Consulting Intern - Spring 2025](https://jobright.ai/jobs/info/66e0932890d7339e5696252a?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 10 |
 | ↳ | **[Property Tax Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66e0932890d7339e56962530?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 10 |
@@ -121,32 +124,32 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Cyber Security Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66dc7b70febf6fc818a2e792?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
 | ↳ | **[Cyber Security Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66dc7b70febf6fc818a2e79a?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Sep 07 |
 | ↳ | **[Cyber Security Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66dc7b70febf6fc818a2e7ad?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 07 |
-| ↳ | **[Cyber Security Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66dc6e59cdb7cd14b653fe33?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
 | ↳ | **[Cyber Security Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66dc6e59cdb7cd14b653fe34?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Sep 07 |
 | ↳ | **[Cyber Security Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66dc6e59cdb7cd14b653fbc2?utm_campaign=1063&utm_source=git)** | Florham Park, NJ | On Site | Sep 07 |
+| ↳ | **[Cyber Security Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66dc6e59cdb7cd14b653fe33?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
 | **[Teneo](https://www.teneo.com/)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/66c5246e93950544f36d9564?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 07 |
 | **[Wipfli LLP](http://www.wipfli.com)** | **[Tech Consulting Internship (ERP Solutions)](https://jobright.ai/jobs/info/66dc0dc938fdc55908f5195f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66dc0dc938fdc55908f519b3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
 | ↳ | **[Data & Analytics Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66dc0dc938fdc55908f5196b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
 | ↳ | **[Tech Consulting Internship](https://jobright.ai/jobs/info/66dc0dc938fdc55908f51980?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
-| ↳ | **[Tech Consulting Internship](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beee?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 07 |
-| ↳ | **[Tech Consulting Internship (ERP Solutions)](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beeb?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
+| ↳ | **[Tech Consulting Internship](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beef?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
 | ↳ | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beec?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
+| ↳ | **[Tech Consulting Internship](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4bef1?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 07 |
+| ↳ | **[Tech Consulting Internship](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beee?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 07 |
+| ↳ | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4bef0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 07 |
+| ↳ | **[Tech Consulting Internship (ERP Solutions)](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beeb?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
 | ↳ | **[Data & Analytics Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beed?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[Tech Consulting Internship (ERP Solutions)](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beea?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 07 |
-| ↳ | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4bef0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 07 |
-| ↳ | **[Tech Consulting Internship](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4bef1?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 07 |
-| ↳ | **[Tech Consulting Internship](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4beef?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
 | ↳ | **[Data & Analytics Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66dc1c2c01ede93e1bd4bef2?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 07 |
 | **[RSM](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f558?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 06 |
-| ↳ | **[D365 Consulting Intern](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f56a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 06 |
 | ↳ | **[Technology Risk Consulting Intern](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f885?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 06 |
+| ↳ | **[D365 Consulting Intern](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f56a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 06 |
 | ↳ | **[Process Risk and Controls Consulting Intern](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f562?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 06 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dbb5f28bad950f09c99566?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Sep 06 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Internship](https://jobright.ai/jobs/info/66db6d67b9cbb8ff499414f1?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 06 |
 | **[RSM](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f031390fd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 06 |
-| ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f03138d1c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 06 |
 | ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f03138d4f?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 06 |
+| ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f03138d1c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 06 |
 | ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f031390fe?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 06 |
 | ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f031390ff?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 06 |
 | ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f03139100?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Hybrid | Sep 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f03139102?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Sep 06 |
 | ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f03138d17?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Sep 06 |
 | ↳ | **[Oracle NetSuite Consulting Intern](https://jobright.ai/jobs/info/66db2728753bd19f03139103?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 06 |
-| **[DHL Consulting](https://dhl-consulting.com/)** | **[Visiting Consultant, Summer Internships 2025](https://jobright.ai/jobs/info/66b4e6a8c14a55f3563794e8?utm_campaign=1063&utm_source=git)** | Plantation, FL | Hybrid | Sep 06 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Advisory Intern, Healthcare Solutions](https://jobright.ai/jobs/info/66db157aeec3c88f8ae4e845?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 06 |
-| ↳ | **[Advisory Intern, Healthcare Solutions](https://jobright.ai/jobs/info/66daf8ca15430331c180af4d?utm_campaign=1063&utm_source=git)** | Nashville, TN | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
