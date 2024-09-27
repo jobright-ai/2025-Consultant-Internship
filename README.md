@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/66f62e4008d7b30ce361c7e6?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Sep 26 |
 | **[RE Tech Advisors](https://www.retechadvisors.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/66f619895b9edf2860f5268a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 26 |
 | ↳ | **[Sustainability Intern](https://jobright.ai/jobs/info/66f60845064d78a52a299435?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Sep 26 |
+| **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Actuarial Intern (Life or Property and Casualty)](https://jobright.ai/jobs/info/66f6693da95b4734f8e96250?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Sep 26 |
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer (Intern)](https://jobright.ai/jobs/info/66f5ffdf3678da3d01f16dbc?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 26 |
 | **[RSM](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66f5dec96f25d4475c090022?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Sep 26 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern)](https://jobright.ai/jobs/info/66f5e8dd6d59fcfcf15b8c05?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Remote | Sep 26 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Technology Consultant Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | ↳ | **[Financial Crime Consultant Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074b4?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 25 |
 | **[RSM](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66d7b516b8c80238be3c38b4?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Sep 25 |
-| **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af31?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
-| ↳ | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074c2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 25 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074c2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 25 |
+| ↳ | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af31?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | ↳ | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ec3?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
 | **[RSM](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66d75bf38bf358ebe60a62a0?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Sep 25 |
 | ↳ | **[D365 Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66d755f2251964ac52f4de94?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 25 |
@@ -144,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Pocket Aces Consulting](http://www.pocketacesconsulting.com)** | **[Office Intern - Political Consulting](https://jobright.ai/jobs/info/66f31f8288ed982f5ccf3249?utm_campaign=1063&utm_source=git)** | Fairfax, VA | On Site | Sep 24 |
 | **[Baker Tilly International](https://www.bakertilly.global/)** | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/66f31925a8ea7960a33aef24?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | Sep 24 |
 | **[internXL](https://internx.org/)** | **[internXL Event Consultant](https://jobright.ai/jobs/info/66f30d838a3ea2de08ebcf86?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | Hybrid | Sep 24 |
-| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Digital Consulting Healthcare Internship - Summer 2025](https://jobright.ai/jobs/info/66f31d24653686c7d3000e47?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Sep 24 |
 | **[Coalfire](https://www.coalfire.com?utm_source=LinkedIn&utm_medium=organicsocial)** | **[Cybersecurity Summer Intern](https://jobright.ai/jobs/info/66f2fa344e22ec4827b3fc6d?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Sep 24 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Integrated and Global Solutions Internship](https://jobright.ai/jobs/info/66e2904c77a0b0b793192ef0?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 24 |
 | **[Nordex](http://www.nordex-online.com/en)** | **[Werkstudent HR Consulting](https://jobright.ai/jobs/info/66f2f98eeba303659ec66e0b?utm_campaign=1063&utm_source=git)** | Laurys Station, PA | On Site | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Health Consulting Intern](https://jobright.ai/jobs/info/66f355bb803e037315f1c55f?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Sep 23 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, AI Trust Consultant](https://jobright.ai/jobs/info/66f1f4091b1b70fcff751b91?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Sep 23 |
 | **[All-In Consulting](www.allinengineeringconsulting.com)** | **[Marketing and Business Development Intern](https://jobright.ai/jobs/info/66f39b4c0847932fe88e0338?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 23 |
-| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern)](https://jobright.ai/jobs/info/66f21735f6c1bfae399ad2f3?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
