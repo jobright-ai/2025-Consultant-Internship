@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6709b12e242cba51dd884881?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 11 |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) Intern – Summer 2025](https://jobright.ai/jobs/info/6709a7a942ffbe6c3aa2322e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 11 |
+| ↳ | **[Visa Consulting Analytics (VCA) Intern – Summer 2025](https://jobright.ai/jobs/info/6709a7a942ffbe6c3aa23245?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 11 |
+| ↳ | **[Visa Consulting Analytics (VCA) Intern – Summer 2025](https://jobright.ai/jobs/info/670994e1bcb306fe7eeb1681?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 11 |
+| **[UDig](http://udig.com)** | **[Technical Consultant Summer Intern](https://jobright.ai/jobs/info/6709bc42a5e929d7eec0e3c6?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Oct 11 |
+| **[World Wide Technology](http://www.wwt.com)** | **[MBA Management Consulting Services Intern - 2025](https://jobright.ai/jobs/info/6709a0cfebed4eeabb069f5a?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 11 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Life/Health/IPS Process Design and Consulting](https://jobright.ai/jobs/info/67097184558f05db5cb36987?utm_campaign=1063&utm_source=git)** | Bloomington, IL | Hybrid | Oct 11 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6709585c88a4460b1e9358e7?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Oct 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Technology Consultant: Internship Opportunities](https://jobright.ai/jobs/info/66ec99eccb3cad2d53acf5d0?utm_campaign=1063&utm_source=git)** | Redmond, WA | Hybrid | Oct 11 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Business Valuation Consulting - Intern (2025)](https://jobright.ai/jobs/info/66cfc90e0d040a05fce809a1?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Oct 11 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0b99a4b49811aa8b5a493?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 11 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/66d00b361b844008da938148?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 11 |
+| **[Oracle](https://www.oracle.com)** | **[NAA Consulting Functional Cloud Intern](https://jobright.ai/jobs/info/670991645261513967fb5429?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 11 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1245?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Oct 11 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a145d5b928daabe99a08?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Oct 11 |
-| ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1245?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Oct 11 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1242?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Oct 11 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0b99a4b49811aa8b5a496?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1241?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
@@ -83,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2025 Digital Consultant - Healthcare](https://jobright.ai/jobs/info/670834fff1664fc4be9d8fd6?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 10 |
 | ↳ | **[Summer 2025 Digital Consultant - Healthcare](https://jobright.ai/jobs/info/670834fff1664fc4be9d91c7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Oct 10 |
 | ↳ | **[Summer 2025 Digital Consultant - Healthcare](https://jobright.ai/jobs/info/670834fff1664fc4be9d91c8?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Oct 10 |
-| ↳ | **[Summer 2025 Digital Consultant - Healthcare](https://jobright.ai/jobs/info/670834fff1664fc4be9d91c9?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Oct 10 |
 | ↳ | **[Summer 2025 Digital Consultant - Healthcare](https://jobright.ai/jobs/info/670834fff1664fc4be9d91ca?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
+| ↳ | **[Summer 2025 Digital Consultant - Healthcare](https://jobright.ai/jobs/info/670834fff1664fc4be9d91c9?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Oct 10 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/66cdef6d8f5c39576d151c1e?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Oct 10 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/66c3c5b0a0df62a1f4aadf15?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586499?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 10 |
@@ -132,29 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2025)](https://jobright.ai/jobs/info/6605fde8905a6cd2d20f0b3c?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 08 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/66e8b1525c9445ca7777fcc5?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b70?utm_campaign=1063&utm_source=git)** | Cambridge, MA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b82?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7c?utm_campaign=1063&utm_source=git)** | Santa Cruz, CA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b71?utm_campaign=1063&utm_source=git)** | Redmond, WA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062bd5307d727fae363fb7?utm_campaign=1063&utm_source=git)** | Boulder, CO, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b79?utm_campaign=1063&utm_source=git)** | Kirkland, WA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b72?utm_campaign=1063&utm_source=git)** | Madison, WI, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7b?utm_campaign=1063&utm_source=git)** | Palo Alto, CA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b75?utm_campaign=1063&utm_source=git)** | Reston, VA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b73?utm_campaign=1063&utm_source=git)** | Washington D.C., DC, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7d?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b6d?utm_campaign=1063&utm_source=git)** | Raleigh, NC, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b78?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b86?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b87?utm_campaign=1063&utm_source=git)** | Seattle, WA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b85?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7e?utm_campaign=1063&utm_source=git)** | Chicago, IL, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b84?utm_campaign=1063&utm_source=git)** | San Bruno, CA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b6c?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA, USA | On Site | Oct 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b81?utm_campaign=1063&utm_source=git)** | Redwood City, CA, USA | On Site | Oct 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b6b?utm_campaign=1063&utm_source=git)** | Durham, NC, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b6e?utm_campaign=1063&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b6f?utm_campaign=1063&utm_source=git)** | San Jose, CA, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b87?utm_campaign=1063&utm_source=git)** | Seattle, WA, USA | On Site | Oct 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b83?utm_campaign=1063&utm_source=git)** | San Diego, CA, USA | On Site | Oct 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b80?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7e?utm_campaign=1063&utm_source=git)** | Chicago, IL, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b77?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062bd5307d727fae363fb7?utm_campaign=1063&utm_source=git)** | Boulder, CO, USA | On Site | Oct 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7f?utm_campaign=1063&utm_source=git)** | Austin, TX, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b86?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b6f?utm_campaign=1063&utm_source=git)** | San Jose, CA, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b85?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b74?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7d?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b6d?utm_campaign=1063&utm_source=git)** | Raleigh, NC, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7a?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Oct 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b7b?utm_campaign=1063&utm_source=git)** | Palo Alto, CA, USA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
