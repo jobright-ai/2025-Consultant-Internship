@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, IT Strategy , Summer 2025](https://jobright.ai/jobs/info/6711aa251b58923d2b0e86ca?utm_campaign=1063&utm_source=git)** | Newark, CA | On Site | Oct 17 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Entry Level Civil/Environmental Engineer (Environmental Consulting: Remediation, and Solid Waste Design) – Naperville, IL](https://jobright.ai/jobs/info/67119bf5a453cf0bfcb3abb9?utm_campaign=1063&utm_source=git)** | Naperville, IL | Hybrid | Oct 17 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2025 Digital Consulting Internship](https://jobright.ai/jobs/info/67118383f80aaaf935972c00?utm_campaign=1063&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Oct 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/67118e7739924286b8f7ec12?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
@@ -64,9 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2025 Digital Consulting Internship](https://jobright.ai/jobs/info/671199d0b8ba73b01fb7e626?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047e0?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047e2?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 17 |
-| ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf0490a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047e3?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
-| ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf04661?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
+| ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf0490a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf0490c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf0490b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economics, Finance and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047e6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 17 |
@@ -75,11 +75,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047e7?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf0490e?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047e9?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
-| ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047eb?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf0490f?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 17 |
+| ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047eb?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047ec?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 17 |
-| ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047ed?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047ee?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
+| ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711891eb79de03a1bf047ed?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economics, Finance and Grants)](https://jobright.ai/jobs/info/6711891eb79de03a1bf0482a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711621417e98ce4200552d4?utm_campaign=1063&utm_source=git)** | Portland, OR | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economics, Finance and Grants)](https://jobright.ai/jobs/info/6711646457fc70bb3c3702c3?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 17 |
@@ -91,6 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711646457fc70bb3c370435?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711646457fc70bb3c370436?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711646457fc70bb3c370437?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 17 |
+| ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711646457fc70bb3c370439?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
+| ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711646457fc70bb3c370438?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economics, Finance and Grants)](https://jobright.ai/jobs/info/6711621417e98ce4200554af?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6711726ef22d66231823c2c4?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Oct 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant Intern - Summer 2025 (Economics, Finance and Grants)](https://jobright.ai/jobs/info/671153c022bbb2e96e4d0c31?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 17 |
@@ -99,10 +101,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d530?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d53a?utm_campaign=1063&utm_source=git)** | Baltimore, MD | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d752?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Oct 17 |
-| ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d753?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
-| ↳ | **[Associate Consultant Intern - Summer 2025 (Economics, Finance and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d536?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d754?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d550?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
+| ↳ | **[Associate Consultant Intern - Summer 2025 (Economics, Finance and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d536?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
+| ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d753?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d755?utm_campaign=1063&utm_source=git)** | Portland, OR | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d756?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d757?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 17 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d759?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d75a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d75b?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Oct 17 |
-| ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d75c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Economic, Finance, and Grants)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d75d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
+| ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d75c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d760?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d75e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
 | ↳ | **[Associate Consultant Intern - Summer 2025 (Project Development)](https://jobright.ai/jobs/info/6711456fd3f538475cd9d75f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
@@ -119,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2025](https://jobright.ai/jobs/info/66d86b8a46b7c72da6577af5?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 17 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions Technical Services](https://jobright.ai/jobs/info/6711143f031578583e01d213?utm_campaign=1063&utm_source=git)** | Worcester, MA | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Consultant Summer Intern: 2025](https://jobright.ai/jobs/info/66d7b712cd034156cd99599c?utm_campaign=1063&utm_source=git)** | Armonk, NY | On Site | Oct 17 |
+| **[Guidehouse](https://guidehouse.com)** | **[Consultant – Customer Programs - Energy, Sustainability, & Infrastructure Solutions – Campus 2025](https://jobright.ai/jobs/info/6711d6df61531434160583bb?utm_campaign=1063&utm_source=git)** | Boulder, CO | On Site | Oct 17 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk (Safety) Solutions Operations and Business Analyst](https://jobright.ai/jobs/info/6710f4875b89768bf6b27aad?utm_campaign=1063&utm_source=git)** | Worcester, MA | Hybrid | Oct 17 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66d7002e0447899b013af961?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/66f462d907e17ad7328dfd26?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Oct 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 14 |
 | ↳ | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 14 |
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670db5249ccfd773bc6ba512?utm_campaign=1063&utm_source=git)** | SAN FRANCISCO | Hybrid | Oct 14 |
-| ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670db5249ccfd773bc6ba511?utm_campaign=1063&utm_source=git)** | LOS ANGELES | Hybrid | Oct 14 |
-| **[Ryan](http://ryan.com)** | **[Summer 2025 Intern, Abandoned and Unclaimed Property Consulting - Boston, MA](https://jobright.ai/jobs/info/670dd2b6d51849f878953ac3?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 14 |
-| **[Delta Air Lines](http://www.delta.com)** | **[Intern, Airport Customer Service (ACS) Field Support Strategy and Analytics (Summer 2025)](https://jobright.ai/jobs/info/670da4320df1e41cec54ebdb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
