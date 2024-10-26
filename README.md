@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1a97?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 25 |
+| ↳ | **[D365 Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/671bf9b965b51d7ac0f0bfb6?utm_campaign=1063&utm_source=git)** | Philadelphia | On Site | Oct 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Chicago Assistant Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/671bed81ac3b8e997a8e907c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
 | ↳ | **[University Relations - Texas Assistant Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/671bcefc027f7470a9bf64c3?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Oct 25 |
 | ↳ | **[University Relations - Chicago Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/671bcefc027f7470a9bf64bf?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
@@ -70,10 +72,9 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d943005272194b95f9ac1b?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Oct 24 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9396562e09b85ff973765?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Oct 24 |
 | **[CVS Health](http://cvshealth.com)** | **[Analytic Consulting Services Corporate Intern - Summer 2025](https://jobright.ai/jobs/info/671addc92cd987a02c67167b?utm_campaign=1063&utm_source=git)** | IL - Northbrook | Hybrid | Oct 24 |
-| ↳ | **[Analytic Consulting Services Corporate Intern - Summer 2025](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6a?utm_campaign=1063&utm_source=git)** | RI - Woonsocket | Hybrid | Oct 24 |
 | ↳ | **[Analytic Consulting Services Corporate Intern - Summer 2025](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f66?utm_campaign=1063&utm_source=git)** | CT - Hartford | Hybrid | Oct 24 |
+| ↳ | **[Analytic Consulting Services Corporate Intern - Summer 2025](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6a?utm_campaign=1063&utm_source=git)** | RI - Woonsocket | Hybrid | Oct 24 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6716c3520fde632bfbd6eb9a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 24 |
-| **[DocuSign](http://www.docusign.com)** | **[Solution Consultant Intern](https://jobright.ai/jobs/info/671a78593f26edde01bd6254?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 24 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern](https://jobright.ai/jobs/info/671addc92cd987a02c6718ce?utm_campaign=1063&utm_source=git)** | Salem, USA | On Site | Oct 24 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/671a88d13d2b053ad4e2ff0e?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Oct 24 |
 | **[GEP Worldwide](https://www.gep.com)** | **[OCR: Intern - Senior Associate, Consulting](https://jobright.ai/jobs/info/66e0ab34df58e2260eeca522?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
@@ -124,9 +125,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac6f?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 22 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac70?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac74?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Oct 22 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac73?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 22 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac72?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 22 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac71?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac73?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 22 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671797ad860cc1cbde68f27b?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Oct 22 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac75?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 22 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/671797ad860cc1cbde68f27c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 22 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Internship- Summer 2025](https://jobright.ai/jobs/info/66db6d67b9cbb8ff499414f1?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 20 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f83d4a94bbbc64aa2458a5?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Oct 20 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f8336a99fbc2e3e50df8fe?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Oct 20 |
-| ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f830d00db7abbd2e368764?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 20 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f83d4a94bbbc64aa2458a4?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 20 |
+| ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f830d00db7abbd2e368764?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 20 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f8336a99fbc2e3e50df901?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 20 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f8336a99fbc2e3e50df900?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 20 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f8336a99fbc2e3e50df8ff?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Theatre Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66da18bcb742ee3f6b9b8337?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 19 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[US Internal Audit (Consulting) Intern Summer 2026](https://jobright.ai/jobs/info/66da4da5c367beaa5559877c?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 19 |
 | ↳ | **[US IT Audit (Consulting) Intern Summer 2026](https://jobright.ai/jobs/info/66da3192e9226523c0420da7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 19 |
-| ↳ | **[US IT Audit (Consulting) Intern Summer 2026](https://jobright.ai/jobs/info/66da3192e9226523c0420daa?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
