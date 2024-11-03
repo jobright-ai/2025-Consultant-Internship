@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6726f819e9653caf86d45418?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Nov 02 |
-| **[PwC](http://pwc.com)** | **[Management Consulting Senior Associate Intern - Summer 2025](https://jobright.ai/jobs/info/66f790ee31a38afc68468f69?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 02 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8e04?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 03 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1240?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 03 |
+| **[PwC](http://pwc.com)** | **[Management Consulting Senior Associate Intern - Summer 2025](https://jobright.ai/jobs/info/66f790ee31a38afc68468f62?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
+| ↳ | **[Management Consulting Senior Associate Intern - Summer 2025](https://jobright.ai/jobs/info/66f790ee31a38afc68468f69?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 02 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1246?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1245?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Nov 02 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0b99a4b49811aa8b5a496?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 02 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e023932fbb86d4635e2a?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Risk Advisory Consultant - Cybersecurity](https://jobright.ai/jobs/info/6724e023932fbb86d4635e1f?utm_campaign=1063&utm_source=git)** | Greater Houston | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/6724e34267a3c2ea879383ee?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Nov 01 |
-| ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e34267a3c2ea87938540?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Public Sector Compliance Consultant](https://jobright.ai/jobs/info/6724e023932fbb86d4635e43?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Nov 01 |
+| ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e34267a3c2ea87938540?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e34267a3c2ea87938549?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e999c70e17fcdf72eba7?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/6724e34267a3c2ea87938416?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | Nov 01 |
@@ -124,10 +126,10 @@ For a complete list, click the following sortable link below:
 | **[Rios Partners](https://riospartners.com)** | **[University Recruitment Summer Consultant Internship](https://jobright.ai/jobs/info/66eb71e765e74217afa438aa?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Oct 31 |
 | **[TransPerfect](http://www.transperfect.com)** | **[RFP Coordination Intern](https://jobright.ai/jobs/info/6726ef1af97585833cc23274?utm_campaign=1063&utm_source=git)** | US-Chicago, IL | On Site | Oct 31 |
 | **[Capital Group](https://www.capitalgroup.com/us/landing-pages/linkedin-terms-of-use.html)** | **[CAMPUS: Private Client Services Outsourced Advisory Solutions Summer Associate (2025)](https://jobright.ai/jobs/info/6726ec369391c3f2693cf367?utm_campaign=1063&utm_source=git)** | Los Angeles | On Site | Oct 31 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Digital Consulting Internship - RICE - Summer 2025](https://jobright.ai/jobs/info/6726ec369391c3f2693cf40c?utm_campaign=1063&utm_source=git)** | USA CA San Francisco 50 Fremont St | On Site | Oct 31 |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Digital Consulting Internship - RICE - Summer 2025](https://jobright.ai/jobs/info/6726ec369391c3f2693cf40e?utm_campaign=1063&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Oct 31 |
 | ↳ | **[Digital Consulting Internship - RICE - Summer 2025](https://jobright.ai/jobs/info/6726ec369391c3f2693cf38f?utm_campaign=1063&utm_source=git)** | USA DC Washington DC | On Site | Oct 31 |
+| ↳ | **[Digital Consulting Internship - RICE - Summer 2025](https://jobright.ai/jobs/info/6726ec369391c3f2693cf40c?utm_campaign=1063&utm_source=git)** | USA CA San Francisco 50 Fremont St | On Site | Oct 31 |
 | ↳ | **[Digital Consulting Internship - RICE - Summer 2025](https://jobright.ai/jobs/info/6726ec369391c3f2693cf40d?utm_campaign=1063&utm_source=git)** | USA CA San Francisco 220 Montgomery Street | On Site | Oct 31 |
-| ↳ | **[Digital Consulting Internship - RICE - Summer 2025](https://jobright.ai/jobs/info/6726ec369391c3f2693cf40e?utm_campaign=1063&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Oct 31 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/670744238528abfdf186546f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 31 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Kay Jewelers - Epps Bridge Centre - Athens, GA](https://jobright.ai/jobs/info/6724150fdad49fbf2213ae10?utm_campaign=1063&utm_source=git)** | Kay Jewelers - Georgia Square - Athens, GA | On Site | Oct 31 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/67232a1ca9e89e3583258915?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Health Consulting Summer Intern- Norwalk CT- College Program 2025](https://jobright.ai/jobs/info/6722b0e090630e844244f3d6?utm_campaign=1063&utm_source=git)** | Norwalk - 601 Merritt | Hybrid | Oct 30 |
 | ↳ | **[Health Consulting Summer Intern- Boston- College Program 2025](https://jobright.ai/jobs/info/6722b0e090630e844244f3d4?utm_campaign=1063&utm_source=git)** | Boston - High St | Hybrid | Oct 30 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/6722a331929cf564c720f13a?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Oct 30 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Boston – Campus 2025](https://jobright.ai/jobs/info/67229ce82e70a06160dcfcf2?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Oct 30 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Digital Consulting Healthcare Internship - Summer 2025](https://jobright.ai/jobs/info/6722a3b607be15f439f1fd49?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
