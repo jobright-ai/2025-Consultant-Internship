@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – 2025 Internship](https://jobright.ai/jobs/info/6729bb20b85af1d0c0abc660?utm_campaign=1063&utm_source=git)** | Armonk, NY | On Site | Nov 04 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Summer Intern, Business Consulting - IMA Financial](https://jobright.ai/jobs/info/670d97a4f7a31e74a272e733?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 05 |
+| **[Panasonic North America](https://homes.panasonic.com/)** | **[Intern - Life Science Product Localization](https://jobright.ai/jobs/info/670d9e60ce47ac3c055fa13f?utm_campaign=1063&utm_source=git)** | Mountain View, CA | On Site | Nov 05 |
+| **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96cf?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 05 |
+| ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Nov 05 |
+| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6729d12318dd3d57d9758c43?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Nov 04 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6729ac04c2c254caae17ce0f?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Nov 04 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Enterprise Partner Marketing Intern, AI Consulting, Data, and Software Alliances – Summer 2025](https://jobright.ai/jobs/info/6729a7c2571a830ec2233815?utm_campaign=1063&utm_source=git)** | Santa Clara, CA | On Site | Nov 04 |
 | ↳ | **[Enterprise Partner Marketing Intern, AI Consulting, Data, and Software Alliances – Summer 2025](https://jobright.ai/jobs/info/6729963f34fd8b8904448575?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[General Management Consultant Intern](https://jobright.ai/jobs/info/67299374b5b83bb28f277e85?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Nov 04 |
 | **[Oracle](https://www.oracle.com)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/67299682998ce1e60e43d531?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Health Consulting Intern- Washington DC- College Program 2025](https://jobright.ai/jobs/info/67297d4797d74134eb4f1291?utm_campaign=1063&utm_source=git)** | Washington - Conn Ave NW | Hybrid | Nov 04 |
-| ↳ | **[Health Consulting Intern- Tampa FL- College Program 2025](https://jobright.ai/jobs/info/67297d4797d74134eb4f1287?utm_campaign=1063&utm_source=git)** | Tampa - N. Rocky Point | Hybrid | Nov 04 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Health Consulting Intern- Tampa FL- College Program 2025](https://jobright.ai/jobs/info/67297d4797d74134eb4f1287?utm_campaign=1063&utm_source=git)** | Tampa - N. Rocky Point | Hybrid | Nov 04 |
+| ↳ | **[Health Consulting Intern- Washington DC- College Program 2025](https://jobright.ai/jobs/info/67297d4797d74134eb4f1291?utm_campaign=1063&utm_source=git)** | Washington - Conn Ave NW | Hybrid | Nov 04 |
 | ↳ | **[Health Consulting Intern- Richmond VA- College Program 2025](https://jobright.ai/jobs/info/67297d4797d74134eb4f128e?utm_campaign=1063&utm_source=git)** | Richmond - Canal | Hybrid | Nov 04 |
 | **[Oracle](https://www.oracle.com)** | **[NAA Pre-Sales Consultant (ERP) Intern - OVIP](https://jobright.ai/jobs/info/67299aea3190b14cfde64793?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Health Consulting Intern- Louisville KY- College Program 2025](https://jobright.ai/jobs/info/67293ae6f3314817ccbc8f1a?utm_campaign=1063&utm_source=git)** | Louisville - West Market | Hybrid | Nov 04 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations — Provider Network Analytics Consulting Intern](https://jobright.ai/jobs/info/67292db477aefa193dd46827?utm_campaign=1063&utm_source=git)** | IL - Chicago | On Site | Nov 04 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Enterprise Partner Marketing Intern, AI Consulting, Data, and Software Alliances – Summer 2025](https://jobright.ai/jobs/info/6729293fa8df904b2c9424ee?utm_campaign=1063&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 04 |
-| ↳ | **[Enterprise Partner Marketing Intern, AI Consulting, Data, and Software Alliances – Summer 2025](https://jobright.ai/jobs/info/6729293fa8df904b2c942545?utm_campaign=1063&utm_source=git)** | US, TX, Austin | On Site | Nov 04 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Enterprise Partner Marketing Intern, AI Consulting, Data, and Software Alliances – Summer 2025](https://jobright.ai/jobs/info/6729293fa8df904b2c942545?utm_campaign=1063&utm_source=git)** | US, TX, Austin | On Site | Nov 04 |
+| ↳ | **[Enterprise Partner Marketing Intern, AI Consulting, Data, and Software Alliances – Summer 2025](https://jobright.ai/jobs/info/6729293fa8df904b2c9424ee?utm_campaign=1063&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 04 |
 | **[Capgemini](http://www.capgemini.com)** | **[Capgemini Consultant - Campus 2025 (Capgemini Career Site)](https://jobright.ai/jobs/info/6729167219885b117c45e537?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6728f18414b9983099d3929f?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 04 |
 | **[UDig](http://udig.com)** | **[Project Management Consultant, Summer Intern](https://jobright.ai/jobs/info/6728dea12782b07bebcec2d5?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | Nov 04 |
@@ -132,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e023932fbb86d4635e2a?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Risk Advisory Consultant - Cybersecurity](https://jobright.ai/jobs/info/6724e023932fbb86d4635e1f?utm_campaign=1063&utm_source=git)** | Greater Houston | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/6724e34267a3c2ea879383ee?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Nov 01 |
-| ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e34267a3c2ea87938540?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Public Sector Compliance Consultant](https://jobright.ai/jobs/info/6724e023932fbb86d4635e43?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Nov 01 |
+| ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e34267a3c2ea87938540?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e34267a3c2ea87938549?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Digital Consultant](https://jobright.ai/jobs/info/6724e999c70e17fcdf72eba7?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 01 |
 | ↳ | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/6724e34267a3c2ea87938416?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | Nov 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Consulting Healthcare Internship - Summer 2025](https://jobright.ai/jobs/info/6724e34267a3c2ea8793879f?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | ↳ | **[Digital Consulting Healthcare Internship - Summer 2025](https://jobright.ai/jobs/info/6724e34267a3c2ea879387a0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a145d5b928daabe99a14?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Business Valuation Consulting - Intern (2025)](https://jobright.ai/jobs/info/66cfd7694290f4bb7e3df02e?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Nov 01 |
-| **[Ankura](https://ankura.com)** | **[University Intern, Forensic Accounting & Claims Consulting](https://jobright.ai/jobs/info/66e97329c94d8e512353c0d6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1242?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 01 |
-| **[Oracle](https://www.oracle.com)** | **[NAA Consulting Functional Cloud Intern](https://jobright.ai/jobs/info/670991645261513967fb5429?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
