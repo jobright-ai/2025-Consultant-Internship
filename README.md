@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coretek](https://www.coretek.com/)** | **[Technology Consultant Analyst Intern](https://jobright.ai/jobs/info/673240f3a29f087367b9e0e5?utm_campaign=1063&utm_source=git)** | Farmington Hills, MI | On Site | Nov 11 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673240f3a29f087367b9e4be?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Nov 11 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/6731ce4bdd81bab6140beecb?utm_campaign=1063&utm_source=git)** | Montgomery Creek, CA | On Site | Nov 11 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673194ce27c0d13b5d936d3c?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 10 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6730cfbcddef88286b3ef781?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 10 |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f8336a99fbc2e3e50df900?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 10 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Internship- Summer 2025](https://jobright.ai/jobs/info/66db6d67b9cbb8ff499414f1?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 10 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f83d4a94bbbc64aa2458a5?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Nov 10 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f83d4a94bbbc64aa2458a4?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Analytics Consultant - Intern (2025)](https://jobright.ai/jobs/info/67130e9dfbd67e5009b4187a?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 08 |
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2025)](https://jobright.ai/jobs/info/66da18bcb742ee3f6b9b82f9?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Research & Consulting Intern](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d5e7?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
-| ↳ | **[Research & Consulting Intern](https://jobright.ai/jobs/info/672eaba504475055bb9d958e?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/66f5ffdf3678da3d01f16dbc?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 08 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/672e8b84b09057a00e35db91?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 08 |
 | **[Numerator](http://numerator.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/672e882566be2bb9a0dec7d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
@@ -128,24 +129,26 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Minneapolis Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f70?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 05 |
 | ↳ | **[Denver Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f80?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672a867a7983ba844e24db68?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
+| **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f81?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Nov 05 |
+| **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government,  Southwest – Campus 2025](https://jobright.ai/jobs/info/672a6d739f1aaafdd0e4ce8b?utm_campaign=1063&utm_source=git)** | US - TX, Houston | On Site | Nov 05 |
 | ↳ | **[Consultant – State and Local Government,  Southwest – Campus 2025](https://jobright.ai/jobs/info/672a6d739f1aaafdd0e4cef4?utm_campaign=1063&utm_source=git)** | US - TX, Austin | On Site | Nov 05 |
-| ↳ | **[Consultant – State and Local Government,  Southwest – Campus 2025](https://jobright.ai/jobs/info/672a6d739f1aaafdd0e4ce8b?utm_campaign=1063&utm_source=git)** | US - TX, Houston | On Site | Nov 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96c8?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Nov 05 |
 | ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Nov 05 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 05 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672a414a8fb25d29313a79b9?utm_campaign=1063&utm_source=git)** | US - CO, Boulder | On Site | Nov 05 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672a414a8fb25d29313a79b8?utm_campaign=1063&utm_source=git)** | US - VA, Arlington | On Site | Nov 05 |
+| ↳ | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672a414a8fb25d29313a79b9?utm_campaign=1063&utm_source=git)** | US - CO, Boulder | On Site | Nov 05 |
 | ↳ | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672a414a8fb25d29313a78f1?utm_campaign=1063&utm_source=git)** | US - GA, Atlanta | On Site | Nov 05 |
 | ↳ | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672a414a8fb25d29313a79b7?utm_campaign=1063&utm_source=git)** | US - IL, Chicago | On Site | Nov 05 |
 | ↳ | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672a414a8fb25d29313a79ba?utm_campaign=1063&utm_source=git)** | US - CA, Los Angeles | On Site | Nov 05 |
-| ↳ | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672a414a8fb25d29313a79b8?utm_campaign=1063&utm_source=git)** | US - VA, Arlington | On Site | Nov 05 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services, National Security](https://jobright.ai/jobs/info/672af225b1cc546bc635bc90?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 05 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/672a8cc5c73d72dceda254c7?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 05 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2025)](https://jobright.ai/jobs/info/670d24c32e73ebdba59c99a2?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | Nov 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Miami Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f95?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | Hybrid | Nov 05 |
-| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/672a286f8d99864b586064e6?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 05 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services, National Security](https://jobright.ai/jobs/info/672a286f8d99864b586064ed?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 05 |
+| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services, National Security](https://jobright.ai/jobs/info/672a286f8d99864b586064ed?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 05 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/672a286f8d99864b5860650e?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 05 |
-| **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa5?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Nov 05 |
+| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/672a286f8d99864b586064e6?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 05 |
+| **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 05 |
+| ↳ | **[Tampa Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa5?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Nov 05 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Business Systems Analyst (Summer 2025)](https://jobright.ai/jobs/info/670d24c32e73ebdba59c999a?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | Nov 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Summer Intern, Business Consulting - IMA Financial](https://jobright.ai/jobs/info/670d97a4f7a31e74a272e733?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052a6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 05 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Intern - Life Science Product Localization](https://jobright.ai/jobs/info/670d9e60ce47ac3c055fa13f?utm_campaign=1063&utm_source=git)** | Mountain View, CA | On Site | Nov 05 |
-| **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96cf?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 05 |
-| ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Nov 05 |
-| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6729d12318dd3d57d9758c43?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
