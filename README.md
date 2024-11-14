@@ -111,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Consultant Internal Audit Financial Services Summer 2025 / St. Louis](https://jobright.ai/jobs/info/672d546523f5c04411df2e26?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e620?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Nov 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/672d4ede1a604d1bac2601a0?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Industrial Organizational Psychology Program Analyst Intern](https://jobright.ai/jobs/info/672d43fc880efda237b56322?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
-| **[MultiCare Health System](http://www.multicare.org)** | **[Intern](https://jobright.ai/jobs/info/672d2a2fc3b4ea9e34596d00?utm_campaign=1063&utm_source=git)** | Remote, USA | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
