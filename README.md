@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6736db32cd2801e574e82606?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 14 |
 | **[Emergent Method](https://emergentmethod.com)** | **[Communication Consultant](https://jobright.ai/jobs/info/6736af2cb998a2e3a3b4414e?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 14 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/6736703862e260e5db63d020?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
 | **[Zonda](https://zondahome.com/)** | **[Research Associate, Advisory](https://jobright.ai/jobs/info/673664aa4b70c702c2f09858?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 14 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67356114c4647772710708bf?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Nov 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Professional Services Consultant Intern-SkillBridge](https://jobright.ai/jobs/info/673555bae16dd58f4651669a?utm_campaign=1063&utm_source=git)** | USA - Update Location | On Site | Nov 13 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/673502c1255e9a2c714c3d59?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Nov 13 |
-| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b4?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21116a5?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
+| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21116a5?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
+| ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b4?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b3?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6735005deb1dc1fb07f2b500?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 13 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67350871a1ac560720271b58?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 13 |
