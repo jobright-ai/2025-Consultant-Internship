@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Library Internship, Latin America/Southern Europe Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a572?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
+| ↳ | **[FamilySearch Library Internship, United States/Canada Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a584?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
+| ↳ | **[FamilySearch Library Internship, International Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a57d?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
 | **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Intern Healthcare Consulting Winter 2025 / Louisville](https://jobright.ai/jobs/info/6737db23b5876c43c9ac623f?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Nov 15 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673776df9e2e92dfbfa067a6?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 15 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/673737044ac3d4e525f0b128?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 15 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9f0f?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Nov 15 |
+| **[Arup](http://www.arup.com)** | **[Acoustic/Audio Visual Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c251?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Emergent Method](https://emergentmethod.com)** | **[Communication Consultant](https://jobright.ai/jobs/info/6736af2cb998a2e3a3b4414e?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 14 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/6736703862e260e5db63d020?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
 | **[Zonda](https://zondahome.com/)** | **[Research Associate, Advisory](https://jobright.ai/jobs/info/673664aa4b70c702c2f09858?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 14 |
@@ -74,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Professional Services Consultant Intern-SkillBridge](https://jobright.ai/jobs/info/673555bae16dd58f4651669a?utm_campaign=1063&utm_source=git)** | USA - Update Location | On Site | Nov 13 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/673502c1255e9a2c714c3d59?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Nov 13 |
 | **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21116a5?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
-| ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b4?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b3?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
+| ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b4?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6735005deb1dc1fb07f2b500?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 13 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67350871a1ac560720271b58?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 13 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Advisory Intern, Strategy - People Strategy / Chicago Summer 2025](https://jobright.ai/jobs/info/6734b44b9468ad7c5bf33a75?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
@@ -97,5 +101,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f8336a99fbc2e3e50df901?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 10 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/66f830d00db7abbd2e368764?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Nov 10 |
 | **[ZS](https://www.zs.com/)** | **[Advanced Data Science Associate Consultant - Intern (North America-University)](https://jobright.ai/jobs/info/66e0427f4d002af1c0b394be?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Nov 10 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Clinical Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/672f47604e9c0c337d492b08?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
