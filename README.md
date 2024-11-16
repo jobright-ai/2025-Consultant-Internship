@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emergent Method](https://emergentmethod.com)** | **[EMERGENT METHOD is hiring: Communication Consultant in Baton Rouge](https://jobright.ai/jobs/info/67383ff80f84aa8c90dbd0c6?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 15 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673824bbaade8bd98190d762?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 15 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Library Internship, Latin America/Southern Europe Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a572?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
 | ↳ | **[FamilySearch Library Internship, United States/Canada Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a584?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
 | ↳ | **[FamilySearch Library Internship, International Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a57d?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Zonda](https://zondahome.com/)** | **[Research Associate, Advisory](https://jobright.ai/jobs/info/673664aa4b70c702c2f09858?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6737a943d3219f92bf9737cc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 14 |
 | **[Inter-American Development Bank](http://www.iadb.org/en)** | **[Consultant for Supporting the Knowledge Agenda in the Southern Cone Region](https://jobright.ai/jobs/info/67364d76e3a065b19ad2260f?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6736306b58a2c2cabfd01d5f?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 14 |
 | **[GEP Worldwide](https://www.gep.com)** | **[OCR: Intern - Senior Associate, Consulting](https://jobright.ai/jobs/info/66e0ab34df58e2260eeca522?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/67359f844b047ec7b5973ed2?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
 | ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/67356de01c0ebdc19a3a5910?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 13 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67350871a1ac560720271b58?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 13 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Advisory Intern, Strategy - People Strategy / Chicago Summer 2025](https://jobright.ai/jobs/info/6734b44b9468ad7c5bf33a75?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Garver](https://garverusa.com/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/673497be47dff7237607ea2d?utm_campaign=1063&utm_source=git)** | Fayetteville, AR | On Site | Nov 13 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2025 (Melbourne, FL)](https://jobright.ai/jobs/info/6716a9aa85d241fd6d580394?utm_campaign=1063&utm_source=git)** | Melbourne, FL | On Site | Nov 12 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6733e5dc58bb1fefe272d238?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern (Life or Property and Casualty) - 2025](https://jobright.ai/jobs/info/6733d7259f2390917e9f5bd8?utm_campaign=1063&utm_source=git)** | US Tampa - 3407 W. Dr. M.L. King Jr. Boulevard FL | On Site | Nov 12 |
 | **[Ricondo & Associates, Inc.](http://ricondo.com)** | **[Intern](https://jobright.ai/jobs/info/6706c5505dd6d79260aa6f55?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
