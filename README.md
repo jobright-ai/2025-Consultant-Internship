@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6738cffe7458167a7f6cff60?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 16 |
-| **[Emergent Method](https://emergentmethod.com)** | **[Communication Consultant Job at EMERGENT METHOD in Baton Rouge](https://jobright.ai/jobs/info/6738bbfcf36784fa8c35a4a0?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 16 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6739732af2433af89818b28d?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 16 |
+| ↳ | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6738cffe7458167a7f6cff60?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 16 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Atlanta – Campus 2025](https://jobright.ai/jobs/info/673881422f5e3d68b6d5aa64?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 16 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673824bbaade8bd98190d762?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 15 |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/6739b995717fcffc6cc91190?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 16 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Library Internship, Latin America/Southern Europe Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a572?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
 | ↳ | **[FamilySearch Library Internship, United States/Canada Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a584?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
 | ↳ | **[FamilySearch Library Internship, International Research Consultant](https://jobright.ai/jobs/info/6737f59fb444791c5246a57d?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
@@ -80,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Professional Services Consultant Intern-SkillBridge](https://jobright.ai/jobs/info/673555bae16dd58f4651669a?utm_campaign=1063&utm_source=git)** | USA - Update Location | On Site | Nov 13 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66e0cd18327072dcd7e699e9?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Nov 13 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/673502c1255e9a2c714c3d59?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Nov 13 |
-| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21116a5?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
+| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b3?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
+| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21116a5?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
 | ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b4?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b3?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6735005deb1dc1fb07f2b500?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 13 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67350871a1ac560720271b58?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 13 |
 | **[Garver](https://garverusa.com/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/673497be47dff7237607ea2d?utm_campaign=1063&utm_source=git)** | Fayetteville, AR | On Site | Nov 13 |
