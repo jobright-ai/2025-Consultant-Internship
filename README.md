@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UBS](https://www.ubs.com)** | **[2025 Summer Internship Program - Data Scientist - Internal Consulting](https://jobright.ai/jobs/info/673bd5eef5a4b034f7274b0f?utm_campaign=1063&utm_source=git)** | Weehawken, NJ | On Site | Nov 18 |
+| **[FM Global](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/673bd3ca0f686079cf6ba73c?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 18 |
+| **[MetLife](http://www.metlife.com)** | **[INROADS Intern - Client Service Consultant](https://jobright.ai/jobs/info/673bc40b48da35f4cc8625a9?utm_campaign=1063&utm_source=git)** | Aurora, IL | On Site | Nov 18 |
+| **[Inter-American Development Bank](http://www.iadb.org/en)** | **[Consultant for Supporting the Knowledge Agenda in the Southern Cone Region](https://jobright.ai/jobs/info/67364d76e3a065b19ad2260f?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
 | **[Emergent Method](https://emergentmethod.com)** | **[EMERGENT METHOD is hiring: Communication Consultant in Baton Rouge](https://jobright.ai/jobs/info/673b761605ab861f0b872646?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 18 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673b63f8a3b4db12ecf4bc8b?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 18 |
-| **[Emergent Method](https://emergentmethod.com)** | **[Communication Consultant Job at EMERGENT METHOD in Baton Rouge](https://jobright.ai/jobs/info/673b61aa71e0dfbb1560e8b2?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 18 |
+| ↳ | **[Communication Consultant Job at EMERGENT METHOD in Baton Rouge](https://jobright.ai/jobs/info/673b61aa71e0dfbb1560e8b2?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 18 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/673b597e5fb637a7e8feffaa?utm_campaign=1063&utm_source=git)** | United States | On Site | Nov 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Technical Accounting Advisory Consultant - Intern (2025)](https://jobright.ai/jobs/info/6677909e670dad8ec82ceede?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 18 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673a169bc6c30ac400f864d3?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 17 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673ac38219e2047502cb6e73?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 17 |
+| ↳ | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673a169bc6c30ac400f864d3?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 17 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2025](https://jobright.ai/jobs/info/66bf9225a67216719249889f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 17 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Healthcare Implementation Consultant - Summer 2025 Internship](https://jobright.ai/jobs/info/66e4ca469594f18f85d9ff5d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Atlanta– Campus 2025](https://jobright.ai/jobs/info/6739cab04dc42e40a334771e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/6736703862e260e5db63d020?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
 | **[Zonda](https://zondahome.com/)** | **[Research Associate, Advisory](https://jobright.ai/jobs/info/673664aa4b70c702c2f09858?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6737a943d3219f92bf9737cc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 14 |
-| **[Inter-American Development Bank](http://www.iadb.org/en)** | **[Consultant for Supporting the Knowledge Agenda in the Southern Cone Region](https://jobright.ai/jobs/info/67364d76e3a065b19ad2260f?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 | **[GEP Worldwide](https://www.gep.com)** | **[OCR: Intern - Senior Associate, Consulting](https://jobright.ai/jobs/info/66e0ab34df58e2260eeca522?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Garver](https://garverusa.com/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb3a?utm_campaign=1063&utm_source=git)** | North Little Rock, AR | On Site | Nov 14 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/67359f844b047ec7b5973ed2?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
