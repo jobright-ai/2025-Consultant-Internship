@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Summer Associate Consultant - Commercial Analytics](https://jobright.ai/jobs/info/673d57c965a6f2ef76a9fe43?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Nov 19 |
 | **[Ryan](http://ryan.com)** | **[Summer 2025 Intern, Abandoned and Unclaimed Property Consulting - Boston, MA](https://jobright.ai/jobs/info/673d26d8571138f073614ab6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 19 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025 (Construction Management)](https://jobright.ai/jobs/info/673d12ca61a4bb5fa08b2acc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 19 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/673d0833c475c1de907896eb?utm_campaign=1063&utm_source=git)** | Blacksburg, VA | On Site | Nov 19 |
@@ -100,11 +101,9 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/66e0cd18327072dcd7e699e9?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Nov 13 |
 | **[Garver](https://garverusa.com/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb42?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Nov 13 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/673502c1255e9a2c714c3d59?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Nov 13 |
-| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b4?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
+| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21116a5?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
+| ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b4?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21114b3?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6734ee26e95016dca21116a5?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 13 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6735005deb1dc1fb07f2b500?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 13 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67350871a1ac560720271b58?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 13 |
-| **[Garver](https://garverusa.com/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/673497be47dff7237607ea2d?utm_campaign=1063&utm_source=git)** | Fayetteville, AR | On Site | Nov 13 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Information Technology Consulting: Public Sector – Intern (2025)](https://jobright.ai/jobs/info/66df05a1a4c0914ad1a5c29d?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
