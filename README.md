@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 MBA graduates) Management Consulting MBA Intern](https://jobright.ai/jobs/info/66fdac0107f7b934b73cfa8c?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security, Technology Consulting - Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa3191?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 21 |
+| ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa31a7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 21 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/6722a331929cf564c720f13a?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Nov 21 |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/673f01bf15616d79b8967367?utm_campaign=1063&utm_source=git)** | Boston | On Site | Nov 21 |
+| ↳ | **[(2026 MBA graduates) Management Consulting MBA Intern](https://jobright.ai/jobs/info/66fdac0107f7b934b73cfa8c?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern -- (Summer 2025)](https://jobright.ai/jobs/info/673ec3b47089bf2ab45aadc0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Data Consultant](https://jobright.ai/jobs/info/673ec573f6ed974e16d4f29f?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Nov 20 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673eb470579d286ce015fe6b?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 20 |
@@ -70,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da132aa?utm_campaign=1063&utm_source=git)** | Hanover, MD | On Site | Nov 20 |
 | **[Provider Solutions & Development](https://psdrecruit.org/)** | **[Internal Medicine Hospitalist Consultant](https://jobright.ai/jobs/info/67216e2823b93d13251e76eb?utm_campaign=1063&utm_source=git)** | Spokane, WA | On Site | Nov 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Sacramento– Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c325c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Nov 20 |
+| **[Grant Thornton LLP (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66ea186dd7fb1eed83bdb1cb?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 20 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66ea66abaac7ca8ef55c7d2c?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Nov 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Financial Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c3265?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | ↳ | **[Intern - Centers for Disease Control and Prevention, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c326b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
@@ -106,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship - Summer 2025](https://jobright.ai/jobs/info/66ff51f860c1755475903fce?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/673737044ac3d4e525f0b128?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 15 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9f0f?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Nov 15 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Safety Intern - Safety Consulting Services](https://jobright.ai/jobs/info/673f136b2f9e3de0d82c827b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 15 |
 | **[Emergent Method](https://emergentmethod.com)** | **[Communication Consultant](https://jobright.ai/jobs/info/6736af2cb998a2e3a3b4414e?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 14 |
 | **[Arup](http://www.arup.com)** | **[Acoustic/Audio Visual Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c251?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
-| **[Zonda](https://zondahome.com/)** | **[Research Associate, Advisory](https://jobright.ai/jobs/info/673664aa4b70c702c2f09858?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 14 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6737a943d3219f92bf9737cc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
