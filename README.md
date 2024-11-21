@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/673e79e95760227f21bd682e?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Nov 20 |
+| **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Intern Healthcare Strategy & Finance Summer 2025 / Greenville SC](https://jobright.ai/jobs/info/673e7ec0281522192dfcb82d?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Nov 20 |
 | **[Sierra Digital](https://sierradigitalinc.com/)** | **[SAP S4 LE WM MM EWM Procurement Functional Consultant](https://jobright.ai/jobs/info/673e1c6e4d1eb52314dc1f56?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 20 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/673e2490282e3b318cd9157e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
-| **[JMAN Group](https://www.jmangroup.com/)** | **[Intern Consultant](https://jobright.ai/jobs/info/673e0dd3137eebdef1432e3e?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 20 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673e147594de3fe5237a7848?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 20 |
 | **[AT&T](https://www.att.com/)** | **[Retail Sales Consultant -(INTERNATIONAL TOY CENTER)](https://jobright.ai/jobs/info/673def9718792cfbd60c42b2?utm_campaign=1063&utm_source=git)** | USA:NY:New York:200 5th Ave (aka 1099 Broadway):RET/RET | On Site | Nov 20 |
 | **[Provider Solutions & Development](https://psdrecruit.org/)** | **[Internal Medicine Hospitalist Consultant](https://jobright.ai/jobs/info/67216e2823b93d13251e76eb?utm_campaign=1063&utm_source=git)** | Spokane, WA | On Site | Nov 20 |
@@ -103,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Acoustic/Audio Visual Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c251?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Zonda](https://zondahome.com/)** | **[Research Associate, Advisory](https://jobright.ai/jobs/info/673664aa4b70c702c2f09858?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6737a943d3219f92bf9737cc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 14 |
-| **[GEP Worldwide](https://www.gep.com)** | **[OCR: Intern - Senior Associate, Consulting](https://jobright.ai/jobs/info/66e0ab34df58e2260eeca522?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
-| **[Garver](https://garverusa.com/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb3a?utm_campaign=1063&utm_source=git)** | North Little Rock, AR | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
