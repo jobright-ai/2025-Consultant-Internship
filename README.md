@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/673e79e95760227f21bd682e?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Nov 20 |
+| **[Sierra Digital](https://sierradigitalinc.com/)** | **[SAP S4 LE WM MM EWM Procurement Functional Consultant](https://jobright.ai/jobs/info/673e1c6e4d1eb52314dc1f56?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 20 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/673e2490282e3b318cd9157e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 | **[JMAN Group](https://www.jmangroup.com/)** | **[Intern Consultant](https://jobright.ai/jobs/info/673e0dd3137eebdef1432e3e?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 20 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673e147594de3fe5237a7848?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 20 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Centers for Disease Control and Prevention, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c326b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Deloitte Consulting, Government & Public Services - Strategy Summer Associate (Consultant)](https://jobright.ai/jobs/info/673daf16b23568528ff63607?utm_campaign=1063&utm_source=git)** | USA | On Site | Nov 20 |
 | ↳ | **[Deloitte Consulting, Government & Public Services - Applied AI Summer Associate (Consultant)](https://jobright.ai/jobs/info/673daf16b23568528ff63621?utm_campaign=1063&utm_source=git)** | Rosslyn, VA | On Site | Nov 20 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673d74b08c4cdf701c802ce2?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 19 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Summer Associate Consultant - Commercial Analytics](https://jobright.ai/jobs/info/673d609c440c0b23cc76c8a1?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Nov 19 |
 | ↳ | **[Summer Associate Consultant - Commercial Analytics](https://jobright.ai/jobs/info/673d57c965a6f2ef76a9fe43?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Nov 19 |
 | **[Ryan](http://ryan.com)** | **[Summer 2025 Intern, Abandoned and Unclaimed Property Consulting - Boston, MA](https://jobright.ai/jobs/info/673d26d8571138f073614ab6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 19 |
