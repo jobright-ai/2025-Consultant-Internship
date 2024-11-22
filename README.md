@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PwC](http://pwc.com)** | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703e?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Nov 21 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9396562e09b85ff97377d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
+| **[Armanino LLP](http://www.armaninollp.com/)** | **[Summer 2025 - Technology Consulting Intern (Dallas)](https://jobright.ai/jobs/info/673f9ac08dccf2a633e6fac7?utm_campaign=1063&utm_source=git)** | Dallas, Texas | Hybrid | Nov 21 |
+| **[PwC](http://pwc.com)** | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703d?utm_campaign=1063&utm_source=git)** | FL-Tampa | On Site | Nov 21 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef6fe6?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Nov 21 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703c?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Nov 21 |
+| ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703e?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Nov 21 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703b?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Nov 21 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703a?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Nov 21 |
-| ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703d?utm_campaign=1063&utm_source=git)** | FL-Tampa | On Site | Nov 21 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/673f66a6d3e115bbc51b01f2?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/673f5e1d8f479049a2846b2b?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 21 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/673f5e1d8f479049a2846b2e?utm_campaign=1063&utm_source=git)** | Colorado Springs, CO | On Site | Nov 21 |
@@ -126,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship - Summer 2025](https://jobright.ai/jobs/info/66ff51f860c1755475903fce?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/673737044ac3d4e525f0b128?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 15 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9f0f?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Nov 15 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Safety Intern - Safety Consulting Services](https://jobright.ai/jobs/info/673f136b2f9e3de0d82c827b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
