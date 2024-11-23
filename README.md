@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/6741dac7f010961ecc193b68?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 23 |
-| ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/6741c61ec599ab1eec0853a2?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Nov 23 |
-| **[PwC](http://pwc.com)** | **[Risk Consulting Senior Associate Intern - Summer 2025](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b35f?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 23 |
+| **[PwC](http://pwc.com)** | **[Management Consulting - Workforce - Senior Associate Intern - Summer 2025](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b3f6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 23 |
+| ↳ | **[Management Consulting Senior Associate Intern - Summer 2025](https://jobright.ai/jobs/info/66f7a261a13d435aa28528b6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 23 |
+| ↳ | **[Risk Consulting Senior Associate Intern - Summer 2025](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b35f?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/674171c425733b90c99f1404?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 22 |
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/67412418613852b5e5c610c3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 22 |
 | ↳ | **[Management Consultant Intern](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7981?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Nov 22 |
@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6740f6724c6a74ed354c8a53?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Nov 22 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6740f6724c6a74ed354c8a54?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6740f6724c6a74ed354c8a55?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/6742215f9c68442403d9c512?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 22 |
 | **[DWS Group](https://www.dws.com)** | **[Internal Consultant - Sales](https://jobright.ai/jobs/info/674071dbafa62d83922a8936?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Valuation Consulting - Intern (2025)](https://jobright.ai/jobs/info/66cfd7694290f4bb7e3df02e?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Nov 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[General Management Consultant Intern](https://jobright.ai/jobs/info/6723ef1c29f886f6b90705d5?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 22 |
@@ -80,19 +81,19 @@ For a complete list, click the following sortable link below:
 | **[Ashoka](http://www.ashoka.org)** | **[Volunteer Recruitment Consultant to Help Global Ashoka Teams Migrate from Jobvite to Lever with Ashoka](https://jobright.ai/jobs/info/673fef27b63c227e393bc47b?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 21 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9396562e09b85ff97377d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
 | **[Armanino LLP](http://www.armaninollp.com/)** | **[Summer 2025 - Technology Consulting Intern (Dallas)](https://jobright.ai/jobs/info/673f9ac08dccf2a633e6fac7?utm_campaign=1063&utm_source=git)** | Dallas, Texas | Hybrid | Nov 21 |
-| **[PwC](http://pwc.com)** | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703c?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Nov 21 |
-| ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703b?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Nov 21 |
+| **[PwC](http://pwc.com)** | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef6fe6?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Nov 21 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703e?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Nov 21 |
-| ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703d?utm_campaign=1063&utm_source=git)** | FL-Tampa | On Site | Nov 21 |
+| ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703c?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Nov 21 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703a?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Nov 21 |
-| ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef6fe6?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Nov 21 |
+| ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703d?utm_campaign=1063&utm_source=git)** | FL-Tampa | On Site | Nov 21 |
+| ↳ | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/673f74a97cbb491217ef703b?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Nov 21 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6722853afa7379bc6c6a60a9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/673f5e1d8f479049a2846b2b?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 21 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/673f5e1d8f479049a2846b2e?utm_campaign=1063&utm_source=git)** | Colorado Springs, CO | On Site | Nov 21 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/673f5e1d8f479049a2846b35?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Nov 21 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/673f5e1d8f479049a2846b3b?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/673f3e56a98621bb0d796cfe?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
-| ↳ | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/673f3e56a98621bb0d796d01?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/673f3e56a98621bb0d796d01?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
+| ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/673f3e56a98621bb0d796cfe?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Defense & Security, Technology Consulting - Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa3191?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 21 |
 | ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa31a7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 21 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/6722a331929cf564c720f13a?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Nov 21 |
