@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67488f7569bfc74e777cd459?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 28 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6747f916f9a22893683296cb?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 27 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Sales Performance Steering Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6747f916f9a2289368329632?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/6747b0464b0a1aebba5df1bb?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Nov 27 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/674744f317a4f39d712ee003?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 27 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6746ea9f22723ea2bf40e717?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[FM Global](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/6746b09d6e093b2d0a2fccd3?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 26 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (Benefits) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67469fd856d29d06e3409007?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 26 |
@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sports Consulting Intern](https://jobright.ai/jobs/info/6744e00c904a477e2c0f29a5?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/6744c4e90e0cebedeef99f8f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
 | **[PwC](http://pwc.com)** | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6744a2b46737d94824c214b7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 25 |
+| **[Wipfli](http://www.wipfli.com)** | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/671479858181ee9163698f8a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2025 MBA Intern - Telecom, Media & Technology – Dispute Advisory – McLean, VA](https://jobright.ai/jobs/info/67441dcf5279745e8500c389?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 24 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern (Life or Property and Casualty) - 2025](https://jobright.ai/jobs/info/67439b725f48e92ec52f0fe3?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 24 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6742bab0be10a270e69cc637?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 23 |
@@ -104,9 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[General Management Consultant Intern](https://jobright.ai/jobs/info/6723ef1c29f886f6b90705d5?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Transaction Advisory Services Consulting - Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586494?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 21 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d943005272194b95f9ac1c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 21 |
-| **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7320?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7323?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 21 |
-| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Technical Education Consultant Intern](https://jobright.ai/jobs/info/673fff2bfdb7f6a17626ac28?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 21 |
-| **[Ashoka](http://www.ashoka.org)** | **[Volunteer Recruitment Consultant to Help Global Ashoka Teams Migrate from Jobvite to Lever with Ashoka](https://jobright.ai/jobs/info/673fef27b63c227e393bc47b?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 21 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9396562e09b85ff97377d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 21 |
+| **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7323?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 21 |
+| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7320?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
