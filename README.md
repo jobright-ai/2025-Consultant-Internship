@@ -57,11 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320ae53?utm_campaign=1063&utm_source=git)** | Springfield, IL | On Site | Nov 29 |
-| ↳ | **[Strategy and Advisory Technology Consultant Summer 2025](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320ae5c?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Nov 29 |
-| ↳ | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320ae5f?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 29 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67493eddf136748b6440c31d?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 28 |
-| ↳ | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67488f7569bfc74e777cd459?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 28 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6749ecff69778733df480916?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 29 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67488f7569bfc74e777cd459?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67497239bb54f4cf6afcbadb?utm_campaign=1063&utm_source=git)** | Summit, NJ | On Site | Nov 28 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67495058de493951678d2f88?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/66f3fd59398e99bc3f7eba83?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Nov 28 |
@@ -106,11 +103,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67495e0beb89008afd053a68?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 23 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6742bab0be10a270e69cc637?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 23 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 23 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2025 Summer Games Intern](https://jobright.ai/jobs/info/66ed4f63ab3ee9952f3b4712?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Nov 23 |
 | **[Circana](https://www.circana.com)** | **[Growth Consulting - MBA - Summer 2025](https://jobright.ai/jobs/info/66d0cc706df78098fa17ad40?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674981c9e26e16705d5f0325?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 23 |
 | **[Altruist](https://altruist.com)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/66cfc1808753aa08b6f94b83?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 23 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67495e0beb89008afd053a93?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 22 |
-| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/67412418613852b5e5c610c3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 22 |
-| ↳ | **[Management Consultant Intern](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7981?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Nov 22 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Peer Consultant - Miller Writing Center Fall 2025](https://jobright.ai/jobs/info/67412418613852b5e5c60f99?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
