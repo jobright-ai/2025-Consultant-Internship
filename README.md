@@ -58,9 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/67488f7569bfc74e777cd459?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 28 |
+| **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/66f3fd59398e99bc3f7eba83?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Nov 28 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6747f916f9a22893683296cb?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 27 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Sales Performance Steering Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6747f916f9a2289368329632?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/6747b0464b0a1aebba5df1bb?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Nov 27 |
+| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Nov 27 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6746ea9f22723ea2bf40e717?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[FM Global](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/6746b09d6e093b2d0a2fccd3?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 26 |
@@ -103,8 +105,4 @@ For a complete list, click the following sortable link below:
 | **[DWS Group](https://www.dws.com)** | **[Internal Consultant - Sales](https://jobright.ai/jobs/info/674071dbafa62d83922a8936?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Valuation Consulting - Intern (2025)](https://jobright.ai/jobs/info/66cfd7694290f4bb7e3df02e?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Nov 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[General Management Consultant Intern](https://jobright.ai/jobs/info/6723ef1c29f886f6b90705d5?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 22 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Transaction Advisory Services Consulting - Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586494?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 21 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d943005272194b95f9ac1c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 21 |
-| **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7323?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 21 |
-| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7320?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
