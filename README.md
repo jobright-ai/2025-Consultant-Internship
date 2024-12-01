@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/674b353e86614fa7de572c0d?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674697dccb1f9beeaac51a7f?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Research & Consulting Intern](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d5e7?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 30 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[JEO Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/674aa0ac43feaf2d7bf89c22?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/674aa2431b1015e47c1d3af5?utm_campaign=1063&utm_source=git)** | Boston, NY | On Site | Nov 29 |
-| **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Jeo Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/674a8db31a0aecb8681dc079?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
+| ↳ | **[Jeo Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/674a8db31a0aecb8681dc079?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
+| **[MultiCare Health System](http://www.multicare.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e620?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Nov 29 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Industrial Organizational Psychology Program Analyst Intern](https://jobright.ai/jobs/info/672d43fc880efda237b56322?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 29 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – 2025 Internship](https://jobright.ai/jobs/info/672d01b90c2f2551a18f13c2?utm_campaign=1063&utm_source=git)** | Armonk, NY | On Site | Nov 29 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674a87c7b541cd87cab3e2b1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2026 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67495058de493951678d2f88?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/66f3fd59398e99bc3f7eba83?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Nov 28 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/67299682998ce1e60e43d531?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 27 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/6747f916f9a22893683296cb?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 27 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Sales Performance Steering Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6747f916f9a2289368329632?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[Protiviti](http://www.protiviti.com)** | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 27 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/6747b0464b0a1aebba5df1bb?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Nov 27 |
