@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2025](https://jobright.ai/jobs/info/674be230a30b3997cdfb95f9?utm_campaign=1063&utm_source=git)** | Boston, NY | Remote | Nov 30 |
+| **[ZS](https://www.zs.com/)** | **[Advanced Data Science Associate Consultant - Intern (North America-University)](https://jobright.ai/jobs/info/66e0427f4d002af1c0b394be?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674697dccb1f9beeaac51a7f?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Research & Consulting Intern](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d5e7?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 30 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[JEO Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/674aa0ac43feaf2d7bf89c22?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Industrial Organizational Psychology Program Analyst Intern](https://jobright.ai/jobs/info/672d43fc880efda237b56322?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 29 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – 2025 Internship](https://jobright.ai/jobs/info/672d01b90c2f2551a18f13c2?utm_campaign=1063&utm_source=git)** | Armonk, NY | On Site | Nov 29 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674a87c7b541cd87cab3e2b1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Consultant - Forensic, Litigation & Valuation Services](https://jobright.ai/jobs/info/672be6aff162b4bd9191a3fa?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67497239bb54f4cf6afcbadb?utm_campaign=1063&utm_source=git)** | Summit, NJ | On Site | Nov 28 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67495058de493951678d2f88?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/66f3fd59398e99bc3f7eba83?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Nov 28 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/674683d91a718ae11c720908?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Nov 26 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/67468b9771d881f93b03e416?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 26 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2025)](https://jobright.ai/jobs/info/6644e06fe734fcb9ce6d62a8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 26 |
-| **[EY](http://www.ey.com)** | **[USA - SaT - EY-Parthenon Deal Tech (DT) - Summer Consultant - Summer 2025](https://jobright.ai/jobs/info/674662a32831f63e9d41a86e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674622b026d18bad3317761c?utm_campaign=1063&utm_source=git)** | DFW Metroplex | On Site | Nov 26 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 26 |
 | ↳ | **[Minneapolis Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f70?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/671479858181ee9163698f8a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674981c9e26e16705d5f02dd?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 25 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2025 MBA Intern - Telecom, Media & Technology – Dispute Advisory – McLean, VA](https://jobright.ai/jobs/info/67441dcf5279745e8500c389?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 24 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a7d728f769637a9029ea6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
