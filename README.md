@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2025)](https://jobright.ai/jobs/info/674df14f238cbc758c5acd0b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Internship- Summer 2025](https://jobright.ai/jobs/info/674d98d5b28fd808b0717b3f?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66de5807552928d6009c39f2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d639c4cda8159daba3323?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
-| **[ZS](https://www.zs.com/)** | **[Advanced Data Science Associate Consultant - Intern (North America-University)](https://jobright.ai/jobs/info/66e0427f4d002af1c0b394be?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Nov 30 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Research & Consulting Intern](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d5e7?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d594f873a425d1aeee043?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[JEO Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/674aa0ac43feaf2d7bf89c22?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/6745b87f8d2a2288b20ac5d0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96b3?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 26 |
 | ↳ | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 26 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Mercer Investment Consulting Diverse Career Summit (Freshmen and Sophomores) Virtual](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd490e?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
