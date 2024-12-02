@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Internship- Summer 2025](https://jobright.ai/jobs/info/674d98d5b28fd808b0717b3f?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 02 |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66de5807552928d6009c39f2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d639c4cda8159daba3323?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6746ea9f22723ea2bf40e717?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
+| **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 27 |
 | **[FM Global](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/6746b09d6e093b2d0a2fccd3?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 26 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (Benefits) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67469fd856d29d06e3409007?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 26 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67469c1039b018649bbe48c8?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 26 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 26 |
 | ↳ | **[Minneapolis Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f70?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96c1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 26 |
+| ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Nov 26 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2025)](https://jobright.ai/jobs/info/670d24c32e73ebdba59c99a2?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | Nov 26 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[Fund Accountant Consultant/Intern (6-12 months)](https://jobright.ai/jobs/info/6745b6ec8d2a2288b20abb89?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 26 |
@@ -101,7 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96b3?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 26 |
 | ↳ | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 26 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Mercer Investment Consulting Diverse Career Summit (Freshmen and Sophomores) Virtual](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd490e?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Nov 25 |
-| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/6744f7b8f9e4cc0a0d79cf66?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 25 |
-| **[Wipfli](http://www.wipfli.com)** | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66f1166d5578f7e84e86076b?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 25 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Sports Consulting Intern](https://jobright.ai/jobs/info/6744e00c904a477e2c0f29a5?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
