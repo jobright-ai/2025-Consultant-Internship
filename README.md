@@ -58,14 +58,18 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
+| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d639c4cda8159daba3323?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
 | **[ZS](https://www.zs.com/)** | **[Advanced Data Science Associate Consultant - Intern (North America-University)](https://jobright.ai/jobs/info/66e0427f4d002af1c0b394be?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Nov 30 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Research & Consulting Intern](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d5e7?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 30 |
+| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d594f873a425d1aeee043?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[JEO Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/674aa0ac43feaf2d7bf89c22?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
 | ↳ | **[Jeo Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/674a8db31a0aecb8681dc079?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
+| **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2025)](https://jobright.ai/jobs/info/66da18bcb742ee3f6b9b82f9?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e620?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Nov 29 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Industrial Organizational Psychology Program Analyst Intern](https://jobright.ai/jobs/info/672d43fc880efda237b56322?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 29 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – 2025 Internship](https://jobright.ai/jobs/info/672d01b90c2f2551a18f13c2?utm_campaign=1063&utm_source=git)** | Armonk, NY | On Site | Nov 29 |
+| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/674d7626998c7c374333daa7?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Nov 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Consultant - Forensic, Litigation & Valuation Services](https://jobright.ai/jobs/info/672be6aff162b4bd9191a3fa?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67497239bb54f4cf6afcbadb?utm_campaign=1063&utm_source=git)** | Summit, NJ | On Site | Nov 28 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67495058de493951678d2f88?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 28 |
@@ -100,7 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/6744f7b8f9e4cc0a0d79cf66?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 25 |
 | **[Wipfli](http://www.wipfli.com)** | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/66f1166d5578f7e84e86076b?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 25 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sports Consulting Intern](https://jobright.ai/jobs/info/6744e00c904a477e2c0f29a5?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
-| **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/6744c4e90e0cebedeef99f8f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
-| **[PwC](http://pwc.com)** | **[Business Processes Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6744a2b46737d94824c214b7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 25 |
-| **[Wipfli](http://www.wipfli.com)** | **[Implementation Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/671479858181ee9163698f8a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
