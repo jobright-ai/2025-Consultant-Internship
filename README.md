@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advantage Solutions](https://advantagesolutions.net)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/674f91eff850ce66bc41fd15?utm_campaign=1063&utm_source=git)** | United States | On Site | Dec 03 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Agency Distribution Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4da2ca0189d3b5b4f2?utm_campaign=1063&utm_source=git)** | DFW Metroplex | On Site | Dec 03 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 03 |
 | **[Edgeworth Economics](http://edgewortheconomics.com)** | **[Economic Consultant Intern (hybrid - paid)](https://jobright.ai/jobs/info/674ec13ecd49ecc15bf9b816?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 02 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2025)](https://jobright.ai/jobs/info/674df14f238cbc758c5acd0b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
@@ -88,6 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672b178bb05da92951fd1efe?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6746ea9f22723ea2bf40e717?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
-| **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 27 |
-| **[FM Global](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/6746b09d6e093b2d0a2fccd3?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
