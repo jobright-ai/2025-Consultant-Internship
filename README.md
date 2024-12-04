@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c310?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
+| ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c335?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
+| ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 04 |
+| **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6722853afa7379bc6c6a60a9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 04 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6733e5dc58bb1fefe272d238?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 04 |
 | **[Nordex Group](http://www.nordex-online.com/en)** | **[Werkstudent HR Consulting (m/w/d)](https://jobright.ai/jobs/info/674fffc325c2cbd71eed7907?utm_campaign=1063&utm_source=git)** | Laurys Station, PA | On Site | Dec 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/674fb1dce5a451fed62c05e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
@@ -87,9 +91,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Consultant - Forensic, Litigation & Valuation Services](https://jobright.ai/jobs/info/672be6aff162b4bd9191a67f?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/66f3fd59398e99bc3f7eba83?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Nov 28 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/67299682998ce1e60e43d531?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 27 |
-| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55c7?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Nov 27 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Sales Performance Steering Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6747f916f9a2289368329632?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
-| **[Protiviti](http://www.protiviti.com)** | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 27 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/6747b0464b0a1aebba5df1bb?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Nov 27 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Summer Intern, Business Consulting - IMA Financial](https://jobright.ai/jobs/info/670d97a4f7a31e74a272e733?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
