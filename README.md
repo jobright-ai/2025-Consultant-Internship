@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/674fb1dce5a451fed62c05e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Agency Distribution Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/674f91eff850ce66bc41fd15?utm_campaign=1063&utm_source=git)** | United States | On Site | Dec 03 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Agency Distribution Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4da2ca0189d3b5b4f2?utm_campaign=1063&utm_source=git)** | DFW Metroplex | On Site | Dec 03 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 03 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e620?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Nov 29 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Industrial Organizational Psychology Program Analyst Intern](https://jobright.ai/jobs/info/672d43fc880efda237b56322?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 29 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – 2025 Internship](https://jobright.ai/jobs/info/672d01b90c2f2551a18f13c2?utm_campaign=1063&utm_source=git)** | Armonk, NY | On Site | Nov 29 |
+| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/674fcd9a72bacf982bbb9960?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Nov 28 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Consultant - Forensic, Litigation & Valuation Services](https://jobright.ai/jobs/info/672be6aff162b4bd9191a3fa?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
 | ↳ | **[Summer 2025 Consultant - Forensic, Litigation & Valuation Services](https://jobright.ai/jobs/info/672be6aff162b4bd9191a67f?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/66f3fd59398e99bc3f7eba83?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Nov 28 |
@@ -88,6 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Nov 27 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672b178bb05da92951fd1efe?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 27 |
-| **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6746ea9f22723ea2bf40e717?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
