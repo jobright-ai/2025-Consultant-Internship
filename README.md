@@ -94,6 +94,8 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e620?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Nov 29 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Industrial Organizational Psychology Program Analyst Intern](https://jobright.ai/jobs/info/672d43fc880efda237b56322?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 29 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – 2025 Internship](https://jobright.ai/jobs/info/672d01b90c2f2551a18f13c2?utm_campaign=1063&utm_source=git)** | Armonk, NY | On Site | Nov 29 |
+| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67518559143f378310a7eb66?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
+| ↳ | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/675181a770b00ab300a8d44f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations — Provider Network Analytics Consulting Intern](https://jobright.ai/jobs/info/672ba1b9eade7b783c1c9190?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 28 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fba9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
