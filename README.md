@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025 (Construction Management)](https://jobright.ai/jobs/info/6750d1d714b64f38e3b63bfd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 04 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c310?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c335?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 04 |
@@ -70,12 +71,14 @@ For a complete list, click the following sortable link below:
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 03 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dd07011c6c827480c6d173?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 03 |
 | **[Edgeworth Economics](http://edgewortheconomics.com)** | **[Economic Consultant Intern (hybrid - paid)](https://jobright.ai/jobs/info/674ec13ecd49ecc15bf9b816?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 02 |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/6749414d90fc835c41443148?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Dec 02 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2025)](https://jobright.ai/jobs/info/674df14f238cbc758c5acd0b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/674a9f06fe3901efa05203b0?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 02 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Internship- Summer 2025](https://jobright.ai/jobs/info/674d98d5b28fd808b0717b3f?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66de5807552928d6009c39f2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9eae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Dec 02 |
-| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
+| ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d639c4cda8159daba3323?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d594f873a425d1aeee043?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
@@ -90,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Consultant - Forensic, Litigation & Valuation Services](https://jobright.ai/jobs/info/672be6aff162b4bd9191a3fa?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
 | ↳ | **[Summer 2025 Consultant - Forensic, Litigation & Valuation Services](https://jobright.ai/jobs/info/672be6aff162b4bd9191a67f?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/66f3fd59398e99bc3f7eba83?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Nov 28 |
-| **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/67299682998ce1e60e43d531?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
