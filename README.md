@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Internship- Risk & Analytics Enterprise Risk Consulting - Summer 2025 - NYC](https://jobright.ai/jobs/info/66ff51f860c1755475903f9a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Safety Intern - Safety Consulting Services](https://jobright.ai/jobs/info/6752e12850b65243282a78d2?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 06 |
 | **[Corpay](https://www.corpay.com)** | **[Cloud First Patching Consultant - Contractor](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec1e2?utm_campaign=1063&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 MBA graduates) Management Consulting MBA Intern](https://jobright.ai/jobs/info/674a9f06fe3901efa0520392?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 05 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a9988170b67e2cd91ba0a?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Dec 05 |
@@ -83,6 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d639c4cda8159daba3323?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Business Analytics Consultant - Intern (2025)](https://jobright.ai/jobs/info/67130e9dfbd67e5009b4187a?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 30 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/6752ce95784e09a183d5e4db?utm_campaign=1063&utm_source=git)** | Springfield, IL | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/6752b5544276dbbdfaa0791f?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 30 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1ef1?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
 | ↳ | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1ef8?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
@@ -98,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2025)](https://jobright.ai/jobs/info/66da18bcb742ee3f6b9b82f9?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – Customer Programs - Energy, Sustainability, & Infrastructure Solutions – Campus 2025](https://jobright.ai/jobs/info/672cd41c4d29fc2e9f25abd8?utm_campaign=1063&utm_source=git)** | Boulder, CO | On Site | Nov 29 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e620?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Nov 29 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Industrial Organizational Psychology Program Analyst Intern](https://jobright.ai/jobs/info/672d43fc880efda237b56322?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
