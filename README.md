@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moody's Corporation](www.moodys.com)** | **[Advisory Services, Technical Consulting Summer Internship](https://jobright.ai/jobs/info/6753bb9e6c9342aef197bb42?utm_campaign=1063&utm_source=git)** | Hoboken, NJ | On Site | Dec 06 |
 | **[Capco](http://www.capco.com)** | **[Black@Capco: Demystifying Consulting Summit](https://jobright.ai/jobs/info/67537c845053b9520e0f4e4d?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Dec 06 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9396562e09b85ff97377d?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 06 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d92d7eb719e0c07bed95c0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 06 |
@@ -86,10 +87,7 @@ For a complete list, click the following sortable link below:
 | **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9eae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Dec 02 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
-| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/674d639c4cda8159daba3323?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern (Life or Property and Casualty) - 2025](https://jobright.ai/jobs/info/67439b725f48e92ec52f0fe3?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/673da9db001621f881105d37?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 30 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Business Analytics Consultant - Intern (2025)](https://jobright.ai/jobs/info/67130e9dfbd67e5009b4187a?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 30 |
-| **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/6752ce95784e09a183d5e4db?utm_campaign=1063&utm_source=git)** | Springfield, IL | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
