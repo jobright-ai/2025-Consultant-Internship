@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capco](http://www.capco.com)** | **[Black@Capco: Demystifying Consulting Summit](https://jobright.ai/jobs/info/67537c845053b9520e0f4e4d?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Dec 06 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9396562e09b85ff97377d?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 06 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d92d7eb719e0c07bed95c0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 06 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Internship- Risk & Analytics Enterprise Risk Consulting - Summer 2025 - NYC](https://jobright.ai/jobs/info/66ff51f860c1755475903f9a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
@@ -91,11 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/673da9db001621f881105d37?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Analytics Consultant - Intern (2025)](https://jobright.ai/jobs/info/67130e9dfbd67e5009b4187a?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 30 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/6752ce95784e09a183d5e4db?utm_campaign=1063&utm_source=git)** | Springfield, IL | On Site | Nov 30 |
-| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/6752b5544276dbbdfaa0791f?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 30 |
-| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1ef1?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
-| ↳ | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1ef8?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
-| ↳ | **[Strategy and Advisory Technology Consultant Summer 2025](https://jobright.ai/jobs/info/6751605c3cd8c3c2383fb80f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Nov 29 |
-| ↳ | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/6751605c3cd8c3c2383fb889?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
-| **[Wipfli](http://www.wipfli.com)** | **[Graduate Medical Education Consulting Internship-Summer 2025](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d3297?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 29 |
-| **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[JEO Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/674aa0ac43feaf2d7bf89c22?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
