@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capco](http://www.capco.com)** | **[Black@Capco: Demystifying Consulting Summit](https://jobright.ai/jobs/info/6753d83a39ea54764aa8b5d2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | **[Moody's Corporation](www.moodys.com)** | **[Advisory Services, Technical Consulting Summer Internship](https://jobright.ai/jobs/info/6753bb9e6c9342aef197bb42?utm_campaign=1063&utm_source=git)** | Hoboken, NJ | On Site | Dec 06 |
 | **[Capco](http://www.capco.com)** | **[Black@Capco: Demystifying Consulting Summit](https://jobright.ai/jobs/info/67537c845053b9520e0f4e4d?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Dec 06 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9396562e09b85ff97377d?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 06 |
@@ -88,6 +89,5 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern (Life or Property and Casualty) - 2025](https://jobright.ai/jobs/info/67439b725f48e92ec52f0fe3?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Nov 30 |
-| **[Cisco](http://www.cisco.com)** | **[Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/673da9db001621f881105d37?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 30 |
+| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/6753cb2cdc888182aab2c331?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
