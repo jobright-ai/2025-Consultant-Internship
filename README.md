@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6755d9cd93b1b50c2ee5947a?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 08 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/675439820f4c825bc8085ad9?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Dec 07 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[Design Consultant Internship](https://jobright.ai/jobs/info/66fef47670c24a8724ebc625?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Dec 07 |
 | **[Capco](http://www.capco.com)** | **[Black@Capco: Demystifying Consulting Summit](https://jobright.ai/jobs/info/6753d83a39ea54764aa8b5d2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Internship- Risk & Analytics Enterprise Risk Consulting - Summer 2025 - NYC](https://jobright.ai/jobs/info/66ff51f860c1755475903f9a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Safety Intern - Safety Consulting Services](https://jobright.ai/jobs/info/6752e12850b65243282a78d2?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 06 |
 | **[Corpay](https://www.corpay.com)** | **[Cloud First Patching Consultant - Contractor](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec1e2?utm_campaign=1063&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 05 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6737a943d3219f92bf9737cc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 MBA graduates) Management Consulting MBA Intern](https://jobright.ai/jobs/info/674a9f06fe3901efa0520392?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 05 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a9988170b67e2cd91ba0a?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Dec 05 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025 (Construction Management)](https://jobright.ai/jobs/info/6750d1d714b64f38e3b63bfd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 04 |
@@ -89,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Internship- Summer 2025](https://jobright.ai/jobs/info/674d98d5b28fd808b0717b3f?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66de5807552928d6009c39f2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9eae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Dec 02 |
-| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
