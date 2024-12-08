@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/675439820f4c825bc8085ad9?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Dec 07 |
+| **[Arbor Homes](https://yourarborhome.com/)** | **[Design Consultant Internship](https://jobright.ai/jobs/info/66fef47670c24a8724ebc625?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Dec 07 |
 | **[Capco](http://www.capco.com)** | **[Black@Capco: Demystifying Consulting Summit](https://jobright.ai/jobs/info/6753d83a39ea54764aa8b5d2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | **[Moody's Corporation](www.moodys.com)** | **[Advisory Services, Technical Consulting Summer Internship](https://jobright.ai/jobs/info/6753bb9e6c9342aef197bb42?utm_campaign=1063&utm_source=git)** | Hoboken, NJ | On Site | Dec 06 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6722853afa7379bc6c6a60a9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 06 |
