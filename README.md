@@ -90,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9eae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Dec 02 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | On Site | Dec 01 |
-| **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/674bf64be2b5cef693376ae4?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
