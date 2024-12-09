@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State University of New York at Fredonia](http://www.fredonia.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING](https://jobright.ai/jobs/info/67560471b378b31cc2e35d11?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Dec 08 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6755d9cd93b1b50c2ee5947a?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 08 |
 | **[FM Global](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/675439820f4c825bc8085ad9?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Dec 07 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[Design Consultant Internship](https://jobright.ai/jobs/info/66fef47670c24a8724ebc625?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Dec 07 |
@@ -90,5 +91,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/674a9f06fe3901efa05203b0?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 02 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Internship- Summer 2025](https://jobright.ai/jobs/info/674d98d5b28fd808b0717b3f?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66de5807552928d6009c39f2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/66e1b2f21540d154e8ab9eae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
