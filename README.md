@@ -88,5 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 03 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dd07011c6c827480c6d173?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 03 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Consulting Internship Summer 2025](https://jobright.ai/jobs/info/66df3184539274ca5b119b7a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
-| **[Edgeworth Economics](http://edgewortheconomics.com)** | **[Economic Consultant Intern (hybrid - paid)](https://jobright.ai/jobs/info/674ec13ecd49ecc15bf9b816?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
