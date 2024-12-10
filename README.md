@@ -140,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/67468293b63c3de5cf21f6d2?utm_campaign=1063&utm_source=git)** | Colorado Springs, CO | On Site | Nov 26 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/674683d91a718ae11c720908?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Nov 26 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/67468b9771d881f93b03e416?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 26 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674622b026d18bad3317761c?utm_campaign=1063&utm_source=git)** | DFW Metroplex | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
