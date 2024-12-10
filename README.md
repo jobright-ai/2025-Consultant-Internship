@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758764a648878d40b302a0c?utm_campaign=1063&utm_source=git)** | US FL JAX 347 | On Site | Dec 10 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Intern-Information and Graphics Designer Job at JEO Consulting Group in Omaha](https://jobright.ai/jobs/info/6757d24a911c87e334021533?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Dec 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Technical Accounting Advisory Consultant - Intern (2025)](https://jobright.ai/jobs/info/6677909e670dad8ec82ceede?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 09 |
 | **[State University of New York at Fredonia](http://www.fredonia.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING](https://jobright.ai/jobs/info/67560471b378b31cc2e35d11?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Dec 08 |
@@ -136,8 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672b178bb05da92951fd1efe?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 27 |
 | **[FM](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/6746b09d6e093b2d0a2fccd3?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 26 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (Benefits) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67469fd856d29d06e3409007?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 26 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/67468293b63c3de5cf21f6d2?utm_campaign=1063&utm_source=git)** | Colorado Springs, CO | On Site | Nov 26 |
-| ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/674683d91a718ae11c720908?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Nov 26 |
-| ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/67468b9771d881f93b03e416?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
