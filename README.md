@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Intern-Information and Graphics Designer Job at JEO Consulting Group in Omaha](https://jobright.ai/jobs/info/6757d24a911c87e334021533?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Dec 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Technical Accounting Advisory Consultant - Intern (2025)](https://jobright.ai/jobs/info/6677909e670dad8ec82ceede?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 09 |
 | **[State University of New York at Fredonia](http://www.fredonia.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING](https://jobright.ai/jobs/info/67560471b378b31cc2e35d11?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Dec 08 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6755d9cd93b1b50c2ee5947a?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 08 |
@@ -140,5 +141,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/674683d91a718ae11c720908?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Nov 26 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/67468b9771d881f93b03e416?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 26 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674622b026d18bad3317761c?utm_campaign=1063&utm_source=git)** | DFW Metroplex | On Site | Nov 26 |
-| **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
