@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plan International USA](https://www.planusa.org/)** | **[Translation Consultant (Spanish)](https://jobright.ai/jobs/info/675989f87c64e63b287c8dab?utm_campaign=1063&utm_source=git)** | Washington, DC | Remote | Dec 11 |
+| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da1303d?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 11 |
 | **[FM](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/6759353ef428260b8ddf584f?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Dec 10 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758e783aea2492fe2064f25?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 10 |
 | ↳ | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758764a648878d40b302a0c?utm_campaign=1063&utm_source=git)** | US FL JAX 347 | On Site | Dec 10 |
@@ -86,13 +88,13 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c310?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c335?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 04 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Product "Agency" Technology Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Dec 04 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6733e5dc58bb1fefe272d238?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127dd?utm_campaign=1063&utm_source=git)** | Springfield, IL | On Site | Dec 03 |
 | ↳ | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127e4?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Dec 03 |
 | ↳ | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/6759117268721fc9c74705a1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
 | ↳ | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/6759117268721fc9c74705a6?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/674fb1dce5a451fed62c05e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Agency Distribution Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/674f91eff850ce66bc41fd15?utm_campaign=1063&utm_source=git)** | United States | On Site | Dec 03 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Agency Distribution Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4da2ca0189d3b5b4f2?utm_campaign=1063&utm_source=git)** | DFW Metroplex | On Site | Dec 03 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 03 |
@@ -139,7 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 27 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/6747b0464b0a1aebba5df1bb?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Nov 27 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Summer Intern, Business Consulting - IMA Financial](https://jobright.ai/jobs/info/670d97a4f7a31e74a272e733?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 27 |
-| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Nov 27 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
-| **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
