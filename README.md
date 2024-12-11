@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758764a648878d40b302a0c?utm_campaign=1063&utm_source=git)** | US FL JAX 347 | On Site | Dec 10 |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758e783aea2492fe2064f25?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 10 |
+| ↳ | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758764a648878d40b302a0c?utm_campaign=1063&utm_source=git)** | US FL JAX 347 | On Site | Dec 10 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Intern-Information and Graphics Designer Job at JEO Consulting Group in Omaha](https://jobright.ai/jobs/info/6757d24a911c87e334021533?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Dec 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Technical Accounting Advisory Consultant - Intern (2025)](https://jobright.ai/jobs/info/6677909e670dad8ec82ceede?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 09 |
 | **[State University of New York at Fredonia](http://www.fredonia.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING](https://jobright.ai/jobs/info/67560471b378b31cc2e35d11?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Dec 08 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Nov 27 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672b178bb05da92951fd1efe?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
