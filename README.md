@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/6759353ef428260b8ddf584f?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Dec 10 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758e783aea2492fe2064f25?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 10 |
 | ↳ | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758764a648878d40b302a0c?utm_campaign=1063&utm_source=git)** | US FL JAX 347 | On Site | Dec 10 |
 | **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Intern-Information and Graphics Designer Job at JEO Consulting Group in Omaha](https://jobright.ai/jobs/info/6757d24a911c87e334021533?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Dec 09 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship - Summer 2025](https://jobright.ai/jobs/info/66ff51f860c1755475903fce?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/675439820f4c825bc8085ad9?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Dec 07 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[Design Consultant Internship](https://jobright.ai/jobs/info/66fef47670c24a8724ebc625?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Dec 07 |
+| **[Dover Corporation](http://www.dovercorporation.com)** | **[Internal Consultant](https://jobright.ai/jobs/info/671908b14283b57bcb13e2ac?utm_campaign=1063&utm_source=git)** | Downers Grove, IL | On Site | Dec 06 |
 | **[Capco](http://www.capco.com)** | **[Black@Capco: Demystifying Consulting Summit](https://jobright.ai/jobs/info/6753d83a39ea54764aa8b5d2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | **[Moody's Corporation](www.moodys.com)** | **[Advisory Services, Technical Consulting Summer Internship](https://jobright.ai/jobs/info/6753bb9e6c9342aef197bb42?utm_campaign=1063&utm_source=git)** | Hoboken, NJ | On Site | Dec 06 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6722853afa7379bc6c6a60a9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 06 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d92d7eb719e0c07bed95c0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 06 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Internship- Risk & Analytics Enterprise Risk Consulting - Summer 2025 - NYC](https://jobright.ai/jobs/info/66ff51f860c1755475903f9a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Safety Intern - Safety Consulting Services](https://jobright.ai/jobs/info/6752e12850b65243282a78d2?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 06 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/67359f844b047ec7b5973ed2?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 | **[Corpay](https://www.corpay.com)** | **[Cloud First Patching Consultant - Contractor](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec1e2?utm_campaign=1063&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 05 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6737a943d3219f92bf9737cc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 MBA graduates) Management Consulting MBA Intern](https://jobright.ai/jobs/info/674a9f06fe3901efa0520392?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 05 |
@@ -84,6 +87,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c335?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/6750739dd61182fcf409c36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6733e5dc58bb1fefe272d238?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 04 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127dd?utm_campaign=1063&utm_source=git)** | Springfield, IL | On Site | Dec 03 |
+| ↳ | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127e4?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Dec 03 |
+| ↳ | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/6759117268721fc9c74705a1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
+| ↳ | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/6759117268721fc9c74705a6?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/674fb1dce5a451fed62c05e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Agency Distribution Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/674f91eff850ce66bc41fd15?utm_campaign=1063&utm_source=git)** | United States | On Site | Dec 03 |
