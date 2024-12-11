@@ -135,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672b178bb05da92951fd1efe?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 27 |
-| **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 27 |
-| **[FM](https://www.fmglobal.com)** | **[Plan Review Consultant](https://jobright.ai/jobs/info/6746b09d6e093b2d0a2fccd3?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
