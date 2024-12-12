@@ -57,7 +57,38 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Health and Human Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6759eae302792615adf65d35?utm_campaign=1063&utm_source=git)** | US - VA, McLean | On Site | Dec 11 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf11?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf05?utm_campaign=1063&utm_source=git)** | Appleton, Wisconsin, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf1b?utm_campaign=1063&utm_source=git)** | Omaha, Nebraska, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf06?utm_campaign=1063&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf09?utm_campaign=1063&utm_source=git)** | St Louis, Missouri, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf15?utm_campaign=1063&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf03?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf14?utm_campaign=1063&utm_source=git)** | Kalamazoo, Michigan, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf13?utm_campaign=1063&utm_source=git)** | San Francisco, California, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf1d?utm_campaign=1063&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf04?utm_campaign=1063&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf0e?utm_campaign=1063&utm_source=git)** | Kansas City, Kansas, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf1e?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf07?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf0a?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf16?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf1a?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf19?utm_campaign=1063&utm_source=git)** | Richmond, Virginia, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf39?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf35?utm_campaign=1063&utm_source=git)** | Portland, Oregon, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf29?utm_campaign=1063&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf37?utm_campaign=1063&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf2b?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf27?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf2e?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf2f?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf2a?utm_campaign=1063&utm_source=git)** | Seattle, Washington, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf2c?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf36?utm_campaign=1063&utm_source=git)** | Tampa, Florida, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf3c?utm_campaign=1063&utm_source=git)** | Los Angeles, California, United States | Hybrid | Dec 11 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Health and Human Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0acbe?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 11 |
+| ↳ | **[Intern - Health and Human Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6759eae302792615adf65d35?utm_campaign=1063&utm_source=git)** | US - VA, McLean | On Site | Dec 11 |
 | **[Provider Solutions & Development](https://psdrecruit.org/)** | **[Internal Medicine Hospitalist Consultant](https://jobright.ai/jobs/info/67216e2823b93d13251e76eb?utm_campaign=1063&utm_source=git)** | Spokane, WA | On Site | Dec 11 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Sacramento– Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c325c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 11 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66ea66abaac7ca8ef55c7d2c?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 11 |
@@ -87,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://www.corpay.com)** | **[Cloud First Patching Consultant - Contractor](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec1e2?utm_campaign=1063&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 05 |
 | **[Arup](http://www.arup.com)** | **[Acoustic/Audio Visual Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c241?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 05 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6737a943d3219f92bf9737cc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 MBA graduates) Management Consulting MBA Intern](https://jobright.ai/jobs/info/674a9f06fe3901efa0520392?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 05 |
-| ↳ | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a9988170b67e2cd91ba0a?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
