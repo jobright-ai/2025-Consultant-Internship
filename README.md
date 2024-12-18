@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6446?utm_campaign=1063&utm_source=git)** | Cedar Rapids, IA | Hybrid | Dec 17 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6a8b?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c95e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6761f7bda777b5a4371d5121?utm_campaign=1063&utm_source=git)** | Cedar Rapids | On Site | Dec 17 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
 | **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Dec 17 |
@@ -98,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Consultant Intern - Ann Arbor, Michigan Area](https://jobright.ai/jobs/info/675cbd494949883b7be7576c?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Los Angeles, California](https://jobright.ai/jobs/info/675cb53730a02e260e52e2c8?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
-| ↳ | **[Risk Consultant Intern - Philadelphia, Pennsylvania Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e250?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Orlando, Florida Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27a?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Dec 13 |
+| ↳ | **[Risk Consultant Intern - Philadelphia, Pennsylvania Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e250?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
 | **[Harvard University](http://harvard.edu)** | **[Department of Defense (DOD) Skillbridge Talent Acquisition Consultant Intern](https://jobright.ai/jobs/info/675ca27232a1de326119301b?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Dec 13 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/66cdef6d8f5c39576d151c1e?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Dec 13 |
@@ -124,21 +127,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Internship – Principal Asset Management US Client Group, Institutional and Consultant Relations (Summer 2025)](https://jobright.ai/jobs/info/675a7b498d436a9cd3436cd9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Dec 11 |
 | ↳ | **[Sales Internship – Principal Asset Management US Client Group, Institutional and Consultant Relations (Summer 2025)](https://jobright.ai/jobs/info/675a6736d539ba9316791f56?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 11 |
 | ↳ | **[Sales Internship – Principal Asset Management US Client Group, Institutional and Consultant Relations (Summer 2025)](https://jobright.ai/jobs/info/675a6736d539ba931679201d?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Hybrid | Dec 11 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf0f?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Dec 11 |
+| **[CampusWorks, Inc.](http://campusworksinc.com)** | **[Workday Student Integration Consultant](https://jobright.ai/jobs/info/673cfc1b501782f5231e0604?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 11 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf03?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Dec 11 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf09?utm_campaign=1063&utm_source=git)** | St Louis, Missouri, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf0f?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Dec 11 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf17?utm_campaign=1063&utm_source=git)** | Seattle, Washington, United States | Hybrid | Dec 11 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf03?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Dec 11 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf31?utm_campaign=1063&utm_source=git)** | San Francisco, California, United States | Hybrid | Dec 11 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf2d?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | Hybrid | Dec 11 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf21?utm_campaign=1063&utm_source=git)** | Appleton, Wisconsin, United States | Hybrid | Dec 11 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf22?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Dec 11 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf31?utm_campaign=1063&utm_source=git)** | San Francisco, California, United States | Hybrid | Dec 11 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbf23?utm_campaign=1063&utm_source=git)** | Richmond, Virginia, United States | Hybrid | Dec 11 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health and Human Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0acbe?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 11 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Summer Associate Consultant - Commercial Analytics](https://jobright.ai/jobs/info/673d609c440c0b23cc76c8a1?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Dec 11 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health and Human Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6759eae302792615adf65d35?utm_campaign=1063&utm_source=git)** | US - VA, McLean | On Site | Dec 11 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[International Affairs Policy Consultant](https://jobright.ai/jobs/info/670444e1732466f5536d8111?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Dec 11 |
-| **[Provider Solutions & Development](https://psdrecruit.org/)** | **[Internal Medicine Hospitalist Consultant](https://jobright.ai/jobs/info/67216e2823b93d13251e76eb?utm_campaign=1063&utm_source=git)** | Spokane, WA | On Site | Dec 11 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Sacramento– Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c325c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 11 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66ea66abaac7ca8ef55c7d2c?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 11 |
-| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da1303d?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
