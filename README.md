@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/67646174f88b7e45a12eae61?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 19 |
+| **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/67646174f88b7e45a12eafbe?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67645dc28ec72831f1aa98f1?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Dec 19 |
+| **[Marsh McLennan](http://www.mmc.com/)** | **[Career Consulting Summer Intern - Los Angeles - College Program 2025](https://jobright.ai/jobs/info/67644e06db40786edabcafe2?utm_campaign=1063&utm_source=git)** | Los Angeles - West 5th | Hybrid | Dec 19 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/67639f1241f242f7d376d827?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Dec 18 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 18 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/67299682998ce1e60e43d531?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 18 |
@@ -65,13 +69,12 @@ For a complete list, click the following sortable link below:
 | **[Population Services International](https://www.psi.org/)** | **[Human-Centered Design Consultant](https://jobright.ai/jobs/info/676348ac3da6e1dff422ff97?utm_campaign=1063&utm_source=git)** | Washington, DC, US | On Site | Dec 17 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6446?utm_campaign=1063&utm_source=git)** | Cedar Rapids, IA | Hybrid | Dec 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6a8b?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 17 |
-| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c95e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6761f7bda777b5a4371d5121?utm_campaign=1063&utm_source=git)** | Cedar Rapids | On Site | Dec 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5cbb2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
 | **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Dec 17 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/6761b7569375da545e29a719?utm_campaign=1063&utm_source=git)** | Albany, NY | On Site | Dec 17 |
-| **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[JEO Consulting Group is hiring: Intern-Information and Graphics Designer in Omah](https://jobright.ai/jobs/info/6760f9f2bd75694f86948d37?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Dec 16 |
-| **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/675b95a36629e42ff2763c50?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 16 |
+| **[JEO Consulting Group, Inc.](https://jeo.com/company)** | **[Intern-Information and Graphics Designer Job at JEO Consulting Group in Omaha](https://jobright.ai/jobs/info/6760f9f2bd75694f86948d37?utm_campaign=1063&utm_source=git)** | Omaha, NE | Hybrid | Dec 16 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760d30c2f1bfd3403428783?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Dec 16 |
 | ↳ | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760c6885b70b97e593bdc05?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 16 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant Intern](https://jobright.ai/jobs/info/676090b03b8795cf438a56c8?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 16 |
@@ -90,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674981c9e26e16705d5f0325?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 14 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674981c9e26e16705d5f02f9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 14 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/66ec16fd3b3494763c858f1f?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Dec 14 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e2c8?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 14 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/674107300aa4c92ed5e837e8?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 14 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Consulting Functional Cloud Intern](https://jobright.ai/jobs/info/670991645261513967fb5429?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 14 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67495e0beb89008afd053a93?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Dec 14 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/675cbd494949883b7be7577b?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Ann Arbor, Michigan Area](https://jobright.ai/jobs/info/675cbd494949883b7be7576c?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 13 |
-| ↳ | **[Risk Consultant Intern - Los Angeles, California](https://jobright.ai/jobs/info/675cb53730a02e260e52e2c8?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Philadelphia, Pennsylvania Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e250?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Orlando, Florida Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27a?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
@@ -115,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/675c24053f10421ec83e04ea?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
 | **[Sheehy Auto Stores](http://sheehy.com)** | **[Automotive Internet Sales Consultant (Experienced)](https://jobright.ai/jobs/info/675c021c9e37c4982620c48a?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Dec 13 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/67590512770d433f6988bdb0?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 12 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/673e2490282e3b318cd9157e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
