@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 18 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/67299682998ce1e60e43d531?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 18 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 18 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 18 |
@@ -118,7 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern -- (Summer 2025)](https://jobright.ai/jobs/info/673ec3b47089bf2ab45aadc0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
 | **[Broadridge](http://www.broadridge.com)** | **[Global Class Action Services Summer Legal Consultant (HYBRID - Flexible Options)](https://jobright.ai/jobs/info/675b34ceb36222e5ba733f7a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 12 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9335e397bf652479b63a9?utm_campaign=1063&utm_source=git)** | Irving, TX | Hybrid | Dec 12 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Financial Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c3265?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
-| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da132aa?utm_campaign=1063&utm_source=git)** | Hanover, MD | On Site | Dec 12 |
-| ↳ | **[Management Consultant Intern](https://jobright.ai/jobs/info/67219159b09f2135d7872562?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
