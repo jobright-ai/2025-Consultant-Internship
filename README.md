@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764e14e280d4c6b89a1c0ef?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 19 |
+| **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - Minneapolis](https://jobright.ai/jobs/info/6764d69a4136e1f22088414b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 19 |
+| ↳ | **[Internship Opportunity, Consulting - New York City](https://jobright.ai/jobs/info/6764e13fa3797f78bd32e159?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
+| **[TYLin](http://www.tylin.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764c4caa34da3bea2e238f5?utm_campaign=1063&utm_source=git)** | US | MO | St. Louis - 6 South Old Orchard | On Site | Dec 19 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Spring 2025) – Indianapolis Health](https://jobright.ai/jobs/info/6764b358de5de22bcf91bb27?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 19 |
 | **[Introba](https://www.introba.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764967dc74d7d246d87c2b5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
-| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b774?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
+| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b7d4?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/67646174f88b7e45a12eae61?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/67646174f88b7e45a12eafbe?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67645dc28ec72831f1aa98f1?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Dec 19 |
 | **[Marsh McLennan](http://www.mmc.com/)** | **[Career Consulting Summer Intern - Los Angeles - College Program 2025](https://jobright.ai/jobs/info/67644e06db40786edabcafe2?utm_campaign=1063&utm_source=git)** | Los Angeles - West 5th | Hybrid | Dec 19 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/67639f1241f242f7d376d827?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Dec 18 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Dec 18 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 18 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 18 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/67299682998ce1e60e43d531?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 18 |
@@ -110,6 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6751711bc3cc5ecf0b69446b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Dec 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586499?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa31a7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7320?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/675cbd494949883b7be7577b?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Ann Arbor, Michigan Area](https://jobright.ai/jobs/info/675cbd494949883b7be7576c?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Dec 13 |
 | ↳ | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 13 |
@@ -120,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/66cdef6d8f5c39576d151c1e?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Dec 13 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586755?utm_campaign=1063&utm_source=git)** | Kalamazoo, MI | On Site | Dec 13 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6759c5ca68137ef7f3d92fb8?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Dec 13 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/675c24053f10421ec83e04ea?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
