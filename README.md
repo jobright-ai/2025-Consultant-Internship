@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6765d44760229089928f1608?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[American University](http://american.edu)** | **[MBA Peer Consultant- Kogod Career Development  (Student)](https://jobright.ai/jobs/info/6765a5ad7aa1385786227e45?utm_campaign=1063&utm_source=git)** | Main Campus (Washington, DC) | On Site | Dec 20 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9335e397bf652479b63a9?utm_campaign=1063&utm_source=git)** | Irving, TX | Hybrid | Dec 20 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758e783aea2492fe2064f25?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 20 |
 | **[The Advance Group](https://www.theadvancegrp.com/)** | **[Political Consulting Internship](https://jobright.ai/jobs/info/676508d493a7e7ddddd0720a?utm_campaign=1063&utm_source=git)** | Essex Junction, VT | On Site | Dec 19 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - Chicago](https://jobright.ai/jobs/info/67650124b98a10834628cbae?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
@@ -67,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[TYLin](http://www.tylin.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764c4caa34da3bea2e238f5?utm_campaign=1063&utm_source=git)** | US | MO | St. Louis - 6 South Old Orchard | On Site | Dec 19 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Spring 2025) – Indianapolis Health](https://jobright.ai/jobs/info/6764b358de5de22bcf91bb27?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 19 |
 | **[Introba](https://www.introba.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764967dc74d7d246d87c2b5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
-| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b774?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
+| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b7d4?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/67646174f88b7e45a12eae61?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/67646174f88b7e45a12eafbe?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
@@ -114,6 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674981c9e26e16705d5f02ef?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 14 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6752ce95784e09a183d5e4f1?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Dec 14 |
 | ↳ | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6751711bc3cc5ecf0b69446b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Dec 14 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586499?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 13 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa31a7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
