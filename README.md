@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circana](https://www.circana.com)** | **[Growth Consulting - MBA - Summer 2025](https://jobright.ai/jobs/info/6769b653d2b97ced97b41159?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Learning, Development and Performance Internship](https://jobright.ai/jobs/info/6769782d114a386d267efeae?utm_campaign=1063&utm_source=git)** | CT - Work from home | On Site | Dec 23 |
+| **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/675181a770b00ab300a8d44f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/6747b0464b0a1aebba5df1bb?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da132aa?utm_campaign=1063&utm_source=git)** | Hanover, MD | On Site | Dec 22 |
 | ↳ | **[Management Consultant Intern](https://jobright.ai/jobs/info/67219159b09f2135d7872562?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 22 |
 | ↳ | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da1303d?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 22 |
@@ -74,9 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - Minneapolis](https://jobright.ai/jobs/info/6764d69a4136e1f22088414b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 19 |
 | ↳ | **[Internship Opportunity, Consulting - New York City](https://jobright.ai/jobs/info/6764e13fa3797f78bd32e159?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[TYLin](http://www.tylin.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764c4caa34da3bea2e238f5?utm_campaign=1063&utm_source=git)** | US | MO | St. Louis - 6 South Old Orchard | On Site | Dec 19 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Spring 2025) – Indianapolis Health](https://jobright.ai/jobs/info/6764b358de5de22bcf91bb27?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 19 |
 | **[Introba](https://www.introba.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764967dc74d7d246d87c2b5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
-| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b7d4?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
+| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b774?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Dec 19 |
 | ↳ | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/67646174f88b7e45a12eae61?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 19 |
@@ -96,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c95e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/6761b7569375da545e29a719?utm_campaign=1063&utm_source=git)** | Albany, NY | On Site | Dec 17 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760d30c2f1bfd3403428783?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Dec 16 |
-| ↳ | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760c6885b70b97e593bdc05?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
