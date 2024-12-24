@@ -58,19 +58,20 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676a3707863d720902c9d43a?utm_campaign=1063&utm_source=git)** | Colorado Springs, CO | On Site | Dec 23 |
-| ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676a3707863d720902c9d440?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676a1dcb458629385ae09846?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Dec 23 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/676a1ca975c73be8bf65224b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 23 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2025](https://jobright.ai/jobs/info/676a0826ac9eadee46b6d969?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | ↳ | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2025](https://jobright.ai/jobs/info/6769c98c59b8fde69770bdc1?utm_campaign=1063&utm_source=git)** | One World Financial Center, New York, NY, 10281, US | On Site | Dec 23 |
 | **[E15 Group](https://e15group.com/)** | **[Data Consulting Intern, E15 / Summer / Chicago, IL](https://jobright.ai/jobs/info/6769c76b31b928f984025df8?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Circana](https://www.circana.com)** | **[Growth Consulting - MBA - Summer 2025](https://jobright.ai/jobs/info/6769b653d2b97ced97b41159?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 23 |
+| **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Dec 23 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/675181a770b00ab300a8d44f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da132aa?utm_campaign=1063&utm_source=git)** | Hanover, MD | On Site | Dec 22 |
 | ↳ | **[Management Consultant Intern](https://jobright.ai/jobs/info/67219159b09f2135d7872562?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 22 |
 | ↳ | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da1303d?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 22 |
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/673da9db001621f881105d37?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Dec 22 |
+| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/6759c0dee718f506b55ea8a1?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/67663f25dcc9097ca59113fa?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | Dec 20 |
 | **[Protiviti](http://www.protiviti.com)** | **[Denver Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f80?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 20 |
 | **[American University](http://american.edu)** | **[MBA Peer Consultant- Kogod Career Development  (Student)](https://jobright.ai/jobs/info/6765a5ad7aa1385786227e45?utm_campaign=1063&utm_source=git)** | Main Campus (Washington, DC) | On Site | Dec 20 |
@@ -85,9 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunity, Consulting - New York City](https://jobright.ai/jobs/info/6764e13fa3797f78bd32e159?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[TYLin](http://www.tylin.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764c4caa34da3bea2e238f5?utm_campaign=1063&utm_source=git)** | US | MO | St. Louis - 6 South Old Orchard | On Site | Dec 19 |
 | **[Introba](https://www.introba.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764967dc74d7d246d87c2b5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
-| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b774?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
+| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b7d4?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Dec 19 |
-| ↳ | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/67646174f88b7e45a12eae61?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/67646174f88b7e45a12eafbe?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | **[Marsh McLennan](http://www.mmc.com/)** | **[Career Consulting Summer Intern - Los Angeles - College Program 2025](https://jobright.ai/jobs/info/67644e06db40786edabcafe2?utm_campaign=1063&utm_source=git)** | Los Angeles - West 5th | Hybrid | Dec 19 |
@@ -97,12 +97,10 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 18 |
 | ↳ | **[Miami Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f95?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | Hybrid | Dec 18 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 18 |
-| **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/67299682998ce1e60e43d531?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 18 |
-| **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f74?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 18 |
+| ↳ | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f74?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 18 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 18 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 18 |
 | **[Population Services International](https://www.psi.org/)** | **[Human-Centered Design Consultant](https://jobright.ai/jobs/info/676348ac3da6e1dff422ff97?utm_campaign=1063&utm_source=git)** | Washington, DC, US | On Site | Dec 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6a8b?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 17 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c95e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
-| **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
