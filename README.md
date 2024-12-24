@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2025](https://jobright.ai/jobs/info/6769c98c59b8fde69770bdc1?utm_campaign=1063&utm_source=git)** | One World Financial Center, New York, NY, 10281, US | On Site | Dec 23 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676a1dcb458629385ae09846?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Dec 23 |
+| **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/676a1ca975c73be8bf65224b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 23 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2025](https://jobright.ai/jobs/info/676a0826ac9eadee46b6d969?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
+| ↳ | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2025](https://jobright.ai/jobs/info/6769c98c59b8fde69770bdc1?utm_campaign=1063&utm_source=git)** | One World Financial Center, New York, NY, 10281, US | On Site | Dec 23 |
 | **[E15 Group](https://e15group.com/)** | **[Data Consulting Intern, E15 / Summer / Chicago, IL](https://jobright.ai/jobs/info/6769c76b31b928f984025df8?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Circana](https://www.circana.com)** | **[Growth Consulting - MBA - Summer 2025](https://jobright.ai/jobs/info/6769b653d2b97ced97b41159?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 23 |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/675181a770b00ab300a8d44f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant Intern](https://jobright.ai/jobs/info/672173ad006c95de9da132aa?utm_campaign=1063&utm_source=git)** | Hanover, MD | On Site | Dec 22 |
 | ↳ | **[Management Consultant Intern](https://jobright.ai/jobs/info/67219159b09f2135d7872562?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 22 |
@@ -97,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 18 |
 | **[Population Services International](https://www.psi.org/)** | **[Human-Centered Design Consultant](https://jobright.ai/jobs/info/676348ac3da6e1dff422ff97?utm_campaign=1063&utm_source=git)** | Washington, DC, US | On Site | Dec 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6a8b?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 17 |
-| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5cbb2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c95e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/6761b7569375da545e29a719?utm_campaign=1063&utm_source=git)** | Albany, NY | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
