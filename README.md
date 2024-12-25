@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dd07011c6c827480c6d173?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 25 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Product "Agency" Technology Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Dec 25 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/676b94044d8b80d1b6e69c37?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 24 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676ada4584d07400730f4392?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
@@ -99,8 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](http://www.mmc.com/)** | **[Career Consulting Summer Intern - Los Angeles - College Program 2025](https://jobright.ai/jobs/info/67644e06db40786edabcafe2?utm_campaign=1063&utm_source=git)** | Los Angeles - West 5th | Hybrid | Dec 19 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) Field Support Strategy and Analytics (Summer 2025)](https://jobright.ai/jobs/info/670da4320df1e41cec54ebdb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant (LAS) Intern - OVIP](https://jobright.ai/jobs/info/676b9f427a85802187351776?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 18 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/67639f1241f242f7d376d827?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Dec 18 |
-| **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96c1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Dec 18 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | On Site | Dec 18 |
-| **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
