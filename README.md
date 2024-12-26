@@ -87,9 +87,4 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758e783aea2492fe2064f25?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 20 |
 | **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55bf?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Dec 20 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/6767da2a19f01bb9f345e30a?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Dec 20 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - Chicago](https://jobright.ai/jobs/info/67650124b98a10834628cbae?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
-| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764e14e280d4c6b89a1c0ef?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 19 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - Minneapolis](https://jobright.ai/jobs/info/6764d69a4136e1f22088414b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 19 |
-| ↳ | **[Internship Opportunity, Consulting - New York City](https://jobright.ai/jobs/info/6764e13fa3797f78bd32e159?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
-| **[TYLin](http://www.tylin.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764c4caa34da3bea2e238f5?utm_campaign=1063&utm_source=git)** | US | MO | St. Louis - 6 South Old Orchard | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
