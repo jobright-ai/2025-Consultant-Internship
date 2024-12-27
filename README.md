@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/676df48a1c3841172cb658b2?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Dec 26 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025 (Construction Management)](https://jobright.ai/jobs/info/6750d1d714b64f38e3b63bfd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations — Provider Network Analytics Consulting Intern](https://jobright.ai/jobs/info/676d331e93f44cdcf3274930?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dd07011c6c827480c6d173?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 25 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Product "Agency" Technology Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Dec 25 |
