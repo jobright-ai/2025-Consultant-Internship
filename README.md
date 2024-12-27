@@ -87,6 +87,4 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[MBA Peer Consultant- Kogod Career Development  (Student)](https://jobright.ai/jobs/info/6765a5ad7aa1385786227e45?utm_campaign=1063&utm_source=git)** | Main Campus (Washington, DC) | On Site | Dec 20 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9335e397bf652479b63a9?utm_campaign=1063&utm_source=git)** | Irving, TX | Hybrid | Dec 20 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758e783aea2492fe2064f25?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 20 |
-| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55bf?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Dec 20 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/6767da2a19f01bb9f345e30a?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
