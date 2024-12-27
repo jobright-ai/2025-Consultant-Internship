@@ -98,7 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunity, Consulting - New York City](https://jobright.ai/jobs/info/6764e13fa3797f78bd32e159?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[TYLin](http://www.tylin.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764c4caa34da3bea2e238f5?utm_campaign=1063&utm_source=git)** | US | MO | St. Louis - 6 South Old Orchard | On Site | Dec 19 |
 | **[Introba](https://www.introba.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764967dc74d7d246d87c2b5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
-| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b7d4?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
+| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b774?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Dec 19 |
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 19 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/67646174f88b7e45a12eae61?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 19 |
@@ -149,12 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa31a7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67662336d47567d13b8dd229?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Dec 13 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7320?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/675cbd494949883b7be7577b?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 13 |
-| ↳ | **[Risk Consultant Intern - Ann Arbor, Michigan Area](https://jobright.ai/jobs/info/675cbd494949883b7be7576c?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Dec 13 |
-| ↳ | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 13 |
-| ↳ | **[Risk Consultant Intern - Los Angeles, California](https://jobright.ai/jobs/info/675cb53730a02e260e52e2c8?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
-| ↳ | **[Risk Consultant Intern - Orlando, Florida Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27a?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Dec 13 |
-| ↳ | **[Risk Consultant Intern - Philadelphia, Pennsylvania Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e250?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Dec 13 |
-| ↳ | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
-| **[Harvard University](http://harvard.edu)** | **[Department of Defense (DOD) Skillbridge Talent Acquisition Consultant Intern](https://jobright.ai/jobs/info/675ca27232a1de326119301b?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
