@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Information Technology Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/6726033c92048579056ea486?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 14 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1f69?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc90e0d040a05fce809a2?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Dec 14 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674981c9e26e16705d5f0325?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
