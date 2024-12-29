@@ -124,6 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760c6885b70b97e593bdc05?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 16 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant Intern](https://jobright.ai/jobs/info/676090b03b8795cf438a56c8?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 16 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a7d728f769637a9029ea6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 16 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Public Sector Compliance Consultant](https://jobright.ai/jobs/info/6724e023932fbb86d4635e43?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Dec 15 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
