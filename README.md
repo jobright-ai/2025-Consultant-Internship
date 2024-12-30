@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stealth Startup](https://www.claimbrite.com)** | **[Tax Consultant](https://jobright.ai/jobs/info/6771e90eef9f93678634b9e4?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Ann Arbor, Michigan Area](https://jobright.ai/jobs/info/677010adf2df74b7932e21d7?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Dec 28 |
 | **[The Advance Group](https://www.theadvancegrp.com/)** | **[Political Consulting Internship](https://jobright.ai/jobs/info/676e3a059cf5558e563aa511?utm_campaign=1063&utm_source=git)** | The Woodlands, TX | On Site | Dec 26 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/676e3a059cf5558e563aa512?utm_campaign=1063&utm_source=git)** | Green Bay, WI | On Site | Dec 26 |
@@ -122,6 +123,5 @@ For a complete list, click the following sortable link below:
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/6761b7569375da545e29a719?utm_campaign=1063&utm_source=git)** | Albany, NY | On Site | Dec 17 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760d30c2f1bfd3403428783?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Dec 16 |
 | ↳ | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760c6885b70b97e593bdc05?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 16 |
-| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant Intern](https://jobright.ai/jobs/info/676090b03b8795cf438a56c8?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 16 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a7d728f769637a9029ea6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
