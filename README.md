@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/6772e7db1a66497d400d222e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6772e7db1a66497d400d2370?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 30 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dd07011c6c827480c6d173?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 30 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Atlanta– Campus 2025](https://jobright.ai/jobs/info/6739cab04dc42e40a334771e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
 | **[Stealth Startup](https://www.claimbrite.com)** | **[Tax Consultant](https://jobright.ai/jobs/info/6771e90eef9f93678634b9e4?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Ann Arbor, Michigan Area](https://jobright.ai/jobs/info/677010adf2df74b7932e21d7?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Dec 28 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/676e3a059cf5558e563aa512?utm_campaign=1063&utm_source=git)** | Green Bay, WI | On Site | Dec 26 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025 (Construction Management)](https://jobright.ai/jobs/info/6750d1d714b64f38e3b63bfd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations — Provider Network Analytics Consulting Intern](https://jobright.ai/jobs/info/676d331e93f44cdcf3274930?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dd07011c6c827480c6d173?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 25 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Product "Agency" Technology Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Dec 25 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/676b94044d8b80d1b6e69c37?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 24 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676ada4584d07400730f4392?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
@@ -121,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 18 |
 | **[Population Services International](https://www.psi.org/)** | **[Human-Centered Design Consultant](https://jobright.ai/jobs/info/676348ac3da6e1dff422ff97?utm_campaign=1063&utm_source=git)** | Washington, DC, US | On Site | Dec 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6a8b?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 17 |
-| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c95e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5cbb2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/6761b7569375da545e29a719?utm_campaign=1063&utm_source=git)** | Albany, NY | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
