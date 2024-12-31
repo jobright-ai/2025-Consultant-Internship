@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da3621645685c6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
+| ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568711?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
+| ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568712?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/6772e7db1a66497d400d222e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6772e7db1a66497d400d2370?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 30 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dd07011c6c827480c6d173?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 30 |
+| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/6767da2a19f01bb9f345e30a?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Dec 30 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Atlanta– Campus 2025](https://jobright.ai/jobs/info/6739cab04dc42e40a334771e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
 | **[Stealth Startup](https://www.claimbrite.com)** | **[Tax Consultant](https://jobright.ai/jobs/info/6771e90eef9f93678634b9e4?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Ann Arbor, Michigan Area](https://jobright.ai/jobs/info/677010adf2df74b7932e21d7?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Dec 28 |
@@ -95,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d9335e397bf652479b63a9?utm_campaign=1063&utm_source=git)** | Irving, TX | Hybrid | Dec 20 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Sales Consultant, Summer FIS University Program 2025](https://jobright.ai/jobs/info/6758e783aea2492fe2064f25?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 20 |
 | **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55bf?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Dec 20 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/6767da2a19f01bb9f345e30a?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Dec 20 |
 | **[The Advance Group](https://www.theadvancegrp.com/)** | **[Political Consulting Internship](https://jobright.ai/jobs/info/676e4eafec56e9d4325ba846?utm_campaign=1063&utm_source=git)** | Essex Junction, VT | On Site | Dec 19 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - Chicago](https://jobright.ai/jobs/info/67650124b98a10834628cbae?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764e14e280d4c6b89a1c0ef?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 19 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 18 |
 | **[Population Services International](https://www.psi.org/)** | **[Human-Centered Design Consultant](https://jobright.ai/jobs/info/676348ac3da6e1dff422ff97?utm_campaign=1063&utm_source=git)** | Washington, DC, US | On Site | Dec 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6a8b?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 17 |
-| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c95e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection & Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5cbb2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
-| **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/6761b7569375da545e29a719?utm_campaign=1063&utm_source=git)** | Albany, NY | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
