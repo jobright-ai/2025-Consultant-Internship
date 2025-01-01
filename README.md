@@ -60,7 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da3621645685c6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568711?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 | ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568712?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/6772e7db1a66497d400d222e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6772e7db1a66497d400d2370?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 30 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/66dd07011c6c827480c6d173?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Dec 30 |
@@ -120,6 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 18 |
 | ↳ | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f74?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 18 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 18 |
-| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 18 |
-| **[Population Services International](https://www.psi.org/)** | **[Human-Centered Design Consultant](https://jobright.ai/jobs/info/676348ac3da6e1dff422ff97?utm_campaign=1063&utm_source=git)** | Washington, DC, US | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
