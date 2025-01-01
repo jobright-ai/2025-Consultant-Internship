@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da3621645685c6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568711?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 | ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568712?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7320?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/6772e7db1a66497d400d222e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
