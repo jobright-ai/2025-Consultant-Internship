@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677580963f6292dfcbfdb6e8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
-| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67754dc3b60b4f671ec6e5e5?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d242b4?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67754dc3b60b4f671ec6e5e6?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d24276?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d2428a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d24405?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/673b597e5fb637a7e8feffaa?utm_campaign=1063&utm_source=git)** | United States | On Site | Jan 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Safety Intern - Safety Consulting Services](https://jobright.ai/jobs/info/67752dd1543e4924e7d24300?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 31 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da3621645685c6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
@@ -82,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2025 (Construction Management)](https://jobright.ai/jobs/info/6750d1d714b64f38e3b63bfd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations — Provider Network Analytics Consulting Intern](https://jobright.ai/jobs/info/676d331e93f44cdcf3274930?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Product "Agency" Technology Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Dec 25 |
-| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/676b94044d8b80d1b6e69c37?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 24 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676ada4584d07400730f4392?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676ad1ccc216e7a5dd51e102?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 23 |
 | ↳ | **[DOD SkillBridge Intern - Government Consulting](https://jobright.ai/jobs/info/676a3707863d720902c9d43a?utm_campaign=1063&utm_source=git)** | Colorado Springs, CO | On Site | Dec 23 |
