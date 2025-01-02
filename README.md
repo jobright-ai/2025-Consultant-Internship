@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677580963f6292dfcbfdb6e8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d242b4?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67754dc3b60b4f671ec6e5e6?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d24276?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d2428a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/673b597e5fb637a7e8feffaa?utm_campaign=1063&utm_source=git)** | United States | On Site | Jan 01 |
@@ -109,8 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - Minneapolis](https://jobright.ai/jobs/info/6764d69a4136e1f22088414b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 19 |
 | ↳ | **[Internship Opportunity, Consulting - New York City](https://jobright.ai/jobs/info/6764e13fa3797f78bd32e159?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[TYLin](http://www.tylin.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764c4caa34da3bea2e238f5?utm_campaign=1063&utm_source=git)** | US | MO | St. Louis - 6 South Old Orchard | On Site | Dec 19 |
-| **[Introba](https://www.introba.com)** | **[Intern Aviation Consulting Analyst](https://jobright.ai/jobs/info/6764967dc74d7d246d87c2b5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
-| **[S&P Global](https://www.spglobal.com)** | **[Energy Consulting Intern (Early Careers)](https://jobright.ai/jobs/info/6764901bd7d9dedfd7e5b774?utm_campaign=1063&utm_source=git)** | US - TX - HOUSTON | On Site | Dec 19 |
-| **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Dec 19 |
-| ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
