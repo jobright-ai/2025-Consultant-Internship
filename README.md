@@ -60,10 +60,11 @@ For a complete list, click the following sortable link below:
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting - Dallas](https://jobright.ai/jobs/info/67787a514cffab6a1b90094f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | **[Stantec](http://www.stantec.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/67788367acb7a5c23e23a568?utm_campaign=1063&utm_source=git)** | Lexington, KY | On Site | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e68?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| ↳ | **[Intern - Health Information Technology Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e7e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36ca5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
+| ↳ | **[Intern - Health Information Technology Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e7e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Provider Strategy & Innovation, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e86?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Financial Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e94?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
+| ↳ | **[Intern - Clinical Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/6778a70a1348604ae24f488a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting](https://jobright.ai/jobs/info/67782ae9e4e68b9438f377b6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | **[Evans Consulting](https://www.evansconsulting.com)** | **[Future Interest in Evans Consulting](https://jobright.ai/jobs/info/677843f4bef9047dd92a2b1a?utm_campaign=1063&utm_source=git)** | Falls Church, VA | Hybrid | Jan 03 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/6778196b18bc3811042ab06b?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jan 03 |
@@ -85,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d943005272194b95f9ac1b?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Jan 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/6777b9ecd911a8f0aa8f56af?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677580963f6292dfcbfdb6e8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/6778022c345a2d923fb73cac?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/6778022c345a2d923fb73cad?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67754dc3b60b4f671ec6e5e6?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d2428a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d24276?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/673b597e5fb637a7e8feffaa?utm_campaign=1063&utm_source=git)** | United States | On Site | Jan 01 |
