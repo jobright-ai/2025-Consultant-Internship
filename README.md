@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting](https://jobright.ai/jobs/info/67782ae9e4e68b9438f377b6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
+| **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting - Dallas](https://jobright.ai/jobs/info/67787a514cffab6a1b90094f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
+| ↳ | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting](https://jobright.ai/jobs/info/67782ae9e4e68b9438f377b6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
+| **[Evans Consulting](https://www.evansconsulting.com)** | **[Future Interest in Evans Consulting](https://jobright.ai/jobs/info/677843f4bef9047dd92a2b1a?utm_campaign=1063&utm_source=git)** | Falls Church, VA | Hybrid | Jan 03 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/6778196b18bc3811042ab06b?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jan 03 |
+| **[The Faulkner Organization](https://www.tobesure.com/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fcbd?utm_campaign=1063&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 03 |
+| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fe1b?utm_campaign=1063&utm_source=git)** | Harrisburg, PA | On Site | Jan 03 |
+| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fe1c?utm_campaign=1063&utm_source=git)** | Doylestown, PA | On Site | Jan 03 |
+| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fe1d?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Jan 03 |
+| **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 03 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/675c24053f10421ec83e04ea?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6777d7c9a6c7dd43ea28835a?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 03 |
 | ↳ | **[Austin Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6777dbc75bcc93d32dca36f8?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 03 |
@@ -74,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677580963f6292dfcbfdb6e8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/6778022c345a2d923fb73cad?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67754dc3b60b4f671ec6e5e6?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d242b4?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d2428a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d24276?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/673b597e5fb637a7e8feffaa?utm_campaign=1063&utm_source=git)** | United States | On Site | Jan 01 |
