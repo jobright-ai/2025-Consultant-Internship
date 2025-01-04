@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Organization Development Consulting Internship, Medicaid](https://jobright.ai/jobs/info/67790a9bf312a3ea3e4f91a7?utm_campaign=1063&utm_source=git)** | Portland, ME | Remote | Jan 04 |
 | **[Wipfli](http://www.wipfli.com)** | **[Tech Consulting Internship (CRM &amp;amp; Organizational Performance)-Summer 2025](https://jobright.ai/jobs/info/6778d98c81fb411e68561da4?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 03 |
 | ↳ | **[Tech Consulting Internship (CRM &amp;amp; Organizational Performance)-Summer 2025](https://jobright.ai/jobs/info/6778d3eb76db586e8bf0cdd8?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 03 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting - Dallas](https://jobright.ai/jobs/info/67787a514cffab6a1b90094f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | **[Stantec](http://www.stantec.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/67788367acb7a5c23e23a568?utm_campaign=1063&utm_source=git)** | Lexington, KY | On Site | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e68?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36ca5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Health Information Technology Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e7e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
+| ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36ca5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Provider Strategy & Innovation, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e86?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Financial Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e94?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Clinical Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/6778a70a1348604ae24f488a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
@@ -79,7 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6777d7c9a6c7dd43ea28835a?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 03 |
 | ↳ | **[Austin Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6777dbc75bcc93d32dca36f8?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 03 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/67356de01c0ebdc19a3a5910?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Jan 03 |
+| **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Sacramento– Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c325c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 03 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Texas Assistant Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/671bcefc027f7470a9bf64c3?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Jan 03 |
+| **[Protiviti](http://www.protiviti.com)** | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96b3?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 03 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fba9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jan 03 |
 | **[Arcadis](http://www.arcadis.com)** | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677767ab46e65a72089c687d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
 | ↳ | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677767ab46e65a72089c6c57?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da3621645685c6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568711?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 | ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568712?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7320?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/6772e7db1a66497d400d222e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
