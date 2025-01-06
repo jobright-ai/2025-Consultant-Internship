@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e2c8?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
+| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6759c0dee718f506b55eab74?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 06 |
+| **[United Airlines](https://www.united.com)** | **[MBA Intern - Global Procurement (Summer 2025)](https://jobright.ai/jobs/info/677bb21d91ad989059779626?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
 | **[Penn State University](http://psu.edu)** | **[Part Time - IT Service Desk Consultant (Federal Work Study)](https://jobright.ai/jobs/info/677ba0f6fd23eea0735e6e52?utm_campaign=1063&utm_source=git)** | New Kensington, PA | Remote | Jan 06 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674981c9e26e16705d5f02ef?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 05 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6751711bc3cc5ecf0b69446b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Jan 05 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting - Dallas](https://jobright.ai/jobs/info/67787a514cffab6a1b90094f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | **[Stantec](http://www.stantec.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/67788367acb7a5c23e23a568?utm_campaign=1063&utm_source=git)** | Lexington, KY | On Site | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e68?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| ↳ | **[Intern - Health Information Technology Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e7e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36ca5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
+| ↳ | **[Intern - Health Information Technology Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e7e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Provider Strategy & Innovation, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e86?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Financial Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e94?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Clinical Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/6778a70a1348604ae24f488a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
@@ -109,16 +112,14 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127e4?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677b40005f8d853fc66f1c12?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677580963f6292dfcbfdb6e8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/6778022c345a2d923fb73cac?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d242b4?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
-| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d2428a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d24276?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
+| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d2428a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/673b597e5fb637a7e8feffaa?utm_campaign=1063&utm_source=git)** | United States | On Site | Jan 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Safety Intern - Safety Consulting Services](https://jobright.ai/jobs/info/67752dd1543e4924e7d24300?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 31 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da3621645685c6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568711?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 | ↳ | **[2025 Consulting Internship](https://jobright.ai/jobs/info/67736f6de6da362164568712?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Associate Consultant](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e22?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
-| **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/6772e7db1a66497d400d222e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
