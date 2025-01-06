@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Organization Development Consulting Internship, Medicaid](https://jobright.ai/jobs/info/67790a9bf312a3ea3e4f91a7?utm_campaign=1063&utm_source=git)** | Portland, ME | Remote | Jan 04 |
 | **[Wipfli](http://www.wipfli.com)** | **[Tech Consulting Internship (CRM &amp;amp; Organizational Performance)-Summer 2025](https://jobright.ai/jobs/info/6778d98c81fb411e68561da4?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 03 |
 | ↳ | **[Tech Consulting Internship (CRM &amp;amp; Organizational Performance)-Summer 2025](https://jobright.ai/jobs/info/6778d3eb76db586e8bf0cdd8?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 03 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586755?utm_campaign=1063&utm_source=git)** | Kalamazoo, MI | On Site | Jan 03 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting - Dallas](https://jobright.ai/jobs/info/67787a514cffab6a1b90094f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | **[Stantec](http://www.stantec.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/67788367acb7a5c23e23a568?utm_campaign=1063&utm_source=git)** | Lexington, KY | On Site | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e68?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
@@ -102,7 +103,8 @@ For a complete list, click the following sortable link below:
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2025 -Section Partnerships](https://jobright.ai/jobs/info/6776e6d6fa766591f735843f?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Jan 02 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d943005272194b95f9ac1b?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Jan 02 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127e4?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677580963f6292dfcbfdb6e8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677b40005f8d853fc66f1c12?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677580963f6292dfcbfdb6e8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/6778022c345a2d923fb73cac?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d24276?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
@@ -116,5 +118,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/673f05b18ea64657bac84743?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2025 Consulting Internship](https://jobright.ai/jobs/info/6772e7db1a66497d400d222e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Dec 30 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6772e7db1a66497d400d2370?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Dec 30 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Atlanta– Campus 2025](https://jobright.ai/jobs/info/6739cab04dc42e40a334771e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
