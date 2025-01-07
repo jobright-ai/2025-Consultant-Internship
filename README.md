@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Services](https://jobright.ai/jobs/info/677c7324e9851110c91406ba?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jan 06 |
+| **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 06 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577b7?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 06 |
+| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c78?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
+| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c79?utm_campaign=1063&utm_source=git)** | San Francisco County, CA | On Site | Jan 06 |
+| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c7a?utm_campaign=1063&utm_source=git)** | Montgomery Creek, CA | On Site | Jan 06 |
+| **[Ramboll](http://www.ramboll.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577c4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
 | **[CBIZ](http://www.cbiz.com)** | **[General Advisory Intern / Summer 2025](https://jobright.ai/jobs/info/677c25c6f70d1305ac4cc228?utm_campaign=1063&utm_source=git)** | West Conshohocken, PA | On Site | Jan 06 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/677c26130154f1b531a01f0f?utm_campaign=1063&utm_source=git)** | 333 W Wacker Dr, Chicago, IL 60606, USA | On Site | Jan 06 |
 | **[DHL](http://www.dhl.com)** | **[Visiting Consultant, Summer Internships 2025, DHL Consulting Americas](https://jobright.ai/jobs/info/677c2caa75388548aeb7d3c5?utm_campaign=1063&utm_source=git)** | Plantation, FL | On Site | Jan 06 |
@@ -85,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting - Dallas](https://jobright.ai/jobs/info/67787a514cffab6a1b90094f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | **[Stantec](http://www.stantec.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/67788367acb7a5c23e23a568?utm_campaign=1063&utm_source=git)** | Lexington, KY | On Site | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e68?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36ca5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Health Information Technology Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e7e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
+| ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36ca5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Provider Strategy & Innovation, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e86?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Financial Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e94?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Clinical Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/6778a70a1348604ae24f488a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
