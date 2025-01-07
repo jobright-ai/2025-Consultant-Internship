@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integration Consulting](https://integrationconsulting.com)** | **[Talent Pool US [Consultancy]](https://jobright.ai/jobs/info/677ce8b6bc27b0496e63ca2f?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Jan 06 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Special Consultant Pool (Continuous)](https://jobright.ai/jobs/info/677c9f1882f2403e8c0415da?utm_campaign=1063&utm_source=git)** | Northridge, CA | On Site | Jan 06 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Services](https://jobright.ai/jobs/info/677c941e38776008520ea8fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 06 |
 | ↳ | **[Intern, Services](https://jobright.ai/jobs/info/677c7324e9851110c91406ba?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jan 06 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577b7?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 06 |
 | ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c78?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
-| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c79?utm_campaign=1063&utm_source=git)** | San Francisco County, CA | On Site | Jan 06 |
 | ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c7a?utm_campaign=1063&utm_source=git)** | Montgomery Creek, CA | On Site | Jan 06 |
+| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c79?utm_campaign=1063&utm_source=git)** | San Francisco County, CA | On Site | Jan 06 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577c4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
 | **[CBIZ](http://www.cbiz.com)** | **[General Advisory Intern / Summer 2025](https://jobright.ai/jobs/info/677c25c6f70d1305ac4cc228?utm_campaign=1063&utm_source=git)** | West Conshohocken, PA | On Site | Jan 06 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/677c26130154f1b531a01f0f?utm_campaign=1063&utm_source=git)** | 333 W Wacker Dr, Chicago, IL 60606, USA | On Site | Jan 06 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/67788367acb7a5c23e23a568?utm_campaign=1063&utm_source=git)** | Lexington, KY | On Site | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Operations Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e68?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Health Information Technology Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e7e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| ↳ | **[Intern - Payer Provider Consulting, Health Segment - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36ca5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Provider Strategy & Innovation, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e86?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Financial Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e94?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Clinical Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/6778a70a1348604ae24f488a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
@@ -123,7 +123,9 @@ For a complete list, click the following sortable link below:
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2025 -Section Partnerships](https://jobright.ai/jobs/info/6776e6d6fa766591f735843f?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Jan 02 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d943005272194b95f9ac1b?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Jan 02 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127e4?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677b40005f8d853fc66f1c12?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677ce9dbbc27b0496e63d1a2?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677cbf6c0b30948e0e73c0d5?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
+| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677cbb2a22ce91b9ca3a4189?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
 | ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/6778022c345a2d923fb73cac?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d2428a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
