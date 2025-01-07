@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Services](https://jobright.ai/jobs/info/677c7324e9851110c91406ba?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jan 06 |
+| **[California State University, Northridge](https://www.csun.edu/)** | **[Special Consultant Pool (Continuous)](https://jobright.ai/jobs/info/677c9f1882f2403e8c0415da?utm_campaign=1063&utm_source=git)** | Northridge, CA | On Site | Jan 06 |
+| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Services](https://jobright.ai/jobs/info/677c941e38776008520ea8fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 06 |
+| ↳ | **[Intern, Services](https://jobright.ai/jobs/info/677c7324e9851110c91406ba?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jan 06 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577b7?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 06 |
 | ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c78?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
@@ -114,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fba9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jan 03 |
 | ↳ | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67518559143f378310a7eb66?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | **[Arcadis](http://www.arcadis.com)** | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677a38c3a2419558ae2c2465?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| ↳ | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677c9f1882f2403e8c041a39?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 | ↳ | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677767ab46e65a72089c687d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
 | ↳ | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677767ab46e65a72089c6c59?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 02 |
 | **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2025 Design Consultant Internship](https://jobright.ai/jobs/info/677764b6ad1641b2ad03bade?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
