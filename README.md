@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/677df0d0a96660f7d86fbd48?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Jan 07 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Marketing Consultant Internship (Summer 2025)](https://jobright.ai/jobs/info/677d9b535d3e1ef8c95a0676?utm_campaign=1063&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 07 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f3a1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 07 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/677d45ea5594efb150671cfb?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Jan 07 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760c6885b70b97e593bdc05?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 07 |
 | **[Gallagher](http://www.ajg.com)** | **[Data Analyst Intern GSIP](https://jobright.ai/jobs/info/66c92e0e183e842b3718e259?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66d70f8d385b63bc0d417689?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 07 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers West, General Management Consulting - Campus 2025](https://jobright.ai/jobs/info/672541cfb4d777ee0ab6a689?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/67356de01c0ebdc19a3a5910?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Sacramento– Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c325c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 03 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Texas Assistant Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/671bcefc027f7470a9bf64c3?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Jan 03 |
-| **[Protiviti](http://www.protiviti.com)** | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96b3?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 03 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fba9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jan 03 |
 | ↳ | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67518559143f378310a7eb66?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | **[Arcadis](http://www.arcadis.com)** | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677a38c3a2419558ae2c2465?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 02 |
@@ -133,9 +134,6 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677ce9dbbc27b0496e63d1a2?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
 | ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677cbf6c0b30948e0e73c0d5?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677cbb2a22ce91b9ca3a4189?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/6778022c345a2d923fb73cac?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d242b4?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
-| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d2428a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
-| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d24276?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
-| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/673b597e5fb637a7e8feffaa?utm_campaign=1063&utm_source=git)** | United States | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
