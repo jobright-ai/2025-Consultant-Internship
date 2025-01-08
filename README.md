@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e36e887d5da105be90cf8?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 07 |
+| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e36e887d5da105be90d09?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 07 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677e121b0eaabe0d8dec09f8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 07 |
+| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e148789a5d0df82dade09?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
+| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e148789a5d0df82dade1b?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (LAX) (Summer 2025)](https://jobright.ai/jobs/info/677e05add0dd16909aacdf79?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/677df0d0a96660f7d86fbd48?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Jan 07 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Marketing Consultant Internship (Summer 2025)](https://jobright.ai/jobs/info/677d9b535d3e1ef8c95a0676?utm_campaign=1063&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 07 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f3a1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 07 |
@@ -64,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760c6885b70b97e593bdc05?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 07 |
 | **[Gallagher](http://www.ajg.com)** | **[Data Analyst Intern GSIP](https://jobright.ai/jobs/info/66c92e0e183e842b3718e259?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66d70f8d385b63bc0d417689?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 07 |
+| ↳ | **[Technical Advisory Intern (Available June 2025)](https://jobright.ai/jobs/info/66da18bcb742ee3f6b9b82f9?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers West, General Management Consulting - Campus 2025](https://jobright.ai/jobs/info/672541cfb4d777ee0ab6a689?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/6759117268721fc9c74705a1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | ↳ | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6759c5ca68137ef7f3d92fb8?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Jan 07 |
@@ -132,8 +139,6 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d943005272194b95f9ac1b?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Jan 02 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127e4?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677ce9dbbc27b0496e63d1a2?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677cbf6c0b30948e0e73c0d5?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677cbb2a22ce91b9ca3a4189?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/6778022c345a2d923fb73cac?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
-| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb4b?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677b40005f8d853fc66f1c12?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
