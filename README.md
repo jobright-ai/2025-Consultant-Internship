@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zurich North America](https://www.zurichna.com)** | **[Marketing Consultant Internship (Summer 2025)](https://jobright.ai/jobs/info/677d9b535d3e1ef8c95a0676?utm_campaign=1063&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 07 |
+| **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f3a1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 07 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/677d45ea5594efb150671cfb?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Jan 07 |
+| **[Gallagher](http://www.ajg.com)** | **[Data Analyst Intern GSIP](https://jobright.ai/jobs/info/66c92e0e183e842b3718e259?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66d70f8d385b63bc0d417689?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 07 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers West, General Management Consulting - Campus 2025](https://jobright.ai/jobs/info/672541cfb4d777ee0ab6a689?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/6759117268721fc9c74705a1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | ↳ | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6759c5ca68137ef7f3d92fb8?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Jan 07 |
 | **[Integration Consulting](https://integrationconsulting.com)** | **[Talent Pool US [Consultancy]](https://jobright.ai/jobs/info/677ce8b6bc27b0496e63ca2f?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Jan 06 |
@@ -68,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577b7?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 06 |
 | ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c78?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
-| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c7a?utm_campaign=1063&utm_source=git)** | Montgomery Creek, CA | On Site | Jan 06 |
 | ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c79?utm_campaign=1063&utm_source=git)** | San Francisco County, CA | On Site | Jan 06 |
+| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c7a?utm_campaign=1063&utm_source=git)** | Montgomery Creek, CA | On Site | Jan 06 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577c4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
 | **[CBIZ](http://www.cbiz.com)** | **[General Advisory Intern / Summer 2025](https://jobright.ai/jobs/info/677c25c6f70d1305ac4cc228?utm_campaign=1063&utm_source=git)** | West Conshohocken, PA | On Site | Jan 06 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/677c26130154f1b531a01f0f?utm_campaign=1063&utm_source=git)** | 333 W Wacker Dr, Chicago, IL 60606, USA | On Site | Jan 06 |
@@ -84,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 04 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc90e0d040a05fce809a2?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Jan 04 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/677a13916e0e4b469f3f8ce0?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jan 04 |
-| **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f3a1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 04 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Jan 04 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[Design Consultant Internship](https://jobright.ai/jobs/info/66fef47670c24a8724ebc625?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Jan 04 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2025](https://jobright.ai/jobs/info/66bf9225a67216719249889f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 04 |
