@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/677ead51cde6280804cf96c5?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jan 08 |
+| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/675bbb01bb88cdc1d1388e3a?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Jan 08 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 08 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e36e887d5da105be90cf8?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 07 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e36e887d5da105be90d09?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 07 |
@@ -84,9 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577b7?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 06 |
 | ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c78?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
-| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c7a?utm_campaign=1063&utm_source=git)** | Montgomery Creek, CA | On Site | Jan 06 |
 | ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c79?utm_campaign=1063&utm_source=git)** | San Francisco County, CA | On Site | Jan 06 |
-| **[Ramboll](http://www.ramboll.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577c4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
+| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677c57e6dff3f7a042e57c7a?utm_campaign=1063&utm_source=git)** | Montgomery Creek, CA | On Site | Jan 06 |
 | **[CBIZ](http://www.cbiz.com)** | **[General Advisory Intern / Summer 2025](https://jobright.ai/jobs/info/677c25c6f70d1305ac4cc228?utm_campaign=1063&utm_source=git)** | West Conshohocken, PA | On Site | Jan 06 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/677c26130154f1b531a01f0f?utm_campaign=1063&utm_source=git)** | 333 W Wacker Dr, Chicago, IL 60606, USA | On Site | Jan 06 |
 | **[DHL](http://www.dhl.com)** | **[Visiting Consultant, Summer Internships 2025, DHL Consulting Americas](https://jobright.ai/jobs/info/677c2caa75388548aeb7d3c5?utm_campaign=1063&utm_source=git)** | Plantation, FL | On Site | Jan 06 |
@@ -144,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127e4?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677ce9dbbc27b0496e63d1a2?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 01 |
 | ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677cbf6c0b30948e0e73c0d5?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 01 |
-| ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677cbb2a22ce91b9ca3a4189?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
