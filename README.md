@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Food and Drug Administration, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/677f3e054eb85c2a87796ecb?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 08 |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sale Consultant](https://jobright.ai/jobs/info/677f3e054eb85c2a87796fee?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 08 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/677f16db01b4935d9f12834c?utm_campaign=1063&utm_source=git)** |  12900 Science Drive Suite 100, Orlando, Florida, United States | On Site | Jan 08 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677ef9d4e0336989ef57df65?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 08 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Customer Support Intern (Remote Consulting)](https://jobright.ai/jobs/info/677eed388a60f9d21efcb52a?utm_campaign=1063&utm_source=git)** | Birmingham, MI | Remote | Jan 08 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e148789a5d0df82dade1b?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (LAX) (Summer 2025)](https://jobright.ai/jobs/info/677e05add0dd16909aacdf79?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/677df0d0a96660f7d86fbd48?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Jan 07 |
+| **[Corpay](https://www.corpay.com)** | **[Cloud First Patching Consultant - Contractor](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec1e2?utm_campaign=1063&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 07 |
 | **[TransUnion](http://www.transunion.com)** | **[Consulting & Business Analytics Summer 2025 Internship](https://jobright.ai/jobs/info/677dab814ad3c411975c2df4?utm_campaign=1063&utm_source=git)** | White Plains, NY | Hybrid | Jan 07 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Marketing Consultant Internship (Summer 2025)](https://jobright.ai/jobs/info/677d9b535d3e1ef8c95a0676?utm_campaign=1063&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 07 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f3a1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 07 |
@@ -143,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2025 Design Consultant Internship](https://jobright.ai/jobs/info/677764b6ad1641b2ad03bade?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2025 -Section Partnerships](https://jobright.ai/jobs/info/6776e6d6fa766591f735843f?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Jan 02 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/66d943005272194b95f9ac1b?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Jan 02 |
-| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127e4?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
