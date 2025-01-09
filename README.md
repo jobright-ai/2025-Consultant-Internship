@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aon](http://www.aon.com)** | **[Early Careers: Consulting Intern](https://jobright.ai/jobs/info/677fbf28664b3b36edcaff43?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/677f9c14528a335105f4a987?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 09 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/677f606e2674c1d598d5ee02?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Jan 08 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/677f4b96d18f02b6957d7df5?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Jan 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Food and Drug Administration, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/677f3e054eb85c2a87796ecb?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 08 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/677ef9d4e0336989ef57df65?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 08 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Customer Support Intern (Remote Consulting)](https://jobright.ai/jobs/info/677eed388a60f9d21efcb52a?utm_campaign=1063&utm_source=git)** | Birmingham, MI | Remote | Jan 08 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/677ead51cde6280804cf96c5?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jan 08 |
+| **[TransUnion](http://www.transunion.com)** | **[Consulting & Business Analytics Summer 2025 Internship](https://jobright.ai/jobs/info/677dab814ad3c411975c2df4?utm_campaign=1063&utm_source=git)** | White Plains, NY | Hybrid | Jan 08 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66d7002e0447899b013af961?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 08 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/675bbb01bb88cdc1d1388e3a?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Jan 08 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 08 |
@@ -137,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Sacramento– Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c325c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 03 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Texas Assistant Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/671bcefc027f7470a9bf64c3?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Jan 03 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fba9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jan 03 |
-| ↳ | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67518559143f378310a7eb66?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Health and Human Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0acbe?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 03 |
+| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67518559143f378310a7eb66?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | **[Arcadis](http://www.arcadis.com)** | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677a38c3a2419558ae2c2465?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677c9f1882f2403e8c041a39?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 | ↳ | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677767ab46e65a72089c687d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
 | ↳ | **[Data Analyst Intern, Sustainable Advisory](https://jobright.ai/jobs/info/677767ab46e65a72089c6c59?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 02 |
-| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2025 Design Consultant Internship](https://jobright.ai/jobs/info/677764b6ad1641b2ad03bade?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
