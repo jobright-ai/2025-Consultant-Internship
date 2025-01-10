@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Consulting - Connected Solutions Intern - Summer 2025](https://jobright.ai/jobs/info/678084ac3107dd055eed691f?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Jan 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/67639f1241f242f7d376d827?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Jan 09 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – Customer Programs - Energy, Sustainability, & Infrastructure Solutions – Campus 2025](https://jobright.ai/jobs/info/67803ad040c781ec58c06dbc?utm_campaign=1063&utm_source=git)** | Boulder, CO | On Site | Jan 09 |
 | **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/67804796db07aa0f3ce4d6d6?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jan 09 |
@@ -133,12 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fe1c?utm_campaign=1063&utm_source=git)** | Doylestown, PA | On Site | Jan 03 |
 | ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fe1d?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Jan 03 |
 | **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 03 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/675c24053f10421ec83e04ea?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
-| ↳ | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/6749414d90fc835c41443148?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Jan 03 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/67356de01c0ebdc19a3a5910?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Jan 03 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant – State and Local Government, Sacramento– Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c325c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 03 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Texas Assistant Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/671bcefc027f7470a9bf64c3?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Jan 03 |
-| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fba9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jan 03 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Health and Human Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0acbe?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 03 |
-| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Consultant Summer 2025](https://jobright.ai/jobs/info/67518559143f378310a7eb66?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
