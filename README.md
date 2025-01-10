@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6780e7624bb6bab8898dd7a5?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Jan 10 |
+| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Jan 09 |
 | **[PwC](http://pwc.com)** | **[Consulting - Connected Solutions Intern - Summer 2025](https://jobright.ai/jobs/info/678084ac3107dd055eed691f?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Jan 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/67639f1241f242f7d376d827?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Jan 09 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant – Customer Programs - Energy, Sustainability, & Infrastructure Solutions – Campus 2025](https://jobright.ai/jobs/info/67803ad040c781ec58c06dbc?utm_campaign=1063&utm_source=git)** | Boulder, CO | On Site | Jan 09 |
@@ -71,13 +73,12 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/677f16db01b4935d9f12834c?utm_campaign=1063&utm_source=git)** |  12900 Science Drive Suite 100, Orlando, Florida, United States | On Site | Jan 08 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Customer Support Intern (Remote Consulting)](https://jobright.ai/jobs/info/677eed388a60f9d21efcb52a?utm_campaign=1063&utm_source=git)** | Birmingham, MI | Remote | Jan 08 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/677ead51cde6280804cf96c5?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jan 08 |
-| **[TransUnion](http://www.transunion.com)** | **[Consulting & Business Analytics Summer 2025 Internship](https://jobright.ai/jobs/info/677dab814ad3c411975c2df4?utm_campaign=1063&utm_source=git)** | White Plains, NY | Hybrid | Jan 08 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66d7002e0447899b013af961?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 08 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/675bbb01bb88cdc1d1388e3a?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Jan 08 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 08 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e36e887d5da105be90cf8?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Jan 07 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e36e887d5da105be90d09?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Jan 07 |
-| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677e121b0eaabe0d8dec09f8?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 07 |
+| ↳ | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/677e36e887d5da105be90d0d?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Jan 07 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e148789a5d0df82dade09?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | ↳ | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e148789a5d0df82dade1b?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (LAX) (Summer 2025)](https://jobright.ai/jobs/info/677e05add0dd16909aacdf79?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Organization Development Consulting Internship, Medicaid](https://jobright.ai/jobs/info/67790a9bf312a3ea3e4f91a7?utm_campaign=1063&utm_source=git)** | Portland, ME | Remote | Jan 04 |
 | **[Wipfli](http://www.wipfli.com)** | **[Tech Consulting Internship (CRM &amp;amp; Organizational Performance)-Summer 2025](https://jobright.ai/jobs/info/6778d98c81fb411e68561da4?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 03 |
 | ↳ | **[Tech Consulting Internship (CRM &amp;amp; Organizational Performance)-Summer 2025](https://jobright.ai/jobs/info/6778d3eb76db586e8bf0cdd8?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 03 |
+| **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/67809e10a9801fb15a7a4120?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 03 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586755?utm_campaign=1063&utm_source=git)** | Kalamazoo, MI | On Site | Jan 03 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Financial Analyst (Class of 2027) – Dispute Resolution Consulting - Dallas](https://jobright.ai/jobs/info/67787a514cffab6a1b90094f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | **[Stantec](http://www.stantec.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/67788367acb7a5c23e23a568?utm_campaign=1063&utm_source=git)** | Lexington, KY | On Site | Jan 03 |
@@ -127,11 +129,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Provider Strategy & Innovation, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e86?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Financial Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e94?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Intern - Clinical Solutions, Payer Provider Consulting - Campus 2025](https://jobright.ai/jobs/info/6778a70a1348604ae24f488a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| **[Evans Consulting](https://www.evansconsulting.com)** | **[Future Interest in Evans Consulting](https://jobright.ai/jobs/info/677843f4bef9047dd92a2b1a?utm_campaign=1063&utm_source=git)** | Falls Church, VA | Hybrid | Jan 03 |
-| **[The Faulkner Organization](https://www.tobesure.com/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6778d98c81fb411e68562200?utm_campaign=1063&utm_source=git)** | Feasterville-Trevose, PA | On Site | Jan 03 |
-| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fcbd?utm_campaign=1063&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 03 |
-| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fe1b?utm_campaign=1063&utm_source=git)** | Harrisburg, PA | On Site | Jan 03 |
-| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fe1c?utm_campaign=1063&utm_source=git)** | Doylestown, PA | On Site | Jan 03 |
-| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fe1d?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Jan 03 |
-| **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6761c555a5658fcbefc985ee?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
