@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67497a082940301dab7b1694?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 16 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Orlando, Florida Area](https://jobright.ai/jobs/info/675cb53730a02e260e52e27a?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Jan 16 |
+| **[Corpay](https://www.corpay.com)** | **[Cloud First Patching Consultant - Contractor](https://jobright.ai/jobs/info/6788e562f4fe09bbdf363949?utm_campaign=1063&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 16 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Pricing Strategy Internship](https://jobright.ai/jobs/info/6788a95e3cd278c0059d22e4?utm_campaign=1063&utm_source=git)** | Bellevue, WA | On Site | Jan 15 |
 | **[UHY LLP, Certified Public Accountants](https://uhy-us.com/)** | **[RSG Project Consultant - HL Evergreen](https://jobright.ai/jobs/info/678886f8fd0831c9ecd9c058?utm_campaign=1063&utm_source=git)** | Georgia, United States | On Site | Jan 15 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/67887fe1e6c651382b769143?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 15 |
@@ -83,13 +86,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6786e09759a12096e23eeb33?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Jan 14 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6786e09759a12096e23eeb1c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 14 |
 | ↳ | **[Financial Services Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6786d2edeea878d4f30160c0?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Jan 14 |
-| **[Marsh McLennan](http://www.mmc.com/)** | **[Executive Compensation Consulting Summer Intern - Dallas - College Program 2025](https://jobright.ai/jobs/info/6786ae8bd76554165e5850fe?utm_campaign=1063&utm_source=git)** | Dallas - Main | Hybrid | Jan 14 |
-| ↳ | **[Mercer / Career Consulting Summer Intern - Chicago - College Program 2025](https://jobright.ai/jobs/info/6786ae8bd76554165e58511a?utm_campaign=1063&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Jan 14 |
+| **[Marsh McLennan](http://www.mmc.com/)** | **[Mercer / Career Consulting Summer Intern - Chicago - College Program 2025](https://jobright.ai/jobs/info/6786ae8bd76554165e58511a?utm_campaign=1063&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Jan 14 |
+| ↳ | **[Executive Compensation Consulting Summer Intern - Dallas - College Program 2025](https://jobright.ai/jobs/info/6786ae8bd76554165e5850fe?utm_campaign=1063&utm_source=git)** | Dallas - Main | Hybrid | Jan 14 |
 | ↳ | **[Mercer / Career Consulting Summer Intern - Texas - College Program 2025](https://jobright.ai/jobs/info/6786ae8bd76554165e5850f9?utm_campaign=1063&utm_source=git)** | Houston - Dallas | Hybrid | Jan 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Centers for Medicare & Medicaid Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6786a286286e7354b665e288?utm_campaign=1063&utm_source=git)** | US - MD, Hanover | On Site | Jan 14 |
 | ↳ | **[Intern - Centers for Medicare & Medicaid Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6786a286286e7354b665e367?utm_campaign=1063&utm_source=git)** | US - VA, McLean | On Site | Jan 14 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Financial Services Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/678694f720f761736052e191?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Jan 14 |
 | **[JMAN Group](https://www.jmangroup.com/)** | **[Intern Consultant](https://jobright.ai/jobs/info/67868c978d673e51736da2e4?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jan 14 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Innosight Summer 2025 Analyst - 2026 Undergraduates](https://jobright.ai/jobs/info/6785a934cb1f9eb8e6605a2d?utm_campaign=1063&utm_source=git)** | Boston, AR | On Site | Jan 14 |
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2025)](https://jobright.ai/jobs/info/66da13b0f9e7a8dc71bc3ab3?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 14 |
 | **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55bf?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Jan 14 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Public Sector Compliance Consultant](https://jobright.ai/jobs/info/6724e023932fbb86d4635e43?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Jan 14 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Innosight Summer Analyst 2025](https://jobright.ai/jobs/info/67872d19a388a9fad4936986?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 13 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Consultant - Forensic, Litigation & Valuation Services](https://jobright.ai/jobs/info/672be6aff162b4bd9191a3fa?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Global Philanthropy - Summer 2025](https://jobright.ai/jobs/info/6785b49b50f4b363f76225a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 13 |
-| ↳ | **[Innosight Summer Analyst 2025](https://jobright.ai/jobs/info/6785a934cb1f9eb8e6605a2d?utm_campaign=1063&utm_source=git)** | Boston, AR | On Site | Jan 13 |
 | **[ZS](https://www.zs.com/)** | **[Strategy Insights & Planning Associate Consultant Intern (ZS Cognitive) (North America - University Students)](https://jobright.ai/jobs/info/6785853148fcb61a7529c417?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/6785853148fcb61a7529c6ff?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Jan 13 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/67856fa779f77260a176bfae?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Jan 13 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Process Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/67478aa7495c2f320c3767bc?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Jan 12 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 10 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - Minneapolis](https://jobright.ai/jobs/info/678221d4fbfb9886b60105c8?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 10 |
+| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/6789083043ea3092b0ca352f?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jan 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Consulting Services – Analyst, Power Systems Strategy Intern - Summer2025](https://jobright.ai/jobs/info/6781ffa3b67579182f367f84?utm_campaign=1063&utm_source=git)** | Schenectady, NY | On Site | Jan 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6781ffd1718f4b7b4b84f4c3?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 10 |
 | ↳ | **[Managed Application Services Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6781e66aef69c8b14442bfa9?utm_campaign=1063&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 10 |
@@ -126,34 +130,31 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Consulting - Connected Solutions Intern - Summer 2025](https://jobright.ai/jobs/info/6781a8d71b4f54476631db4a?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 10 |
 | ↳ | **[Consulting - Connected Physical Products - Electrical Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/6781a8d71b4f54476631db3e?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Jan 10 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67814b6494c7fcec06a4adc5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67814b6494c7fcec06a4adc9?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67814b6494c7fcec06a4adca?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/67814b6494c7fcec06a4adcb?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/678134468bb69b49cc5ddc43?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/67814b6494c7fcec06a4adc8?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67814b6494c7fcec06a4adcf?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/67814b6494c7fcec06a4adce?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/678138def94982cf8b6ca5bf?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/678138def94982cf8b6ca5c3?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/678138def94982cf8b6ca5c2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/678138def94982cf8b6ca5c1?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/678138def94982cf8b6ca5c6?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/678138def94982cf8b6ca5c3?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/678134468bb69b49cc5ddbd3?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/678134468bb69b49cc5ddb72?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/678134468bb69b49cc5ddcca?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c020111c?utm_campaign=1063&utm_source=git)** | Manhattan, New York | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c0201121?utm_campaign=1063&utm_source=git)** | Manhattan, New York | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c02010f6?utm_campaign=1063&utm_source=git)** | Manhattan, New York | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c020111e?utm_campaign=1063&utm_source=git)** | Houston, Texas | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c0201125?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c0201111?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c0201126?utm_campaign=1063&utm_source=git)** | Houston, Texas | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c020111a?utm_campaign=1063&utm_source=git)** | Houston, Texas | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c020111d?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c02010fb?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c02010f7?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c0201129?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Jan 10 |
 | ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c020111f?utm_campaign=1063&utm_source=git)** | Houston, Texas | On Site | Jan 10 |
-| ↳ | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c0201127?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Jan 10 |
+| ↳ | **[Consulting Intern, Sustainability (Internship)](https://jobright.ai/jobs/info/67812674796ccae1c0201126?utm_campaign=1063&utm_source=git)** | Houston, Texas | On Site | Jan 10 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e620?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Jan 10 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/674f3a6afec05a12a895f7e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96cf?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Jan 10 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6780e7624bb6bab8898dd7a5?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Jan 10 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Jan 09 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Consulting Intern](https://jobright.ai/jobs/info/6788a32b35549df906d5a742?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 09 |
-| **[PwC](http://pwc.com)** | **[Consulting - Connected Physical Products - Electrical Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/67812947a9cc3ac0a119977a?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Jan 09 |
-| ↳ | **[Consulting - Connected Physical Products - Electrical Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/67812947a9cc3ac0a1199750?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Jan 09 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/67639f1241f242f7d376d827?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Jan 09 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant – Customer Programs - Energy, Sustainability, & Infrastructure Solutions – Campus 2025](https://jobright.ai/jobs/info/67803ad040c781ec58c06dbc?utm_campaign=1063&utm_source=git)** | Boulder, CO | On Site | Jan 09 |
+| **[PwC](http://pwc.com)** | **[Consulting - Connected Physical Products - Electrical Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/67812947a9cc3ac0a1199750?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
