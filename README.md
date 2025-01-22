@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Summer Associate Consultant - Data Strategy & Analytics](https://jobright.ai/jobs/info/679058c6e93de7ac0fa8db9c?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
+| **[Emerson](http://www.emerson.com)** | **[Lifecycle Management Service Intern](https://jobright.ai/jobs/info/679052d3662a221c5967f647?utm_campaign=1063&utm_source=git)** | Round Rock, TX | On Site | Jan 21 |
+| **[Arcadis](http://www.arcadis.com)** | **[Data Analyst/Management Consultant Intern](https://jobright.ai/jobs/info/679042b4b221b05435cdfcc5?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Emerson](http://www.emerson.com)** | **[Lifecycle Management Service Intern](https://jobright.ai/jobs/info/679020190a4b62dc8430b67a?utm_campaign=1063&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Jan 21 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/67901ccc52e143626865f737?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6790131999662b76dd76a7e2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3167?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Jan 21 |
-| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3169?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Jan 21 |
-| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3168?utm_campaign=1063&utm_source=git)** | CA-San Francisco | On Site | Jan 21 |
-| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f307c?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Jan 21 |
-| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3173?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Jan 21 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3168?utm_campaign=1063&utm_source=git)** | CA-San Francisco | On Site | Jan 21 |
 | ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f316e?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Jan 21 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3167?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Jan 21 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3173?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Jan 21 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3169?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Jan 21 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f307c?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Jan 21 |
 | ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f316f?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Jan 21 |
 | ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3172?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Jan 21 |
 | **[FI Group](https://fr.fi-group.com/)** | **[Consultant Internship/Co-Op Spring - Summer 2025](https://jobright.ai/jobs/info/678fe5f2542afb1e73d865d9?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
@@ -73,12 +77,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Career Consulting Summer Intern - Washington DC - College Program 2025](https://jobright.ai/jobs/info/678fc98a581e8de8624a8596?utm_campaign=1063&utm_source=git)** | Washington - Conn Ave NW | Hybrid | Jan 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/678fb848a324c792a52fdb18?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f3a1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 21 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678f85fefdc47534c0440431?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 21 |
-| ↳ | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678f85fefdc47534c0440455?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678f85fefdc47534c0440455?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | ↳ | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678f75afe12235b228e6139d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| ↳ | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678f6ed8ecc980a33f6ea15e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678ec53ded1fc171a6cb112e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| ↳ | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678ec53ded1fc171a6cb1141?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678c8655acee4437ad3d56cc?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 18 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/678b3c2c7fbbf038e405cdfa?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jan 17 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/678b29b9c01e74f3cdc6e019?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 17 |
@@ -104,13 +105,13 @@ For a complete list, click the following sortable link below:
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/6789c8afbb29aba916d17006?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Jan 16 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/6789af79aeecd984dd4b0131?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Travel Consultant Trainee](https://jobright.ai/jobs/info/6789a7468f944da7871ef9e0?utm_campaign=1063&utm_source=git)** | Simi Valley, CA | On Site | Jan 16 |
-| **[Kyndryl](https://www.kyndryl.com)** | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec99ed?utm_campaign=1063&utm_source=git)** | Phoenix, AZ, USA | On Site | Jan 16 |
-| ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec99ec?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | Jan 16 |
-| ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec99f1?utm_campaign=1063&utm_source=git)** | CA, USA | On Site | Jan 16 |
+| **[Kyndryl](https://www.kyndryl.com)** | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec99f1?utm_campaign=1063&utm_source=git)** | CA, USA | On Site | Jan 16 |
 | ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec99f0?utm_campaign=1063&utm_source=git)** | MD, USA | On Site | Jan 16 |
+| ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec99ed?utm_campaign=1063&utm_source=git)** | Phoenix, AZ, USA | On Site | Jan 16 |
+| ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec9967?utm_campaign=1063&utm_source=git)** | Houston (US152472) | On Site | Jan 16 |
 | ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec9977?utm_campaign=1063&utm_source=git)** | FL, USA | On Site | Jan 16 |
+| ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec9a1f?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | Jan 16 |
 | ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec9a24?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Jan 16 |
-| ↳ | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67898f48f03abb4625ec9a23?utm_campaign=1063&utm_source=git)** | Houston (US152472) | On Site | Jan 16 |
 | **[IQVIA](https://www.iqvia.com)** | **[Digital Enablement Advanced Analytics Intern (Summer 2025, Hybrid)](https://jobright.ai/jobs/info/678931ec3e11da4739055e16?utm_campaign=1063&utm_source=git)** | Wayne, PA, Unites States of America | Hybrid | Jan 16 |
 | **[Moody's Corporation](www.moodys.com)** | **[Advisory Services, Technical Consulting Summer Internship](https://jobright.ai/jobs/info/6753bb9e6c9342aef197bb42?utm_campaign=1063&utm_source=git)** | Hoboken, NJ | On Site | Jan 16 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Summer Associate Consultant - Commercial Analytics](https://jobright.ai/jobs/info/673d609c440c0b23cc76c8a1?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Jan 16 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Product "Agency" Technology Consultant - 2025 Summer Intern](https://jobright.ai/jobs/info/674fb13bb6ddba4bf21fc006?utm_campaign=1063&utm_source=git)** | Southlake, TX | Hybrid | Jan 15 |
 | **[Evans Consulting](https://www.evansconsulting.com)** | **[Future Interest in Evans Consulting](https://jobright.ai/jobs/info/67881088f14bd6dbf9b337eb?utm_campaign=1063&utm_source=git)** | Falls Church, VA | Hybrid | Jan 15 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Environmental Consultant, Intern](https://jobright.ai/jobs/info/6788b8f37fe8369b27459ec4?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Jan 15 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Centers for Medicare & Medicaid Services, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6787aa2f547cc419145a9742?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
