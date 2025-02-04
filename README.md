@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Consulting - Connected Solutions Intern - Summer 2025](https://jobright.ai/jobs/info/6781a8d71b4f54476631db4a?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 04 |
+| **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96cf?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Feb 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 03 |
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a161723f4a6fc5e3c28e4d?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Feb 03 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67a1492246b40884e9702d78?utm_campaign=1063&utm_source=git)** | Albany, MN | On Site | Feb 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Organization Transformation and Change Consultant, Intern](https://jobright.ai/jobs/info/67a13d640544c0ea68a66ffc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 03 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2025)](https://jobright.ai/jobs/info/67a1492246b40884e9702d5a?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 03 |
+| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/67856fa779f77260a176bfae?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Feb 03 |
 | **[Guidewire Software](http://www.guidewire.com)** | **[Consultant Developer Intern](https://jobright.ai/jobs/info/67a123b6bfa397fc6dfc63db?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/67a127e5c90df92968a47ae3?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Feb 03 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2025)](https://jobright.ai/jobs/info/67a10ac6aa9d34b2e0595c68?utm_campaign=1063&utm_source=git)** | Richmond, VA, USA | On Site | Feb 03 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f2f970246d6291319722b?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f2f970246d62913197211?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 01 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/678134468bb69b49cc5ddc43?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf91?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Feb 01 |
-| ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf9b?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Feb 01 |
+| **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf9b?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Feb 01 |
+| ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf91?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf86?utm_campaign=1063&utm_source=git)** | Oakland, CA, USA | On Site | Feb 01 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/6792bffd798b2f22764db8ca?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Feb 01 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/679e2690a27ed03d23ba8640?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
@@ -124,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/6799bb0f26656107e3c40adc?utm_campaign=1063&utm_source=git)** | Los Angeles County, CA | On Site | Jan 28 |
 | ↳ | **[Delivering Deal Value (DDV) Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/6799bb0f26656107e3c40afb?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 28 |
 | ↳ | **[Delivering Deal Value (DDV) Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/6799bb0f26656107e3c40b00?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Jan 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/679949874f7c7a3c85f45675?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
-| ↳ | **[D365 Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/679949874f7c7a3c85f45814?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
