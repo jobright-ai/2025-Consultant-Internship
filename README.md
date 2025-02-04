@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[URUS Group](https://www.urus.org)** | **[Data Consultant Intern](https://jobright.ai/jobs/info/67a25e9140e2096096212dd7?utm_campaign=1063&utm_source=git)** | 2056 County Rd 70, Fort Collins, CO, 80524, US | On Site | Feb 04 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern, Deployment](https://jobright.ai/jobs/info/67a25872a56a1308da6b5b6c?utm_campaign=1063&utm_source=git)** | Detroit, MI | Hybrid | Feb 04 |
 | **[PwC](http://pwc.com)** | **[Consulting - Connected Solutions Intern - Summer 2025](https://jobright.ai/jobs/info/6781a8d71b4f54476631db4a?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 04 |
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96cf?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Feb 03 |
@@ -76,9 +78,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f2f970246d6291319722b?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f2f970246d62913197211?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 01 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/678134468bb69b49cc5ddc43?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf9b?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Feb 01 |
+| **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf86?utm_campaign=1063&utm_source=git)** | Oakland, CA, USA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf91?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Feb 01 |
-| ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf86?utm_campaign=1063&utm_source=git)** | Oakland, CA, USA | On Site | Feb 01 |
+| ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf9b?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Feb 01 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/6792bffd798b2f22764db8ca?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Feb 01 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/679e2690a27ed03d23ba8640?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66e9d043c3c7655109d0ebfa?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/679cf4d5dc665a572a99020e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 31 |
 | **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/6789feef06fe82bccf05ec68?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Jan 31 |
-| **[PwC](http://pwc.com)** | **[Cyber Security Consulting Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c5de38229ed405b844f03?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Jan 30 |
-| ↳ | **[Legal Managed Services Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c5de38229ed405b844f01?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 30 |
+| **[PwC](http://pwc.com)** | **[Legal Managed Services Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c5de38229ed405b844f01?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 30 |
+| ↳ | **[Cyber Security Consulting Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c5de38229ed405b844f03?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Jan 30 |
 | ↳ | **[Deals - Financial Due Diligence Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1537a5929ce8a6a66f60?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Jan 30 |
 | ↳ | **[Business Processes Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/679c1171bf719a4076943e16?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
 | ↳ | **[Deals - Financial Due Diligence Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1171bf719a4076943e2c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
@@ -119,12 +121,9 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd487801?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 29 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Integrated Veteran Care, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/6762423846af3380dd8a6a8b?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 29 |
 | **[TARGUS Management Consulting](https://targusmc.com/)** | **[MBA Consulting Internship](https://jobright.ai/jobs/info/679a71b747dd77b1a8ba7c4e?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 29 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/67a23a5b0e1c98f03a2e869a?utm_campaign=1063&utm_source=git)** | WA-Seattle | On Site | Jan 29 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/67a23a5b0e1c98f03a2e8699?utm_campaign=1063&utm_source=git)** | TX-Dallas | On Site | Jan 29 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/6749414d90fc835c41443148?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Jan 29 |
 | ↳ | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/675c24053f10421ec83e04ea?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | **[Leidos](https://www.leidos.com/)** | **[Energy and Infrastructure Consulting Division Summer Intern](https://jobright.ai/jobs/info/679a2736694b4dd29f1b1a00?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 29 |
-| **[Arup](http://www.arup.com)** | **[Acoustic/Audio Visual Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c241?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
-| **[ZS](https://www.zs.com/)** | **[Digital Products Associate Consultant - Intern](https://jobright.ai/jobs/info/67999f425b7220b745f9ffa7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/6799bb0f26656107e3c40adc?utm_campaign=1063&utm_source=git)** | Los Angeles County, CA | On Site | Jan 28 |
-| ↳ | **[Delivering Deal Value (DDV) Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/6799bb0f26656107e3c40afb?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 28 |
-| ↳ | **[Delivering Deal Value (DDV) Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/6799bb0f26656107e3c40b00?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
