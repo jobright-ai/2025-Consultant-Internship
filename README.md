@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Power Systems Technical Consultant](https://jobright.ai/jobs/info/67a36712f09479eddb2002e0?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 05 |
+| **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67a3a3f1741344a5363d8fa3?utm_campaign=1063&utm_source=git)** | Long Prairie, MN | On Site | Feb 05 |
+| **[The Faulkner Organization](https://www.tobesure.com/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3bc40f2c26a382d28eba0?utm_campaign=1063&utm_source=git)** | Harrisburg, PA | On Site | Feb 05 |
+| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3bc40f2c26a382d28eba1?utm_campaign=1063&utm_source=git)** | Doylestown, PA | On Site | Feb 05 |
+| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3bc40f2c26a382d28eba2?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Feb 05 |
+| **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67a3774b67c746a35118a9aa?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 05 |
+| ↳ | **[Grid Software Internship: Power Systems Technical Consultant](https://jobright.ai/jobs/info/67a36712f09479eddb2002e0?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 05 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2025](https://jobright.ai/jobs/info/66bf9225a67216719249889f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/677f9c14528a335105f4a987?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a8647b6e93535c465f142?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Miami Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f95?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | Hybrid | Feb 05 |
 | ↳ | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 05 |
@@ -86,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Feb 03 |
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a161723f4a6fc5e3c28e4d?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Feb 03 |
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67a1492246b40884e9702a35?utm_campaign=1063&utm_source=git)** | Sauk Centre, MN | On Site | Feb 03 |
-| ↳ | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67a1492246b40884e9702d78?utm_campaign=1063&utm_source=git)** | Albany, MN | On Site | Feb 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Organization Transformation and Change Consultant, Intern](https://jobright.ai/jobs/info/67a13d640544c0ea68a66ffc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 03 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2025)](https://jobright.ai/jobs/info/67a1492246b40884e9702d5a?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 03 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/67856fa779f77260a176bfae?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Feb 03 |
@@ -98,9 +104,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f2f970246d6291319722b?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f2f970246d62913197211?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 01 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Climate (Internship)](https://jobright.ai/jobs/info/678134468bb69b49cc5ddc43?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf86?utm_campaign=1063&utm_source=git)** | Oakland, CA, USA | On Site | Feb 01 |
+| **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf9b?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf91?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Feb 01 |
-| ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf9b?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Feb 01 |
+| ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf86?utm_campaign=1063&utm_source=git)** | Oakland, CA, USA | On Site | Feb 01 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/6792bffd798b2f22764db8ca?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Feb 01 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/679e2690a27ed03d23ba8640?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66e9d043c3c7655109d0ebfa?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
@@ -118,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/6789feef06fe82bccf05ec68?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Jan 31 |
 | **[PwC](http://pwc.com)** | **[Legal Managed Services Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c5de38229ed405b844f01?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 30 |
 | ↳ | **[Deals - Financial Due Diligence Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1537a5929ce8a6a66f60?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Jan 30 |
-| ↳ | **[Business Processes Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/679c1171bf719a4076943e30?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
+| ↳ | **[Business Processes Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/679c1171bf719a4076943e16?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
 | ↳ | **[Deals - Financial Due Diligence Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1171bf719a4076943e2c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
 | ↳ | **[Deals - Financial Due Diligence Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1171bf719a4076943e32?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Jan 30 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1171bf719a4076943e39?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
@@ -133,7 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/679c3aabc4fea47eabb8cc19?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern – Summer 2025](https://jobright.ai/jobs/info/679b54904af3bd40cc100017?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Strategy Intern, NVIDIA Partner Network - Summer 2025](https://jobright.ai/jobs/info/679b17e675b006b8e4d16319?utm_campaign=1063&utm_source=git)** | Santa Clara, CA | On Site | Jan 29 |
-| **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/679ad1de143399ba95b68a2d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Strategy Intern, NVIDIA Partner Network - Summer 2025](https://jobright.ai/jobs/info/679aba2a3039c5e6481cdda5?utm_campaign=1063&utm_source=git)** | US, CA, Santa Clara | On Site | Jan 29 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[Quant Research Consultant (Summer 2025 - PhD Students)](https://jobright.ai/jobs/info/679ab43b409a2181349380d0?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
