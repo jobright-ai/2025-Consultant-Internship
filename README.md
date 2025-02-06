@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bolton](http://www.BoltonUSA.com)** | **[H&W Intern](https://jobright.ai/jobs/info/67a47bae2f188f6d0e5862d1?utm_campaign=1063&utm_source=git)** | Towson, MD | On Site | Feb 05 |
+| **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT BOSTON](https://jobright.ai/jobs/info/679822415ee642eade346d11?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
 | **[BerlinRosen](https://berlinrosen.com)** | **[Strategy & Culture Consulting Summer 2025 Internship](https://jobright.ai/jobs/info/67a4429a7866727b3caa6317?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Crowe](https://www.crowe.com/)** | **[Financial Crime Consultant Summer 2025](https://jobright.ai/jobs/info/67a42f4998e77eab638691f0?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[CBIZ](http://www.cbiz.com)** | **[General Advisory Intern / Summer 2025](https://jobright.ai/jobs/info/67a40c16ee18f5addb0a4e0c?utm_campaign=1063&utm_source=git)** | West Conshohocken, PA | On Site | Feb 05 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[The Faulkner Organization](https://www.tobesure.com/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3bc40f2c26a382d28eba0?utm_campaign=1063&utm_source=git)** | Harrisburg, PA | On Site | Feb 05 |
 | ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3bc40f2c26a382d28eba1?utm_campaign=1063&utm_source=git)** | Doylestown, PA | On Site | Feb 05 |
 | ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3bc40f2c26a382d28eba2?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Feb 05 |
-| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3c2a4134ca599c4165d9d?utm_campaign=1063&utm_source=git)** | Feasterville-Trevose, PA | On Site | Feb 05 |
 | ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3c2a4134ca599c4165d9c?utm_campaign=1063&utm_source=git)** | Mechanicsburg, PA | On Site | Feb 05 |
+| ↳ | **[Sales Consultant Intern](https://jobright.ai/jobs/info/67a3c2a4134ca599c4165d9d?utm_campaign=1063&utm_source=git)** | Feasterville-Trevose, PA | On Site | Feb 05 |
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67a3774b67c746a35118a9aa?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 05 |
 | ↳ | **[Grid Software Internship: Power Systems Technical Consultant](https://jobright.ai/jobs/info/67a36712f09479eddb2002e0?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 05 |
 | **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55bf?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Feb 05 |
@@ -136,14 +137,11 @@ For a complete list, click the following sortable link below:
 | **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/6789feef06fe82bccf05ec68?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Jan 31 |
 | **[PwC](http://pwc.com)** | **[Legal Managed Services Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c5de38229ed405b844f01?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 30 |
 | ↳ | **[Deals - Financial Due Diligence Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1537a5929ce8a6a66f60?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Jan 30 |
-| ↳ | **[Business Processes Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/679c1171bf719a4076943e30?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
 | ↳ | **[Deals - Financial Due Diligence Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1171bf719a4076943e2c?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
+| ↳ | **[Business Processes Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/679c1171bf719a4076943e30?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
 | ↳ | **[Deals - Financial Due Diligence Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1171bf719a4076943e32?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Jan 30 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c1171bf719a4076943e39?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
 | ↳ | **[Management Consulting Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c075cbbba8d61d172b4f4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 30 |
 | ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c075cbbba8d61d172b4f6?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jan 30 |
 | ↳ | **[Risk Consulting Intern - Summer 2026 - Women's Consulting Experience](https://jobright.ai/jobs/info/679c075cbbba8d61d172b503?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[US Consulting Intern Summer 2026 (IT Audit/ Internal Audit)](https://jobright.ai/jobs/info/679c057f66bfc6200b21b893?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
-| ↳ | **[US Consulting Intern Summer 2026 (IT Audit/ Internal Audit)](https://jobright.ai/jobs/info/679bd3f21c57125b955c52c1?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jan 30 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - New York City](https://jobright.ai/jobs/info/679bc8bc8e036837123f53af?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
