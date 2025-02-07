@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Segal](https://www.segalco.com)** | **[Intern, Pharmacy Benefits Consulting (Spring 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06103?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Feb 06 |
-| ↳ | **[Intern, Pharmacy Benefits Consulting (Summer 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06119?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Feb 06 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/67887fe1e6c651382b769143?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Feb 07 |
+| ↳ | **[D365 Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/67a5d7dfab38e7520aee02dc?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Feb 07 |
+| **[Segal](https://www.segalco.com)** | **[Intern, Pharmacy Benefits Consulting (Summer 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06119?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Feb 06 |
+| ↳ | **[Intern, Pharmacy Benefits Consulting (Spring 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06103?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Feb 06 |
 | **[MGT](http://www.mgtconsulting.com)** | **[Intern, Education Consulting](https://jobright.ai/jobs/info/67a53febd4fcbb5aff2beade?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Workforce Health Consulting Bachelor's Intern](https://jobright.ai/jobs/info/67a4ef1cfa2b75004e046d18?utm_campaign=1063&utm_source=git)** | Oakland, CA | Remote | Feb 06 |
 | ↳ | **[Workforce Health Consulting Master's Intern](https://jobright.ai/jobs/info/67a4ef1cfa2b75004e046cea?utm_campaign=1063&utm_source=git)** | Oakland, CA | Remote | Feb 06 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/67359f844b047ec7b5973ed2?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | **[Bolton](http://www.BoltonUSA.com)** | **[H&W Intern](https://jobright.ai/jobs/info/67a47bae2f188f6d0e5862d1?utm_campaign=1063&utm_source=git)** | Towson, MD | On Site | Feb 05 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/67814b6494c7fcec06a4adc7?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT BOSTON](https://jobright.ai/jobs/info/679822415ee642eade346d11?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67a3a3f1741344a5363d8fa3?utm_campaign=1063&utm_source=git)** | Long Prairie, MN | On Site | Feb 05 |
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67a3774b67c746a35118a9aa?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 05 |
 | ↳ | **[Grid Software Internship: Power Systems Technical Consultant](https://jobright.ai/jobs/info/67a36712f09479eddb2002e0?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 05 |
-| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55bf?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Feb 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2025](https://jobright.ai/jobs/info/66bf9225a67216719249889f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/677f9c14528a335105f4a987?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a8647b6e93535c465f142?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
@@ -105,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a161723f4a6fc5e3c28e4d?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Feb 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Organization Transformation and Change Consultant, Intern](https://jobright.ai/jobs/info/67a13d640544c0ea68a66ffc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 03 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2025)](https://jobright.ai/jobs/info/67a1492246b40884e9702d5a?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 03 |
-| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/67856fa779f77260a176bfae?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Feb 03 |
 | **[Guidewire Software](http://www.guidewire.com)** | **[Consultant Developer Intern](https://jobright.ai/jobs/info/67a123b6bfa397fc6dfc63db?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/67a127e5c90df92968a47ae3?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Feb 03 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2025)](https://jobright.ai/jobs/info/67a10ac6aa9d34b2e0595c68?utm_campaign=1063&utm_source=git)** | Richmond, VA, USA | On Site | Feb 03 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f3cbd23d41dc499ce1720?utm_campaign=1063&utm_source=git)** | Bellevue, WA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f2f970246d6291319722b?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679f2f970246d62913197211?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 01 |
-| ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf91?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf86?utm_campaign=1063&utm_source=git)** | Oakland, CA, USA | On Site | Feb 01 |
+| ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf91?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Feb 01 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf9b?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Feb 01 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/6792bffd798b2f22764db8ca?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Feb 01 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/679e2690a27ed03d23ba8640?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
@@ -126,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation - Intern](https://jobright.ai/jobs/info/679d89735e6fcfa9a5c7a1d2?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Jan 31 |
 | **[Bold](https://www.agebold.com/)** | **[Pricing Project Consultant (MBA Opportunity)](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9a94?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Jan 31 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66735?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Jan 31 |
-| **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/679d516f6f41bc84cb66f9c4?utm_campaign=1063&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
-| ↳ | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/679d516f6f41bc84cb66fc6f?utm_campaign=1063&utm_source=git)** | Melrose, MN | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
