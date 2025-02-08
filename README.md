@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/67356de01c0ebdc19a3a5910?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 08 |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/674a9f06fe3901efa05203b0?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 08 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 08 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 08 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
@@ -69,13 +70,14 @@ For a complete list, click the following sortable link below:
 | **[Braze](https://www.braze.com)** | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feac52?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feaf2a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feaf2b?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
-| ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a650f3c2081b8bdc5ff066?utm_campaign=1063&utm_source=git)** | New York City | On Site | Feb 07 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a650f3c2081b8bdc5ff139?utm_campaign=1063&utm_source=git)** | Austin | On Site | Feb 07 |
+| ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a650f3c2081b8bdc5ff066?utm_campaign=1063&utm_source=git)** | New York City | On Site | Feb 07 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a650f3c2081b8bdc5ff138?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Feb 07 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2025 – Research Consultant Intern](https://jobright.ai/jobs/info/67a64fb29d18b46b7de3811b?utm_campaign=1063&utm_source=git)** | US-VA Richmond | Hybrid | Feb 07 |
 | **[Thought Logic Consulting](http://thought-logic.com/)** | **[FP&A Summer Consulting Intern](https://jobright.ai/jobs/info/67a6420990016b85876815b5?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/679cf4d5dc665a572a99020e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/67a62e7c9d997f4723c462eb?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6737a943d3219f92bf9737cc?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 07 |
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2025)](https://jobright.ai/jobs/info/66da13b0f9e7a8dc71bc3ab3?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Feb 07 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Transactions (Internship)](https://jobright.ai/jobs/info/678138def94982cf8b6ca5c4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/67887fe1e6c651382b769143?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Feb 07 |
