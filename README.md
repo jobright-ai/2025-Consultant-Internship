@@ -66,9 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Braze](https://www.braze.com)** | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feac52?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feaf2a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feaf2b?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
-| ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a650f3c2081b8bdc5ff066?utm_campaign=1063&utm_source=git)** | New York City | On Site | Feb 07 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a650f3c2081b8bdc5ff139?utm_campaign=1063&utm_source=git)** | Austin | On Site | Feb 07 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a650f3c2081b8bdc5ff138?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Feb 07 |
+| ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a650f3c2081b8bdc5ff066?utm_campaign=1063&utm_source=git)** | New York City | On Site | Feb 07 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2025 – Research Consultant Intern](https://jobright.ai/jobs/info/67a64fb29d18b46b7de3811b?utm_campaign=1063&utm_source=git)** | US-VA Richmond | Hybrid | Feb 07 |
 | **[Thought Logic Consulting](http://thought-logic.com/)** | **[FP&A Summer Consulting Intern](https://jobright.ai/jobs/info/67a6420990016b85876815b5?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/679cf4d5dc665a572a99020e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/679e6620d5cc3a2e799fdf9b?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Feb 01 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2026](https://jobright.ai/jobs/info/6792bffd798b2f22764db8ca?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Feb 01 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/679e2690a27ed03d23ba8640?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66e9d043c3c7655109d0ebfa?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
