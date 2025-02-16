@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Summer Associate Consultant - Commercial Analytics](https://jobright.ai/jobs/info/673d609c440c0b23cc76c8a1?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Feb 15 |
-| ↳ | **[Summer Associate Consultant](https://jobright.ai/jobs/info/679058c6e93de7ac0fa8db9c?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Feb 15 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/67b09522ee638d5423ea2b41?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Feb 15 |
 | ↳ | **[Security Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/67b09522ee638d5423ea2b43?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Feb 15 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/67916161f423193ea2838060?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/677e36e887d5da105be90cf8?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Feb 10 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc91?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Feb 09 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/678ad53b2ef675b65243afb2?utm_campaign=1063&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
-| **[Maharishi International University](https://www.miu.edu/)** | **[FWS Writing Center Consultant - Spring 2025](https://jobright.ai/jobs/info/67aafc5cdac274e2af6615dd?utm_campaign=1063&utm_source=git)** | Fairfield, IA | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
