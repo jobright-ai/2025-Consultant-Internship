@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Process Improvement (BPI) Intern](https://jobright.ai/jobs/info/67b2aaa9aed13790ea8197b5?utm_campaign=1063&utm_source=git)** | Spring, TX | On Site | Feb 16 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Intern Summer 2025](https://jobright.ai/jobs/info/67aabea2d8cb900e1a7bf52d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2026)](https://jobright.ai/jobs/info/66cfc90e0d040a05fce809a2?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Feb 15 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Summer Associate Consultant](https://jobright.ai/jobs/info/679058c6e93de7ac0fa8db9c?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Feb 15 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67aae4424f3d707c9f9c28f0?utm_campaign=1063&utm_source=git)** | Osseo, MN | On Site | Feb 10 |
 | ↳ | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67aa8d3d5694e2657133b748?utm_campaign=1063&utm_source=git)** | Coon Rapids, MN | On Site | Feb 10 |
 | ↳ | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67aa8d3d5694e2657133b94a?utm_campaign=1063&utm_source=git)** | Maple Grove, MN | On Site | Feb 10 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/67aa6c8e4b2d5a7a74c5e6cc?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67aa66302f1513602cfd15d1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/67a980bb42f4b63cfe510923?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
