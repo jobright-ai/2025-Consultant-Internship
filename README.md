@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation - Intern](https://jobright.ai/jobs/info/679d89735e6fcfa9a5c7a1d2?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Feb 22 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66e9d043c3c7655109d0ebfa?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
 | **[CBIZ](http://www.cbiz.com)** | **[Information Systems Intern / Summer 2026](https://jobright.ai/jobs/info/67b93047523312ea7214d3c4?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Office of the President Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c557?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 | ↳ | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67b93047523312ea7214d4d5?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
@@ -101,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Process Improvement (BPI) Intern](https://jobright.ai/jobs/info/67b2aaa9aed13790ea8197b5?utm_campaign=1063&utm_source=git)** | Spring, TX | On Site | Feb 18 |
 | **[Arup](http://www.arup.com)** | **[Acoustic/Audio Visual Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c241?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Feb 18 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - MBA Business Value & Strategic Selling Consultant](https://jobright.ai/jobs/info/67b508ec09bd5dc6c4c7e8a0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/67b4d756ce7967563039beba?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 18 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/67b4d95fce7967563039c84e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[ZS](https://www.zs.com/)** | **[Digital Products Associate Consultant - Intern](https://jobright.ai/jobs/info/67999f425b7220b745f9ffa7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Consulting Intern](https://jobright.ai/jobs/info/6798cd2628e4ce8f1984d419?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
@@ -121,40 +123,38 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd09e?utm_campaign=1063&utm_source=git)** | Conway, SC | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd09f?utm_campaign=1063&utm_source=git)** | Missoula, MT | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a0?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a2?utm_campaign=1063&utm_source=git)** | Frederick, MD | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a1?utm_campaign=1063&utm_source=git)** | Harrisburg, PA | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a3?utm_campaign=1063&utm_source=git)** | Orem, UT | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a2?utm_campaign=1063&utm_source=git)** | Frederick, MD | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a5?utm_campaign=1063&utm_source=git)** | Lowell, MA | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a4?utm_campaign=1063&utm_source=git)** | Las Cruces, NM | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a6?utm_campaign=1063&utm_source=git)** | Santa Fe, NM | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a7?utm_campaign=1063&utm_source=git)** | Williamsburg, VA | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a8?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a7?utm_campaign=1063&utm_source=git)** | Williamsburg, VA | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0a9?utm_campaign=1063&utm_source=git)** | Annandale, VA | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0aa?utm_campaign=1063&utm_source=git)** | Norfolk, VA | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ac?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ab?utm_campaign=1063&utm_source=git)** | Geneseo, NY | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b5?utm_campaign=1063&utm_source=git)** | Bellingham, WA | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ac?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0af?utm_campaign=1063&utm_source=git)** | Aurora, CO | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b8?utm_campaign=1063&utm_source=git)** | Bowie, MD | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b2?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0af?utm_campaign=1063&utm_source=git)** | Aurora, CO | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b7?utm_campaign=1063&utm_source=git)** | Thornton, CO | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b3?utm_campaign=1063&utm_source=git)** | Essex Junction, VT | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b0?utm_campaign=1063&utm_source=git)** | Largo, MD | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b1?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b6?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ad?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ae?utm_campaign=1063&utm_source=git)** | Bowling Green, OH | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ad?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b4?utm_campaign=1063&utm_source=git)** | Augusta, GA | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b1?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b0?utm_campaign=1063&utm_source=git)** | Largo, MD | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b6?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b5?utm_campaign=1063&utm_source=git)** | Bellingham, WA | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b3?utm_campaign=1063&utm_source=git)** | Essex Junction, VT | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0be?utm_campaign=1063&utm_source=git)** | Auburn, ME | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0bc?utm_campaign=1063&utm_source=git)** | Eugene, OR | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ba?utm_campaign=1063&utm_source=git)** | Sterling Heights, MI | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0bf?utm_campaign=1063&utm_source=git)** | Columbus, GA | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0bd?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0bb?utm_campaign=1063&utm_source=git)** | Bozeman, MT | On Site | Feb 16 |
 | ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0b9?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0c0?utm_campaign=1063&utm_source=git)** | Lewiston, ME | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0c8?utm_campaign=1063&utm_source=git)** | Montpelier, VT | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0c9?utm_campaign=1063&utm_source=git)** | Casper, WY | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0c6?utm_campaign=1063&utm_source=git)** | Boone, NC | On Site | Feb 16 |
-| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0c5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0bf?utm_campaign=1063&utm_source=git)** | Columbus, GA | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0bb?utm_campaign=1063&utm_source=git)** | Bozeman, MT | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ba?utm_campaign=1063&utm_source=git)** | Sterling Heights, MI | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0bd?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0bc?utm_campaign=1063&utm_source=git)** | Eugene, OR | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0ca?utm_campaign=1063&utm_source=git)** | Nampa, ID | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0c7?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Feb 16 |
+| ↳ | **[Political Consulting Internship](https://jobright.ai/jobs/info/67b2cefd31f9b95985abd0c1?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
