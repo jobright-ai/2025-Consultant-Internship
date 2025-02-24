@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67bbe11a87ec5ea1a080b3c7?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Feb 23 |
 | **[PwC](http://pwc.com)** | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/67bacb1ba3143f333d6d9363?utm_campaign=1063&utm_source=git)** | Los Angeles County, CA | On Site | Feb 22 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/67baccb3a3143f333d6d9ee0?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Feb 22 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/67baccb3a3143f333d6d9ee1?utm_campaign=1063&utm_source=git)** | Washington, CA | On Site | Feb 22 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/67baccb3a3143f333d6d9ee2?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Feb 22 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation - Intern](https://jobright.ai/jobs/info/679d89735e6fcfa9a5c7a1d2?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Feb 22 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66e9d043c3c7655109d0ebfa?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
+| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Customer Support Intern (Remote Consulting)](https://jobright.ai/jobs/info/67bbe6d978707d655408f224?utm_campaign=1063&utm_source=git)** | Birmingham, MI | Remote | Feb 21 |
 | **[CBIZ](http://www.cbiz.com)** | **[Information Systems Intern / Summer 2026](https://jobright.ai/jobs/info/67b93047523312ea7214d3c4?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Office of the President Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c557?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 | ↳ | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67b93047523312ea7214d4d5?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Military Health System, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/67b76774e2f8e9a23db61c16?utm_campaign=1063&utm_source=git)** | US - VA, McLean | On Site | Feb 20 |
 | **[EDGE powered by MAGNET](https://www.edgef.org/)** | **[Business Consultant / Summer Research Fellow](https://jobright.ai/jobs/info/67b655e0e11aa749fd8309ae?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 20 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/67b6b456937665087ac508e0?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Feb 19 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a9988170b67e2cd91ba0a?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Feb 19 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69b7dc199943da3a66ae8?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 19 |
 | ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a673fd?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Feb 19 |
 | ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a673fe?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
@@ -119,7 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Developer Intern-Palmer Consulting](https://jobright.ai/jobs/info/67b3e038cd07fd29fb8003aa?utm_campaign=1063&utm_source=git)** | 8750 W Bryn Mawr Ave #500, Chicago, IL 60631, USA | On Site | Feb 17 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Project Management Intern, Tech Consulting (Hybrid - Summer 25)](https://jobright.ai/jobs/info/67b3c7f1e945d1c267e24d54?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Feb 17 |
 | ↳ | **[Salesforce Consulting Intern (Hybrid - Summer 25)](https://jobright.ai/jobs/info/67b3c7f1e945d1c267e24d2f?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Feb 17 |
-| **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 17 |
-| ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
-| ↳ | **[Minneapolis Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f70?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
