@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c556?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 24 |
-| ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c555?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
+| **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a161723f4a6fc5e3c28e4d?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Feb 25 |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c555?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
+| ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c556?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 24 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c557?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 24 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd1265c5706e737a97ab98?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Feb 24 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd1265c5706e737a97ab9d?utm_campaign=1063&utm_source=git)** | Washington, DC, USA | On Site | Feb 24 |
