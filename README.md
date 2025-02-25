@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/67bd04a51233b3d5997f9214?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 24 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Feb 24 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/67bcc0fac440d06e23a051a8?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | Feb 24 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67bbe11a87ec5ea1a080b3c7?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Feb 23 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66e9d043c3c7655109d0ebfa?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
@@ -103,13 +105,10 @@ For a complete list, click the following sortable link below:
 | **[Tevora](http://www.tevora.com/)** | **[Consultant Development Program (Summer and Fall) 2025- Healthcare](https://jobright.ai/jobs/info/67b5b10c3317aa153ba86df3?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 18 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Process Improvement (BPI) Intern](https://jobright.ai/jobs/info/67b2aaa9aed13790ea8197b5?utm_campaign=1063&utm_source=git)** | Spring, TX | On Site | Feb 18 |
 | **[Arup](http://www.arup.com)** | **[Acoustic/Audio Visual Consulting Intern (Available June 2025)](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c241?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Feb 18 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - MBA Business Value & Strategic Selling Consultant](https://jobright.ai/jobs/info/67b508ec09bd5dc6c4c7e8a0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/67b4d756ce7967563039beba?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760d30c2f1bfd3403428783?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 18 |
 | **[ZS](https://www.zs.com/)** | **[Digital Products Associate Consultant - Intern](https://jobright.ai/jobs/info/67999f425b7220b745f9ffa7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Consulting Intern](https://jobright.ai/jobs/info/6798cd2628e4ce8f1984d419?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Consultant Summer 2025](https://jobright.ai/jobs/info/6751711bc3cc5ecf0b69446b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Feb 18 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/67a824d8382d5dd89d8b69b3?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 17 |
-| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/674ad906331199392183a980?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
