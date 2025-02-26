@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber](http://www.uber.com)** | **[2025 MBA Intern - Implementation Consultant, US](https://jobright.ai/jobs/info/67bf09f05c0cbe3c55350a6c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 26 |
+| ↳ | **[2025 MBA Intern - Implementation Consultant, US](https://jobright.ai/jobs/info/67bef7d8b7cde9159a5ac1c4?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Consulting, Industrial Market, HYBRID in Chicago](https://jobright.ai/jobs/info/67be6f66a26f73013ec7ad12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 25 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/67be5ccf991f3b689d9a4a8e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/67be5eb8991f3b689d9a52d9?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 25 |
@@ -109,7 +111,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67409?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Feb 19 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Consulting, Mergers and Acquisitions - HYBRID in Chicago](https://jobright.ai/jobs/info/67b68a5218c4a1d83611ede2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 19 |
 | **[Via](http://www.ridewithvia.com)** | **[Transit and Mobility Consulting Intern](https://jobright.ai/jobs/info/67b667585157310e75b5e45d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 19 |
-| **[IBM](http://www.ibm.com)** | **[Security Consultant (Cybersecurity) Co-Op](https://jobright.ai/jobs/info/67b6476ed730db3fc0c28f4b?utm_campaign=1063&utm_source=git)** | State College, PA | Hybrid | Feb 19 |
-| ↳ | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67b6514443b69db3a5c2b975?utm_campaign=1063&utm_source=git)** | State College, PA | Hybrid | Feb 19 |
-| **[EDGE powered by MAGNET](https://www.edgef.org/)** | **[Market Research Fellow / Business Consulting](https://jobright.ai/jobs/info/67b655e0e11aa749fd8309ae?utm_campaign=1063&utm_source=git)** | Cleveland, OH | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
