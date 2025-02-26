@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Braze](https://www.braze.com)** | **[Analytics Consulting Intern](https://jobright.ai/jobs/info/67bf6cf79d9231d04a544310?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
+| ↳ | **[Analytics Consulting Intern](https://jobright.ai/jobs/info/67bf63bbbf38b04fbe0121d5?utm_campaign=1063&utm_source=git)** | New York City | On Site | Feb 26 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern - Assurance and Technology Control Services](https://jobright.ai/jobs/info/67bf361a8a0595f4492205f0?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Feb 26 |
+| **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67aee2290ed010c4e31bfc9e?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 26 |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Feb 26 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/67a2de0fd8e4696d40bb61af?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Feb 26 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/67ab0eedfd136ed43cec456d?utm_campaign=1063&utm_source=git)** | Springfield, IL | On Site | Feb 26 |
 | **[Uber](http://www.uber.com)** | **[2025 MBA Intern - Implementation Consultant, US](https://jobright.ai/jobs/info/67bf09f05c0cbe3c55350a6c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 26 |
 | ↳ | **[2025 MBA Intern - Implementation Consultant, US](https://jobright.ai/jobs/info/67bef7d8b7cde9159a5ac1c4?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Consulting, Industrial Market, HYBRID in Chicago](https://jobright.ai/jobs/info/67be6f66a26f73013ec7ad12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 25 |
@@ -88,27 +95,9 @@ For a complete list, click the following sortable link below:
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[Quant Research Consultant (Summer 2025 - PhD Students)](https://jobright.ai/jobs/info/67b0b325d85d7eb226d220c6?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Feb 21 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/677df0d0a96660f7d86fbd48?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Feb 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[US Consulting Intern Summer 2026 (IT Audit/ Internal Audit)](https://jobright.ai/jobs/info/679c057f66bfc6200b21b893?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Military Health System, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/67b7b7f732c7daa4bdaefe16?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Feb 20 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Services ](https://jobright.ai/jobs/info/677c7324e9851110c91406ba?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 20 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd487801?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Feb 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Military Health System, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/67b76774e2f8e9a23db61a74?utm_campaign=1063&utm_source=git)** | US - TX, San Antonio | On Site | Feb 20 |
-| ↳ | **[Intern - Military Health System, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/67b76774e2f8e9a23db61c16?utm_campaign=1063&utm_source=git)** | US - VA, McLean | On Site | Feb 20 |
+| **[EDGE powered by MAGNET](https://www.edgef.org/)** | **[Business Consultant / Summer Research Fellow](https://jobright.ai/jobs/info/67b655e0e11aa749fd8309ae?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 20 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67bc3f7013e1a1c729b7a5da?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/67b6b456937665087ac508e0?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Feb 19 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a9988170b67e2cd91ba0a?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Feb 19 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69b7dc199943da3a66ae8?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a673fd?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a673fe?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a673ff?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67400?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67401?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67402?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67403?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67404?utm_campaign=1063&utm_source=git)** | Columbia, MD | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67406?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67407?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67408?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 19 |
-| ↳ | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67b69d77c199943da3a67409?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Feb 19 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Consulting, Mergers and Acquisitions - HYBRID in Chicago](https://jobright.ai/jobs/info/67b68a5218c4a1d83611ede2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 19 |
-| **[Via](http://www.ridewithvia.com)** | **[Transit and Mobility Consulting Intern](https://jobright.ai/jobs/info/67b667585157310e75b5e45d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
