@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fortrea](https://www.fortrea.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1b4fc?utm_campaign=1063&utm_source=git)** | Durham, NC | Remote | Feb 26 |
+| **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/67bf99eac68ad3fcea38de78?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Feb 26 |
 | **[Braze](https://www.braze.com)** | **[Analytics Consulting Intern](https://jobright.ai/jobs/info/67bf6cf79d9231d04a544310?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
-| ↳ | **[Analytics Consulting Intern](https://jobright.ai/jobs/info/67bf63bbbf38b04fbe0121d5?utm_campaign=1063&utm_source=git)** | New York City | On Site | Feb 26 |
+| **[Raich Ende Malter & Co. LLP](https://www.rem-co.com)** | **[2026 Assurance Summer Intern - Assurance and Technology Control Services](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1bc78?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 26 |
+| **[Braze](https://www.braze.com)** | **[Analytics Consulting Intern](https://jobright.ai/jobs/info/67bf63bbbf38b04fbe0121d5?utm_campaign=1063&utm_source=git)** | New York City | On Site | Feb 26 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern - Assurance and Technology Control Services](https://jobright.ai/jobs/info/67bf361a8a0595f4492205f0?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Feb 26 |
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67aee2290ed010c4e31bfc9e?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 26 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Feb 26 |
@@ -99,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd487801?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Feb 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Military Health System, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/67b76774e2f8e9a23db61a74?utm_campaign=1063&utm_source=git)** | US - TX, San Antonio | On Site | Feb 20 |
 | **[EDGE powered by MAGNET](https://www.edgef.org/)** | **[Business Consultant / Summer Research Fellow](https://jobright.ai/jobs/info/67b655e0e11aa749fd8309ae?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 20 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Enterprise Advisors](https://jobright.ai/jobs/info/67bc3f7013e1a1c729b7a5da?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
