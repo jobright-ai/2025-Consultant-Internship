@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Feb 26 |
 | **[Fortrea](https://www.fortrea.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1b4fc?utm_campaign=1063&utm_source=git)** | Durham, NC | Remote | Feb 26 |
 | **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/67bfbea0dd43429077fa2461?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 26 |
 | ↳ | **[Environmental Consulting Internship (Summer 2025)](https://jobright.ai/jobs/info/67bf99eac68ad3fcea38de78?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Feb 26 |
 | **[Braze](https://www.braze.com)** | **[Analytics Consulting Intern](https://jobright.ai/jobs/info/67bf6cf79d9231d04a544310?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | **[Raich Ende Malter & Co. LLP](https://www.rem-co.com)** | **[2026 Assurance Summer Intern - Assurance and Technology Control Services](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1bc78?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 26 |
 | **[Braze](https://www.braze.com)** | **[Analytics Consulting Intern](https://jobright.ai/jobs/info/67bf63bbbf38b04fbe0121d5?utm_campaign=1063&utm_source=git)** | New York City | On Site | Feb 26 |
+| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Feb 26 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern - Assurance and Technology Control Services](https://jobright.ai/jobs/info/67bf361a8a0595f4492205f0?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Feb 26 |
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67aee2290ed010c4e31bfc9e?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 26 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/67359f844b047ec7b5973ed2?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
@@ -90,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bd140fb55d292442527622?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Feb 24 |
 | ↳ | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Feb 24 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/67bcc0fac440d06e23a051a8?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | Feb 24 |
+| **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SPRING - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67c0055e73d5d61c4c618c58?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Feb 23 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation - Intern](https://jobright.ai/jobs/info/67bd7ef6313526debc4a8a2b?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Feb 22 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66e9d043c3c7655109d0ebfa?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/679c3aabc4fea47eabb8cc19?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 21 |
@@ -103,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[US Consulting Intern Summer 2026 (IT Audit/ Internal Audit)](https://jobright.ai/jobs/info/679c057f66bfc6200b21b893?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Services ](https://jobright.ai/jobs/info/677c7324e9851110c91406ba?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 20 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd487801?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Feb 20 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Military Health System, Federal Management Consulting - Campus 2025](https://jobright.ai/jobs/info/67b76774e2f8e9a23db61a74?utm_campaign=1063&utm_source=git)** | US - TX, San Antonio | On Site | Feb 20 |
-| **[EDGE powered by MAGNET](https://www.edgef.org/)** | **[Business Consultant / Summer Research Fellow](https://jobright.ai/jobs/info/67b655e0e11aa749fd8309ae?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
