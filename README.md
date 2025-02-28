@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 28 |
+| **[Segal](https://www.segalco.com)** | **[Intern, Pharmacy Benefits Consulting (Spring 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06103?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Feb 28 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2025- Financial Success Planning Consulting](https://jobright.ai/jobs/info/67c092f6cf087970fa935c00?utm_campaign=1063&utm_source=git)** | San Diego | On Site | Feb 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6786e09759a12096e23eeb1c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Feb 27 |
 | **[The RMH Group, Inc.](http://rmhgroup.com)** | **[Summer Internship](https://jobright.ai/jobs/info/67c040bee73bcd4f4e8677f6?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 26 |
@@ -99,8 +101,4 @@ For a complete list, click the following sortable link below:
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66735?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 23 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation - Intern](https://jobright.ai/jobs/info/67bd7ef6313526debc4a8a2b?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Feb 22 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/66e9d043c3c7655109d0ebfa?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/679c3aabc4fea47eabb8cc19?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 21 |
-| **[CBIZ](http://www.cbiz.com)** | **[Information Systems Intern / Summer 2026](https://jobright.ai/jobs/info/67b93047523312ea7214d3c4?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Office of the President Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c557?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
-| ↳ | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67b93047523312ea7214d4d5?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
