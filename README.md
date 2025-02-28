@@ -106,7 +106,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67b93047523312ea7214d4d5?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Master's Intern, Product Management Consultant](https://jobright.ai/jobs/info/67b8be63687db2ae171d024b?utm_campaign=1063&utm_source=git)** | Pleasanton, CA | Remote | Feb 21 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Consulting - New York City](https://jobright.ai/jobs/info/679bc8bc8e036837123f53af?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[Quant Research Consultant (Summer 2025 - PhD Students)](https://jobright.ai/jobs/info/67b0b325d85d7eb226d220c6?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Feb 21 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Tax Digital Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/677df0d0a96660f7d86fbd48?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Feb 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[US Consulting Intern Summer 2026 (IT Audit/ Internal Audit)](https://jobright.ai/jobs/info/679c057f66bfc6200b21b893?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
