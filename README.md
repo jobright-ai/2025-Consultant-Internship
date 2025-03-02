@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc91?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Mar 02 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2025](https://jobright.ai/jobs/info/678834df5e8aa11d9537aa4c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 01 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/674a9f06fe3901efa05203b0?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Mar 01 |
 | **[Braze](https://www.braze.com)** | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feaf2b?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Mar 01 |
 | ↳ | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feac52?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 01 |
@@ -75,41 +77,41 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea972288699f?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a0?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a1?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a2?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a3?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a4?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a2?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869ac?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869ab?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a7?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a8?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a9?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869af?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b0?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869ad?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a8?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a7?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869ae?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869ad?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b1?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b0?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869af?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b4?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b8?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b5?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869bb?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b8?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b6?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b3?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869ba?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b5?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b2?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869bc?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25a5ad2661494a617ceca?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d82f?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25a5ad2661494a617ceaf?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d831?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d835?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d832?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d833?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d834?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d838?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d835?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d836?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d838?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d83a?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d839?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Feb 28 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT HOUSTON](https://jobright.ai/jobs/info/67c23f4ae525c3192c86f4d6?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Feb 28 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc52?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Feb 25 |
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a161723f4a6fc5e3c28e4d?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Feb 25 |
-| **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c556?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 24 |
-| ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c555?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c555?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
+| ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c556?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Feb 24 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd3918043bf2058041c557?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 24 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd1265c5706e737a97ab98?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Feb 24 |
 | ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd1265c5706e737a97ab9d?utm_campaign=1063&utm_source=git)** | Washington, DC, USA | On Site | Feb 24 |
-| ↳ | **[Visa Consulting Analytics (VCA) MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67bd1265c5706e737a97ab9a?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Feb 24 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bd140fb55d292442527622?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
