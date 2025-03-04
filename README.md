@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[2025 Construction Summer Internship](https://jobright.ai/jobs/info/67c72c3dca3503981f96c9fd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67c66a1fba6b3b56f0e752ac?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 03 |
 | **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/67c67809e74ffc598dae6b0a?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Mar 03 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Consulting Internship - Total Rewards (Chicago)](https://jobright.ai/jobs/info/67c65d2170bbe61413f617c5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Power Systems Technical Consultant](https://jobright.ai/jobs/info/67bed25657e3472919f09ab3?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | On Site | Feb 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/6786e09759a12096e23eeb1c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Feb 27 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Feb 26 |
-| **[Fortrea](https://www.fortrea.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1b4fc?utm_campaign=1063&utm_source=git)** | Durham, NC | Remote | Feb 26 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Feb 26 |
 | **[Braze](https://www.braze.com)** | **[Analytics Consulting Intern](https://jobright.ai/jobs/info/67bf6cf79d9231d04a544310?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
@@ -106,7 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67497b0b98db3a21e6e148a3?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Feb 26 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Hybrid](https://jobright.ai/jobs/info/6760c6885b70b97e593bdc05?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Feb 26 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance Transformation Consultant Summer 2025](https://jobright.ai/jobs/info/67ab0eedfd136ed43cec456d?utm_campaign=1063&utm_source=git)** | Springfield, IL | On Site | Feb 26 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Consulting, Industrial Market, HYBRID in Chicago](https://jobright.ai/jobs/info/67be6f66a26f73013ec7ad12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 25 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/67be5ccf991f3b689d9a4a8e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
-| ↳ | **[Digital Consulting Internship - Summer 2025](https://jobright.ai/jobs/info/67be5eb8991f3b689d9a52d9?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
