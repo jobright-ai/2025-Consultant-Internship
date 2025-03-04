@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67c66a1fba6b3b56f0e752ac?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 03 |
+| **[Korn Ferry](http://www.kornferry.com)** | **[Consulting Internship - Total Rewards (Chicago)](https://jobright.ai/jobs/info/67c65d2170bbe61413f617c5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
+| **[Wipfli](http://www.wipfli.com)** | **[Health Care Consulting Intern](https://jobright.ai/jobs/info/67c6678310e2771d5f856196?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 03 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Services](https://jobright.ai/jobs/info/67c62b05c0a2932cdecc6d02?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Consulting Intern – Business Transformation and Innovation](https://jobright.ai/jobs/info/67c5e1119614cd57024dd4cc?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 03 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc91?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Mar 02 |
@@ -73,16 +76,15 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Consulting Fall intern 2025](https://jobright.ai/jobs/info/67ab03997e6f2c4002920d2f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 01 |
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2025)](https://jobright.ai/jobs/info/66da13b0f9e7a8dc71bc3ab3?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Mar 01 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Work and Career Architecture, Consulting OS - HYBRID, Chicago](https://jobright.ai/jobs/info/67c26bfc7f50e54d945c0e4d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869a7?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Feb 28 |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869af?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869ad?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869af?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869bb?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Feb 28 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b3?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b5?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b6?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869b3?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c2762be563ea97228869bb?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Feb 28 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d833?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d836?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c25c22d2661494a617d838?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Feb 28 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Public Sector Compliance Consultant](https://jobright.ai/jobs/info/6724e023932fbb86d4635e43?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT HOUSTON](https://jobright.ai/jobs/info/67c23f4ae525c3192c86f4d6?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Feb 28 |
 | ↳ | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/67c2487791071ab781795cb7?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Feb 28 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/67c225359846462e5fcef086?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Feb 28 |
@@ -119,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a483972c98c67ff7bd1204?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Feb 25 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc52?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Feb 25 |
-| **[Protiviti](http://www.protiviti.com)** | **[Austin Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a161723f4a6fc5e3c28e4d?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
