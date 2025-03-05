@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/67c78ec5684906ab34c542f8?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 04 |
+| **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Innovation & Entrepreneurship Intern](https://jobright.ai/jobs/info/67c77d2185af1dc7353751ac?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 04 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[2025 Construction Summer Internship](https://jobright.ai/jobs/info/67c72c3dca3503981f96c9fd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 04 |
+| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67aed8321334ea2933d61f0a?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Mar 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67c66a1fba6b3b56f0e752ac?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 03 |
 | **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/67c67809e74ffc598dae6b0a?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Mar 03 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Consulting Internship - Total Rewards (Chicago)](https://jobright.ai/jobs/info/67c65d2170bbe61413f617c5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
 | **[Wipfli](http://www.wipfli.com)** | **[Health Care Consulting Intern](https://jobright.ai/jobs/info/67c6678310e2771d5f856196?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 03 |
-| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Services](https://jobright.ai/jobs/info/67c62b05c0a2932cdecc6d02?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
-| **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Consulting Intern – Business Transformation and Innovation](https://jobright.ai/jobs/info/67c5e1119614cd57024dd4cc?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 03 |
 | **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc91?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Mar 02 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678bd41ffdbab3cfc7561e9c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Mar 01 |
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 01 |
