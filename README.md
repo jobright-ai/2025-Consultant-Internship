@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SageView Advisory Group](https://www.sageviewwealth.com)** | **[Internship - Retirement Consulting](https://jobright.ai/jobs/info/67c7a0bde6f48842641a45e0?utm_campaign=1063&utm_source=git)** | Arizona, United States | Hybrid | Mar 04 |
+| ↳ | **[Internship - Retirement Consulting](https://jobright.ai/jobs/info/67c7a28be6f48842641a50f8?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 04 |
+| **[C1](http://www.spanlink.com)** | **[Intern- AI Center of Excellence, Business Consultant](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77164?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/67c78ec5684906ab34c542f8?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 04 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Innovation & Entrepreneurship Intern](https://jobright.ai/jobs/info/67c77d2185af1dc7353751ac?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 04 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[2025 Construction Summer Internship](https://jobright.ai/jobs/info/67c72c3dca3503981f96c9fd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67aed8321334ea2933d61f0a?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Mar 04 |
+| **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/67a980bb42f4b63cfe510923?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67c66a1fba6b3b56f0e752ac?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 03 |
 | **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/67c67809e74ffc598dae6b0a?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Mar 03 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Consulting Internship - Total Rewards (Chicago)](https://jobright.ai/jobs/info/67c65d2170bbe61413f617c5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
