@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[Economic Consulting Senior Associate Intern (2026 PhD/ABD graduates)](https://jobright.ai/jobs/info/67495f790b8a6e595b60bc7c?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/67cee2917ee0dc883e7eae30?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 10 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/67cdc39f5c49712ca19021de?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Mar 09 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Data Analytics Intern GSIP](https://jobright.ai/jobs/info/67ae7fb9b4f1f53b5bfb6b5d?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 08 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Clinical Advisory Services Intern (Hybrid)](https://jobright.ai/jobs/info/67afff1745b062b6b28d6f43?utm_campaign=1063&utm_source=git)** | Owings Mills, MD | Hybrid | Mar 08 |
@@ -75,16 +77,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca370a11846c08f54be1f5?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 06 |
 | ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca370a11846c08f54be1f3?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Mar 06 |
 | ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca370a11846c08f54be1f4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Mar 06 |
+| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e577412b?utm_campaign=1063&utm_source=git)** | USA-CA-Los Angeles-515 S Flower Street, 17th FL | On Site | Mar 06 |
+| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774128?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Mar 06 |
+| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e577412a?utm_campaign=1063&utm_source=git)** | USA-MA-Boston-80 City Square | On Site | Mar 06 |
 | ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e577412e?utm_campaign=1063&utm_source=git)** | USA-MN-Minneapolis-801 Nicollet Mall | On Site | Mar 06 |
 | ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774081?utm_campaign=1063&utm_source=git)** | USA-CA-San Diego-3430 Carmel Mountain Road, Suite 200 | On Site | Mar 06 |
-| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774124?utm_campaign=1063&utm_source=git)** | USA-TX-Dallas-13155 Noel Road | On Site | Mar 06 |
-| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774126?utm_campaign=1063&utm_source=git)** | USA-IA-Mason City-10 No Washington Ave #200 | On Site | Mar 06 |
 | ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774125?utm_campaign=1063&utm_source=git)** | USA-IA-Dubuque-700 Locust Street, Suite 205 | On Site | Mar 06 |
-| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e577412b?utm_campaign=1063&utm_source=git)** | USA-CA-Los Angeles-515 S Flower Street, 17th FL | On Site | Mar 06 |
-| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e577412a?utm_campaign=1063&utm_source=git)** | USA-MA-Boston-80 City Square | On Site | Mar 06 |
-| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774127?utm_campaign=1063&utm_source=git)** | Denver Downtown | On Site | Mar 06 |
-| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774128?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Mar 06 |
+| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774126?utm_campaign=1063&utm_source=git)** | USA-IA-Mason City-10 No Washington Ave #200 | On Site | Mar 06 |
 | ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e577412d?utm_campaign=1063&utm_source=git)** | USA-TX-Houston-1330 Post Oak Blvd, Suite 2400 | On Site | Mar 06 |
+| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774127?utm_campaign=1063&utm_source=git)** | Denver Downtown | On Site | Mar 06 |
+| ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca15ea486c7103e5774124?utm_campaign=1063&utm_source=git)** | USA-TX-Dallas-13155 Noel Road | On Site | Mar 06 |
 | ↳ | **[US Technology Consulting Intern Summer 2026](https://jobright.ai/jobs/info/67ca1b371b1697ba15045b9e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 06 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Consulting Functional Cloud Intern II](https://jobright.ai/jobs/info/67ca0272e487d64f84fc69f1?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 06 |
 | ↳ | **[NAA Consulting Functional Cloud Intern II](https://jobright.ai/jobs/info/67c9ce3c48d7c4eb211f74e7?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Mar 06 |
@@ -106,34 +108,34 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c802b0ea4f3d1e2a97ea35?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b1?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b4?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2bc?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b7?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b9?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2bb?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b8?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2ba?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b5?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b3?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b6?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2bf?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b9?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b5?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2bc?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b3?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b7?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2bb?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b4?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2ba?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2b8?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c2?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2bd?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2be?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c3?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c7?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2ca?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c9?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2bf?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2bd?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c8?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2ca?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c7?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c9?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c4?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2c5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2cc?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Mar 04 |
+| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2cd?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2ce?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2cb?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2cd?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c80462ea4f3d1e2a97f2cc?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c81a4a3146a84cd80c5e45?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Freshmen – Associate, Internship, United States](https://jobright.ai/jobs/info/67c81a4a3146a84cd80c5e46?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Mar 04 |
 | ↳ | **[Bridge to Consulting, Sophomores – Associate, Internship, United States](https://jobright.ai/jobs/info/67c81a4a3146a84cd80c5e47?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Mar 04 |
@@ -146,6 +148,4 @@ For a complete list, click the following sortable link below:
 | **[C1](http://www.spanlink.com)** | **[Intern- AI Center of Excellence, Business Consultant](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77164?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/67c78ec5684906ab34c542f8?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67aed8321334ea2933d61f0a?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Mar 04 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67c66a1fba6b3b56f0e752ac?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 03 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[Consulting Internship - Total Rewards (Chicago)](https://jobright.ai/jobs/info/67c65d2170bbe61413f617c5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
