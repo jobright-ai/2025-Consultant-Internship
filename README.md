@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/67d8f0e6e3f8e4ab7580f4e2?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Mar 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student IT Consultant – Service Desk](https://jobright.ai/jobs/info/67d8c56ebdc8df51631bfa1a?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Mar 17 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Summer Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/67d8b77f90aa43c05af6122d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
 | **[Celonis](https://www.celonis.com)** | **[Intern Ecosystem Consultant](https://jobright.ai/jobs/info/67d88af8ddef98405b8450da?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 17 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/67c2487791071ab781795cb7?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Mar 17 |
 | **[Celonis](https://www.celonis.com)** | **[Intern Ecosystem Consultant](https://jobright.ai/jobs/info/67d868b8923ed35f17af6288?utm_campaign=1063&utm_source=git)** | New York, US, New York | On Site | Mar 17 |
 | **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Solution Delivery Consultant Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/67d27e7b1a8547ea889452c8?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Mar 17 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[Internship, Consulting LD/AS](https://jobright.ai/jobs/info/67d7f4bf3fc484d3a9be3e2b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 17 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66735?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 16 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation - Intern](https://jobright.ai/jobs/info/67c3f257ff11c215dbdc59e6?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Mar 16 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/679c3aabc4fea47eabb8cc19?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 15 |
@@ -80,13 +80,12 @@ For a complete list, click the following sortable link below:
 | **[LPL Financial](https://www.lpl.com)** | **[Advisor Technology Intern](https://jobright.ai/jobs/info/67d2c18247dfee7fc8848086?utm_campaign=1063&utm_source=git)** | Fort Mill/Charlotte | On Site | Mar 13 |
 | **[HP](http://www.hp.com)** | **[Pre-Sales Consultant Intern](https://jobright.ai/jobs/info/67d2853f18062d6a0784c945?utm_campaign=1063&utm_source=git)** | Spring, TX | Hybrid | Mar 12 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[SmartCollab WW Technical Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/67d22185d159d3b820eed052?utm_campaign=1063&utm_source=git)** | Morrisville, NC | On Site | Mar 12 |
-| **[AXA XL](https://axaxl.com)** | **[Environmental Risk Consulting Co-Op](https://jobright.ai/jobs/info/67d1da922edf47ac6380f626?utm_campaign=1063&utm_source=git)** | US-PA-ExtonOther Locations | Hybrid | Mar 12 |
-| ↳ | **[Environmental Risk Consulting Co-Op](https://jobright.ai/jobs/info/67d1da922edf47ac6380f494?utm_campaign=1063&utm_source=git)** | US PA Exton 505 Eagleview Boulevard505 Eagleview Boulevard | Hybrid | Mar 12 |
-| **[HP](http://www.hp.com)** | **[Pre-Sales Consultant Intern](https://jobright.ai/jobs/info/67d1d6ccd2e70fe3afcc7c89?utm_campaign=1063&utm_source=git)** | Spring, Texas, United States of America | On Site | Mar 12 |
+| **[AXA XL](https://axaxl.com)** | **[Environmental Risk Consulting Co-Op](https://jobright.ai/jobs/info/67d1da922edf47ac6380f494?utm_campaign=1063&utm_source=git)** | US PA Exton 505 Eagleview Boulevard505 Eagleview Boulevard | Hybrid | Mar 12 |
+| ↳ | **[Environmental Risk Consulting Co-Op](https://jobright.ai/jobs/info/67d1da922edf47ac6380f626?utm_campaign=1063&utm_source=git)** | US-PA-ExtonOther Locations | Hybrid | Mar 12 |
+| **[HP](http://www.hp.com)** | **[Pre-Sales Consultant Intern](https://jobright.ai/jobs/info/67d1d6ccd2e70fe3afcc82be?utm_campaign=1063&utm_source=git)** | Spring, Texas, United States of America | On Site | Mar 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 11 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA), Intern - Summer 2025](https://jobright.ai/jobs/info/67d0fbdbc6ec8828ef169234?utm_campaign=1063&utm_source=git)** | Foster City, CA | Hybrid | Mar 11 |
 | **[Power Construction](https://www.powerconstruction.net)** | **[Developer Intern-Palmer Consulting](https://jobright.ai/jobs/info/67b3eac7dda0ce27c4fe80af?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA), Intern - Summer 2025](https://jobright.ai/jobs/info/67d0dbb20aa2f457b89424f6?utm_campaign=1063&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 11 |
-| **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
