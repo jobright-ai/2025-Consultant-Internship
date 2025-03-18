@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student IT Consultant – Service Desk](https://jobright.ai/jobs/info/67d8c56ebdc8df51631bfa1a?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Mar 17 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Summer Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/67d8b77f90aa43c05af6122d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
 | **[Celonis](https://www.celonis.com)** | **[Intern Ecosystem Consultant](https://jobright.ai/jobs/info/67d88af8ddef98405b8450da?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 17 |
 | **[DeSimone Consulting Engineering](http://de-simone.com)** | **[Intern - Construction Consulting Services (CCS) - Miami](https://jobright.ai/jobs/info/67d890644879ae19a8c4f9b7?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 17 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[LPL Financial](https://www.lpl.com)** | **[Advisor Technology Intern](https://jobright.ai/jobs/info/67d2c18247dfee7fc8848086?utm_campaign=1063&utm_source=git)** | Fort Mill/Charlotte | On Site | Mar 13 |
 | **[HP](http://www.hp.com)** | **[Pre-Sales Consultant Intern](https://jobright.ai/jobs/info/67d2853f18062d6a0784c945?utm_campaign=1063&utm_source=git)** | Spring, TX | Hybrid | Mar 12 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[SmartCollab WW Technical Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/67d22185d159d3b820eed052?utm_campaign=1063&utm_source=git)** | Morrisville, NC | On Site | Mar 12 |
-| **[AXA XL](https://axaxl.com)** | **[Environmental Risk Consulting Co-Op](https://jobright.ai/jobs/info/67d1da922edf47ac6380f494?utm_campaign=1063&utm_source=git)** | US PA Exton 505 Eagleview Boulevard505 Eagleview Boulevard | Hybrid | Mar 12 |
-| ↳ | **[Environmental Risk Consulting Co-Op](https://jobright.ai/jobs/info/67d1da922edf47ac6380f626?utm_campaign=1063&utm_source=git)** | US-PA-ExtonOther Locations | Hybrid | Mar 12 |
+| **[AXA XL](https://axaxl.com)** | **[Environmental Risk Consulting Co-Op](https://jobright.ai/jobs/info/67d1da922edf47ac6380f626?utm_campaign=1063&utm_source=git)** | US-PA-ExtonOther Locations | Hybrid | Mar 12 |
+| ↳ | **[Environmental Risk Consulting Co-Op](https://jobright.ai/jobs/info/67d1da922edf47ac6380f494?utm_campaign=1063&utm_source=git)** | US PA Exton 505 Eagleview Boulevard505 Eagleview Boulevard | Hybrid | Mar 12 |
 | **[HP](http://www.hp.com)** | **[Pre-Sales Consultant Intern](https://jobright.ai/jobs/info/67d1d6ccd2e70fe3afcc7c89?utm_campaign=1063&utm_source=git)** | Spring, Texas, United States of America | On Site | Mar 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 11 |
@@ -88,7 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Power Construction](https://www.powerconstruction.net)** | **[Developer Intern-Palmer Consulting](https://jobright.ai/jobs/info/67b3eac7dda0ce27c4fe80af?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting Analytics (VCA), Intern - Summer 2025](https://jobright.ai/jobs/info/67d0dbb20aa2f457b89424f6?utm_campaign=1063&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 11 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/67a824d8382d5dd89d8b69b3?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Bridge to Consulting, Freshmen – Associate, Workshop, United States](https://jobright.ai/jobs/info/67d001c7dc3e30d9ccbe4676?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 11 |
-| ↳ | **[Bridge to Consulting, Freshmen – Associate, Workshop, United States](https://jobright.ai/jobs/info/67d001c7dc3e30d9ccbe4677?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
