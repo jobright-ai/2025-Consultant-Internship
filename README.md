@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Korn Ferry](http://www.kornferry.com)** | **[Internship, Consulting LD/AS](https://jobright.ai/jobs/info/67da788ebf7a46ce6513702e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 18 |
 | **[AECOM](http://www.aecom.com/)** | **[Digital Consulting Intern](https://jobright.ai/jobs/info/67da095c662127cf25eb9d11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | ↳ | **[Digital Consulting Intern](https://jobright.ai/jobs/info/67d9c4b357a2a3bb71790ed0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | **[Lamb Insurance Services](https://lambis.com/)** | **[Internship](https://jobright.ai/jobs/info/67d9a780763980d1aa4e6650?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 18 |
