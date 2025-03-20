@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Partners Group](https://www.thepartnersgroup.com)** | **[SPARK Insurance Intern](https://jobright.ai/jobs/info/67db9ba4338b153feb0a28ef?utm_campaign=1063&utm_source=git)** | Portland, OR | On Site | Mar 19 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Associate - Summer 2025](https://jobright.ai/jobs/info/67dba3f573baa196e8fef84f?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 19 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/67db54f3c39337369d12d6ec?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Associate - Summer 2025](https://jobright.ai/jobs/info/67db47c7726b632336c1b043?utm_campaign=1063&utm_source=git)** | Boston | On Site | Mar 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67db42559c97b164db1cdbcd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 19 |
@@ -64,6 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Windsor Communities](https://www.windsorcommunities.com/)** | **[2025 Summer Leasing Consultant Internship](https://jobright.ai/jobs/info/67db36e9f54aa1ecf6a7e6cb?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 19 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Advanced Analytics Intern (Remote)](https://jobright.ai/jobs/info/67daf1aefda37a5234279a63?utm_campaign=1063&utm_source=git)** | Remote (US) | Remote | Mar 19 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Consulting, Industrial Market, HYBRID in Chicago](https://jobright.ai/jobs/info/67be6f66a26f73013ec7ad12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Mar 19 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bd140fb55d292442527622?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Mar 18 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship, Consulting LD/AS](https://jobright.ai/jobs/info/67da788ebf7a46ce6513702e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 18 |
 | **[AECOM](http://www.aecom.com/)** | **[Digital Consulting Intern](https://jobright.ai/jobs/info/67da095c662127cf25eb9d11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | ↳ | **[Digital Consulting Intern](https://jobright.ai/jobs/info/67d9c4b357a2a3bb71790ed0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
@@ -87,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd487801?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Mar 14 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[Quant Research Consultant (Summer 2025 - PhD Students)](https://jobright.ai/jobs/info/67b0b325d85d7eb226d220c6?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Mar 14 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[ESG Associate Intern](https://jobright.ai/jobs/info/67d368b9bfe50ae17c6e2729?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Mar 13 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/674a9988170b67e2cd91ba0a?utm_campaign=1063&utm_source=git)** | York, IL | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
