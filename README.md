@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndryl](https://www.kyndryl.com)** | **[Kyndryl Apprentice Program – IT Consulting](https://jobright.ai/jobs/info/67dc63e89425592126bc3201?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | Mar 20 |
+| **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Intern](https://jobright.ai/jobs/info/67dc5c6ac38ba6f88582efdd?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 20 |
+| ↳ | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/67dc5649b34e3f0525e56720?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 20 |
+| **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Consulting Intern – Business Transformation and Innovation](https://jobright.ai/jobs/info/67dc6053afdc584bf5a03e47?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 20 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2025](https://jobright.ai/jobs/info/66bf9225a67216719249889f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 20 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Mar 20 |
+| **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67aee2290ed010c4e31bfc9e?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Mar 20 |
 | **[The Partners Group](https://www.thepartnersgroup.com)** | **[SPARK Insurance Intern](https://jobright.ai/jobs/info/67db9ba4338b153feb0a28ef?utm_campaign=1063&utm_source=git)** | Portland, OR | On Site | Mar 19 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Associate - Summer 2025](https://jobright.ai/jobs/info/67dba3f573baa196e8fef84f?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 19 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/67db54f3c39337369d12d6ec?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
@@ -89,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Innovation Consultant](https://jobright.ai/jobs/info/67d463c60ee6100623c41806?utm_campaign=1063&utm_source=git)** | University Park, PA | On Site | Mar 14 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd487801?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Mar 14 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[Quant Research Consultant (Summer 2025 - PhD Students)](https://jobright.ai/jobs/info/67b0b325d85d7eb226d220c6?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Mar 14 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[ESG Associate Intern](https://jobright.ai/jobs/info/67d368b9bfe50ae17c6e2729?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
