@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Consulting, Industrial Market, HYBRID in Chicago](https://jobright.ai/jobs/info/67be6f66a26f73013ec7ad12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Mar 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bd140fb55d292442527622?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Mar 18 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[Internship, Consulting LD/AS](https://jobright.ai/jobs/info/67da788ebf7a46ce6513702e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 18 |
 | **[AECOM](http://www.aecom.com/)** | **[Digital Consulting Intern](https://jobright.ai/jobs/info/67da095c662127cf25eb9d11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | ↳ | **[Digital Consulting Intern](https://jobright.ai/jobs/info/67d9c4b357a2a3bb71790ed0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | **[Lamb Insurance Services](https://lambis.com/)** | **[Internship](https://jobright.ai/jobs/info/67d9a780763980d1aa4e6650?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 18 |
