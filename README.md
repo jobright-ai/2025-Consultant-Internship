@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67dccd96543b7eadd62ffb70?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Mar 20 |
 | **[IBM](http://www.ibm.com)** | **[Security Consultant (Cybersecurity) Co-Op](https://jobright.ai/jobs/info/67dc96583d9a66e398a38402?utm_campaign=1063&utm_source=git)** | State College, PA | Hybrid | Mar 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Health Management Intern - Health Management](https://jobright.ai/jobs/info/67dc9783f810a7493fca4652?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 20 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[Kyndryl Apprentice Program – IT Consulting](https://jobright.ai/jobs/info/67dc74ace175f91b489efc51?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Mar 20 |
