@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 21 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - CFD Industry Process Consultant](https://jobright.ai/jobs/info/67dde1fa4c2a23360e586c8b?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 21 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Digital Academy Intern - Associate Consultant](https://jobright.ai/jobs/info/67dd2818f103e8c2471bf7b3?utm_campaign=1063&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | ↳ | **[2025 Digital Academy Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/67dd14d7fd08ca4630ebd300?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship, Consulting LD/AS](https://jobright.ai/jobs/info/67dd1d027aad5c26b65e99bb?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 20 |
