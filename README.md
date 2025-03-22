@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678ccf6205d5a0d823692770?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Operational Excellence - Summer 2025 (New York)](https://jobright.ai/jobs/info/67de7662bc30ebe2ca28b764?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Operational Excellence - Summer 2025 (New York)](https://jobright.ai/jobs/info/67de3cbd7ef486cb22f8265a?utm_campaign=1063&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Mar 21 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 21 |
