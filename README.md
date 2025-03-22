@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Intern Ecosystem Consultant](https://jobright.ai/jobs/info/67d868b8923ed35f17af6288?utm_campaign=1063&utm_source=git)** | New York, US, New York | On Site | Mar 17 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa2954?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Mar 16 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation - Intern](https://jobright.ai/jobs/info/67c3f257ff11c215dbdc59e6?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Mar 16 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/679c3aabc4fea47eabb8cc19?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
