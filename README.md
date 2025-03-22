@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Operational Excellence - Summer 2025 (New York)](https://jobright.ai/jobs/info/67de7662bc30ebe2ca28b764?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Operational Excellence - Summer 2025 (New York)](https://jobright.ai/jobs/info/67de3cbd7ef486cb22f8265a?utm_campaign=1063&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Mar 21 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 21 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - CFD Industry Process Consultant](https://jobright.ai/jobs/info/67dde1fa4c2a23360e586c8b?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 21 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Digital Academy Intern - Associate Consultant](https://jobright.ai/jobs/info/67dd2818f103e8c2471bf7b3?utm_campaign=1063&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
