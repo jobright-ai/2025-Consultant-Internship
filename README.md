@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SageView Advisory Group](https://www.sageviewwealth.com)** | **[Internship - Retirement Consulting](https://jobright.ai/jobs/info/67e0601929ba1745fcf07d0b?utm_campaign=1063&utm_source=git)** | Arizona, United States | Hybrid | Mar 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678bd41ffdbab3cfc7561e9c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
 | **[Segal](https://www.segalco.com)** | **[Intern, Pharmacy Benefits Consulting (Spring 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06103?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Mar 22 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[DeSimone Consulting Engineering](http://de-simone.com)** | **[Intern - Construction Consulting Services (CCS) - Miami](https://jobright.ai/jobs/info/67d890644879ae19a8c4f9b7?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 17 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/67c2487791071ab781795cb7?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Mar 17 |
 | **[Celonis](https://www.celonis.com)** | **[Intern Ecosystem Consultant](https://jobright.ai/jobs/info/67d868b8923ed35f17af6288?utm_campaign=1063&utm_source=git)** | New York, US, New York | On Site | Mar 17 |
-| **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa2954?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
