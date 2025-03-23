@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
+| ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678bd41ffdbab3cfc7561e9c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
 | **[Segal](https://www.segalco.com)** | **[Intern, Pharmacy Benefits Consulting (Spring 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06103?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Mar 22 |
 | ↳ | **[Intern, Pharmacy Benefits Consulting (Summer 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06119?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Mar 22 |
 | **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 22 |
