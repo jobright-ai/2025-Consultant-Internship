@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inrika Inc](https://www.inrika.com)** | **[SAP Ariba Consultant](https://jobright.ai/jobs/info/67e0e6289bb4a85ab2bca1b5?utm_campaign=1063&utm_source=git)** | Wilmington, DE | On Site | Mar 23 |
 | **[SageView Advisory Group](https://www.sageviewwealth.com)** | **[Internship - Retirement Consulting](https://jobright.ai/jobs/info/67e0601929ba1745fcf07d0b?utm_campaign=1063&utm_source=git)** | Arizona, United States | Hybrid | Mar 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678bd41ffdbab3cfc7561e9c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
+| **[Korn Ferry](http://www.kornferry.com)** | **[2025 Summer Internship - Work and Career Architecture, Consulting OS - HYBRID, Chicago](https://jobright.ai/jobs/info/67c26bfc7f50e54d945c0e4d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 22 |
 | **[Segal](https://www.segalco.com)** | **[Intern, Pharmacy Benefits Consulting (Spring 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06103?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Mar 22 |
 | ↳ | **[Intern, Pharmacy Benefits Consulting (Summer 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06119?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Mar 22 |
 | **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 22 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship, Consulting LD/AS](https://jobright.ai/jobs/info/67dd1d027aad5c26b65e99bb?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 20 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Digital Academy Intern - Associate Consultant](https://jobright.ai/jobs/info/67dd0625270b52adc07948e7?utm_campaign=1063&utm_source=git)** | San Jose, California, United States of America | On Site | Mar 20 |
 | ↳ | **[2025 Digital Academy Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/67dd0625270b52adc0794928?utm_campaign=1063&utm_source=git)** | New York, New York, United States of America | On Site | Mar 20 |
+| **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67e0fb04db3c19be0f36afaa?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | On Site | Mar 20 |
 | **[The Partners Group](https://www.thepartnersgroup.com)** | **[SPARK Insurance Intern](https://jobright.ai/jobs/info/67dcf48677df62f6f64aff11?utm_campaign=1063&utm_source=git)** | Renton, WA | On Site | Mar 20 |
 | **[IFC - International Finance Corporation](http://www.ifc.org)** | **[ET Consultant – International Tax - req32409](https://jobright.ai/jobs/info/67dcebdd63685ca47f60698d?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Mar 20 |
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Power Systems Technical Consultant](https://jobright.ai/jobs/info/67dbad4897ae57cd516420d4?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | On Site | Mar 20 |
