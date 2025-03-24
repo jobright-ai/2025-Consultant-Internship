@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Professional Services, Dental Consulting, and Utilization Management](https://jobright.ai/jobs/info/67e15b833e89fd0aa800ca88?utm_campaign=1063&utm_source=git)** | Okemos, MI | Hybrid | Mar 24 |
 | **[Inrika Inc](https://www.inrika.com)** | **[SAP Ariba Consultant](https://jobright.ai/jobs/info/67e0e6289bb4a85ab2bca1b5?utm_campaign=1063&utm_source=git)** | Wilmington, DE | On Site | Mar 23 |
 | **[SageView Advisory Group](https://www.sageviewwealth.com)** | **[Internship - Retirement Consulting](https://jobright.ai/jobs/info/67e0601929ba1745fcf07d0b?utm_campaign=1063&utm_source=git)** | Arizona, United States | Hybrid | Mar 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
@@ -106,8 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Mar 18 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/67d8f0e6e3f8e4ab7580f4e2?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Mar 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student IT Consultant – Service Desk](https://jobright.ai/jobs/info/67d8c56ebdc8df51631bfa1a?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Mar 17 |
-| **[Celonis](https://www.celonis.com)** | **[Intern Ecosystem Consultant](https://jobright.ai/jobs/info/67d88af8ddef98405b8450da?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 17 |
-| **[DeSimone Consulting Engineering](http://de-simone.com)** | **[Intern - Construction Consulting Services (CCS) - Miami](https://jobright.ai/jobs/info/67d890644879ae19a8c4f9b7?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 17 |
-| **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/67c2487791071ab781795cb7?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Mar 17 |
-| **[Celonis](https://www.celonis.com)** | **[Intern Ecosystem Consultant](https://jobright.ai/jobs/info/67d868b8923ed35f17af6288?utm_campaign=1063&utm_source=git)** | New York, US, New York | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
