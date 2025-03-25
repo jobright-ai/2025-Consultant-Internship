@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/67c2487791071ab781795cb7?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Mar 25 |
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Mar 25 |
+| **[Raymond](https://raymond.global)** | **[Building Enclosure Consulting Internship](https://jobright.ai/jobs/info/67e2bc0cac135c4aa98f2260?utm_campaign=1063&utm_source=git)** | Conyers, GA | On Site | Mar 24 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Advanced Analytics Intern (Onsite - San Carlos, CA)](https://jobright.ai/jobs/info/67e1dc646fb4f469239f23a1?utm_campaign=1063&utm_source=git)** | San Carlos | On Site | Mar 24 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa2954?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Mar 24 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Professional Services, Dental Consulting, and Utilization Management](https://jobright.ai/jobs/info/67e1866a0eb55287fdd8ca04?utm_campaign=1063&utm_source=git)** | Okemos, MI | Hybrid | Mar 24 |
@@ -91,14 +93,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kyndryl Apprentice Program – IT Consulting](https://jobright.ai/jobs/info/67dc63e89425592126bc3201?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | Mar 20 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Intern](https://jobright.ai/jobs/info/67dc5c6ac38ba6f88582efdd?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 20 |
 | ↳ | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/67dc5649b34e3f0525e56720?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 20 |
-| **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Consulting Intern – Business Transformation and Innovation](https://jobright.ai/jobs/info/67dc6053afdc584bf5a03e47?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 20 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2025](https://jobright.ai/jobs/info/66bf9225a67216719249889f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Mar 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Mar 20 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Mar 20 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 20 |
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a483972c98c67ff7bd1204?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Mar 19 |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (JUNE 2025 START, 10-Week Program)](https://jobright.ai/jobs/info/67e1e3781272ba9020665239?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Mar 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67db42559c97b164db1cdbcd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 19 |
 | **[Windsor Communities](https://www.windsorcommunities.com/)** | **[2025 Summer Leasing Consultant Internship](https://jobright.ai/jobs/info/67db36e9f54aa1ecf6a7e6cb?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 19 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Advanced Analytics Intern (Remote)](https://jobright.ai/jobs/info/67daf1aefda37a5234279a63?utm_campaign=1063&utm_source=git)** | Remote (US) | Remote | Mar 19 |
