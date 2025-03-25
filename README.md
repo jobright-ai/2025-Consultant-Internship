@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Professional Services, Dental Consulting, and Utilization Management](https://jobright.ai/jobs/info/67e1866a0eb55287fdd8ca04?utm_campaign=1063&utm_source=git)** | Okemos, MI | Hybrid | Mar 24 |
+| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Advanced Analytics Intern (Onsite - San Carlos, CA)](https://jobright.ai/jobs/info/67e1dc646fb4f469239f23a1?utm_campaign=1063&utm_source=git)** | San Carlos | On Site | Mar 24 |
+| **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa2954?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Mar 24 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Cybersecurity](https://jobright.ai/jobs/info/67e173772b4062a9bb9f2936?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 24 |
-| **[Inrika Inc](https://www.inrika.com)** | **[SAP Ariba Consultant](https://jobright.ai/jobs/info/67e0e6289bb4a85ab2bca1b5?utm_campaign=1063&utm_source=git)** | Wilmington, DE | On Site | Mar 23 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Professional Services, Dental Consulting, and Utilization Management](https://jobright.ai/jobs/info/67e15b833e89fd0aa800ca88?utm_campaign=1063&utm_source=git)** | Okemos, MI | Hybrid | Mar 24 |
 | **[SageView Advisory Group](https://www.sageviewwealth.com)** | **[Internship - Retirement Consulting](https://jobright.ai/jobs/info/67e0601929ba1745fcf07d0b?utm_campaign=1063&utm_source=git)** | Arizona, United States | Hybrid | Mar 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Mar 20 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 20 |
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a483972c98c67ff7bd1204?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Mar 19 |
+| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (JUNE 2025 START, 10-Week Program)](https://jobright.ai/jobs/info/67e1e3781272ba9020665239?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Mar 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67db42559c97b164db1cdbcd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 19 |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (JUNE 2025 START, 10-Week Program)](https://jobright.ai/jobs/info/67db293b3124148c373394f1?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Mar 19 |
 | **[Windsor Communities](https://www.windsorcommunities.com/)** | **[2025 Summer Leasing Consultant Internship](https://jobright.ai/jobs/info/67db36e9f54aa1ecf6a7e6cb?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Mar 19 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Advanced Analytics Intern (Remote)](https://jobright.ai/jobs/info/67daf1aefda37a5234279a63?utm_campaign=1063&utm_source=git)** | Remote (US) | Remote | Mar 19 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Mar 19 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Digital Consulting Intern](https://jobright.ai/jobs/info/67d9c4b357a2a3bb71790ed0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | **[Lamb Insurance Services](https://lambis.com/)** | **[Internship](https://jobright.ai/jobs/info/67d9a780763980d1aa4e6650?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Mar 18 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/67d8f0e6e3f8e4ab7580f4e2?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
