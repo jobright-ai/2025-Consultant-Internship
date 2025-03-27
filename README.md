@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Salesforce Consulting Intern (Hybrid - Summer 25)](https://jobright.ai/jobs/info/67e495c01150bea9019e1d6b?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Mar 26 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Intern - Consulting Operations](https://jobright.ai/jobs/info/67ac1c31824419193ade0d18?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 26 |
 | **[John M. Corcoran & Company](https://www.jmcandco.com)** | **[Leasing Consultant Intern (Temporary)](https://jobright.ai/jobs/info/67e43723bb5d5b697303f8e2?utm_campaign=1063&utm_source=git)** | Shrewsbury, MA | On Site | Mar 26 |
 | ↳ | **[Leasing Consultant Intern (Temporary)](https://jobright.ai/jobs/info/67e4244f2895ac984d564d50?utm_campaign=1063&utm_source=git)** | Providence, RI | On Site | Mar 26 |
@@ -102,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2025](https://jobright.ai/jobs/info/66bf9225a67216719249889f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Mar 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Mar 20 |
-| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Mar 20 |
-| **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
