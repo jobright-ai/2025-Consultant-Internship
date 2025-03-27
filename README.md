@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[The Partners Group](https://www.thepartnersgroup.com)** | **[SPARK Insurance Intern](https://jobright.ai/jobs/info/67dcf48677df62f6f64aff11?utm_campaign=1063&utm_source=git)** | Renton, WA | On Site | Mar 20 |
 | **[IFC - International Finance Corporation](http://www.ifc.org)** | **[ET Consultant – International Tax - req32409](https://jobright.ai/jobs/info/67dcebdd63685ca47f60698d?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Mar 20 |
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Power Systems Technical Consultant](https://jobright.ai/jobs/info/67dbad4897ae57cd516420d4?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | On Site | Mar 20 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67dccd96543b7eadd62ffb70?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
