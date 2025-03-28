@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Undergraduate Strategy Intern - International Consulting - Part Time](https://jobright.ai/jobs/info/67e5c2882b2f2edea17bb1b3?utm_campaign=1063&utm_source=git)** | NYP/Weill Cornell Medical Center | On Site | Mar 27 |
+| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Undergraduate Strategy Intern - International Consulting - Part Time](https://jobright.ai/jobs/info/67e5c2882b2f2edea17bb1b3?utm_campaign=1063&utm_source=git)** | NYP/Weill Cornell Medical Center | On Site | Mar 27 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Mar 27 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Salesforce Consulting Intern (Hybrid - Summer 25)](https://jobright.ai/jobs/info/67e495c01150bea9019e1d6b?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Mar 26 |
-| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67aed8321334ea2933d61f0a?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Mar 26 |
 | **[John M. Corcoran & Company](https://www.jmcandco.com)** | **[Leasing Consultant Intern (Temporary)](https://jobright.ai/jobs/info/67e43723bb5d5b697303f8e2?utm_campaign=1063&utm_source=git)** | Shrewsbury, MA | On Site | Mar 26 |
 | ↳ | **[Leasing Consultant Intern (Temporary)](https://jobright.ai/jobs/info/67e4244f2895ac984d564d50?utm_campaign=1063&utm_source=git)** | Providence, RI | On Site | Mar 26 |
 | ↳ | **[Leasing Consultant Intern (Temporary)](https://jobright.ai/jobs/info/67e4244f2895ac984d564d71?utm_campaign=1063&utm_source=git)** | Melrose, MA | On Site | Mar 26 |
+| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67ad5d70028dd85949a0f7da?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Mar 26 |
 | **[C1](http://www.spanlink.com)** | **[Intern- AI Center of Excellence, Business Consultant](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993c976?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 26 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Innovation & Entrepreneurship Intern](https://jobright.ai/jobs/info/67e33212129b8df174369b17?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Private Wealth Management/Advisor Consulting](https://jobright.ai/jobs/info/67e311e39799481f5c2d27f2?utm_campaign=1063&utm_source=git)** | Dublin, OH | On Site | Mar 25 |
@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Operational Excellence - Summer 2025 (New York)](https://jobright.ai/jobs/info/67de3cbd7ef486cb22f8265a?utm_campaign=1063&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Mar 21 |
 | **[AECOM](http://www.aecom.com/)** | **[Digital Consulting Intern](https://jobright.ai/jobs/info/67da095c662127cf25eb9d11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 21 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - CFD Industry Process Consultant](https://jobright.ai/jobs/info/67dde1fa4c2a23360e586c8b?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
