@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Undergraduate Strategy Intern - International Consulting - Part Time](https://jobright.ai/jobs/info/67e809560592d4fbbc6110e2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[FCT&L Student Consultant](https://jobright.ai/jobs/info/67e783c0ed2e51de2ef81ad5?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Mar 28 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Ops Education Consultant Intern](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d30b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/67c27815e563ea9722886bcf?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67c66a1fba6b3b56f0e752ac?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 25 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Advanced Analytics Intern (Onsite - San Carlos, CA)](https://jobright.ai/jobs/info/67e1dc646fb4f469239f23a1?utm_campaign=1063&utm_source=git)** | San Carlos | On Site | Mar 24 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa2954?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Mar 24 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Professional Services, Dental Consulting, and Utilization Management](https://jobright.ai/jobs/info/67e1866a0eb55287fdd8ca04?utm_campaign=1063&utm_source=git)** | Okemos, MI | Hybrid | Mar 24 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Professional Services, Dental Consulting, and Utilization Management](https://jobright.ai/jobs/info/67e15b833e89fd0aa800ca88?utm_campaign=1063&utm_source=git)** | Okemos, MI | Hybrid | Mar 24 |
 | **[SageView Advisory Group](https://www.sageviewwealth.com)** | **[Internship - Retirement Consulting](https://jobright.ai/jobs/info/67e0601929ba1745fcf07d0b?utm_campaign=1063&utm_source=git)** | Arizona, United States | Hybrid | Mar 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 23 |
