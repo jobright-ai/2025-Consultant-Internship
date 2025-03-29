@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Lamb Insurance Services](https://lambis.com/)** | **[Internship](https://jobright.ai/jobs/info/67d9a780763980d1aa4e6650?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Mar 18 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student IT Consultant – Service Desk](https://jobright.ai/jobs/info/67d8c56ebdc8df51631bfa1a?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Mar 17 |
-| **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation - Intern](https://jobright.ai/jobs/info/67c3f257ff11c215dbdc59e6?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
