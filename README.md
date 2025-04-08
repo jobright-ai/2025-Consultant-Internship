@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Marketing Consultant, People & Culture Intern-Graduate](https://jobright.ai/jobs/info/67f3bef737c2a27e4cf94bda?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Apr 07 |
+| **[Spirit Consulting](https://spiritmco.com)** | **[Management Consulting Internship](https://jobright.ai/jobs/info/67f43239683bfc8829e531ce?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 07 |
+| **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SUMMER - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67f42cd4a04ecc6dea1a6b32?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Apr 07 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/67f20e23c8a9a40b7f483e34?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Apr 05 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa2954?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Apr 05 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Solution Consulting Intern](https://jobright.ai/jobs/info/67d47bc399ba623012be4aa3?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Apr 05 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/67f01708ba92eb874814fa84?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Customer Care Consultant – Internship](https://jobright.ai/jobs/info/67efede368e7b0fe359ceef5?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 04 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd487801?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 04 |
-| **[Oracle](https://www.oracle.com/)** | **[NAA Consulting Functional Cloud Intern II](https://jobright.ai/jobs/info/67efb5fc7179974203f019ba?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[American University](http://american.edu)** | **[Undergraduate Writing Center Consultant (Student)](https://jobright.ai/jobs/info/67ef6401fb9ff643036d7efa?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/67c2487791071ab781795cb7?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Apr 03 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[SmartCollab WW Technical Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/67d22185d159d3b820eed052?utm_campaign=1063&utm_source=git)** | Morrisville, NC | On Site | Apr 03 |
@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[C1](http://www.spanlink.com)** | **[Intern- AI Center of Excellence, Business Consultant](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993c976?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Raymond](https://raymond.global)** | **[Building Envelope Consulting Internship](https://jobright.ai/jobs/info/67e2bc0cac135c4aa98f2260?utm_campaign=1063&utm_source=git)** | Conyers, GA | On Site | Mar 25 |
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67eccdfbcf7c13f630c282d9?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | On Site | Mar 25 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Employee Stock Ownership Plan (ESOP) Consulting Summer 2026 / Bowling Green](https://jobright.ai/jobs/info/67e33212129b8df1743698ce?utm_campaign=1063&utm_source=git)** | Bowling Green, KY | Hybrid | Mar 25 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Private Wealth Management/Advisor Consulting](https://jobright.ai/jobs/info/67e311e39799481f5c2d27f2?utm_campaign=1063&utm_source=git)** | Dublin, OH | On Site | Mar 25 |
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Mar 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67c66a1fba6b3b56f0e752ac?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 25 |
