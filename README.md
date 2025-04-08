@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empyrean](http://www.goempyrean.com)** | **[Ops Education Consultant Intern](https://jobright.ai/jobs/info/67f570f18f6733d0d8f27a2a?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Delivery Associates](https://deliveryassociates.com)** | **[Consulting Intern 2025](https://jobright.ai/jobs/info/67f49662bd2699df45df0e88?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 07 |
 | **[ClearBridge Technology Group](http://www.clearbridgetech.com)** | **[TS/SCI cleared VMware VCF Consultant – CI Poly eligible](https://jobright.ai/jobs/info/67f4ada366d9897c28e90637?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[U.S. Intern - Consultant](https://jobright.ai/jobs/info/67f47c9cd51eae5e6f82fa55?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 07 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Empyrean](http://www.goempyrean.com)** | **[Ops Education Consultant Intern](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d30b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Mar 27 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67ee09da3a1613e932edbed0?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Mar 26 |
-| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67aed8321334ea2933d61f0a?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Mar 26 |
+| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67ad5d70028dd85949a0f7da?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Mar 26 |
 | **[C1](http://www.spanlink.com)** | **[Intern- AI Center of Excellence, Business Consultant](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993c976?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Raymond](https://raymond.global)** | **[Building Envelope Consulting Internship](https://jobright.ai/jobs/info/67e2bc0cac135c4aa98f2260?utm_campaign=1063&utm_source=git)** | Conyers, GA | On Site | Mar 25 |
 | **[Siemens](https://www.siemens.com/)** | **[Grid Software Internship: Transmission & Distribution Technical Consultant](https://jobright.ai/jobs/info/67eccdfbcf7c13f630c282d9?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | On Site | Mar 25 |
