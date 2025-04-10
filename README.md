@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa2954?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Apr 07 |
 | **[Spirit Consulting](https://spiritmco.com)** | **[Management Consulting Internship](https://jobright.ai/jobs/info/67f43239683bfc8829e531ce?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/67f20e23c8a9a40b7f483e34?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Apr 05 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/67e66da63fa5f453b4e2e157?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 05 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Solution Consulting Intern](https://jobright.ai/jobs/info/67d47bc399ba623012be4aa3?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Apr 05 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/67f01708ba92eb874814fa84?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Customer Care Consultant – Internship](https://jobright.ai/jobs/info/67efede368e7b0fe359ceef5?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 04 |
@@ -86,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | ↳ | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Internal Consulting Co-op](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f120a?utm_campaign=1063&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 01 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[General Management Consultant Intern](https://jobright.ai/jobs/info/67ec5f782ef85f7bc9e041f3?utm_campaign=1063&utm_source=git)** | Alexandria, VA | Hybrid | Apr 01 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[General Management Consultant Intern](https://jobright.ai/jobs/info/67ec50959a7a98c22b26d8af?utm_campaign=1063&utm_source=git)** | Alexandria, VA | Hybrid | Apr 01 |
 | **[Power Construction](https://www.powerconstruction.net)** | **[Developer Intern-Palmer Consulting](https://jobright.ai/jobs/info/67b3eac7dda0ce27c4fe80af?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[Protiviti](http://www.protiviti.com)** | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052a6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Apr 01 |
 | ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Apr 01 |
@@ -102,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[FCT&L Student Consultant](https://jobright.ai/jobs/info/67e783c0ed2e51de2ef81ad5?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Mar 28 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, General Management Consultant Intern](https://jobright.ai/jobs/info/67ad0b5cc3c9b2a5fb40be59?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Mar 28 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Ops Education Consultant Intern](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d30b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 28 |
-| **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
