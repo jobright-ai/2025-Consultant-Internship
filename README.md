@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/67f8965abc503d03f5696ea1?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f7f0f9554d4aedc126c3ad?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 10 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/67f7f9b2f7c095012e01be25?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 10 |
 | ↳ | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/67f7dfd29a4880f428e6abe0?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 10 |
@@ -87,13 +88,15 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Customer Care Consultant – Internship](https://jobright.ai/jobs/info/67efede368e7b0fe359ceef5?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 04 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd487801?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 04 |
 | **[HP](http://www.hp.com)** | **[Pre-Sales Consultant Intern](https://jobright.ai/jobs/info/67d2853f18062d6a0784c945?utm_campaign=1063&utm_source=git)** | Spring, TX | Hybrid | Apr 04 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Electromagnetics Solution Consultant](https://jobright.ai/jobs/info/67f8bc88df23b17a195891df?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Apr 03 |
+| **[IBM](http://www.ibm.com)** | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67f889afbb50424e76632103?utm_campaign=1063&utm_source=git)** | State College, PA | On Site | Apr 03 |
 | **[American University](http://american.edu)** | **[Undergraduate Writing Center Consultant (Student)](https://jobright.ai/jobs/info/67ef6401fb9ff643036d7efa?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/67c2487791071ab781795cb7?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Apr 03 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Customer Service BI Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/67edb767c26f577d33a54028?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | ↳ | **[Metro DC Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Internal Consulting Co-op](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f120a?utm_campaign=1063&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 01 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[General Management Consultant Intern](https://jobright.ai/jobs/info/67ec5f782ef85f7bc9e041f3?utm_campaign=1063&utm_source=git)** | Alexandria, VA | Hybrid | Apr 01 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[General Management Consultant Intern](https://jobright.ai/jobs/info/67ec50959a7a98c22b26d8af?utm_campaign=1063&utm_source=git)** | Alexandria, VA | Hybrid | Apr 01 |
 | **[Power Construction](https://www.powerconstruction.net)** | **[Developer Intern-Palmer Consulting](https://jobright.ai/jobs/info/67b3eac7dda0ce27c4fe80af?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[Protiviti](http://www.protiviti.com)** | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052a6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Apr 01 |
 | ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Apr 01 |
