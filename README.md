@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 12 |
+| **[DuPont](http://www.dupont.com)** | **[Summer 2025 Intern - Facilities Consultant and Event Planning.](https://jobright.ai/jobs/info/67f695382af70129bf256523?utm_campaign=1063&utm_source=git)** | Wilmington, DE | On Site | Apr 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/67f9e203d56d1dabcf984c06?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Apr 11 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - Process Engineer Consultant Intern](https://jobright.ai/jobs/info/67f99b3251429be0341e055a?utm_campaign=1063&utm_source=git)** | Cary, NC | Hybrid | Apr 11 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/67f98bf1d1212f90d7a207b2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67ee09da3a1613e932edbed0?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Apr 11 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/67fa0abf96e194274120a43a?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f7f0f9554d4aedc126c3ad?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 10 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/67f7f9b2f7c095012e01be25?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 10 |
 | ↳ | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/67f7dfd29a4880f428e6abe0?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 10 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Solution Consulting Intern](https://jobright.ai/jobs/info/67f701b1fd699f98f0d48fc3?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Apr 09 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Technical Operations Internship - June 2025](https://jobright.ai/jobs/info/67f6d8ccb6dbcff0e5161efd?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 09 |
-| **[DuPont](http://www.dupont.com)** | **[Summer 2025 Intern - Facilities Consultant and Event Planning.](https://jobright.ai/jobs/info/67f695382af70129bf256523?utm_campaign=1063&utm_source=git)** | Wilmington, DE | On Site | Apr 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bd140fb55d292442527622?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Apr 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a483972c98c67ff7bd1204?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Apr 09 |
@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Gallagher](http://www.ajg.com)** | **[Data Analyst Intern GSIP](https://jobright.ai/jobs/info/67ae7811bb8cc310f5127275?utm_campaign=1063&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 30 |
 | **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa5?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Mar 30 |
 | **[HOK](http://www.hok.com/)** | **[Consulting Student Intern - Summer 2025](https://jobright.ai/jobs/info/679c49827b219a0e87396fe3?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Mar 29 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology (ICT) Bermuda Actuarial Summer Internship - 2025](https://jobright.ai/jobs/info/67af1b8537b6ea66bcc12d57?utm_campaign=1063&utm_source=git)** | Bermuda, VA | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
