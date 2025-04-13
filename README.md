@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
+| ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 13 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SUMMER - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67fae278cd7306d3a7c79c1b?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Apr 12 |
 | **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 12 |
 | **[DuPont](http://www.dupont.com)** | **[Summer 2025 Intern - Facilities Consultant and Event Planning.](https://jobright.ai/jobs/info/67f695382af70129bf256523?utm_campaign=1063&utm_source=git)** | Wilmington, DE | On Site | Apr 12 |
