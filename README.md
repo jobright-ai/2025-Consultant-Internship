@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 31 |
 | **[Gallagher](http://www.ajg.com)** | **[Data Analyst Intern GSIP](https://jobright.ai/jobs/info/67ae7811bb8cc310f5127275?utm_campaign=1063&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 30 |
-| **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa5?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
