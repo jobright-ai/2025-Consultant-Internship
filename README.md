@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9be?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
+| ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9bc?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
+| ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd2d130e2420f8286eb7e6?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 14 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678bd41ffdbab3cfc7561e9c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 13 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 13 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Apr 11 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Apr 11 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67ee09da3a1613e932edbed0?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Apr 11 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/67fca3cba6309bfa7570fe93?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f7f0f9554d4aedc126c3ad?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 10 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/67f7f9b2f7c095012e01be25?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 10 |
 | ↳ | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/67f7dfd29a4880f428e6abe0?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 10 |
@@ -101,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Empyrean](http://www.goempyrean.com)** | **[Ops Education Consultant Intern](https://jobright.ai/jobs/info/67f7a21650095ace0265d92c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Technical Operations Internship - June 2025](https://jobright.ai/jobs/info/67f6f372154829006f97ce5d?utm_campaign=1063&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 08 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Precision Ag Consultant Intern](https://jobright.ai/jobs/info/67f93126555421e8e7d39397?utm_campaign=1063&utm_source=git)** | Bridgeport, NE | On Site | Apr 07 |
-| **[Delivery Associates](https://deliveryassociates.com)** | **[Consulting Intern 2025](https://jobright.ai/jobs/info/67f49662bd2699df45df0e88?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 07 |
-| **[ClearBridge Technology Group](http://www.clearbridgetech.com)** | **[TS/SCI cleared VMware VCF Consultant – CI Poly eligible](https://jobright.ai/jobs/info/67f4ada366d9897c28e90637?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
