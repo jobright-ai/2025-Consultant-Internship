@@ -68,7 +68,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[26 Managment Consulting Intern - E2E - RK](https://jobright.ai/jobs/info/67fb5d50b06b45f877ae1cf4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - AS](https://jobright.ai/jobs/info/67fb62de46abb737e0b789a7?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/67f9e203d56d1dabcf984c06?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Apr 11 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - AN](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d263?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - MK](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c54a?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
+| ↳ | **[26 Managment Consulting Intern - E2E - JA](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c54d?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 11 |
+| ↳ | **[26 Managment Consulting Intern - E2E - AH](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c576?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 11 |
+| ↳ | **[26 Managment Consulting Intern - E2E - AB](https://jobright.ai/jobs/info/67fc88f641d6860d5e4c5400?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
+| ↳ | **[26 Managment Consulting Intern - E2E - SH](https://jobright.ai/jobs/info/67fc826d5734e37a86beabce?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 11 |
+| ↳ | **[26 Managment Consulting Intern - E2E - AN](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d263?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - SG](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d271?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d2fe?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - Process Engineer Consultant Intern](https://jobright.ai/jobs/info/67f99b3251429be0341e055a?utm_campaign=1063&utm_source=git)** | Cary, NC | Hybrid | Apr 11 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Apr 11 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Apr 11 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67ee09da3a1613e932edbed0?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Apr 11 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/67fca3cba6309bfa7570fe93?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f7f0f9554d4aedc126c3ad?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 10 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/67f7f9b2f7c095012e01be25?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 10 |
 | ↳ | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/67f7dfd29a4880f428e6abe0?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 10 |
