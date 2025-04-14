@@ -68,6 +68,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[26 Managment Consulting Intern - E2E - RK](https://jobright.ai/jobs/info/67fb5d50b06b45f877ae1cf4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - AS](https://jobright.ai/jobs/info/67fb62de46abb737e0b789a7?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/67f9e203d56d1dabcf984c06?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Apr 11 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - AN](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d263?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
+| ↳ | **[26 Managment Consulting Intern - E2E - SG](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d271?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
+| ↳ | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d2fe?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - Process Engineer Consultant Intern](https://jobright.ai/jobs/info/67f99b3251429be0341e055a?utm_campaign=1063&utm_source=git)** | Cary, NC | Hybrid | Apr 11 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/67f98bf1d1212f90d7a207b2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Apr 11 |
