@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[Writing Center Consultant (Student Employment)](https://jobright.ai/jobs/info/67fdf95ddde32ee26ce7581a?utm_campaign=1063&utm_source=git)** | Newport, KY | On Site | Apr 14 |
 | **[John M. Corcoran & Company](https://www.jmcandco.com)** | **[Intern - Leasing Consultant](https://jobright.ai/jobs/info/67fd94d8c30985f05cc7992d?utm_campaign=1063&utm_source=git)** | Shrewsbury, MA | On Site | Apr 14 |
-| **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9be?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
-| ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9bc?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
+| **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9bc?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
+| ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9be?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd2d130e2420f8286eb7e6?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 14 |
 | **[Capgemini Invent](http://www.capgemini.com/invent)** | **[Cambridge Consultants - DSP Engineering Intern](https://jobright.ai/jobs/info/67fdae390f26cb536144bc6c?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
