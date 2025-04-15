@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[John M. Corcoran & Company](https://www.jmcandco.com)** | **[Intern - Leasing Consultant](https://jobright.ai/jobs/info/67fd94d8c30985f05cc7992d?utm_campaign=1063&utm_source=git)** | Shrewsbury, MA | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9be?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9bc?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd2d130e2420f8286eb7e6?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 14 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[26 Managment Consulting Intern - E2E - SG](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d271?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d2fe?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - Process Engineer Consultant Intern](https://jobright.ai/jobs/info/67f99b3251429be0341e055a?utm_campaign=1063&utm_source=git)** | Cary, NC | Hybrid | Apr 11 |
-| **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/67f98bf1d1212f90d7a207b2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Apr 11 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Apr 11 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67ee09da3a1613e932edbed0?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Apr 11 |
@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Apr 09 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Ops Education Consultant Intern](https://jobright.ai/jobs/info/67f7a21650095ace0265d92c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Technical Operations Internship - June 2025](https://jobright.ai/jobs/info/67f6f372154829006f97ce5d?utm_campaign=1063&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 08 |
-| **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Precision Ag Consultant Intern](https://jobright.ai/jobs/info/67f93126555421e8e7d39397?utm_campaign=1063&utm_source=git)** | Bridgeport, NE | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
