@@ -61,10 +61,12 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9be?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9bc?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd2d130e2420f8286eb7e6?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 14 |
+| **[Capgemini Invent](http://www.capgemini.com/invent)** | **[Cambridge Consultants - DSP Engineering Intern](https://jobright.ai/jobs/info/67fdae390f26cb536144bc6c?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678bd41ffdbab3cfc7561e9c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 13 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 13 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 13 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - CFD Industry Process Consultant](https://jobright.ai/jobs/info/67fdd372fbd9fef6eae0f64e?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 12 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SUMMER - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67fae278cd7306d3a7c79c1b?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Apr 12 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 12 |
 | **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 12 |
