@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fefc0ff371ad217db52d49?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | ↳ | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fef154d08ba43505ad7c95?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | ↳ | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fef2a1d08ba43505ad829d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
+| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67feb12c9bc4568ab68fe4a6?utm_campaign=1063&utm_source=git)** | Tennessee - Nashville | On Site | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fea72e82d8e86b57162d65?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67fea72e82d8e86b57162da2?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fe9ffcc6834d7db0f32b66?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9be?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fe77aa8359d3caab3a953f?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fe77aa8359d3caab3a9541?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
+| **[Segal](https://www.segalco.com)** | **[Intern, Pharmacy Benefits Consulting (Summer 2025)](https://jobright.ai/jobs/info/67a5a3a32c04c42e7fa06119?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Apr 14 |
 | **[Capgemini Invent](http://www.capgemini.com/invent)** | **[Cambridge Consultants - DSP Engineering Intern](https://jobright.ai/jobs/info/67fdae390f26cb536144bc6c?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678bd41ffdbab3cfc7561e9c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 13 |
@@ -105,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f81da2d1820079e851a21d?utm_campaign=1063&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 09 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 09 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Technical Operations Internship - June 2025](https://jobright.ai/jobs/info/67f6d8ccb6dbcff0e5161efd?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
