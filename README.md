@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67fff0eb44edfa6871310bc0?utm_campaign=1063&utm_source=git)** | Moorhead, MN | On Site | Apr 16 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f1115a8?utm_campaign=1063&utm_source=git)** | Lisle, IL | On Site | Apr 15 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Precision Ag Consultant Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f111502?utm_campaign=1063&utm_source=git)** | Imperial, NE | On Site | Apr 15 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fefc0ff371ad217db52d49?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 15 |
@@ -87,8 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - EB](https://jobright.ai/jobs/info/67fb5d50b06b45f877ae1bf9?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - RK](https://jobright.ai/jobs/info/67fb5d50b06b45f877ae1cf4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - AS](https://jobright.ai/jobs/info/67fb62de46abb737e0b789a7?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
-| **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/67f9e203d56d1dabcf984c06?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Apr 11 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - MK](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c54a?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
+| ↳ | **[26 Managment Consulting Intern - E2E - MK](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c54a?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - JA](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c54d?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - AH](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c576?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - AB](https://jobright.ai/jobs/info/67fc88f641d6860d5e4c5400?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
@@ -105,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Apr 10 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Esports Media Consultant and Lab Assistant - PCSS 2025-2026 (Seton Hall Students Only)](https://jobright.ai/jobs/info/67f7f92a2b3a422c1124e214?utm_campaign=1063&utm_source=git)** | South Orange, NJ | On Site | Apr 10 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 10 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f81da2d1820079e851a21d?utm_campaign=1063&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 09 |
-| **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
