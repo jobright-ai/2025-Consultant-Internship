@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primera Engineers](https://primeraeng.com)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f1115a8?utm_campaign=1063&utm_source=git)** | Lisle, IL | On Site | Apr 15 |
+| **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Precision Ag Consultant Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f111502?utm_campaign=1063&utm_source=git)** | Imperial, NE | On Site | Apr 15 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fef154d08ba43505ad7c95?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
+| ↳ | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fef2a1d08ba43505ad829d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fea72e82d8e86b57162d65?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67fea72e82d8e86b57162da2?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fe9ffcc6834d7db0f32b66?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
@@ -64,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/67fe73a21d809957fa25c391?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Apr 15 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Writing Center Consultant (Student Employment)](https://jobright.ai/jobs/info/67fdf95ddde32ee26ce7581a?utm_campaign=1063&utm_source=git)** | Newport, KY | On Site | Apr 14 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/67c2487791071ab781795cb7?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Apr 14 |
-| **[John M. Corcoran & Company](https://www.jmcandco.com)** | **[Intern - Leasing Consultant](https://jobright.ai/jobs/info/67fd94d8c30985f05cc7992d?utm_campaign=1063&utm_source=git)** | Shrewsbury, MA | On Site | Apr 14 |
+| **[Capgemini Invent](http://www.capgemini.com/invent)** | **[Cambridge Consultants - ESW Engineering Intern](https://jobright.ai/jobs/info/67feb8be8b7e3ab64763e2eb?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fd31531d8d84def3a4e9be?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fe77aa8359d3caab3a953f?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 14 |
 | ↳ | **[Oracle Consultant Intern](https://jobright.ai/jobs/info/67fe77aa8359d3caab3a9541?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
