@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/680060b838b71c1b2ee51455?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Sr Internal Sales Consultant](https://jobright.ai/jobs/info/680016143ef1558b3b918960?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Apr 16 |
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67fff0eb44edfa6871310bc0?utm_campaign=1063&utm_source=git)** | Moorhead, MN | On Site | Apr 16 |
+| **[C1](http://www.spanlink.com)** | **[Intern- AI Center of Excellence, Business Consultant](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993c976?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f1115a8?utm_campaign=1063&utm_source=git)** | Lisle, IL | On Site | Apr 15 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Precision Ag Consultant Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f111502?utm_campaign=1063&utm_source=git)** | Imperial, NE | On Site | Apr 15 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fefc0ff371ad217db52d49?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 15 |
@@ -102,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f7f0f9554d4aedc126c3ad?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 10 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Apr 10 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Esports Media Consultant and Lab Assistant - PCSS 2025-2026 (Seton Hall Students Only)](https://jobright.ai/jobs/info/67f7f92a2b3a422c1124e214?utm_campaign=1063&utm_source=git)** | South Orange, NJ | On Site | Apr 10 |
-| **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
