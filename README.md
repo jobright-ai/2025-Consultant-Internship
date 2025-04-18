@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern ](https://jobright.ai/jobs/info/68029c736c84ca3efd909e19?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Undergraduate Research Consultant](https://jobright.ai/jobs/info/6801712aeed979320c812be4?utm_campaign=1063&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 17 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68015f9679c5070a0f2f21b2?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Library International Research Consultant Intern](https://jobright.ai/jobs/info/68014daf62d20e804fcbf3f9?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 17 |
-| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67ad5d70028dd85949a0f7da?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Apr 17 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/6800d8f7859d966db6af3c0f?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Apr 17 |
+| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67aed8321334ea2933d61f0a?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Apr 17 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/680060b838b71c1b2ee51455?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Sr Internal Sales Consultant](https://jobright.ai/jobs/info/680016143ef1558b3b918960?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Apr 16 |
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67fff0eb44edfa6871310bc0?utm_campaign=1063&utm_source=git)** | Moorhead, MN | On Site | Apr 16 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fefc0ff371ad217db52d49?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | ↳ | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fef154d08ba43505ad7c95?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | ↳ | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fef2a1d08ba43505ad829d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
-| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67feb12c9bc4568ab68fe4a6?utm_campaign=1063&utm_source=git)** | Tennessee - Nashville | On Site | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fea72e82d8e86b57162d65?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67fea72e82d8e86b57162da2?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fe9ffcc6834d7db0f32b66?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
@@ -98,8 +98,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[26 Managment Consulting Intern - E2E - JA](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c54d?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - AH](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c576?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - AB](https://jobright.ai/jobs/info/67fc88f641d6860d5e4c5400?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - SH](https://jobright.ai/jobs/info/67fc826d5734e37a86beabce?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - AN](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d263?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - SG](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d271?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d2fe?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
