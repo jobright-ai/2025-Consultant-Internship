@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Undergraduate Research Consultant](https://jobright.ai/jobs/info/6801712aeed979320c812be4?utm_campaign=1063&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 17 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68015f9679c5070a0f2f21b2?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Library International Research Consultant Intern](https://jobright.ai/jobs/info/68014daf62d20e804fcbf3f9?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 17 |
+| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67ad5d70028dd85949a0f7da?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Apr 17 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/6800d8f7859d966db6af3c0f?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Apr 17 |
-| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/67aed8321334ea2933d61f0a?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Apr 17 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/680060b838b71c1b2ee51455?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Sr Internal Sales Consultant](https://jobright.ai/jobs/info/680016143ef1558b3b918960?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Apr 16 |
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67fff0eb44edfa6871310bc0?utm_campaign=1063&utm_source=git)** | Moorhead, MN | On Site | Apr 16 |
@@ -102,6 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[26 Managment Consulting Intern - E2E - AN](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d263?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - SG](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d271?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | ↳ | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d2fe?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/675ca778041c6536d3515d34?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Apr 11 |
-| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
