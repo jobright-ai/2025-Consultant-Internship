@@ -91,11 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 12 |
 | **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 12 |
 | **[DuPont](http://www.dupont.com)** | **[Summer 2025 Intern - Facilities Consultant and Event Planning.](https://jobright.ai/jobs/info/67f695382af70129bf256523?utm_campaign=1063&utm_source=git)** | Wilmington, DE | On Site | Apr 12 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - EB](https://jobright.ai/jobs/info/67fb5d50b06b45f877ae1bf9?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - RK](https://jobright.ai/jobs/info/67fb5d50b06b45f877ae1cf4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - AS](https://jobright.ai/jobs/info/67fb62de46abb737e0b789a7?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - MK](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c54a?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - JA](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c54d?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - AH](https://jobright.ai/jobs/info/67fc8fa8ac5cc8de9ac2c576?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 11 |
-| ↳ | **[26 Managment Consulting Intern - E2E - AB](https://jobright.ai/jobs/info/67fc88f641d6860d5e4c5400?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
