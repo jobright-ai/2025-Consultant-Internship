@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Korn Ferry](http://www.kornferry.com)** | **[Consulting Internship - Atlanta](https://jobright.ai/jobs/info/67fb753a0e6a38fb298e2942?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 19 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern ](https://jobright.ai/jobs/info/68029c736c84ca3efd909e19?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Undergraduate Research Consultant](https://jobright.ai/jobs/info/6801712aeed979320c812be4?utm_campaign=1063&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 17 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68015f9679c5070a0f2f21b2?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 17 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fefc0ff371ad217db52d49?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | ↳ | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fef154d08ba43505ad7c95?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | ↳ | **[Digital Consulting Internship RPA - Summer 2025](https://jobright.ai/jobs/info/67fef2a1d08ba43505ad829d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
-| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67feb12c9bc4568ab68fe4a6?utm_campaign=1063&utm_source=git)** | Tennessee - Nashville | On Site | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fea72e82d8e86b57162d65?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67fea72e82d8e86b57162da2?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fe9ffcc6834d7db0f32b66?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Apr 09 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/67ff8bddabb56870650a7545?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Ops Education Consultant Intern](https://jobright.ai/jobs/info/67f7a21650095ace0265d92c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Technical Operations Internship - June 2025](https://jobright.ai/jobs/info/67f6f372154829006f97ce5d?utm_campaign=1063&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 08 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Precision Ag Consultant Intern](https://jobright.ai/jobs/info/67f93126555421e8e7d39397?utm_campaign=1063&utm_source=git)** | Bridgeport, NE | On Site | Apr 07 |
 | **[Delivery Associates](https://deliveryassociates.com)** | **[Consulting Intern 2025](https://jobright.ai/jobs/info/67f49662bd2699df45df0e88?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
