@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deltek](http://www.deltek.com)** | **[Intern - Global Consulting](https://jobright.ai/jobs/info/680839b15d67543d23894fe7?utm_campaign=1063&utm_source=git)** | US Remote | Remote | Apr 22 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Electromagnetics Solution Consultant](https://jobright.ai/jobs/info/68048f45406d915e3b8ff584?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Apr 22 |
 | **[Power Construction](https://www.powerconstruction.net)** | **[Developer Intern-Palmer Consulting](https://jobright.ai/jobs/info/67b3eac7dda0ce27c4fe80af?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[Protiviti](http://www.protiviti.com)** | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052a6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Apr 22 |
+| **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 22 |
+| ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052a6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Apr 22 |
 | ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Apr 22 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 22 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 21 |
-| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| ↳ | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
+| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
+| ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/680670503b61825f0c927215?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Apr 21 |
 | **[SRF Consulting Group](http://srfconsulting.com)** | **[SRF Consulting Internship Program](https://jobright.ai/jobs/info/68066659cd416b6db039c7f0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 21 |
@@ -124,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bd140fb55d292442527622?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff792d?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Apr 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/67a483972c98c67ff7bd1204?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Apr 09 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
