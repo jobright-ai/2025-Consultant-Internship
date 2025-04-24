@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6809d3f6a19f5b9d628a742e?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Apr 23 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Cybersecurity](https://jobright.ai/jobs/info/6809d3f6a19f5b9d628a74bc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Apr 23 |
 | **[AXA XL](https://axaxl.com)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/680989a104850f02eb85fd09?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
 | ↳ | **[Risk Consulting Intern](https://jobright.ai/jobs/info/68095183d8b2cb78f84dd9ed?utm_campaign=1063&utm_source=git)** | US-IL-ChicagoOther Locations | Hybrid | Apr 23 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Internal Consulting Co-op](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f120a?utm_campaign=1063&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 23 |
@@ -76,10 +78,9 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Tampa Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa5?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Apr 21 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology (ICT) Bermuda Actuarial Summer Internship - 2025](https://jobright.ai/jobs/info/67af1b8537b6ea66bcc12d57?utm_campaign=1063&utm_source=git)** | Bermuda, VA | On Site | Apr 20 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[Consulting Internship - Atlanta](https://jobright.ai/jobs/info/67fb753a0e6a38fb298e2942?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 19 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern ](https://jobright.ai/jobs/info/68029c736c84ca3efd909e19?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
-| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/68047e27cb3b67cd349f1166?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Apr 17 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/68048c4cd9baf03dd8e207a8?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Apr 17 |
+| **[Newegg](https://www.newegg.com)** | **[Student Advisory Consultant](https://jobright.ai/jobs/info/68045cc3e834cf7826bfe63b?utm_campaign=1063&utm_source=git)** | Diamond Bar, CA | On Site | Apr 17 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Undergraduate Research Consultant](https://jobright.ai/jobs/info/6801712aeed979320c812be4?utm_campaign=1063&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 17 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68015f9679c5070a0f2f21b2?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Library International Research Consultant Intern](https://jobright.ai/jobs/info/68014daf62d20e804fcbf3f9?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 17 |
@@ -119,7 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d2fe?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6780cc76f9018477c647aab9?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Apr 11 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67ee09da3a1613e932edbed0?utm_campaign=1063&utm_source=git)** | York, IL | On Site | Apr 11 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f7f0f9554d4aedc126c3ad?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 10 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Apr 10 |
-| **[Seton Hall University](http://www.shu.edu/)** | **[Esports Media Consultant and Lab Assistant - PCSS 2025-2026 (Seton Hall Students Only)](https://jobright.ai/jobs/info/67f7f92a2b3a422c1124e214?utm_campaign=1063&utm_source=git)** | South Orange, NJ | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
