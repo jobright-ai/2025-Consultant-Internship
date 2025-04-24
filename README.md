@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AXA XL](https://axaxl.com)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/68095183d8b2cb78f84dd9ed?utm_campaign=1063&utm_source=git)** | US-IL-ChicagoOther Locations | Hybrid | Apr 23 |
+| **[AXA XL](https://axaxl.com)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/680989a104850f02eb85fd09?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
+| ↳ | **[Risk Consulting Intern](https://jobright.ai/jobs/info/68095183d8b2cb78f84dd9ed?utm_campaign=1063&utm_source=git)** | US-IL-ChicagoOther Locations | Hybrid | Apr 23 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Internal Consulting Co-op](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f120a?utm_campaign=1063&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Deltek](http://www.deltek.com)** | **[Intern - Global Consulting](https://jobright.ai/jobs/info/680839b15d67543d23894fe7?utm_campaign=1063&utm_source=git)** | US Remote | Remote | Apr 22 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - CFD Industry Process Consultant](https://jobright.ai/jobs/info/6805b750b0bf0704fac6bf1b?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 13 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - AN](https://jobright.ai/jobs/info/68061cfc7abe5676aef3699c?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 13 |
 | ↳ | **[26 Managment Consulting Intern - E2E - SG](https://jobright.ai/jobs/info/68061cfc7abe5676aef369e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 13 |
-| **[Capgemini Invent](http://www.capgemini.com/invent)** | **[Cambridge Consultants - DSP Engineering Intern](https://jobright.ai/jobs/info/67fdae390f26cb536144bc6c?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/678bd41ffdbab3cfc7561e9c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 13 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 13 |
@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[PRS Risk Consulting Scheduling Internship - June 2025](https://jobright.ai/jobs/info/67f7f0f9554d4aedc126c3ad?utm_campaign=1063&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 10 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Intern](https://jobright.ai/jobs/info/67bfe2663b566b692f8fdc39?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Apr 10 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Esports Media Consultant and Lab Assistant - PCSS 2025-2026 (Seton Hall Students Only)](https://jobright.ai/jobs/info/67f7f92a2b3a422c1124e214?utm_campaign=1063&utm_source=git)** | South Orange, NJ | On Site | Apr 10 |
-| **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac68?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
