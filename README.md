@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXA XL](https://axaxl.com)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/68095183d8b2cb78f84dd9ed?utm_campaign=1063&utm_source=git)** | US-IL-ChicagoOther Locations | Hybrid | Apr 23 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Internal Consulting Co-op](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f120a?utm_campaign=1063&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 23 |
-| **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Sales Consultant - Intern](https://jobright.ai/jobs/info/6808eb4618b3e1fa36fde465?utm_campaign=1063&utm_source=git)** | Stevenson-Hendrick Mazda Wilmington | On Site | Apr 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Deltek](http://www.deltek.com)** | **[Intern - Global Consulting](https://jobright.ai/jobs/info/680839b15d67543d23894fe7?utm_campaign=1063&utm_source=git)** | US Remote | Remote | Apr 22 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Electromagnetics Solution Consultant](https://jobright.ai/jobs/info/68048f45406d915e3b8ff584?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Apr 22 |
@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[C1](http://www.spanlink.com)** | **[Intern- AI Center of Excellence, Business Consultant](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993c976?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f1115a8?utm_campaign=1063&utm_source=git)** | Lisle, IL | On Site | Apr 15 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Precision Ag Consultant Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f111502?utm_campaign=1063&utm_source=git)** | Imperial, NE | On Site | Apr 15 |
-| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67feb12c9bc4568ab68fe4a6?utm_campaign=1063&utm_source=git)** | Tennessee - Nashville | On Site | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fea72e82d8e86b57162d65?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67fea72e82d8e86b57162da2?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fe9ffcc6834d7db0f32b66?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
