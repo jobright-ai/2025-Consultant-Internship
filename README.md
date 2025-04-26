@@ -57,20 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clarivate](http://clarivate.com)** | **[Futures Consulting Intern](https://jobright.ai/jobs/info/680c8bc0c3ab71950591cf7c?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Apr 26 |
 | **[IBM](http://www.ibm.com)** | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67f889afbb50424e76632103?utm_campaign=1063&utm_source=git)** | State College, PA | On Site | Apr 25 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6809d3f6a19f5b9d628a742e?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Apr 23 |
 | **[AXA XL](https://axaxl.com)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/680989a104850f02eb85fd09?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
 | ↳ | **[Risk Consulting Intern](https://jobright.ai/jobs/info/68095183d8b2cb78f84dd9ed?utm_campaign=1063&utm_source=git)** | US-IL-ChicagoOther Locations | Hybrid | Apr 23 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Internal Consulting Co-op](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f120a?utm_campaign=1063&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
-| **[Deltek](http://www.deltek.com)** | **[Intern - Global Consulting](https://jobright.ai/jobs/info/680839b15d67543d23894fe7?utm_campaign=1063&utm_source=git)** | US Remote | Remote | Apr 22 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Electromagnetics Solution Consultant](https://jobright.ai/jobs/info/68048f45406d915e3b8ff584?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Apr 22 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 22 |
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052a6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Apr 22 |
 | ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Apr 22 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 22 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 21 |
-| **[Deltek](http://www.deltek.com)** | **[Intern - Global Consulting](https://jobright.ai/jobs/info/680a12e0c855cb6e86a30ef1?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
 | ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/680670503b61825f0c927215?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Apr 21 |
@@ -94,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[C1](http://www.spanlink.com)** | **[Intern- AI Center of Excellence, Business Consultant](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993c976?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f1115a8?utm_campaign=1063&utm_source=git)** | Lisle, IL | On Site | Apr 15 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Precision Ag Consultant Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f111502?utm_campaign=1063&utm_source=git)** | Imperial, NE | On Site | Apr 15 |
+| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67feb12c9bc4568ab68fe4a6?utm_campaign=1063&utm_source=git)** | Tennessee - Nashville | On Site | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fea72e82d8e86b57162d65?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67fea72e82d8e86b57162da2?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fe9ffcc6834d7db0f32b66?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
@@ -106,6 +106,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 13 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/68048f45406d915e3b8ff586?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 12 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SUMMER - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67fae278cd7306d3a7c79c1b?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Apr 12 |
-| **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 12 |
-| **[DuPont](http://www.dupont.com)** | **[Summer 2025 Intern - Facilities Consultant and Event Planning.](https://jobright.ai/jobs/info/67f695382af70129bf256523?utm_campaign=1063&utm_source=git)** | Wilmington, DE | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
