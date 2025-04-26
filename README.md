@@ -64,14 +64,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Consulting Intern](https://jobright.ai/jobs/info/68095183d8b2cb78f84dd9ed?utm_campaign=1063&utm_source=git)** | US-IL-ChicagoOther Locations | Hybrid | Apr 23 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Internal Consulting Co-op](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f120a?utm_campaign=1063&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f98?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
+| **[Deltek](http://www.deltek.com)** | **[Intern - Global Consulting](https://jobright.ai/jobs/info/680d298b2826896aaeb03278?utm_campaign=1063&utm_source=git)** | US Remote | Remote | Apr 22 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Electromagnetics Solution Consultant](https://jobright.ai/jobs/info/68048f45406d915e3b8ff584?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Apr 22 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 22 |
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052a6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Apr 22 |
 | ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Apr 22 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 22 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 21 |
-| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
-| ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
+| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
+| ↳ | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/680670503b61825f0c927215?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Apr 21 |
 | **[SRF Consulting Group](http://srfconsulting.com)** | **[SRF Consulting Internship Program](https://jobright.ai/jobs/info/68066659cd416b6db039c7f0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 21 |
@@ -104,5 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 13 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 13 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/68048f45406d915e3b8ff586?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 12 |
-| **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Computer Support Student Help Desk Consultant-SUMMER - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/67fae278cd7306d3a7c79c1b?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
