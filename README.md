@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citwell](http://www.citwell.com)** | **[Consulting Intern – Fall 2025 (Boston, MA) Location: Boston, MA](https://jobright.ai/jobs/info/680f8245ce9c3229b774ae5a?utm_campaign=1063&utm_source=git)** | Cambridge, MA | On Site | Apr 28 |
 | **[Clarivate](http://clarivate.com)** | **[Futures Consulting Intern](https://jobright.ai/jobs/info/680c8bc0c3ab71950591cf7c?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Apr 26 |
 | **[IBM](http://www.ibm.com)** | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67f889afbb50424e76632103?utm_campaign=1063&utm_source=git)** | State College, PA | On Site | Apr 25 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6809d3f6a19f5b9d628a742e?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Apr 23 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 22 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 21 |
 | **[Deltek](http://www.deltek.com)** | **[Intern - Global Consulting](https://jobright.ai/jobs/info/680db68c29e02f242dc67a5f?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 21 |
-| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
-| ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
+| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
+| ↳ | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Course-Embedded Consultant for FALL 2025](https://jobright.ai/jobs/info/680670503b61825f0c927215?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Apr 21 |
 | **[SRF Consulting Group](http://srfconsulting.com)** | **[SRF Consulting Internship Program](https://jobright.ai/jobs/info/68066659cd416b6db039c7f0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 21 |
