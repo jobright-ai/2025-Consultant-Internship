@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Capgemini Invent](http://www.capgemini.com/invent)** | **[Cambridge Consultants - DSP Engineering Intern](https://jobright.ai/jobs/info/680af8bf98070116905422f2?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Apr 17 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Undergraduate Research Consultant](https://jobright.ai/jobs/info/6801712aeed979320c812be4?utm_campaign=1063&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 17 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68015f9679c5070a0f2f21b2?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 17 |
-| **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
