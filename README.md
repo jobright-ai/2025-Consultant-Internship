@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Intern](https://jobright.ai/jobs/info/6814d018b47acf452be1dd18?utm_campaign=1063&utm_source=git)** | United States | Remote | May 02 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6813cfc0f5ef7dbf3b65c5cf?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543c31?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | May 01 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/68048f45406d915e3b8ff586?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 01 |
