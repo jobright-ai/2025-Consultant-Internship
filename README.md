@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd087?utm_campaign=1063&utm_source=git)** | Girlstown USA, TX | On Site | May 02 |
+| ↳ | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd2c0?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | May 02 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Intern](https://jobright.ai/jobs/info/6814d018b47acf452be1dd18?utm_campaign=1063&utm_source=git)** | United States | Remote | May 02 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6813cfc0f5ef7dbf3b65c5cf?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543c31?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | May 01 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Electromagnetics Solution Consultant](https://jobright.ai/jobs/info/68048f45406d915e3b8ff584?utm_campaign=1063&utm_source=git)** | Waltham, MA | On Site | Apr 22 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Transformation Advisory Intern](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757c20?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 22 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 21 |
-| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| ↳ | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
+| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
+| ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1ed6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Library International Research Consultant Intern, On-site in Utah](https://jobright.ai/jobs/info/68014daf62d20e804fcbf3f9?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 21 |
 | **[SRF Consulting Group](http://srfconsulting.com)** | **[SRF Consulting Internship Program](https://jobright.ai/jobs/info/68066659cd416b6db039c7f0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 21 |
