@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primera Engineers](https://primeraeng.com)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f1115a8?utm_campaign=1063&utm_source=git)** | Lisle, IL | On Site | May 07 |
 | **[John M. Corcoran & Company](https://www.jmcandco.com)** | **[Leasing Consultant Intern (Temporary)](https://jobright.ai/jobs/info/681954510236da528c593080?utm_campaign=1063&utm_source=git)** | Woburn, MA | On Site | May 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/681954510236da528c592ddc?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | May 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 05 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern OneGroup](https://jobright.ai/jobs/info/68168f585268b1a742b23305?utm_campaign=1063&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | May 03 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67ee09da3a1613e932edbed0?utm_campaign=1063&utm_source=git)** | Syracuse-Auburn Area | Hybrid | May 03 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd087?utm_campaign=1063&utm_source=git)** | Girlstown USA, TX | On Site | May 02 |
-| ↳ | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd2c0?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | May 02 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd2c0?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | May 02 |
+| ↳ | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd087?utm_campaign=1063&utm_source=git)** | Girlstown USA, TX | On Site | May 02 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Intern](https://jobright.ai/jobs/info/6814d018b47acf452be1dd18?utm_campaign=1063&utm_source=git)** | United States | Remote | May 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bced05cc9bbe12ff4459e8?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | May 02 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6813cfc0f5ef7dbf3b65c5cf?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 01 |
