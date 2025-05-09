@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e9678?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Apr 29 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 29 |
 | **[Clarivate](http://clarivate.com)** | **[Futures Consulting Intern](https://jobright.ai/jobs/info/680c8bc0c3ab71950591cf7c?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Apr 26 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67f889afbb50424e76632103?utm_campaign=1063&utm_source=git)** | State College, PA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
