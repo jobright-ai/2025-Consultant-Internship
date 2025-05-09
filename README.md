@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/681e551ad4b37b3a8f210267?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | May 09 |
+| **[Humana](http://www.humana.com)** | **[Health System Intern (DOD SkillBridge Intern)](https://jobright.ai/jobs/info/681e2c57819e2adc5258722e?utm_campaign=1063&utm_source=git)** | Remote Nationwide | Remote | May 09 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - CFD Industry Process Consultant](https://jobright.ai/jobs/info/681e0785c47d73b196e5309c?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 09 |
+| ↳ | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/681e0182130711d807f46b45?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 09 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/681cb0b0e93e9e3b23eb8a99?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 08 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Sr Internal Sales Consultant](https://jobright.ai/jobs/info/680016143ef1558b3b918960?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 08 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Private Wealth Management/Advisor Consulting](https://jobright.ai/jobs/info/67e311e39799481f5c2d27f2?utm_campaign=1063&utm_source=git)** | Dublin, OH | On Site | May 07 |
@@ -69,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | May 04 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern OneGroup](https://jobright.ai/jobs/info/68168f585268b1a742b23305?utm_campaign=1063&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | May 03 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/67ee09da3a1613e932edbed0?utm_campaign=1063&utm_source=git)** | Syracuse-Auburn Area | Hybrid | May 03 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd087?utm_campaign=1063&utm_source=git)** | Girlstown USA, TX | On Site | May 02 |
 | ↳ | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd2c0?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | May 02 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Intern](https://jobright.ai/jobs/info/6814d018b47acf452be1dd18?utm_campaign=1063&utm_source=git)** | United States | Remote | May 02 |
