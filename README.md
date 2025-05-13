@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/682380bc0b16e8a264839ef7?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | May 13 |
+| **[WSP](https://www.wsp.com/en-om/services/mine-infrastructure)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/682373bbb316d642e13e0474?utm_campaign=1063&utm_source=git)** | 1 Penn Plaza, New York, NY, 10119, US | On Site | May 13 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6821dc370fae3c660089288f?utm_campaign=1063&utm_source=git)** | New York City, NY | On Site | May 12 |
 | **[VIVALDI_](http://vivaldigroup.com/)** | **[Brand and Innovation Intern - Consulting (Summer 2025)](https://jobright.ai/jobs/info/6822c1f8bb3d50309c654ee2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Humana](http://www.humana.com)** | **[Health System Intern (DOD SkillBridge Intern)](https://jobright.ai/jobs/info/681e2c57819e2adc5258722e?utm_campaign=1063&utm_source=git)** | Remote Nationwide | Remote | May 09 |
@@ -65,12 +67,11 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/681cb0b0e93e9e3b23eb8a99?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 08 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Sr Internal Sales Consultant](https://jobright.ai/jobs/info/680016143ef1558b3b918960?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 08 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Private Wealth Management/Advisor Consulting](https://jobright.ai/jobs/info/67e311e39799481f5c2d27f2?utm_campaign=1063&utm_source=git)** | Dublin, OH | On Site | May 07 |
-| **[Primera Engineers](https://primeraeng.com)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/67fee0b2b0c067d54f1115a8?utm_campaign=1063&utm_source=git)** | Lisle, IL | On Site | May 07 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/681edccbd31dba75a714a90d?utm_campaign=1063&utm_source=git)** | Crozet, VA | On Site | May 06 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/681954510236da528c592ddc?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | May 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681943e7906eeba81fcd843b?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | May 05 |
-| **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions Intern](https://jobright.ai/jobs/info/68190e4a533760bf86f808c4?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 05 |
+| **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions Intern](https://jobright.ai/jobs/info/68190eb1c4b177dff16bace5?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | May 04 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2134?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | May 03 |
 | ↳ | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2158?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | May 03 |
@@ -80,8 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682022b3379642f5903b50f5?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | May 03 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6820129834eee2160f69b368?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | May 03 |
 | **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | May 03 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd2c0?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | May 02 |
-| ↳ | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681543560b6c9838315dd087?utm_campaign=1063&utm_source=git)** | Girlstown USA, TX | On Site | May 02 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Consultant Intern](https://jobright.ai/jobs/info/6814d018b47acf452be1dd18?utm_campaign=1063&utm_source=git)** | United States | Remote | May 02 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6813cfc0f5ef7dbf3b65c5cf?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543c31?utm_campaign=1063&utm_source=git)** | New York, NY, USA | On Site | May 01 |
@@ -90,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Healthcare Reimbursement Accounting Consultant - Winter Intern (2026)](https://jobright.ai/jobs/info/67bd140fb55d292442527622?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Apr 30 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6816f0e56caef9b7fbe12287?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/681198227a67092eeb32ae69?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Apr 29 |
-| **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
