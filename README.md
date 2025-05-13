@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6821dc370fae3c660089288f?utm_campaign=1063&utm_source=git)** | New York City, NY | On Site | May 12 |
+| **[VIVALDI_](http://vivaldigroup.com/)** | **[Brand and Innovation Intern - Consulting (Summer 2025)](https://jobright.ai/jobs/info/6822c1f8bb3d50309c654ee2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Humana](http://www.humana.com)** | **[Health System Intern (DOD SkillBridge Intern)](https://jobright.ai/jobs/info/681e2c57819e2adc5258722e?utm_campaign=1063&utm_source=git)** | Remote Nationwide | Remote | May 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - CFD Industry Process Consultant](https://jobright.ai/jobs/info/681e0785c47d73b196e5309c?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 09 |
 | ↳ | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/681e0182130711d807f46b45?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 09 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/681954510236da528c592ddc?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | May 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681943e7906eeba81fcd843b?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | May 05 |
-| **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions Intern](https://jobright.ai/jobs/info/68190e4a533760bf86f808c4?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 05 |
+| **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions Intern](https://jobright.ai/jobs/info/68190eb1c4b177dff16bace5?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | May 04 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2134?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | May 03 |
 | ↳ | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2158?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | May 03 |
@@ -91,10 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/681198227a67092eeb32ae69?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Apr 29 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Apr 29 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/68112473f637fae3575a299c?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Apr 29 |
-| **[ARETUM](https://www.aretum.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/68110224f417a0769f704c1e?utm_campaign=1063&utm_source=git)** | McLean, VA | Remote | Apr 29 |
-| **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 29 |
-| ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Apr 29 |
-| ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 29 |
-| ↳ | **[Tampa Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa5?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Apr 29 |
-| ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
