@@ -70,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/681954510236da528c592ddc?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | May 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681943e7906eeba81fcd843b?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | May 05 |
-| **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions Intern](https://jobright.ai/jobs/info/68190eb1c4b177dff16bace5?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 05 |
+| **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions Intern](https://jobright.ai/jobs/info/68190e4a533760bf86f808c4?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | May 04 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2134?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | May 03 |
 | ↳ | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2158?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | May 03 |
@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6816f0e56caef9b7fbe12287?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Crowe](https://www.crowe.com/)** | **[Strategy and Advisory Consultant Summer 2025](https://jobright.ai/jobs/info/681198227a67092eeb32ae69?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Apr 29 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Apr 29 |
-| **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/68112473f637fae3575a299c?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
