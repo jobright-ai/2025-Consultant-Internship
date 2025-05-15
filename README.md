@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2025](https://jobright.ai/jobs/info/6825a0274cb65cc2e07f4678?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | May 15 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2025](https://jobright.ai/jobs/info/6825328d612788ecd34894af?utm_campaign=1063&utm_source=git)** | Louisville, KY | Hybrid | May 14 |
 | **[Kepler Cannon](http://www.keplercannon.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/682519418f0550f9852a6346?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[WSP](https://www.wsp.com/en-om/services/mine-infrastructure)** | **[Management Consultancy Intern - Summer 2025](https://jobright.ai/jobs/info/6824fdca5ae9a25322e0e4e1?utm_campaign=1063&utm_source=git)** | 11003 Bluegrass Parkway, Louisville, KY, 40299, US | On Site | May 14 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Commercial Solutions Engineering Intern](https://jobright.ai/jobs/info/6824dcbb43a0e6fdb6d885f6?utm_campaign=1063&utm_source=git)** | United States | Remote | May 14 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultant Intern - Summer 2025](https://jobright.ai/jobs/info/6825586129be3201c7bafc67?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | May 13 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Design Consultant (Temporary)](https://jobright.ai/jobs/info/6823d4f3a8762c2f7361e589?utm_campaign=1063&utm_source=git)** | Notre Dame, IN | On Site | May 13 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6821dc370fae3c660089288f?utm_campaign=1063&utm_source=git)** | New York City, NY | On Site | May 12 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6825626a17e3385534958c36?utm_campaign=1063&utm_source=git)** | New York City, NY | On Site | May 11 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant – Business Risk Services](https://jobright.ai/jobs/info/681954510236da528c592ddc?utm_campaign=1063&utm_source=git)** | Tewksbury, MA | On Site | May 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Risk Advisory Consultant - Business Risk Services](https://jobright.ai/jobs/info/681943e7906eeba81fcd843b?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | May 05 |
-| **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions Intern](https://jobright.ai/jobs/info/68190eb1c4b177dff16bace5?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 05 |
+| **[UHY-US](https://uhy-us.com/)** | **[Resource Solutions Intern](https://jobright.ai/jobs/info/68190e4a533760bf86f808c4?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | May 04 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2134?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | May 03 |
 | ↳ | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2158?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | May 03 |
@@ -100,15 +101,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 29 |
 | **[Clarivate](http://clarivate.com)** | **[Futures Consulting Intern](https://jobright.ai/jobs/info/680c8bc0c3ab71950591cf7c?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Apr 26 |
 | **[IBM](http://www.ibm.com)** | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67f889afbb50424e76632103?utm_campaign=1063&utm_source=git)** | State College, PA | On Site | Apr 25 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 21 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
 | **[SRF Consulting Group](http://srfconsulting.com)** | **[SRF Consulting Internship Program](https://jobright.ai/jobs/info/68066659cd416b6db039c7f0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 21 |
 | **[Terrafuse AI](https://www.terrafuse.ai/)** | **[Geospatial Data Scientist (Research Fellow or Part-time Consultant)](https://jobright.ai/jobs/info/681c26b9b3373f18ed879fba?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Apr 16 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/680060b838b71c1b2ee51455?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
-| **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant (Summer Temp)](https://jobright.ai/jobs/info/67fff0eb44edfa6871310bc0?utm_campaign=1063&utm_source=git)** | Moorhead, MN | On Site | Apr 16 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/68240980b73a6a2e5ad48036?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
-| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67feb12c9bc4568ab68fe4a6?utm_campaign=1063&utm_source=git)** | Tennessee - Nashville | On Site | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultant and Valuation Intern, Cirium](https://jobright.ai/jobs/info/67fea72e82d8e86b57162d65?utm_campaign=1063&utm_source=git)** | Heathrow, FL | On Site | Apr 15 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Management Specialist Intern](https://jobright.ai/jobs/info/67fea72e82d8e86b57162da2?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
