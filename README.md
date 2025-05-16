@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory [Finance/Consulting]](https://jobright.ai/jobs/info/6826809264eb34c44c5c8da9?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | May 15 |
+| **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Intern](https://jobright.ai/jobs/info/682653eeac19eb9f0d1847ea?utm_campaign=1063&utm_source=git)** | US-New York, NY | On Site | May 15 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2025](https://jobright.ai/jobs/info/6825a0274cb65cc2e07f4678?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | May 15 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2025](https://jobright.ai/jobs/info/6825328d612788ecd34894af?utm_campaign=1063&utm_source=git)** | Louisville, KY | Hybrid | May 14 |
 | **[Kepler Cannon](http://www.keplercannon.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/682519418f0550f9852a6346?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 14 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[SentinelOne](http://www.sentinelone.com)** | **[Commercial Solutions Engineering Intern](https://jobright.ai/jobs/info/6824dcbb43a0e6fdb6d885f6?utm_campaign=1063&utm_source=git)** | United States | Remote | May 14 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | May 13 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Design Consultant (Temporary)](https://jobright.ai/jobs/info/6823d4f3a8762c2f7361e589?utm_campaign=1063&utm_source=git)** | Notre Dame, IN | On Site | May 13 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Market Access Consulting Internship](https://jobright.ai/jobs/info/6825626a17e3385534958c36?utm_campaign=1063&utm_source=git)** | New York City, NY | On Site | May 11 |
 | **[VIVALDI_](http://vivaldigroup.com/)** | **[Brand and Innovation Intern - Consulting (Summer 2025)](https://jobright.ai/jobs/info/6822c1f8bb3d50309c654ee2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - CFD Industry Process Consultant](https://jobright.ai/jobs/info/681e0785c47d73b196e5309c?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 09 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/681cb0b0e93e9e3b23eb8a99?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 08 |
