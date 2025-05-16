@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/6826a8c4d89d4c101d325895?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/6826a8dad89d4c101d326081?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/682690eef9de5df2cbeb67d8?utm_campaign=1063&utm_source=git)** | Dulles, VA | Hybrid | May 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory [Finance/Consulting]](https://jobright.ai/jobs/info/6826809264eb34c44c5c8da9?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | May 15 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Intern](https://jobright.ai/jobs/info/682653eeac19eb9f0d1847ea?utm_campaign=1063&utm_source=git)** | US-New York, NY | On Site | May 15 |
