@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/68287ee0ac8ddcf60a281b45?utm_campaign=1063&utm_source=git)** | Dulles, VA | Hybrid | May 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory [Finance/Consulting]](https://jobright.ai/jobs/info/6828259a89d5a5debe4b1b2c?utm_campaign=1063&utm_source=git)** | Allen, TX | Hybrid | May 16 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Intern](https://jobright.ai/jobs/info/682653eeac19eb9f0d1847ea?utm_campaign=1063&utm_source=git)** | US-New York, NY | On Site | May 15 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2025](https://jobright.ai/jobs/info/6825a0274cb65cc2e07f4678?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | May 15 |
