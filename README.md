@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Summer Professional Consultant](https://jobright.ai/jobs/info/682d13d657ff438d5a9d42e8?utm_campaign=1063&utm_source=git)** | Boone, NC | On Site | May 20 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT COLUMBUS](https://jobright.ai/jobs/info/682b44b5921fc280a4e7e8d9?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 19 |
 | **[Alton Aviation Consultancy](https://altonaviation.com)** | **[Associate (Intern - Winter / Spring 2026), Management Consulting](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733f41?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 18 |
+| **[IBM](http://www.ibm.com)** | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67f889afbb50424e76632103?utm_campaign=1063&utm_source=git)** | State College, PA | On Site | May 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/68287ee0ac8ddcf60a281b45?utm_campaign=1063&utm_source=git)** | Dulles, VA | Hybrid | May 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory [Finance/Consulting]](https://jobright.ai/jobs/info/6828259a89d5a5debe4b1b2c?utm_campaign=1063&utm_source=git)** | Allen, TX | Hybrid | May 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/682969011c90af8087737973?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 29 |
 | ↳ | **[Tampa Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa5?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Apr 29 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 29 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67f889afbb50424e76632103?utm_campaign=1063&utm_source=git)** | State College, PA | On Site | Apr 25 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1eee?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 21 |
 | **[SRF Consulting Group](http://srfconsulting.com)** | **[SRF Consulting Internship Program](https://jobright.ai/jobs/info/68066659cd416b6db039c7f0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
