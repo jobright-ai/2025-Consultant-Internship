@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Appalachian State University](http://www.appstate.edu/)** | **[Summer Professional Consultant](https://jobright.ai/jobs/info/682d13d657ff438d5a9d42e8?utm_campaign=1063&utm_source=git)** | Boone, NC | On Site | May 20 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT COLUMBUS](https://jobright.ai/jobs/info/682b44b5921fc280a4e7e8d9?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 19 |
-| **[Archway Marketing Services](http://www.archway.com)** | **[Intern, Strategy and Operations](https://jobright.ai/jobs/info/682be596867e5ca888ed819e?utm_campaign=1063&utm_source=git)** | California, United States | On Site | May 18 |
 | **[Alton Aviation Consultancy](https://altonaviation.com)** | **[Associate (Intern - Winter / Spring 2026), Management Consulting](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733f41?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/68287ee0ac8ddcf60a281b45?utm_campaign=1063&utm_source=git)** | Dulles, VA | Hybrid | May 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory [Finance/Consulting]](https://jobright.ai/jobs/info/6828259a89d5a5debe4b1b2c?utm_campaign=1063&utm_source=git)** | Allen, TX | Hybrid | May 16 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/682968c01c90af8087736df5?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/682969011c90af8087737973?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Intern](https://jobright.ai/jobs/info/682653eeac19eb9f0d1847ea?utm_campaign=1063&utm_source=git)** | US-New York, NY | On Site | May 15 |
 | **[Kepler Cannon](http://www.keplercannon.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/682519418f0550f9852a6346?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6791674145f66bc9d8f4ee3a?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | May 14 |
