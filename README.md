@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e89402e04d233c1281e9c?utm_campaign=1063&utm_source=git)** | Westborough, MA | On Site | May 21 |
+| ↳ | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057f8b?utm_campaign=1063&utm_source=git)** | Hackensack, NJ | On Site | May 21 |
 | **[University of Utah](http://utah.edu)** | **[Adobe Creative Consultant](https://jobright.ai/jobs/info/682e6128ca88cd2b321386f2?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | May 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682033d483678daf62707a34?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | May 21 |
 | ↳ | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2158?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | May 21 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | May 04 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68202e5265cc10a4cf21c6b7?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | May 03 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682022b3379642f5903b50f5?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | May 03 |
-| **[C1](http://www.spanlink.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad6558?utm_campaign=1063&utm_source=git)** | United States | Remote | May 03 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | May 01 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 30 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6816f0e56caef9b7fbe12287?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 29 |
