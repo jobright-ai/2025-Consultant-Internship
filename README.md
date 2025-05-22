@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Design Consultant (Temporary)](https://jobright.ai/jobs/info/682f69a533367a2157ec6cd7?utm_campaign=1063&utm_source=git)** | Notre Dame, IN | On Site | May 22 |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Commercial Solutions Engineering Intern](https://jobright.ai/jobs/info/682f58cc87af641003f9fe03?utm_campaign=1063&utm_source=git)** | United States | Remote | May 22 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e89402e04d233c1281e9c?utm_campaign=1063&utm_source=git)** | Westborough, MA | On Site | May 21 |
 | ↳ | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057f8b?utm_campaign=1063&utm_source=git)** | Hackensack, NJ | On Site | May 21 |
+| **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/68112473f637fae3575a299c?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | May 21 |
 | **[University of Utah](http://utah.edu)** | **[Adobe Creative Consultant](https://jobright.ai/jobs/info/682e6128ca88cd2b321386f2?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | May 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682033d483678daf62707a34?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | May 21 |
 | ↳ | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2158?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | May 21 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Digital Media Consultant - Summer 2025 (Student Wage)](https://jobright.ai/jobs/info/682dc4204c86deb3d23fc9e0?utm_campaign=1063&utm_source=git)** | Charlottesville, VA | On Site | May 20 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT COLUMBUS](https://jobright.ai/jobs/info/682b44b5921fc280a4e7e8d9?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 19 |
 | **[Alton Aviation Consultancy](https://altonaviation.com)** | **[Associate (Intern - Winter / Spring 2026), Management Consulting](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733f41?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 18 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant (SAP) Co-op](https://jobright.ai/jobs/info/67f889afbb50424e76632103?utm_campaign=1063&utm_source=git)** | State College, PA | On Site | May 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/68287ee0ac8ddcf60a281b45?utm_campaign=1063&utm_source=git)** | Dulles, VA | Hybrid | May 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory [Finance/Consulting]](https://jobright.ai/jobs/info/6828259a89d5a5debe4b1b2c?utm_campaign=1063&utm_source=git)** | Allen, TX | Hybrid | May 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/682968c01c90af8087736df5?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
@@ -91,8 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 30 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6816f0e56caef9b7fbe12287?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Apr 29 |
-| **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/68112473f637fae3575a299c?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Apr 29 |
-| **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 29 |
+| ↳ | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 29 |
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde05367?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 29 |
 | ↳ | **[Tampa Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa5?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Apr 29 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Apr 29 |
