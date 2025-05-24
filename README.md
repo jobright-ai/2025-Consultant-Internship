@@ -68,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057f8b?utm_campaign=1063&utm_source=git)** | Hackensack, NJ | On Site | May 21 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/68112473f637fae3575a299c?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | May 21 |
 | **[University of Utah](http://utah.edu)** | **[Adobe Creative Consultant](https://jobright.ai/jobs/info/682e6128ca88cd2b321386f2?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | May 21 |
-| **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | May 21 |
+| **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | May 21 |
+| ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | May 21 |
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682033d483678daf62707a34?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | May 21 |
 | ↳ | **[Seattle Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2158?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | May 21 |
 | ↳ | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2134?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | May 21 |
