@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68326bd04b4ab6651403fcec?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 24 |
 | **[Capgemini Government Solutions](https://www.capgemini.com/us-en/service/capgemini-government-solutions/)** | **[Technical Consulting Internship (Hybrid)](https://jobright.ai/jobs/info/6831aeb9fbf6eedcab07a351?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | May 23 |
 | ↳ | **[Technical Consulting Internship (Hybrid)](https://jobright.ai/jobs/info/6831aeb9fbf6eedcab07a3eb?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | May 23 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | May 23 |
