@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6834669198d460acd2d76248?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 26 |
+| **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | May 25 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68326bd04b4ab6651403fcec?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 24 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | May 23 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Co-op, Customer Success Consultant (Fall 2025)](https://jobright.ai/jobs/info/6830bd57a0916eec299da994?utm_campaign=1063&utm_source=git)** | Oak Brook, IL | Hybrid | May 23 |
