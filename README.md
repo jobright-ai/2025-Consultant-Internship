@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68385a39b30859dc01be9a69?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 29 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/68377e3fbeb6d1dc1e817e6f?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 28 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/68112473f637fae3575a299c?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | May 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Commercial Solutions Engineering Intern](https://jobright.ai/jobs/info/683583a62c053d3649c907ca?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | May 27 |
-| **[Daltile](http://www.daltile.com)** | **[Design Sales Consultant - Intern](https://jobright.ai/jobs/info/683534a40f8cbdeff44a7b19?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6834669198d460acd2d76248?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 26 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | May 25 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68326bd04b4ab6651403fcec?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | May 24 |
@@ -91,6 +91,5 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Digital Media Consultant - Summer 2025 (Student Wage)](https://jobright.ai/jobs/info/682dc4204c86deb3d23fc9e0?utm_campaign=1063&utm_source=git)** | Charlottesville, VA | On Site | May 20 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT COLUMBUS](https://jobright.ai/jobs/info/682b44b5921fc280a4e7e8d9?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 19 |
 | **[Alton Aviation Consultancy](https://altonaviation.com)** | **[Associate (Intern - Winter / Spring 2026), Management Consulting](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733f41?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 18 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/6832a11744d48b1e7d6ac8e4?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | May 17 |
-| **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Intern](https://jobright.ai/jobs/info/682653eeac19eb9f0d1847ea?utm_campaign=1063&utm_source=git)** | US-New York, NY | On Site | May 15 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[26 Managment Consulting Intern - E2E - JR](https://jobright.ai/jobs/info/6832a11744d48b1e7d6ac89c?utm_campaign=1063&utm_source=git)** | Auburn Hills, MI | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
