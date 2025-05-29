@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/68377e3fbeb6d1dc1e817e6f?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 28 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/68112473f637fae3575a299c?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | May 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Commercial Solutions Engineering Intern](https://jobright.ai/jobs/info/683583a62c053d3649c907ca?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | May 27 |
