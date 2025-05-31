@@ -59,10 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[Chief Transformation Office Intern](https://jobright.ai/jobs/info/683a49bb215301186d674e67?utm_campaign=1063&utm_source=git)** | Frederick, MD | Remote | May 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6839261023574ef735fa7c9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 29 |
-| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80f?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 29 |
-| ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80e?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | May 29 |
-| ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f381f99d1ca8d1bf36a7?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | May 29 |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80e?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | May 29 |
+| ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80f?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 29 |
 | ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f381f99d1ca8d1bf36a8?utm_campaign=1063&utm_source=git)** | Wayne, PA | On Site | May 29 |
+| ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f381f99d1ca8d1bf36a7?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | May 29 |
 | ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e048?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[General Consultant for Fall 2025](https://jobright.ai/jobs/info/683884bb8f7183089e642244?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | May 29 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT OHIO](https://jobright.ai/jobs/info/68112473f637fae3575a299c?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | May 29 |
