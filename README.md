@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68202e5265cc10a4cf21c6b7?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | May 21 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Digital Media Consultant - Summer 2025 (Student Wage)](https://jobright.ai/jobs/info/682dc4204c86deb3d23fc9e0?utm_campaign=1063&utm_source=git)** | Charlottesville, VA | On Site | May 20 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT COLUMBUS](https://jobright.ai/jobs/info/682b44b5921fc280a4e7e8d9?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 19 |
-| **[Alton Aviation Consultancy](https://altonaviation.com)** | **[Associate (Intern - Winter / Spring 2026), Management Consulting](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733f41?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
