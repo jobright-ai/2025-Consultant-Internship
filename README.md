@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/683b72f92134c87d630a9195?utm_campaign=1063&utm_source=git)** | Blacksburg, VA | On Site | May 31 |
 | **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[Chief Transformation Office Intern](https://jobright.ai/jobs/info/683a49bb215301186d674e67?utm_campaign=1063&utm_source=git)** | Frederick, MD | Remote | May 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6839261023574ef735fa7c9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 29 |
-| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80e?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | May 29 |
-| ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80f?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 29 |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80f?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 29 |
+| ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80e?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | May 29 |
 | ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f381f99d1ca8d1bf36a8?utm_campaign=1063&utm_source=git)** | Wayne, PA | On Site | May 29 |
 | ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e048?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[General Consultant for Fall 2025](https://jobright.ai/jobs/info/683884bb8f7183089e642244?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | May 29 |
@@ -96,5 +95,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6820129834eee2160f69b368?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | May 21 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68202e5265cc10a4cf21c6b7?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | May 21 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Digital Media Consultant - Summer 2025 (Student Wage)](https://jobright.ai/jobs/info/682dc4204c86deb3d23fc9e0?utm_campaign=1063&utm_source=git)** | Charlottesville, VA | On Site | May 20 |
-| **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT COLUMBUS](https://jobright.ai/jobs/info/682b44b5921fc280a4e7e8d9?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
