@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Global Energy Alliance for People and Planet (GEAPP)](https://www.energyalliance.org)** | **[Knowledge Management Consultant](https://jobright.ai/jobs/info/68386fccbc6ee522504c7640?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jun 02 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/683dab432ed8202b41328c43?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 02 |
 | **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[Chief Transformation Office Intern](https://jobright.ai/jobs/info/683a49bb215301186d674e67?utm_campaign=1063&utm_source=git)** | Frederick, MD | Remote | May 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6839261023574ef735fa7c9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 29 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f381f99d1ca8d1bf36a8?utm_campaign=1063&utm_source=git)** | Wayne, PA | On Site | May 29 |
 | ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e048?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[General Consultant for Fall 2025](https://jobright.ai/jobs/info/683884bb8f7183089e642244?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | May 29 |
-| **[The Global Energy Alliance for People and Planet (GEAPP)](https://www.energyalliance.org)** | **[Knowledge Management Consultant](https://jobright.ai/jobs/info/68386fccbc6ee522504c7640?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | May 29 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Private Wealth Management/Advisor Consulting](https://jobright.ai/jobs/info/67e311e39799481f5c2d27f2?utm_campaign=1063&utm_source=git)** | Dublin, OH | On Site | May 29 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Commercial Solutions Engineering Intern](https://jobright.ai/jobs/info/683583a62c053d3649c907ca?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | May 27 |
