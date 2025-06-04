@@ -59,20 +59,20 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4fc40110bab1fbe5cf09?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jun 03 |
 | ↳ | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4e1080d873e880bf1b1f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Jun 03 |
-| **[Dematic](http://www.dematic.com)** | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d421?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
+| **[Dematic](http://www.dematic.com)** | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d747?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Jun 03 |
+| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d421?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
 | ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d748?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jun 03 |
-| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d747?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Jun 03 |
-| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f182fef4648ca6f1a6c4b?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jun 03 |
-| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f182fef4648ca6f1a6c47?utm_campaign=1063&utm_source=git)** | DEMATIC Dallas, TX | On Site | Jun 03 |
-| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f182fef4648ca6f1a6a66?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 03 |
+| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f182fef4648ca6f1a6c49?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 03 |
+| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f182fef4648ca6f1a6c4a?utm_campaign=1063&utm_source=git)** | DEMATIC Dallas, TX | On Site | Jun 03 |
+| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f182fef4648ca6f1a6c46?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jun 03 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (HR Business Partner) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/683e5378ec8be7ec5cfe8dab?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jun 02 |
 | **[The Global Energy Alliance for People and Planet (GEAPP)](https://www.energyalliance.org)** | **[Knowledge Management Consultant](https://jobright.ai/jobs/info/68386fccbc6ee522504c7640?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jun 02 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/683dab432ed8202b41328c43?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 02 |
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e048?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 30 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/6838f381f99d1ca8d1bf36a8?utm_campaign=1063&utm_source=git)** | Wayne, PA | On Site | May 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6839261023574ef735fa7c9e?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 29 |
-| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80f?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 29 |
-| ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80e?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | May 29 |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80e?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | May 29 |
+| ↳ | **[Internship Opportunities with Bala Consulting](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80f?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 29 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[General Consultant for Fall 2025](https://jobright.ai/jobs/info/683884bb8f7183089e642244?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | May 29 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Private Wealth Management/Advisor Consulting](https://jobright.ai/jobs/info/67e311e39799481f5c2d27f2?utm_campaign=1063&utm_source=git)** | Dublin, OH | On Site | May 29 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 27 |
@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682028438ad3a2511b27bbbe?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | May 21 |
 | ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | May 21 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6820129834eee2160f69b368?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | May 21 |
-| ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68202e5265cc10a4cf21c6b7?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
