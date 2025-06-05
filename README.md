@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a58284c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 04 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Consulting Analytics Intern](https://jobright.ai/jobs/info/68403ce02ec01d593771acbc?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/684015986cf5150413ac9558?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jun 04 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4fc40110bab1fbe5cf09?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jun 03 |
 | ↳ | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4e1080d873e880bf1b1f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Jun 03 |
-| **[Dematic](http://www.dematic.com)** | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d748?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jun 03 |
-| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d421?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
+| **[Dematic](http://www.dematic.com)** | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d421?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
+| ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d748?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jun 03 |
 | ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d747?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Jun 03 |
 | ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f182fef4648ca6f1a6a66?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 03 |
 | ↳ | **[Software Consultant Intern/Co-op](https://jobright.ai/jobs/info/683f182fef4648ca6f1a6c4b?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jun 03 |
