@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/684846294ab05bc0d87a53ac?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Jun 10 |
 | **[Archway Marketing Services](http://www.archway.com)** | **[Intern, Strategy and Operations](https://jobright.ai/jobs/info/6847434690a4855705eba6b5?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jun 08 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a58284c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 04 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68072c90eeab5bfd3f945eeb?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jun 04 |
