@@ -58,16 +58,17 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 14 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454278?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jun 13 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a578045427a?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 13 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a578045427a?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 13 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454271?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jun 13 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454278?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jun 13 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454272?utm_campaign=1063&utm_source=git)** | Charleston, SC | Hybrid | Jun 13 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cdde70abcd95f34869135?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jun 13 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cf8ec75580b971626c519?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jun 13 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
 | ↳ | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682033d483678daf62707a34?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jun 13 |
-| **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2134?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jun 12 |
+| **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6820129834eee2160f69b368?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jun 12 |
+| ↳ | **[Charlotte Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682038bcceeec1d5484d2134?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jun 12 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 12 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68202e5265cc10a4cf21c6b7?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
 | ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jun 12 |
