@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4047?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
+| ↳ | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4054?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/684f5e853d24f56e1a87ee8f?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 15 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 14 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/684a9b5c886d826ef91ff9c6?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jun 12 |
 | ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/684a8c99de6f5a73eb5b8fe4?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jun 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682028438ad3a2511b27bbbe?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 11 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f01a?utm_campaign=1063&utm_source=git)** | R166-Alexandria | On Site | Jun 11 |
-| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f2e2?utm_campaign=1063&utm_source=git)** | USA - Philadelphia, PA | On Site | Jun 11 |
+| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f2e2?utm_campaign=1063&utm_source=git)** | USA - Philadelphia, PA | On Site | Jun 11 |
+| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f01a?utm_campaign=1063&utm_source=git)** | R166-Alexandria | On Site | Jun 11 |
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682022b3379642f5903b50f5?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jun 11 |
 | ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 11 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/684846294ab05bc0d87a53ac?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Jun 10 |
