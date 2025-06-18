@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454ccbf?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 17 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Healthcare Performance Improvement Summer 2025 / Virtual OH](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454d0d7?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4054?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
 | ↳ | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4047?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/684f5e853d24f56e1a87ee8f?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 15 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 14 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684ceac35c914a5780454278?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jun 13 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cdde70abcd95f34869135?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jun 13 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cdde70abcd95f34869135?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jun 13 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
 | ↳ | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682033d483678daf62707a34?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jun 13 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682022b3379642f5903b50f5?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jun 11 |
 | ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 11 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/684846294ab05bc0d87a53ac?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Jun 10 |
-| **[Archway Marketing Services](http://www.archway.com)** | **[Intern, Strategy and Operations](https://jobright.ai/jobs/info/6847434690a4855705eba6b5?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Jun 08 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a58284c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 04 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/684015986cf5150413ac9558?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jun 04 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4fc40110bab1fbe5cf09?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jun 03 |
