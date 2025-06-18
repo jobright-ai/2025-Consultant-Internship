@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/684a9b5c886d826ef91ff9c6?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jun 12 |
 | ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/684a8c99de6f5a73eb5b8fe4?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jun 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682028438ad3a2511b27bbbe?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 11 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f2e2?utm_campaign=1063&utm_source=git)** | USA - Philadelphia, PA | On Site | Jun 11 |
-| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f01a?utm_campaign=1063&utm_source=git)** | R166-Alexandria | On Site | Jun 11 |
+| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f01a?utm_campaign=1063&utm_source=git)** | R166-Alexandria | On Site | Jun 11 |
+| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f2e2?utm_campaign=1063&utm_source=git)** | USA - Philadelphia, PA | On Site | Jun 11 |
 | **[Protiviti](http://www.protiviti.com)** | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682022b3379642f5903b50f5?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jun 11 |
 | ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 11 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/684846294ab05bc0d87a53ac?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Jun 10 |
@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e89402e04d233c1281e9c?utm_campaign=1063&utm_source=git)** | Westborough, MA | On Site | May 21 |
 | ↳ | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057f8b?utm_campaign=1063&utm_source=git)** | Hackensack, NJ | On Site | May 21 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Digital Media Consultant - Summer 2025 (Student Wage)](https://jobright.ai/jobs/info/682dc4204c86deb3d23fc9e0?utm_campaign=1063&utm_source=git)** | Charlottesville, VA | On Site | May 20 |
-| **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT COLUMBUS](https://jobright.ai/jobs/info/682b44b5921fc280a4e7e8d9?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
