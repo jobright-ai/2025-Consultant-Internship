@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454ccbf?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Healthcare Performance Improvement Summer 2025 / Virtual OH](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454d0d7?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 17 |
-| **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4054?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
-| ↳ | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4047?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
+| **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4047?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
+| ↳ | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4054?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/684f5e853d24f56e1a87ee8f?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 15 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Senior Workday Student Financials/Financial Aid Consultant](https://jobright.ai/jobs/info/67f6fad3c529dbaa165d1da7?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 14 |
