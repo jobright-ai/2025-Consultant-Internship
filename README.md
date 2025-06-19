@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Co-op, Customer Success Consultant (Fall 2025)](https://jobright.ai/jobs/info/6830bd57a0916eec299da994?utm_campaign=1063&utm_source=git)** | Oak Brook, IL | Hybrid | May 23 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e89402e04d233c1281e9c?utm_campaign=1063&utm_source=git)** | Westborough, MA | On Site | May 21 |
 | ↳ | **[Seasonal Leasing Consultant/Summer Intern](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057f8b?utm_campaign=1063&utm_source=git)** | Hackensack, NJ | On Site | May 21 |
-| **[UVA Health](https://www.uvahealth.com)** | **[Digital Media Consultant - Summer 2025 (Student Wage)](https://jobright.ai/jobs/info/682dc4204c86deb3d23fc9e0?utm_campaign=1063&utm_source=git)** | Charlottesville, VA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
