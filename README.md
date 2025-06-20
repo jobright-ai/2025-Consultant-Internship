@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68555ea90e0caa42d5c6d436?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 20 |
 | **[Daltile](http://www.daltile.com)** | **[Design Sales Consultant - Intern](https://jobright.ai/jobs/info/685480736438fa6a7aedeaa9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 19 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454ccbf?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 17 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
-| **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4054?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
-| ↳ | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4047?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
+| **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4047?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
+| ↳ | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68514f4a8e007443b81b4054?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Jun 17 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/684f5e853d24f56e1a87ee8f?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 15 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/684cdde70abcd95f34869135?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jun 13 |
