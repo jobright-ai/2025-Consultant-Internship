@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80f?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 29 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[General Consultant for Fall 2025](https://jobright.ai/jobs/info/683884bb8f7183089e642244?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | May 29 |
 | **[Terrafuse AI](https://www.terrafuse.ai/)** | **[Geospatial Data Scientist (Research Fellow or Part-time Consultant)](https://jobright.ai/jobs/info/6852342b819d04343944d296?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | May 27 |
-| **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Co-op, Customer Success Consultant (Fall 2025)](https://jobright.ai/jobs/info/6830bd57a0916eec299da994?utm_campaign=1063&utm_source=git)** | Oak Brook, IL | Hybrid | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
