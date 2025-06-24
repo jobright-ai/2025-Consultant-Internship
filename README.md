@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of New Mexico](http://unm.edu)** | **[Student Technical Consultant](https://jobright.ai/jobs/info/6859d0e733158c1aa06502dc?utm_campaign=1063&utm_source=git)** | Albuquerque, NM | On Site | Jun 23 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68594ea33c92eaa3dd14de86?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 23 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6857549c63e58a3e0c61ee7f?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 21 |
 | **[Daltile](http://www.daltile.com)** | **[Design Sales Consultant - Intern](https://jobright.ai/jobs/info/685480736438fa6a7aedeaa9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 19 |
