@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/685aedbb1ebec50136d3c5c7?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Jun 24 |
 | **[The University of New Mexico](http://unm.edu)** | **[Student Technical Consultant](https://jobright.ai/jobs/info/6859d0e733158c1aa06502dc?utm_campaign=1063&utm_source=git)** | Albuquerque, NM | On Site | Jun 23 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68594ea33c92eaa3dd14de86?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 23 |
-| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6857549c63e58a3e0c61ee7f?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 21 |
 | **[Daltile](http://www.daltile.com)** | **[Design Sales Consultant - Intern](https://jobright.ai/jobs/info/685480736438fa6a7aedeaa9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 19 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454ccbf?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 17 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
-| **[The Global Energy Alliance for People and Planet (GEAPP)](https://www.energyalliance.org)** | **[Knowledge Management Consultant](https://jobright.ai/jobs/info/68565fe381cb0cad08b8d8dc?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Pre-Sales Consultant Intern - OVIP](https://jobright.ai/jobs/info/6817167af9c6339b4aae8e92?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 15 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
 | ↳ | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
@@ -72,16 +71,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6820129834eee2160f69b368?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jun 12 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 12 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68202e5265cc10a4cf21c6b7?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
-| ↳ | **[Boston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1fa9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jun 12 |
 | ↳ | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f48?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jun 12 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d7ec8c9933c12f78e96e9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jun 12 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/684a9b5c886d826ef91ff9c6?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jun 12 |
 | ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/684a8c99de6f5a73eb5b8fe4?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jun 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/682028438ad3a2511b27bbbe?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 11 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/685422b5b2c628d970be7172?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jun 11 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f2e2?utm_campaign=1063&utm_source=git)** | USA - Philadelphia, PA | On Site | Jun 11 |
-| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f01a?utm_campaign=1063&utm_source=git)** | R166-Alexandria | On Site | Jun 11 |
-| **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f65?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 11 |
+| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f01a?utm_campaign=1063&utm_source=git)** | R166-Alexandria | On Site | Jun 11 |
+| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f2e2?utm_campaign=1063&utm_source=git)** | USA - Philadelphia, PA | On Site | Jun 11 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/684846294ab05bc0d87a53ac?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Jun 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a58284c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 04 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/684015986cf5150413ac9558?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jun 04 |
