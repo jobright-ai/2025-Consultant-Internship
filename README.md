@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4fc40110bab1fbe5cf09?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Remote | Jun 25 |
+| ↳ | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4e1080d873e880bf1b1f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/685aedbb1ebec50136d3c5c7?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Jun 24 |
 | **[The University of New Mexico](http://unm.edu)** | **[Student Technical Consultant](https://jobright.ai/jobs/info/6859d0e733158c1aa06502dc?utm_campaign=1063&utm_source=git)** | Albuquerque, NM | On Site | Jun 23 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68594ea33c92eaa3dd14de86?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 23 |
@@ -77,8 +79,6 @@ For a complete list, click the following sortable link below:
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/684846294ab05bc0d87a53ac?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Jun 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a58284c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 04 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/684015986cf5150413ac9558?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jun 04 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4fc40110bab1fbe5cf09?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jun 03 |
-| ↳ | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4e1080d873e880bf1b1f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Jun 03 |
 | **[Terrafuse AI](https://www.terrafuse.ai/)** | **[Geospatial Data Scientist (Research Fellow or Part-time Consultant)](https://jobright.ai/jobs/info/685a463c74c42892a4bda4cc?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jun 02 |
 | ↳ | **[Geospatial Data Scientist (Research Fellow or Part-time Consultant)](https://jobright.ai/jobs/info/685a467274c42892a4bda95b?utm_campaign=1063&utm_source=git)** | Pennsylvania, United States | On Site | Jun 02 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (HR Business Partner) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/683e5378ec8be7ec5cfe8dab?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jun 02 |
