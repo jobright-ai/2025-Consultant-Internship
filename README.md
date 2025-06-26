@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria](https://jobright.ai/jobs/info/685c5d858ca20a43023ade86?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Jun 25 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/685c1d82a8a6c7ad69aba51b?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jun 25 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4e1080d873e880bf1b1f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
-| ↳ | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4fc40110bab1fbe5cf09?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Remote | Jun 25 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4fc40110bab1fbe5cf09?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Remote | Jun 25 |
+| ↳ | **[Sourcing Consultant (International)](https://jobright.ai/jobs/info/683f4e1080d873e880bf1b1f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant / Summer Intern / Part-Time](https://jobright.ai/jobs/info/685cc71455ca884380a30679?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 24 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/685aedbb1ebec50136d3c5c7?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Jun 24 |
 | **[The University of New Mexico](http://unm.edu)** | **[Student Technical Consultant](https://jobright.ai/jobs/info/6859d0e733158c1aa06502dc?utm_campaign=1063&utm_source=git)** | Albuquerque, NM | On Site | Jun 23 |
