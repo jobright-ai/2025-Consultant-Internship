@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc7?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jun 26 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc8?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 26 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc1?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jun 26 |
-| ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc8?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 26 |
+| ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc7?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jun 26 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685d9f594dc4f5309b6a01d4?utm_campaign=1063&utm_source=git)** | Charleston, SC | Hybrid | Jun 26 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Reimbursement Accounting Consultant Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a58284c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 26 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria](https://jobright.ai/jobs/info/685c5d858ca20a43023ade86?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Jun 25 |
@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e048?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/6838f381f99d1ca8d1bf36a8?utm_campaign=1063&utm_source=git)** | Wayne, PA | On Site | May 29 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb80f?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 29 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[General Consultant for Fall 2025](https://jobright.ai/jobs/info/683884bb8f7183089e642244?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
