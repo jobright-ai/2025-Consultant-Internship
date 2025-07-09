@@ -57,14 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/686cf37cdd515a24b79afbfb?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jul 07 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 07 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c29be35584b65420d6f4b?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c25fc35584b6542f0a098?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 07 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
 | ↳ | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6868c64135584b65426998e9?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 04 |
-| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6868c24d35584b6542585508?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 04 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Consulting Intern – Healthcare Business Transformation and Innovation](https://jobright.ai/jobs/info/6866e143a680c9b3394006bb?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Jul 03 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 03 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6865f974f0810735bfbb855e?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 02 |
@@ -77,9 +74,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Philadelphia Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68627091b7d354cbcb988d82?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 30 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6861ddaa3cba366f639693bf?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jun 29 |
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/6860db710300edb5e7a24c58?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Jun 28 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc1?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jun 26 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc7?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jun 26 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc8?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jun 26 |
-| ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc7?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jun 26 |
+| ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685db6168f5566bc57021fc1?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jun 26 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/685d9f594dc4f5309b6a01d4?utm_campaign=1063&utm_source=git)** | Charleston, SC | Hybrid | Jun 26 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria](https://jobright.ai/jobs/info/685c5d858ca20a43023ade86?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Jun 25 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/685c1d82a8a6c7ad69aba51b?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jun 25 |
