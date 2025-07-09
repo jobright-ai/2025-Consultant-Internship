@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DeciBio](http://www.decibio.com)** | **[Consulting Summer Analyst (2026)New](https://jobright.ai/jobs/info/686e0e22e1a3bf00a3809e57?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jul 08 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 07 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c29be35584b65420d6f4b?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c25fc35584b6542f0a098?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 07 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant / Summer Intern / Part-Time](https://jobright.ai/jobs/info/685cc71455ca884380a30679?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 24 |
 | **[The University of New Mexico](http://unm.edu)** | **[Student Technical Consultant](https://jobright.ai/jobs/info/6859d0e733158c1aa06502dc?utm_campaign=1063&utm_source=git)** | Albuquerque, NM | On Site | Jun 23 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454ccbf?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 17 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f2e2?utm_campaign=1063&utm_source=git)** | USA - Philadelphia, PA | On Site | Jun 11 |
-| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f01a?utm_campaign=1063&utm_source=git)** | R166-Alexandria | On Site | Jun 11 |
+| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f01a?utm_campaign=1063&utm_source=git)** | R166-Alexandria | On Site | Jun 11 |
+| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6849dbd0247d5275c232f2e2?utm_campaign=1063&utm_source=git)** | USA - Philadelphia, PA | On Site | Jun 11 |
 | **[TransPerfect](http://www.transperfect.com)** | **[eDiscovery Consulting Developer Intern](https://jobright.ai/jobs/info/684846294ab05bc0d87a53ac?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
