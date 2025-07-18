@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/687a4a32ed63844c944a2462?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Jul 18 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6879b2cbed63844c9449d783?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Jul 17 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/6879b04a2097a271a8979530?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6879c5c7ed63844c9449e23a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jul 17 |
-| ↳ | **[Consultant State and Local Tax (SALT) Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6879bc4eed63844c9449da82?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jul 17 |
-| **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/687987402097a271a89783b5?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jul 17 |
+| ↳ | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/687987402097a271a89783b5?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jul 17 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/68792acaa7fc8904e3960743?utm_campaign=1063&utm_source=git)** | Utica-Rome Area | On Site | Jul 17 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria](https://jobright.ai/jobs/info/685c5d858ca20a43023ade86?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Jul 17 |
+| **[Empower](https://www.empower.com)** | **[Internal Sales Consultant - Government Large/Mega](https://jobright.ai/jobs/info/6877a3c4ae2f413e4a5bc09c?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Jul 16 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jul 16 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/6877959b866a435525ab2aaf?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Jul 16 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Consulting Intern – Healthcare Business Transformation and Innovation](https://jobright.ai/jobs/info/6866e143a680c9b3394006bb?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Jul 16 |
