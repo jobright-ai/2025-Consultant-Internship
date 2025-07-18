@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Loan Review Summer 2026 / Houston](https://jobright.ai/jobs/info/6879b7952097a271a8979905?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 17 |
+| ↳ | **[Consultant State and Local Tax (SALT) Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6879b2eea7fc8904e3964ab6?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 17 |
+| ↳ | **[Consultant State and Local Tax (SALT) Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6879b2cbed63844c9449d783?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Jul 17 |
+| **[Dynatrace](https://www.dynatrace.com)** | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/6879b04a2097a271a8979530?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 17 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6879ad8da7fc8904e3964879?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jul 17 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
-| ↳ | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/687987402097a271a89783b5?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jul 17 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6879bc4eed63844c9449da82?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jul 17 |
+| ↳ | **[Consultant State and Local Tax (SALT) Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6879b9152097a271a89799b4?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 17 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/687987402097a271a89783b5?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jul 17 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/68792acaa7fc8904e3960743?utm_campaign=1063&utm_source=git)** | Utica-Rome Area | On Site | Jul 17 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria](https://jobright.ai/jobs/info/685c5d858ca20a43023ade86?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Jul 17 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/6878f4cba7fc8904e395e9b9?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Jul 17 |
@@ -85,11 +92,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
 | ↳ | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 02 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 30 |
-| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/6860db710300edb5e7a24c58?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Jun 28 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/685c1d82a8a6c7ad69aba51b?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jun 25 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant / Summer Intern / Part-Time](https://jobright.ai/jobs/info/685cc71455ca884380a30679?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 24 |
-| **[Alton Aviation Consultancy](https://altonaviation.com)** | **[Associate (Intern - Fall 2025), Management Consulting](https://jobright.ai/jobs/info/6870c9b4a5ae807a59cfbaab?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jun 19 |
-| ↳ | **[Associate (Intern - Winter / Spring 2026), Management Consulting](https://jobright.ai/jobs/info/6870be6b06ad7073463c0a4a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
