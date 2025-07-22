@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/687987402097a271a89783b5?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jul 17 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria](https://jobright.ai/jobs/info/685c5d858ca20a43023ade86?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Jul 17 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jul 16 |
+| **[Empower](https://www.empower.com)** | **[Internal Sales Consultant - Government Large/Mega](https://jobright.ai/jobs/info/6877a3c4ae2f413e4a5bc09c?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Jul 16 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jul 15 |
 | ↳ | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/68770e125cebcd1dd51cec0e?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jul 15 |
 | **[ANM](http://anm.com)** | **[Consulting Technical Analyst](https://jobright.ai/jobs/info/68773b46299cbc74b8765ad0?utm_campaign=1063&utm_source=git)** | El Paso, TX | On Site | Jul 14 |
@@ -86,13 +87,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c68?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 09 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836be9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 09 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/68749616299cbc74b874f524?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 06 |
-| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
-| ↳ | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
-| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/687b5be72097a271a89835f7?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Jul 04 |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 02 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 30 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/685c1d82a8a6c7ad69aba51b?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jun 25 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant / Summer Intern / Part-Time](https://jobright.ai/jobs/info/685cc71455ca884380a30679?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
