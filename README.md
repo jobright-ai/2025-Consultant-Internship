@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb66c9f72804245704a03?utm_campaign=1063&utm_source=git)** | US - PA, Philadelphia | On Site | Jul 22 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb6352097a271a899e340?utm_campaign=1063&utm_source=git)** | US - IL, Chicago | On Site | Jul 22 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb5e0764c3d7411c4c98e?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Jul 22 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jul 22 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Consultant - Stock Plan Services](https://jobright.ai/jobs/info/687ef18f2097a271a8999168?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Remote | Jul 21 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/687e409ddb19f31cf0d68f20?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 21 |
 | ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/687e40532097a271a8993c9e?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 21 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Fellow](https://jobright.ai/jobs/info/68792acaa7fc8904e3960743?utm_campaign=1063&utm_source=git)** | Utica-Rome Area | On Site | Jul 18 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Consulting Intern – Healthcare Business Transformation and Innovation](https://jobright.ai/jobs/info/6866e143a680c9b3394006bb?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Jul 18 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/687a4a32ed63844c944a2462?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Jul 18 |
-| **[Dynatrace](https://www.dynatrace.com)** | **[Technology Consultant (PDP)](https://jobright.ai/jobs/info/6879b04a2097a271a8979530?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
 | ↳ | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/687987402097a271a89783b5?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jul 17 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria](https://jobright.ai/jobs/info/685c5d858ca20a43023ade86?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Jul 17 |
@@ -85,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 09 |
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686333ca09c6b7a13945471d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c25fc35584b6542f0a098?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 09 |
-| ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6865f974f0810735bfbb855e?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
-| ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c5b?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
+| ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6865f974f0810735bfbb855e?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c68?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
+| ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c5b?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 09 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836be9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
