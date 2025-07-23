@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/688151cb29ad6b2744ae12b2?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 23 |
+| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881545af4f06100f3a261e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 23 |
+| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/6880903b9f7280424570ca33?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb68f764c3d7411c4c9e6?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Jul 22 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb66c9f72804245704a03?utm_campaign=1063&utm_source=git)** | US - PA, Philadelphia | On Site | Jul 22 |
@@ -64,8 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb5e0764c3d7411c4c98e?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Jul 22 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jul 22 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Consultant - Stock Plan Services](https://jobright.ai/jobs/info/687ef18f2097a271a8999168?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Remote | Jul 21 |
-| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/687e409ddb19f31cf0d68f20?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 21 |
-| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/687e401f764c3d7411c42226?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 21 |
 | **[Penn State University](http://psu.edu)** | **[Library Peer Research Consultant](https://jobright.ai/jobs/info/687bbe07764c3d7411c3551e?utm_campaign=1063&utm_source=git)** | University Park, PA | On Site | Jul 18 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/687c9358764c3d7411c3975e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 18 |
 | ↳ | **[ASBD Service Contracts Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/687b96a4764c3d7411c33f6e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
@@ -81,10 +82,10 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68730bcda5ae807a59d0771d?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jul 12 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[IT Help Desk Consultant - Computer Support - Fall 2025 - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/6871cfcb06ad7073463c799b?utm_campaign=1063&utm_source=git)** | North Adams, MA | On Site | Jul 11 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 09 |
-| ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686333ca09c6b7a13945471d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c25fc35584b6542f0a098?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 09 |
-| ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6865f974f0810735bfbb855e?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
+| ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686333ca09c6b7a13945471d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
+| ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6865f974f0810735bfbb855e?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c68?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c5b?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 09 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
 | ↳ | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/687b5be72097a271a89835f7?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Jul 04 |
-| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca36?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
-| ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca4e?utm_campaign=1063&utm_source=git)** | Grundy Center, IA | On Site | Jul 02 |
+| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca4e?utm_campaign=1063&utm_source=git)** | Grundy Center, IA | On Site | Jul 02 |
+| ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca36?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 02 |
 | **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cce?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
 | ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cd2?utm_campaign=1063&utm_source=git)** | Brookings, SD | On Site | Jul 02 |
