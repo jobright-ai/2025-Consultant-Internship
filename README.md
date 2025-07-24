@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/6881736929ad6b2744ae2426?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jul 23 |
-| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
+| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881545af4f06100f3a261e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 23 |
 | ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/688151cb29ad6b2744ae12b2?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 23 |
-| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881545af4f06100f3a261e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 23 |
+| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/6880903b9f7280424570ca33?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb68f764c3d7411c4c9e6?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Jul 22 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb66c9f72804245704a03?utm_campaign=1063&utm_source=git)** | US - PA, Philadelphia | On Site | Jul 22 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca36?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
 | ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca4e?utm_campaign=1063&utm_source=git)** | Grundy Center, IA | On Site | Jul 02 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 02 |
-| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cd2?utm_campaign=1063&utm_source=git)** | Brookings, SD | On Site | Jul 02 |
-| ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cce?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
+| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cce?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
+| ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cd2?utm_campaign=1063&utm_source=git)** | Brookings, SD | On Site | Jul 02 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Jayhawk Consultant](https://jobright.ai/jobs/info/687c64c3ed63844c944ad3e3?utm_campaign=1063&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 28 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/685c1d82a8a6c7ad69aba51b?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jun 25 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Seasonal Leasing Consultant / Summer Intern / Part-Time](https://jobright.ai/jobs/info/685cc71455ca884380a30679?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Jun 24 |
