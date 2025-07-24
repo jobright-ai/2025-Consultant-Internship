@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Junior Management Consultant](https://jobright.ai/jobs/info/68829876b54cac0f1e731271?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Remote | Jul 24 |
 | **[ProspHire](https://www.prosphire.com/)** | **[Healthcare Management Consultant Internship (Summer of 2026)](https://jobright.ai/jobs/info/68825132b54cac0f1e72ea34?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 24 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/6881736929ad6b2744ae2426?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686333ca09c6b7a13945471d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
 | ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6865f974f0810735bfbb855e?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
-| ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c5b?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c68?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
+| ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c5b?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 09 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836be9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 09 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 08 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca36?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
 | ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca4e?utm_campaign=1063&utm_source=git)** | Grundy Center, IA | On Site | Jul 02 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 02 |
-| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cce?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
-| ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cd2?utm_campaign=1063&utm_source=git)** | Brookings, SD | On Site | Jul 02 |
+| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cd2?utm_campaign=1063&utm_source=git)** | Brookings, SD | On Site | Jul 02 |
+| ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cce?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Jayhawk Consultant](https://jobright.ai/jobs/info/687c64c3ed63844c944ad3e3?utm_campaign=1063&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 28 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Desk Consultant](https://jobright.ai/jobs/info/685c1d82a8a6c7ad69aba51b?utm_campaign=1063&utm_source=git)** | Richmond, KY | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
