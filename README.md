@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/6881736929ad6b2744ae2426?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/688151cb29ad6b2744ae12b2?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 23 |
 | ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881545af4f06100f3a261e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 23 |
 | ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 09 |
 | ↳ | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c25fc35584b6542f0a098?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 09 |
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686333ca09c6b7a13945471d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
-| ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
 | ↳ | **[Houston Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/6865f974f0810735bfbb855e?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
+| ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c68?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c5b?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 09 |
