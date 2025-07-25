@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 25 |
 | **[ProspHire](https://www.prosphire.com/)** | **[Healthcare Management Consultant Internship (Summer of 2026)](https://jobright.ai/jobs/info/68825132b54cac0f1e72ea34?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 24 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/6881736929ad6b2744ae2426?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jul 23 |
-| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
-| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/688151cb29ad6b2744ae12b2?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 23 |
+| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/688151cb29ad6b2744ae12b2?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 23 |
+| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
 | ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881545af4f06100f3a261e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 23 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Field Program Consultant](https://jobright.ai/jobs/info/68820c0a16a5e1637304d536?utm_campaign=1063&utm_source=git)** | Meriden, CT | On Site | Jul 23 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/6880903b9f7280424570ca33?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 22 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c68?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 09 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836be9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 09 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 08 |
 | **[The Saratoga Group](www.saratoga-group.com)** | **[Consultant (DoD SkillBridge Internship)](https://jobright.ai/jobs/info/6880c59516ea5743a3732da6?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 08 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
 | **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/687daed9ed63844c944b365c?utm_campaign=1063&utm_source=git)** | Brookings, SD | On Site | Jul 06 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/687b5be72097a271a89835f7?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Jul 04 |
 | **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca4e?utm_campaign=1063&utm_source=git)** | Grundy Center, IA | On Site | Jul 02 |
 | ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/6865a5a4ffecf3df3a71ca36?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
-| ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cd2?utm_campaign=1063&utm_source=git)** | Brookings, SD | On Site | Jul 02 |
 | ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cce?utm_campaign=1063&utm_source=git)** | Glenwood, MN | On Site | Jul 02 |
+| ↳ | **[Intern-Farm Marketing Consultant](https://jobright.ai/jobs/info/68658712671b2427f5737cd2?utm_campaign=1063&utm_source=git)** | Brookings, SD | On Site | Jul 02 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant Intern (Transfer Pricing) (Summer 2026)](https://jobright.ai/jobs/info/6882d473835a903aa07f10ae?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Jul 01 |
 | ↳ | **[Tax Consultant Intern (Global Employer Services) (Summer 2026)](https://jobright.ai/jobs/info/6882d44cb54cac0f1e7330cd?utm_campaign=1063&utm_source=git)** | San Francisco, California, United States | Hybrid | Jul 01 |
 | ↳ | **[Tax Consultant Intern (Global Employer Services) (Summer 2026)](https://jobright.ai/jobs/info/6882d42f835a903aa07f102e?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Jul 01 |
