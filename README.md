@@ -57,19 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Management Consulting Analyst](https://jobright.ai/jobs/info/6884e71efbbf032d0006b597?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | Remote | Jul 26 |
 | **[Capco](http://www.capco.com)** | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883e9e56fcd973d15ae458b?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
-| **[Raymond](https://raymond.global)** | **[Building Enclosure Consulting Internship](https://jobright.ai/jobs/info/6883d353835a903aa07f7edd?utm_campaign=1063&utm_source=git)** | Christiansburg,  VA | On Site | Jul 25 |
+| **[Raymond](https://raymond.global)** | **[Building Enclosure Consulting Internship](https://jobright.ai/jobs/info/6883d38fb54cac0f1e739ee1?utm_campaign=1063&utm_source=git)** | Christiansburg, VA | On Site | Jul 25 |
+| ↳ | **[Building Enclosure Consulting Internship](https://jobright.ai/jobs/info/6883d353835a903aa07f7edd?utm_campaign=1063&utm_source=git)** | Christiansburg,  VA | On Site | Jul 25 |
 | **[Capco](http://www.capco.com)** | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883b4d2835a903aa07f6f0b?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Jul 25 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 25 |
-| **[Raymond](https://raymond.global)** | **[Building Enclosure Consulting Internship](https://jobright.ai/jobs/info/6883e8b36fcd973d15ae4484?utm_campaign=1063&utm_source=git)** | Christiansburg, VA | On Site | Jul 24 |
 | **[ProspHire](https://www.prosphire.com/)** | **[Healthcare Management Consultant Internship (Summer of 2026)](https://jobright.ai/jobs/info/68825132b54cac0f1e72ea34?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 24 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/6881736929ad6b2744ae2426?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881545af4f06100f3a261e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 23 |
-| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
 | ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/688151cb29ad6b2744ae12b2?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 23 |
+| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6881530516ea5743a3738337?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Field Program Consultant](https://jobright.ai/jobs/info/68820c0a16a5e1637304d536?utm_campaign=1063&utm_source=git)** | Meriden, CT | On Site | Jul 23 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/6880903b9f7280424570ca33?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/687fb68f764c3d7411c4c9e6?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Jul 22 |
@@ -90,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jul 16 |
 | **[Empower](https://www.empower.com)** | **[Internal Sales Consultant - Government Large/Mega](https://jobright.ai/jobs/info/6877a3c4ae2f413e4a5bc09c?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Jul 16 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jul 15 |
-| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68730bcda5ae807a59d0771d?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
