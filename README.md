@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883b4d2835a903aa07f6f0b?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Jul 25 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 25 |
-| **[Raymond](https://raymond.global)** | **[Building Enclosure Consulting Internship](https://jobright.ai/jobs/info/6883e8b36fcd973d15ae4484?utm_campaign=1063&utm_source=git)** | Christiansburg, VA | On Site | Jul 24 |
 | **[ProspHire](https://www.prosphire.com/)** | **[Healthcare Management Consultant Internship (Summer of 2026)](https://jobright.ai/jobs/info/68825132b54cac0f1e72ea34?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 24 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Supervising Workers' Compensation Consultant](https://jobright.ai/jobs/info/6887052dfbbf032d0007212a?utm_campaign=1063&utm_source=git)** | Alameda, CA | On Site | Jul 23 |
