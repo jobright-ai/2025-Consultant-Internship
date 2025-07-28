@@ -62,8 +62,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Fluxion AI](http://ai-fluxion.com)** | **[Consultant Associate](https://jobright.ai/jobs/info/688648ce4174df41e0f9a069?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Jul 26 |
 | **[Capco](http://www.capco.com)** | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883e9e56fcd973d15ae458b?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
-| **[Raymond](https://raymond.global)** | **[Building Enclosure Consulting Internship](https://jobright.ai/jobs/info/6883d353835a903aa07f7edd?utm_campaign=1063&utm_source=git)** | Christiansburg,  VA | On Site | Jul 25 |
-| **[Capco](http://www.capco.com)** | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883b4d2835a903aa07f6f0b?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Jul 25 |
+| ↳ | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883b4d2835a903aa07f6f0b?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Jul 25 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 25 |
 | **[Raymond](https://raymond.global)** | **[Building Enclosure Consulting Internship](https://jobright.ai/jobs/info/6883e8b36fcd973d15ae4484?utm_campaign=1063&utm_source=git)** | Christiansburg, VA | On Site | Jul 24 |
