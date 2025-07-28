@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Sector Services Summer Intern - Healthcare Consulting](https://jobright.ai/jobs/info/6887c6d6fbbf032d000764ac?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 28 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5aeb651c92cb78af966?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | ↳ | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
