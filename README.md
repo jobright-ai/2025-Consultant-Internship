@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6888466d73e3e13cbd943a38?utm_campaign=1063&utm_source=git)** | Grapevine, TX | On Site | Jul 28 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881dee4174df41e0fa2f8d?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
+| ↳ | **[Project Management Intern, Tech Consulting (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881ba1fbbf032d00078cf2?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Sector Services Summer Intern - Healthcare Consulting](https://jobright.ai/jobs/info/6887c6d6fbbf032d000764ac?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 28 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5aeb651c92cb78af966?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
