@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889678f09808a6103e47369?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jul 29 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/68896698aab47a17f670140d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889647009808a6103e47280?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 29 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/688961959f961617fe213ebe?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889797209808a6103e47c93?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jul 29 |
 | **[AssetWorks Inc](https://www.assetworks.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893fbc09808a6103e46314?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
 | **[FacilityForce](https://www.facilityforce.com)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893fb79f961617fe213149?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893f079f961617fe21303a?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
