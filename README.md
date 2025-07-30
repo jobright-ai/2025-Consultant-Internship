@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/688989b89f961617fe21549c?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889678f09808a6103e47369?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jul 29 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/68896698aab47a17f670140d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889647009808a6103e47280?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 29 |
@@ -65,12 +66,12 @@ For a complete list, click the following sortable link below:
 | **[AssetWorks Inc](https://www.assetworks.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893fbc09808a6103e46314?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
 | **[FacilityForce](https://www.facilityforce.com)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893fb79f961617fe213149?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893f079f961617fe21303a?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6888466d73e3e13cbd943a38?utm_campaign=1063&utm_source=git)** | Grapevine, TX | On Site | Jul 28 |
+| **[State of Florida](http://www.myflorida.com)** | **[TRAINING AND RESEARCH CONSULTANT - 42005963 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/688997e509808a6103e48e37?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Jul 28 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881dee4174df41e0fa2f8d?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | ↳ | **[Project Management Intern, Tech Consulting (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881ba1fbbf032d00078cf2?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | **[Advisors Asset Management ETFs](https://www.aamlive.com/ETF)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688933069f961617fe2129c1?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Jul 28 |
 | **[Spirit Consulting](https://spiritmco.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/68884ded4174df41e0fa4a3d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5b14174df41e0f9a782?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
+| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5aeb651c92cb78af966?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | ↳ | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Fluxion AI](http://ai-fluxion.com)** | **[Consultant Associate](https://jobright.ai/jobs/info/688648ce4174df41e0f9a069?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Jul 26 |
