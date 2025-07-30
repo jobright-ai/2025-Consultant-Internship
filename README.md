@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[AssetWorks Inc](https://www.assetworks.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893fbc09808a6103e46314?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
 | **[FacilityForce](https://www.facilityforce.com)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893fb79f961617fe213149?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893f079f961617fe21303a?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6889aa85aab47a17f67042df?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[TRAINING AND RESEARCH CONSULTANT - 42005963 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/688997e509808a6103e48e37?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Jul 28 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881dee4174df41e0fa2f8d?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | ↳ | **[Project Management Intern, Tech Consulting (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881ba1fbbf032d00078cf2?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
@@ -100,6 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
 | ↳ | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/687987402097a271a89783b5?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jul 17 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria](https://jobright.ai/jobs/info/685c5d858ca20a43023ade86?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Jul 17 |
-| **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jul 16 |
-| **[Empower](https://www.empower.com)** | **[Internal Sales Consultant - Government Large/Mega](https://jobright.ai/jobs/info/6877a3c4ae2f413e4a5bc09c?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
