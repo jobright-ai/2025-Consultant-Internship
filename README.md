@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quantum Pulse Consulting](https://qpulse.tech/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6889fb7aaab47a17f67064c8?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/688989b89f961617fe21549c?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889678f09808a6103e47369?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jul 29 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/68896698aab47a17f670140d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
