@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consultant - Fall 2026](https://jobright.ai/jobs/info/688ae4ef09808a6103e51fac?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jul 30 |
+| ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688ae4e109808a6103e51f9f?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Jul 30 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant International Tax Summer 2027 / St. Louis](https://jobright.ai/jobs/info/688ae0ff09808a6103e51e89?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Jul 30 |
+| ↳ | **[Consultant International Tax Global Mobility Summer 2027 / Charlotte](https://jobright.ai/jobs/info/688adf44aab47a17f670bf89?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jul 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688aa2ba09808a6103e50472?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | ↳ | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/688a9fe9aab47a17f670a548?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 30 |
 | ↳ | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/688a6dbdaab47a17f6708b48?utm_campaign=1063&utm_source=git)** | Atlanta Metro Area | Hybrid | Jul 30 |
@@ -86,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 25 |
 | **[ProspHire](https://www.prosphire.com/)** | **[Healthcare Management Consultant Internship (Summer of 2026)](https://jobright.ai/jobs/info/68825132b54cac0f1e72ea34?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 24 |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
