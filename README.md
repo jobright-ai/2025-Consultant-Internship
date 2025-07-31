@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Financial Services Regulatory Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688b5723906ac06e1d1caac4?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 31 |
+| ↳ | **[Global Financial Services Risk Consulting Associate- Summer 2026](https://jobright.ai/jobs/info/688b54d31808534a89cb24c5?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 31 |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jul 31 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/688b4223906ac06e1d1ca25e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Jul 31 |
+| ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688b41bf3a30793eb963949a?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jul 31 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Tampa](https://jobright.ai/jobs/info/688b3dd6906ac06e1d1ca229?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jul 31 |
+| ↳ | **[Consultant State and Local Tax (SALT) Summer 2026 / Kansas City](https://jobright.ai/jobs/info/688b3db8906ac06e1d1ca221?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Jul 31 |
+| ↳ | **[Intern Employee Stock Ownership Plan (ESOP) Consulting Summer 2027 / Bowling Green](https://jobright.ai/jobs/info/688b3d971808534a89cb1c10?utm_campaign=1063&utm_source=git)** | Bowling Green, KY | Hybrid | Jul 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consultant - Fall 2026](https://jobright.ai/jobs/info/688ae4ef09808a6103e51fac?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jul 30 |
 | ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688ae4e109808a6103e51f9f?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Jul 30 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant International Tax Summer 2027 / St. Louis](https://jobright.ai/jobs/info/688ae0ff09808a6103e51e89?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Jul 30 |
@@ -83,7 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Intern, Tech Consulting (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881ba1fbbf032d00078cf2?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | **[Advisors Asset Management ETFs](https://www.aamlive.com/ETF)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688933069f961617fe2129c1?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Jul 28 |
 | **[Spirit Consulting](https://spiritmco.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/68884ded4174df41e0fa4a3d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5b14174df41e0f9a782?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
+| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5aeb651c92cb78af966?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | ↳ | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Fluxion AI](http://ai-fluxion.com)** | **[Consultant Associate](https://jobright.ai/jobs/info/688648ce4174df41e0f9a069?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Jul 26 |
