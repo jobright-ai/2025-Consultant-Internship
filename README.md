@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Financial Services Regulatory Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688b5723906ac06e1d1caac4?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 31 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Global Financial Services Risk Consulting Associate- Summer 2026](https://jobright.ai/jobs/info/688b8e1e906ac06e1d1cc438?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| ↳ | **[Financial Services Regulatory Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688b8bc53a30793eb963b5fa?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| ↳ | **[Financial Services Regulatory Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688b5723906ac06e1d1caac4?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 31 |
 | ↳ | **[Global Financial Services Risk Consulting Associate- Summer 2026](https://jobright.ai/jobs/info/688b54d31808534a89cb24c5?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 31 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jul 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/688b4223906ac06e1d1ca25e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Jul 31 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant International Tax Summer 2027 / St. Louis](https://jobright.ai/jobs/info/688ae0ff09808a6103e51e89?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Jul 30 |
 | ↳ | **[Consultant International Tax Global Mobility Summer 2027 / Charlotte](https://jobright.ai/jobs/info/688adf44aab47a17f670bf89?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jul 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688aa2ba09808a6103e50472?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jul 30 |
-| ↳ | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/688a9fe9aab47a17f670a548?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 30 |
 | ↳ | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/688a6dbdaab47a17f6708b48?utm_campaign=1063&utm_source=git)** | Atlanta Metro Area | Hybrid | Jul 30 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688a49c49f961617fe21a703?utm_campaign=1063&utm_source=git)** | Houston | On Site | Jul 30 |
 | **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6889fb7aaab47a17f67064c8?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 30 |
