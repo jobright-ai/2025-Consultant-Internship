@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd5291808534a89cb68a7?utm_campaign=1063&utm_source=git)** | Fort Lauderdale | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd4c03a30793eb963df7e?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd4bf1808534a89cb67ff?utm_campaign=1063&utm_source=git)** | Houston | On Site | Jul 31 |
+| **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c5b?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 31 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/6881736929ad6b2744ae2426?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836be9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
 | ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 31 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consultant - Fall 2026](https://jobright.ai/jobs/info/688ae4ef09808a6103e51fac?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jul 30 |
 | ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688ae4e109808a6103e51f9f?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Jul 30 |
 | ↳ | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/688a6dbdaab47a17f6708b48?utm_campaign=1063&utm_source=git)** | Atlanta Metro Area | Hybrid | Jul 30 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688cf97227f9022553c0824c?utm_campaign=1063&utm_source=git)** | Houston | On Site | Jul 30 |
 | **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6889fb7aaab47a17f67064c8?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/688b0e27aab47a17f670e208?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/688989b89f961617fe21549c?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
