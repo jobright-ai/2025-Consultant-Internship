@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd722906ac06e1d1ced76?utm_campaign=1063&utm_source=git)** | Orlando | On Site | Jul 31 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688be9de3a30793eb963eada?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
+| ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd722906ac06e1d1ced76?utm_campaign=1063&utm_source=git)** | Orlando | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd6dd906ac06e1d1ced40?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd5883a30793eb963e081?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd5291808534a89cb68a7?utm_campaign=1063&utm_source=git)** | Fort Lauderdale | On Site | Jul 31 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881dee4174df41e0fa2f8d?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | ↳ | **[Project Management Intern, Tech Consulting (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881ba1fbbf032d00078cf2?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | **[Advisors Asset Management ETFs](https://www.aamlive.com/ETF)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688933069f961617fe2129c1?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Jul 28 |
-| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5b14174df41e0f9a782?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
+| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5aeb651c92cb78af966?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | ↳ | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Capco](http://www.capco.com)** | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883e9e56fcd973d15ae458b?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
