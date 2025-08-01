@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[Paid Strategy Consulting Summer Analyst](https://jobright.ai/jobs/info/688d1c5f3a30793eb9648a65?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, United States | On Site | Aug 01 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Risk Management Rotational Intern](https://jobright.ai/jobs/info/688cd2403a30793eb964663b?utm_campaign=1063&utm_source=git)** | Carmel | On Site | Aug 01 |
 | **[Southern Veterinary Partners](https://southernvetpartnersllc.com/)** | **[On-Campus Student Consultant (Washington State, 2028 Graduate)](https://jobright.ai/jobs/info/688cafac27f9022553c0660e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Aug 01 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant International Tax Fall 2026 / Charlotte](https://jobright.ai/jobs/info/688c391c906ac06e1d1d1e12?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jul 31 |
