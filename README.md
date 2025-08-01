@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant International Tax Fall 2026 / Charlotte](https://jobright.ai/jobs/info/688c391c906ac06e1d1d1e12?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jul 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688be9de3a30793eb963eada?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd722906ac06e1d1ced76?utm_campaign=1063&utm_source=git)** | Orlando | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd6dd906ac06e1d1ced40?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 31 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd4bf1808534a89cb67ff?utm_campaign=1063&utm_source=git)** | Houston | On Site | Jul 31 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/6881736929ad6b2744ae2426?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836be9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
+| ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 31 |
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686333ca09c6b7a13945471d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jul 31 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 31 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jul 31 |
@@ -74,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Tampa](https://jobright.ai/jobs/info/688b3dd6906ac06e1d1ca229?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jul 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consultant - Fall 2026](https://jobright.ai/jobs/info/688ae4ef09808a6103e51fac?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jul 30 |
 | ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688ae4e109808a6103e51f9f?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Jul 30 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant International Tax Summer 2027 / St. Louis](https://jobright.ai/jobs/info/688ae0ff09808a6103e51e89?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Jul 30 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688aa2ba09808a6103e50472?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jul 30 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688aa2ba09808a6103e50472?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | ↳ | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/688a6dbdaab47a17f6708b48?utm_campaign=1063&utm_source=git)** | Atlanta Metro Area | Hybrid | Jul 30 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688a49c49f961617fe21a703?utm_campaign=1063&utm_source=git)** | Houston | On Site | Jul 30 |
 | **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6889fb7aaab47a17f67064c8?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 30 |
@@ -95,9 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881dee4174df41e0fa2f8d?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | ↳ | **[Project Management Intern, Tech Consulting (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881ba1fbbf032d00078cf2?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 | **[Advisors Asset Management ETFs](https://www.aamlive.com/ETF)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688933069f961617fe2129c1?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Jul 28 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
+| ↳ | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5aeb651c92cb78af966?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Capco](http://www.capco.com)** | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883e9e56fcd973d15ae458b?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
 | ↳ | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883b4d2835a903aa07f6f0b?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Jul 25 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
