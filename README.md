@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Risk Management Rotational Intern](https://jobright.ai/jobs/info/688cd2403a30793eb964663b?utm_campaign=1063&utm_source=git)** | Carmel | On Site | Aug 01 |
 | **[Southern Veterinary Partners](https://southernvetpartnersllc.com/)** | **[On-Campus Student Consultant (Washington State, 2028 Graduate)](https://jobright.ai/jobs/info/688cafac27f9022553c0660e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Aug 01 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant International Tax Fall 2026 / Charlotte](https://jobright.ai/jobs/info/688c391c906ac06e1d1d1e12?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jul 31 |
+| **[Protiviti](http://www.protiviti.com)** | **[Phoenix Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c25fc35584b6542f0a098?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688be9de3a30793eb963eada?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd722906ac06e1d1ced76?utm_campaign=1063&utm_source=git)** | Orlando | On Site | Jul 31 |
 | ↳ | **[Real Estate Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688bd6dd906ac06e1d1ced40?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 31 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jul 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/688b4223906ac06e1d1ca25e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Jul 31 |
 | ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688b41bf3a30793eb963949a?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jul 31 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Tampa](https://jobright.ai/jobs/info/688b3dd6906ac06e1d1ca229?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jul 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consultant - Fall 2026](https://jobright.ai/jobs/info/688ae4ef09808a6103e51fac?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jul 30 |
 | ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688ae4e109808a6103e51f9f?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Jul 30 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/688cf97227f9022553c0824c?utm_campaign=1063&utm_source=git)** | Houston | On Site | Jul 30 |
