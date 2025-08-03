@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Junior Management Consultant](https://jobright.ai/jobs/info/688f6763e5cead4afd460b32?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Remote | Aug 03 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Atlanta](https://jobright.ai/jobs/info/688d3bc61808534a89cc20f2?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
 | **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[Paid Strategy Consulting Summer Analyst](https://jobright.ai/jobs/info/688d1c5f3a30793eb9648a65?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, United States | On Site | Aug 01 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Risk Management Rotational Intern](https://jobright.ai/jobs/info/688cd2403a30793eb964663b?utm_campaign=1063&utm_source=git)** | Carmel | On Site | Aug 01 |
@@ -92,5 +93,5 @@ For a complete list, click the following sortable link below:
 | **[Advisors Asset Management ETFs](https://www.aamlive.com/ETF)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688933069f961617fe2129c1?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Jul 28 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 28 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
-| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5b14174df41e0f9a782?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
+| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5aeb651c92cb78af966?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
