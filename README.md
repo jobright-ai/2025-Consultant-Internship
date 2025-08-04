@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c5b?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jul 31 |
 | **[Campana & Schott](https://www.campana-schott.com/de/en/)** | **[Data Scientist - Internship position in Consulting](https://jobright.ai/jobs/info/6881736929ad6b2744ae2426?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836be9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
-| ↳ | **[Kansas City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26df?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Jul 31 |
 | ↳ | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 31 |
 | ↳ | **[San Francisco Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686333ca09c6b7a13945471d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jul 31 |
 | ↳ | **[Los Angeles Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde052b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 31 |
@@ -88,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893f079f961617fe21303a?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6889aa85aab47a17f67042df?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 28 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/688afbd39f961617fe2200cb?utm_campaign=1063&utm_source=git)** | Grapevine, TX | On Site | Jul 28 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881dee4174df41e0fa2f8d?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
