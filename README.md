@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Summit Leadership Partners](https://www.summitleadership.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/688fe9c46a4aac5783cdde6f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 03 |
+| **[Bates White Economic Consulting](http://www.bateswhite.com/)** | **[Summer Consultant](https://jobright.ai/jobs/info/6890ed2a4c7e851b90acaa6e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Atlanta](https://jobright.ai/jobs/info/688d3bc61808534a89cc20f2?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
 | **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[Paid Strategy Consulting Summer Analyst](https://jobright.ai/jobs/info/688d1c5f3a30793eb9648a65?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, United States | On Site | Aug 01 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Risk Management Rotational Intern](https://jobright.ai/jobs/info/688cd2403a30793eb964663b?utm_campaign=1063&utm_source=git)** | Carmel | On Site | Aug 01 |
@@ -89,6 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6889aa85aab47a17f67042df?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 28 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/688afbd39f961617fe2200cb?utm_campaign=1063&utm_source=git)** | Grapevine, TX | On Site | Jul 28 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881dee4174df41e0fa2f8d?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
-| ↳ | **[Project Management Intern, Tech Consulting (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881ba1fbbf032d00078cf2?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
-| **[Advisors Asset Management ETFs](https://www.aamlive.com/ETF)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688933069f961617fe2129c1?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
