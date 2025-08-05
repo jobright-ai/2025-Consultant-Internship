@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Fall 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68917171f47efe2113955403?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 04 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Talent Acquisition Program Consultant](https://jobright.ai/jobs/info/68916d89f47efe2113955285?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Hybrid | Aug 04 |
-| **[Blue United Corporation](https://blueutd.com/)** | **[Intern - Sports Consulting & Event Operations](https://jobright.ai/jobs/info/689129984c7e851b90acc9a6?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Aug 04 |
 | **[Bates White Economic Consulting](http://www.bateswhite.com/)** | **[Summer Consultant](https://jobright.ai/jobs/info/6890ed2a4c7e851b90acaa6e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Atlanta](https://jobright.ai/jobs/info/688d3bc61808534a89cc20f2?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
 | **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[Paid Strategy Consulting Summer Analyst](https://jobright.ai/jobs/info/688d1c5f3a30793eb9648a65?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, United States | On Site | Aug 01 |
