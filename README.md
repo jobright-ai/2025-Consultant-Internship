@@ -105,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Roo](https://roo.vet)** | **[University/Student Veterinary Ambassador (Consultant Basis)](https://jobright.ai/jobs/info/68909e06f5ee707a15db816a?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 24 |
 | **[ProspHire](https://www.prosphire.com/)** | **[Healthcare Management Consultant Internship (Summer of 2026)](https://jobright.ai/jobs/info/68825132b54cac0f1e72ea34?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 24 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
-| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6892598ff47efe211395ba43?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 23 |
-| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/68925968f5ee707a15dc4e62?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 23 |
+| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/68925968f5ee707a15dc4e62?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts (225 Franklin St) | On Site | Jul 23 |
 | ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/689258234c7e851b90ad4d21?utm_campaign=1063&utm_source=git)** | Arlington, Virginia | On Site | Jul 23 |
+| ↳ | **[Associate Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/6892598ff47efe211395ba43?utm_campaign=1063&utm_source=git)** | Purchase, New York | On Site | Jul 23 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Field Program Consultant](https://jobright.ai/jobs/info/68820c0a16a5e1637304d536?utm_campaign=1063&utm_source=git)** | Meriden, CT | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
