@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935c8ff47efe2113963bea?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Aug 06 |
+| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935c88f47efe2113963be3?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 06 |
+| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935752a9199876488dce59?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 06 |
+| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935748a9199876488dce52?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 06 |
 | **[American University](http://american.edu)** | **[MBA Peer Consultant (Student)](https://jobright.ai/jobs/info/6892d6e6f5ee707a15dc91bc?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Graduate Management Consultant - Summer 2026](https://jobright.ai/jobs/info/68924d70f5ee707a15dc4750?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6892454e4c7e851b90ad454e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 05 |
@@ -64,6 +68,13 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Fall 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68917171f47efe2113955403?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 04 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Talent Acquisition Program Consultant](https://jobright.ai/jobs/info/68916d89f47efe2113955285?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Hybrid | Aug 04 |
 | **[Bates White Economic Consulting](http://www.bateswhite.com/)** | **[Summer Consultant](https://jobright.ai/jobs/info/6890ed2a4c7e851b90acaa6e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689351f0f47efe21139638f2?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689351fbf47efe21139638fb?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352614c7e851b90adcf8e?utm_campaign=1063&utm_source=git)** | Los Angeles, California, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352b0a9199876488dcd26?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352d7a9199876488dcd54?utm_campaign=1063&utm_source=git)** | McLean, Virginia, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/68935280f47efe21139639b3?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352954c7e851b90adcfd8?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Aug 02 |
 | **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[Paid Strategy Consulting Summer Analyst](https://jobright.ai/jobs/info/688d1c5f3a30793eb9648a65?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, United States | On Site | Aug 01 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Risk Management Rotational Intern](https://jobright.ai/jobs/info/688cd2403a30793eb964663b?utm_campaign=1063&utm_source=git)** | Carmel | On Site | Aug 01 |
 | **[Southern Veterinary Partners](https://southernvetpartnersllc.com/)** | **[On-Campus Student Consultant (Washington State, 2028 Graduate)](https://jobright.ai/jobs/info/688cafac27f9022553c0660e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Aug 01 |
@@ -81,30 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jul 31 |
 | **[State of Florida](http://www.myflorida.com)** | **[857934 - COMM - DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40045046](https://jobright.ai/jobs/info/688d9f06cdbd821a3663cfc4?utm_campaign=1063&utm_source=git)** | Fort Pierce, FL | On Site | Jul 30 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/688d9e5c6a4aac5783cd4d8c?utm_campaign=1063&utm_source=git)** | Blacksburg, VA | On Site | Jul 30 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/688b0e27aab47a17f670e208?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
-| **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/688989b89f961617fe21549c?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
-| **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Workers' Compensation Consultant (DEU Rater)](https://jobright.ai/jobs/info/6892cff4f5ee707a15dc89f9?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 29 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889678f09808a6103e47369?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jul 29 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/68896698aab47a17f670140d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889647009808a6103e47280?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jul 29 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/688961959f961617fe213ebe?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern Campus Recruiting)](https://jobright.ai/jobs/info/6889797209808a6103e47c93?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jul 29 |
-| **[AssetWorks Inc](https://www.assetworks.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893fbc09808a6103e46314?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
-| **[FacilityForce](https://www.facilityforce.com)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893fb79f961617fe213149?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
-| **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68893f079f961617fe21303a?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Jul 29 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6889aa85aab47a17f67042df?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jul 28 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/688afbd39f961617fe2200cb?utm_campaign=1063&utm_source=git)** | Grapevine, TX | On Site | Jul 28 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881dee4174df41e0fa2f8d?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
-| ↳ | **[Project Management Intern, Tech Consulting (Hybrid - Fall 25)](https://jobright.ai/jobs/info/68881ba1fbbf032d00078cf2?utm_campaign=1063&utm_source=git)** | Lehi, UT | Hybrid | Jul 28 |
-| **[Advisors Asset Management ETFs](https://www.aamlive.com/ETF)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688933069f961617fe2129c1?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Jul 28 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 28 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
-| **[Kyndryl](https://www.kyndryl.com)** | **[Work Student - Junior IT Consultant](https://jobright.ai/jobs/info/6886b5aeb651c92cb78af966?utm_campaign=1063&utm_source=git)** | Geneva (KCH51699) CoWorking Office | Hybrid | Jul 27 |
-| **[Capco](http://www.capco.com)** | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883e9e56fcd973d15ae458b?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
-| ↳ | **[Pride@Capco: Future Consultants Day](https://jobright.ai/jobs/info/6883b4d2835a903aa07f6f0b?utm_campaign=1063&utm_source=git)** | US - New York | On Site | Jul 25 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
-| ↳ | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Jul 25 |
-| **[Roo](https://roo.vet)** | **[University/Student Veterinary Ambassador (Consultant Basis)](https://jobright.ai/jobs/info/68909e06f5ee707a15db816a?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 24 |
-| **[ProspHire](https://www.prosphire.com/)** | **[Healthcare Management Consultant Internship (Summer of 2026)](https://jobright.ai/jobs/info/68825132b54cac0f1e72ea34?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 24 |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5a96?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
