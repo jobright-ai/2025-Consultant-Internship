@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria 1](https://jobright.ai/jobs/info/689663c61b9e81727f1907b9?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Aug 08 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/68964fd773b3a600fe88e4ce?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
 | ↳ | **[Consulting Intern - Summer 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/689646551b9e81727f18f42e?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
 | **[California Department of Human Resources (CalHR)](https://www.calhr.ca.gov/)** | **[Exam Consultant & Exam Validation Maintenance Graduate Student Assistant](https://jobright.ai/jobs/info/689644411b9e81727f18f311?utm_campaign=1063&utm_source=git)** | Greater Sacramento | Hybrid | Aug 08 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Consulting and Strategy Internship (Great Pay) at CareYaya Health Technologies Inc.](https://jobright.ai/jobs/info/6895f0731b9e81727f18cef2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
+| **[State of Florida](http://www.myflorida.com)** | **[ENVIRONMENTAL CONSULTANT - 42000871 (IFOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68965ac773b3a600fe88ec01?utm_campaign=1063&utm_source=git)** | Lakeland, FL | On Site | Aug 07 |
 | **[CrucialLogics](http://cruciallogics.com)** | **[Intern Associate Consultant - Microsoft AI Solutions](https://jobright.ai/jobs/info/6895104c73b3a600fe884c69?utm_campaign=1063&utm_source=git)** | Remote (Ontario, CA) | Remote | Aug 07 |
 | **[Ariventures](www.ariventures.co)** | **[Project Management & Consulting Intern](https://jobright.ai/jobs/info/6895733a73b3a600fe8879db?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894bcd173b3a600fe881b97?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Aug 07 |
@@ -96,11 +98,11 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Fall 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68917171f47efe2113955403?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 04 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Talent Acquisition Program Consultant](https://jobright.ai/jobs/info/68916d89f47efe2113955285?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Hybrid | Aug 04 |
 | **[Bates White Economic Consulting](http://www.bateswhite.com/)** | **[Summer Consultant](https://jobright.ai/jobs/info/6890ed2a4c7e851b90acaa6e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352954c7e851b90adcfd8?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689351f0f47efe21139638f2?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352614c7e851b90adcf8e?utm_campaign=1063&utm_source=git)** | Los Angeles, California, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689351fbf47efe21139638fb?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352d7a9199876488dcd54?utm_campaign=1063&utm_source=git)** | McLean, Virginia, United States | Hybrid | Aug 02 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352614c7e851b90adcf8e?utm_campaign=1063&utm_source=git)** | Los Angeles, California, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352954c7e851b90adcfd8?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Aug 02 |
 | ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/68935280f47efe21139639b3?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352d7a9199876488dcd54?utm_campaign=1063&utm_source=git)** | McLean, Virginia, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689351f0f47efe21139638f2?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 02 |
+| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689351fbf47efe21139638fb?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | Hybrid | Aug 02 |
 | ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352b0a9199876488dcd26?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
