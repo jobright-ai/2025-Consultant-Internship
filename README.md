@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[USA – Consulting – People Consulting – Intern – Summer 2026 at EY](https://jobright.ai/jobs/info/68969abf1b9e81727f191f71?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 08 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/6896974873b3a600fe890706?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Aug 08 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[USA Summer Internship 2026 (Associate Consultant) at OC&C Strategy Consultants USA Inc.](https://jobright.ai/jobs/info/689694e98c6d6b4426782a67?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/6896710873b3a600fe88f71a?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Aug 08 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria 1](https://jobright.ai/jobs/info/689663c61b9e81727f1907b9?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Aug 08 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/68964fd773b3a600fe88e4ce?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[ENVIRONMENTAL CONSULTANT - 42000871 (IFOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68965ac773b3a600fe88ec01?utm_campaign=1063&utm_source=git)** | Lakeland, FL | On Site | Aug 07 |
 | **[CrucialLogics](http://cruciallogics.com)** | **[Intern Associate Consultant - Microsoft AI Solutions](https://jobright.ai/jobs/info/6895104c73b3a600fe884c69?utm_campaign=1063&utm_source=git)** | Remote (Ontario, CA) | Remote | Aug 07 |
 | **[Ariventures](www.ariventures.co)** | **[Project Management & Consulting Intern](https://jobright.ai/jobs/info/6895733a73b3a600fe8879db?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 07 |
-| **[Rystad Energy](https://www.rystadenergy.com)** | **[Graduate Management Consultant - Summer 2026](https://jobright.ai/jobs/info/68924d70f5ee707a15dc4750?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894bcd173b3a600fe881b97?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Aug 07 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894bc294ed2ea559ca4fec9?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Aug 07 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Media Studio Technology Consultant (Student Wage)](https://jobright.ai/jobs/info/6894bab94ed2ea559ca4fd96?utm_campaign=1063&utm_source=git)** | Charlottesville, VA | On Site | Aug 07 |
@@ -77,32 +79,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894afec73b3a600fe8812a3?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894af9e73b3a600fe881256?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Aug 07 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894acd68c6d6b442677353c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894a51273b3a600fe880c5d?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Aug 07 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894a50973b3a600fe880c56?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Aug 07 |
-| **[Empower](https://www.empower.com)** | **[Internal Sales Consultant - Government Large/Mega](https://jobright.ai/jobs/info/6877a3c4ae2f413e4a5bc09c?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Aug 07 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e794c7e851b90add37b?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e634c7e851b90add374?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e44a9199876488dd097?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e06a9199876488dd074?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Aug 06 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935c8ff47efe2113963bea?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935c88f47efe2113963be3?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935752a9199876488dce59?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935748a9199876488dce52?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 06 |
-| **[KasamaConnect](https://www.linkedin.com/company/107506484)** | **[Consultant](https://jobright.ai/jobs/info/6894a9b84ed2ea559ca4f478?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
-| **[American University](http://american.edu)** | **[MBA Peer Consultant (Student)](https://jobright.ai/jobs/info/6892d6e6f5ee707a15dc91bc?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 05 |
-| **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6892454e4c7e851b90ad454e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68923ee4f47efe211395ac01?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 05 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Fall 2025) – Indianapolis Health](https://jobright.ai/jobs/info/68917171f47efe2113955403?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 04 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Talent Acquisition Program Consultant](https://jobright.ai/jobs/info/68916d89f47efe2113955285?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Hybrid | Aug 04 |
-| **[Bates White Economic Consulting](http://www.bateswhite.com/)** | **[Summer Consultant](https://jobright.ai/jobs/info/6890ed2a4c7e851b90acaa6e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689351fbf47efe21139638fb?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689351f0f47efe21139638f2?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352954c7e851b90adcfd8?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352b0a9199876488dcd26?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352d7a9199876488dcd54?utm_campaign=1063&utm_source=git)** | McLean, Virginia, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/68935280f47efe21139639b3?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Hybrid | Aug 02 |
-| ↳ | **[Tax Consultant Intern (Global Trade Advisory) (Summer 2026)](https://jobright.ai/jobs/info/689352614c7e851b90adcf8e?utm_campaign=1063&utm_source=git)** | Los Angeles, California, United States | Hybrid | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
