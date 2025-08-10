@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894a50973b3a600fe880c56?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Aug 07 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e794c7e851b90add37b?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e634c7e851b90add374?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
+| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e44a9199876488dd097?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e06a9199876488dd074?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Aug 06 |
