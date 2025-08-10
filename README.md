@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/68973f8073b3a600fe8957fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Aug 08 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[USA – Consulting – Process & Controls – Intern – Summer 2026 at EY](https://jobright.ai/jobs/info/68978b2873b3a600fe89b0a6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
+| ↳ | **[USA Summer Internship 2026 (Associate Consultant) at OC&C Strategy Consultants USA Inc.](https://jobright.ai/jobs/info/68982efe83d13d1f5b68b28e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/68974b9d73b3a600fe8965f0?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Aug 08 |
 | ↳ | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Summer 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/689746911b9e81727f19768d?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
