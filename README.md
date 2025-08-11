@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Strategy Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6899f28f83d13d1f5b695111?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/687a4a32ed63844c944a2462?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Aug 09 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/68973f8073b3a600fe8957fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Aug 08 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[USA Summer Internship 2026 (Associate Consultant) at OC&C Strategy Consultants USA Inc.](https://jobright.ai/jobs/info/68982efe83d13d1f5b68b28e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Intern - Summer 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/689746911b9e81727f19768d?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
 | **[State of Florida](http://www.myflorida.com)** | **[ENVIRONMENTAL CONSULTANT - 42000871 (IFOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68984a62faa4e875e824d2c1?utm_campaign=1063&utm_source=git)** | Lakeland, FL | On Site | Aug 07 |
 | **[CrucialLogics](http://cruciallogics.com)** | **[Intern Associate Consultant - Microsoft AI Solutions](https://jobright.ai/jobs/info/6895104c73b3a600fe884c69?utm_campaign=1063&utm_source=git)** | Remote (Ontario, CA) | Remote | Aug 07 |
-| **[Ariventures](www.ariventures.co)** | **[Project Management & Consulting Intern](https://jobright.ai/jobs/info/6895733a73b3a600fe8879db?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Aug 07 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Graduate Management Consultant - Summer 2026](https://jobright.ai/jobs/info/68924d70f5ee707a15dc4750?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894bcd173b3a600fe881b97?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Aug 07 |
@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894a50973b3a600fe880c56?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Aug 07 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e794c7e851b90add37b?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e634c7e851b90add374?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
+| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e44a9199876488dd097?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e06a9199876488dd074?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Aug 06 |
