@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Capital One](http://www.capitalone.com)** | **[Strategy Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6899f28f83d13d1f5b695111?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Strategy Consulting Associate - 2026](https://jobright.ai/jobs/info/689a0e235574fd6bc0c7f558?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Strategy Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6899f28f83d13d1f5b695111?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/687a4a32ed63844c944a2462?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Aug 09 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/68973f8073b3a600fe8957fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Aug 08 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[USA Summer Internship 2026 (Associate Consultant) at OC&C Strategy Consultants USA Inc.](https://jobright.ai/jobs/info/68982efe83d13d1f5b68b28e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
-| **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/68974b9d73b3a600fe8965f0?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Aug 08 |
+| ↳ | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/68974b9d73b3a600fe8965f0?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Aug 08 |
 | ↳ | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria 1](https://jobright.ai/jobs/info/68983a775574fd6bc0c76053?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Aug 08 |
 | **[California Department of Human Resources (CalHR)](https://www.calhr.ca.gov/)** | **[Exam Consultant & Exam Validation Maintenance Graduate Student Assistant](https://jobright.ai/jobs/info/68983ab55574fd6bc0c760b6?utm_campaign=1063&utm_source=git)** | Greater Sacramento | Hybrid | Aug 08 |
