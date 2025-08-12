@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Health Care Consultant Intern - Fall 2025/Spring 2026](https://jobright.ai/jobs/info/689bb666faa4e875e8262e6e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
+| **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/689ba81679a9f966625325fb?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 12 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Aerospace, Defense, And Government Services Consulting Intern at Fairmont Consulting Group](https://jobright.ai/jobs/info/689b4ce683d13d1f5b69f5b3?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Consultant - Stock Plan Services](https://jobright.ai/jobs/info/687ef18f2097a271a8999168?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Remote | Aug 12 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
