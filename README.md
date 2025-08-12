@@ -109,5 +109,4 @@ Job ID : 262154](https://jobright.ai/jobs/info/689afd0f79a9f9666252ec20?utm_camp
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935c88f47efe2113963be3?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935752a9199876488dce59?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935748a9199876488dce52?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 06 |
-| **[American University](http://american.edu)** | **[MBA Peer Consultant (Student)](https://jobright.ai/jobs/info/6892d6e6f5ee707a15dc91bc?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
