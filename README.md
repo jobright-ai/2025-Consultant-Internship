@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a80b15574fd6bc0c830ac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a80a35574fd6bc0c8309c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 11 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7c9ffaa4e875e8259047?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7c42faa4e875e8258fec?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 11 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7bec83d13d1f5b6992e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Outsourced Accounting Services Summer 2026 / Joplin](https://jobright.ai/jobs/info/689a5071faa4e875e8257dff?utm_campaign=1063&utm_source=git)** | Joplin, MO | Hybrid | Aug 11 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/689a3617faa4e875e8256b4d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Strategy Consulting Associate - 2026](https://jobright.ai/jobs/info/689a0e235574fd6bc0c7f558?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Strategy Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6899f28f83d13d1f5b695111?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/687a4a32ed63844c944a2462?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Aug 09 |
-| **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/68973f8073b3a600fe8957fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Aug 08 |
-| ↳ | **[Consulting Intern, Digital (US) - Summer 2026](https://jobright.ai/jobs/info/68974b9d73b3a600fe8965f0?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Aug 08 |
-| ↳ | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[EY](http://www.ey.com)** | **[Intern Risk Consulting - Auditoria 1](https://jobright.ai/jobs/info/68983a775574fd6bc0c76053?utm_campaign=1063&utm_source=git)** | Colorado, United States | On Site | Aug 08 |
 | **[California Department of Human Resources (CalHR)](https://www.calhr.ca.gov/)** | **[Exam Consultant & Exam Validation Maintenance Graduate Student Assistant](https://jobright.ai/jobs/info/68983ab55574fd6bc0c760b6?utm_campaign=1063&utm_source=git)** | Greater Sacramento | Hybrid | Aug 08 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/6898593cfaa4e875e824ecdf?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
@@ -88,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894a50973b3a600fe880c56?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Aug 07 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e794c7e851b90add37b?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e634c7e851b90add374?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 06 |
-| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
+| ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36b?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e44a9199876488dd097?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 06 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e06a9199876488dd074?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Aug 06 |
