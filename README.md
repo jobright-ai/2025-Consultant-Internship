@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cae7379a9f96662539f62?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
+| ↳ | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cae6383d13d1f5b6a9ca9?utm_campaign=1063&utm_source=git)** | Bentonville, Arkansas | On Site | Aug 13 |
 | **[MAGNET: The Manufacturing Advocacy and Growth Network](https://www.manufacturingsuccess.org/)** | **[Fall Research Fellow / Business Consultant (Intern)](https://jobright.ai/jobs/info/689c85bb83d13d1f5b6a8ac5?utm_campaign=1063&utm_source=git)** | Cleveland, OH | Hybrid | Aug 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c379bfaa4e875e8267995?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 12 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/689c377979a9f96662537d4a?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 12 |
