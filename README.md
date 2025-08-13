@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Columbus (Returning Intern)](https://jobright.ai/jobs/info/689be408faa4e875e826453c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Aug 12 |
+| **[Protiviti](http://www.protiviti.com)** | **[New York City Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689bdfda79a9f966625344c2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[TRoN Technologies.](https://www.TRoNTech.studio)** | **[Sales Consultant](https://jobright.ai/jobs/info/689bd3f383d13d1f5b6a3c95?utm_campaign=1063&utm_source=git)** | Paramus, NJ | Hybrid | Aug 12 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Health Care Consultant Intern - Fall 2025/Spring 2026](https://jobright.ai/jobs/info/689bb666faa4e875e8262e6e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/689ba81679a9f966625325fb?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 12 |
