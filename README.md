@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRoN Technologies.](https://www.TRoNTech.studio)** | **[Sales Consultant](https://jobright.ai/jobs/info/689bd3f383d13d1f5b6a3c95?utm_campaign=1063&utm_source=git)** | Paramus, NJ | Hybrid | Aug 12 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Health Care Consultant Intern - Fall 2025/Spring 2026](https://jobright.ai/jobs/info/689bb666faa4e875e8262e6e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/689ba81679a9f966625325fb?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Aerospace, Defense, And Government Services Consulting Intern at Fairmont Consulting Group](https://jobright.ai/jobs/info/689b4ce683d13d1f5b69f5b3?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Consultant - Stock Plan Services](https://jobright.ai/jobs/info/687ef18f2097a271a8999168?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Remote | Aug 12 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Country Planning
@@ -72,7 +72,6 @@ Job ID : 262154](https://jobright.ai/jobs/info/689afd0f79a9f9666252ec20?utm_camp
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7c9ffaa4e875e8259047?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7c42faa4e875e8258fec?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 11 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7bec83d13d1f5b6992e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 11 |
-| **[Pocket Aces Consulting](http://www.pocketacesconsulting.com)** | **[Office Intern - Political Consulting](https://jobright.ai/jobs/info/689ac0375574fd6bc0c85b7a?utm_campaign=1063&utm_source=git)** | Fairfax, VA | On Site | Aug 11 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Outsourced Accounting Services Summer 2026 / Joplin](https://jobright.ai/jobs/info/689a5071faa4e875e8257dff?utm_campaign=1063&utm_source=git)** | Joplin, MO | Hybrid | Aug 11 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Field Technical Services Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/689aca1b5574fd6bc0c860a9?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Aug 11 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/689a3617faa4e875e8256b4d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
