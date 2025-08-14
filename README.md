@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e253afaa4e875e82770f3?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 14 |
+| ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e24e783d13d1f5b6b716c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
+| ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e231a79a9f966625474aa?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Aug 14 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/689e171b79a9f96662546ecb?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Aug 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e136883d13d1f5b6b68a9?utm_campaign=1063&utm_source=git)** | Chicago Riverside Plaza | On Site | Aug 14 |
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e135b79a9f96662546b5e?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Aug 14 |
