@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](http://www.gaccmidwest.org)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689d13abfaa4e875e826cecd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf6379a9f9666253ba88?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
 | ↳ | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf4ffaa4e875e826b64b?utm_campaign=1063&utm_source=git)** | Bentonville, Arkansas | On Site | Aug 13 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689cdeb479a9f9666253b7c7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
