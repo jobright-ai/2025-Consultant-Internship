@@ -71,8 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Consultant - Stock Plan Services](https://jobright.ai/jobs/info/687ef18f2097a271a8999168?utm_campaign=1063&utm_source=git)** | Des Moines, IA | Remote | Aug 12 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Country Planning
-Job ID : 262154](https://jobright.ai/jobs/info/689afd0f79a9f9666252ec20?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Strategy Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/689add5ffaa4e875e825d335?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Strategy Consulting Associate - 2026](https://jobright.ai/jobs/info/689adc5683d13d1f5b69d492?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/689c222cfaa4e875e8266347?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 11 |
