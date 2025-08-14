@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Student Organization Consultant](https://jobright.ai/jobs/info/689e171b79a9f96662546ecb?utm_campaign=1063&utm_source=git)** | Dearborn, MI | On Site | Aug 14 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e136883d13d1f5b6b68a9?utm_campaign=1063&utm_source=git)** | Chicago Riverside Plaza | On Site | Aug 14 |
+| ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e135b79a9f96662546b5e?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Aug 14 |
+| ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e1159faa4e875e827680d?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Aug 14 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion (Federal Consulting)](https://jobright.ai/jobs/info/689db4ce83d13d1f5b6b3c37?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 14 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689d85de83d13d1f5b6b1124?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689d13abfaa4e875e826cecd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
@@ -91,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[California Department of Human Resources (CalHR)](https://www.calhr.ca.gov/)** | **[Exam Consultant & Exam Validation Maintenance Graduate Student Assistant](https://jobright.ai/jobs/info/68983ab55574fd6bc0c760b6?utm_campaign=1063&utm_source=git)** | Greater Sacramento | Hybrid | Aug 08 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/6898593cfaa4e875e824ecdf?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
 | ↳ | **[Consulting Intern - Summer 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/689746911b9e81727f19768d?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
-| **[State of Florida](http://www.myflorida.com)** | **[ENVIRONMENTAL CONSULTANT - 42000871 (IFOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68984a62faa4e875e824d2c1?utm_campaign=1063&utm_source=git)** | Lakeland, FL | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
