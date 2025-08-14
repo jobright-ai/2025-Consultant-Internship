@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion (Federal Consulting)](https://jobright.ai/jobs/info/689db4ce83d13d1f5b6b3c37?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 14 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689d85de83d13d1f5b6b1124?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](http://www.gaccmidwest.org)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689d13abfaa4e875e826cecd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf6379a9f9666253ba88?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
@@ -94,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[ENVIRONMENTAL CONSULTANT - 42000871 (IFOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68984a62faa4e875e824d2c1?utm_campaign=1063&utm_source=git)** | Lakeland, FL | On Site | Aug 07 |
 | **[CrucialLogics](http://cruciallogics.com)** | **[Intern Associate Consultant - Microsoft AI Solutions](https://jobright.ai/jobs/info/6895104c73b3a600fe884c69?utm_campaign=1063&utm_source=git)** | Remote (Ontario, CA) | Remote | Aug 07 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Aug 07 |
-| **[Rystad Energy](https://www.rystadenergy.com)** | **[Graduate Management Consultant - Summer 2026](https://jobright.ai/jobs/info/68924d70f5ee707a15dc4750?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
