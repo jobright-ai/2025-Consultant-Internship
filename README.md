@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Technology](https://jobright.ai/jobs/info/689e556bfaa4e875e827b211?utm_campaign=1063&utm_source=git)** | Durham, NC | Hybrid | Aug 14 |
+| ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e552879a9f9666254b3fd?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
+| ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade1?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 14 |
+| ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e546083d13d1f5b6bad6b?utm_campaign=1063&utm_source=git)** | Westlake, TX | Hybrid | Aug 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e253afaa4e875e82770f3?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 14 |
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e24e783d13d1f5b6b716c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e231a79a9f966625474aa?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Aug 14 |
