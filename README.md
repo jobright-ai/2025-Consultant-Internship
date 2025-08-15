@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689ef46b79a9f96662553d4c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
+| **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
+| ↳ | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689ef46b79a9f96662553d4c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Technology](https://jobright.ai/jobs/info/689e556bfaa4e875e827b211?utm_campaign=1063&utm_source=git)** | Durham, NC | Hybrid | Aug 14 |
 | ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e552879a9f9666254b3fd?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
 | ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade1?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 14 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e135b79a9f96662546b5e?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Aug 14 |
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e1159faa4e875e827680d?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Aug 14 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion (Federal Consulting)](https://jobright.ai/jobs/info/689db4ce83d13d1f5b6b3c37?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 14 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/689edf7383d13d1f5b6c2e2d?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689d85de83d13d1f5b6b1124?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689d13abfaa4e875e826cecd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf6379a9f9666253ba88?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
@@ -104,7 +104,4 @@ Job ID : 262154](https://jobright.ai/jobs/info/689eb68e79a9f9666254fbed?utm_camp
 | ↳ | **[Strategy Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6899f28f83d13d1f5b695111?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/687a4a32ed63844c944a2462?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Aug 09 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
-| **[California Department of Human Resources (CalHR)](https://www.calhr.ca.gov/)** | **[Exam Consultant & Exam Validation Maintenance Graduate Student Assistant](https://jobright.ai/jobs/info/68983ab55574fd6bc0c760b6?utm_campaign=1063&utm_source=git)** | Greater Sacramento | Hybrid | Aug 08 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/6898593cfaa4e875e824ecdf?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
-| ↳ | **[Consulting Intern - Summer 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/689746911b9e81727f19768d?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
