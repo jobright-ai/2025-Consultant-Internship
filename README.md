@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RKL LLP](https://www.rklcpa.com)** | **[HR Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/689fa7e5faa4e875e828a65e?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
 | **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Columbus (Returning Intern)](https://jobright.ai/jobs/info/689f85bb83d13d1f5b6c91ce?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
 | **[RKL LLP](https://www.rklcpa.com)** | **[Senior Living Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/689f801efaa4e875e8288c8b?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
 | ↳ | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f7feab3e889632cf07bf7?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
