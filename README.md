@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689ef46b79a9f96662553d4c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Technology](https://jobright.ai/jobs/info/689e556bfaa4e875e827b211?utm_campaign=1063&utm_source=git)** | Durham, NC | Hybrid | Aug 14 |
 | ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e552879a9f9666254b3fd?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
 | ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade1?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 14 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf6379a9f9666253ba88?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
 | ↳ | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf4ffaa4e875e826b64b?utm_campaign=1063&utm_source=git)** | Bentonville, Arkansas | On Site | Aug 13 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689cdeb479a9f9666253b7c7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
+| **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/689efd3c83d13d1f5b6c3eeb?utm_campaign=1063&utm_source=git)** | Blacksburg, VA | On Site | Aug 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c379bfaa4e875e8267995?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 12 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/689c377979a9f96662537d4a?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c364583d13d1f5b6a783a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 12 |
