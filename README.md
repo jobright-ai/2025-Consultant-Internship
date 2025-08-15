@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RKL LLP](https://www.rklcpa.com)** | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f637f83d13d1f5b6c62bd?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
+| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Columbus (Returning Intern)](https://jobright.ai/jobs/info/689f85bb83d13d1f5b6c91ce?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
+| **[RKL LLP](https://www.rklcpa.com)** | **[Senior Living Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/689f801efaa4e875e8288c8b?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
+| ↳ | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f7feab3e889632cf07bf7?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
+| ↳ | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f637f83d13d1f5b6c62bd?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
 | ↳ | **[Senior Living Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/689f634179a9f96662556761?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Risk Analytics Consulting Internship](https://jobright.ai/jobs/info/689f45bb83d13d1f5b6c550f?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
 | ↳ | **[eDiscovery Consulting Internship](https://jobright.ai/jobs/info/689f4245faa4e875e82854e3?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
