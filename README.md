@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sabry & Company](sabryandcompany.com)** | **[Graduate Intern, Management Consultant](https://jobright.ai/jobs/info/689eb048faa4e875e827efc1?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Aug 14 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Technology](https://jobright.ai/jobs/info/689e556bfaa4e875e827b211?utm_campaign=1063&utm_source=git)** | Durham, NC | Hybrid | Aug 14 |
 | ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e552879a9f9666254b3fd?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
 | ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade1?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 14 |
@@ -70,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e135b79a9f96662546b5e?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Aug 14 |
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e1159faa4e875e827680d?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Aug 14 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion (Federal Consulting)](https://jobright.ai/jobs/info/689db4ce83d13d1f5b6b3c37?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 14 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/689edf7383d13d1f5b6c2e2d?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689d85de83d13d1f5b6b1124?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689d13abfaa4e875e826cecd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf6379a9f9666253ba88?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
