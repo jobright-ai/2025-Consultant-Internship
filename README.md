@@ -76,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf6379a9f9666253ba88?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
 | ↳ | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf4ffaa4e875e826b64b?utm_campaign=1063&utm_source=git)** | Bentonville, Arkansas | On Site | Aug 13 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689cdeb479a9f9666253b7c7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
+| **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40042118](https://jobright.ai/jobs/info/689f23bb83d13d1f5b6c45a2?utm_campaign=1063&utm_source=git)** | Ocoee, FL | On Site | Aug 13 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/689efd3c83d13d1f5b6c3eeb?utm_campaign=1063&utm_source=git)** | Blacksburg, VA | On Site | Aug 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c379bfaa4e875e8267995?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 12 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/689c377979a9f96662537d4a?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 12 |
@@ -103,5 +104,4 @@ Job ID : 262154](https://jobright.ai/jobs/info/689eb68e79a9f9666254fbed?utm_camp
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Strategy Consulting Associate - 2026](https://jobright.ai/jobs/info/689a0e235574fd6bc0c7f558?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Strategy Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6899f28f83d13d1f5b695111?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/687a4a32ed63844c944a2462?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Aug 09 |
-| **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
