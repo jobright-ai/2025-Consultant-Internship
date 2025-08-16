@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[eDiscovery Consulting Internship](https://jobright.ai/jobs/info/689f4245faa4e875e82854e3?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
 | ↳ | **[Investigations, Disputes & Economics Consulting Internship](https://jobright.ai/jobs/info/689f4238faa4e875e82854b7?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
 | ↳ | **[Turnaround & Restructuring - MBA Intern](https://jobright.ai/jobs/info/689f41ee79a9f96662555549?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Aug 15 |
+| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
 | ↳ | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689ef46b79a9f96662553d4c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e253afaa4e875e82770f3?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 14 |
