@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68a242a2cc9ee94dc91248b8?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Aug 17 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Risk Analytics Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f45bb83d13d1f5b6c550f?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 17 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Associate & Legal Intern at Midas Consulting: Apply Now!](https://jobright.ai/jobs/info/68a1e347faa4e875e8295310?utm_campaign=1063&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68a1fad6faa4e875e82954e0?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 17 |
