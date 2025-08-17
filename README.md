@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlixPartners](http://www.alixpartners.com)** | **[Risk Analytics Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f45bb83d13d1f5b6c550f?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 17 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Associate & Legal Intern at Midas Consulting: Apply Now!](https://jobright.ai/jobs/info/68a1e347faa4e875e8295310?utm_campaign=1063&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68a1fad6faa4e875e82954e0?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 17 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Investigations, Disputes & Economics Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f4238faa4e875e82854b7?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 16 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Aug 16 |
 | **[RKL LLP](https://www.rklcpa.com)** | **[HR Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/689fe0b1faa4e875e828bc45?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
@@ -66,8 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f7feab3e889632cf07bf7?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
 | ↳ | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f637f83d13d1f5b6c62bd?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
 | ↳ | **[Senior Living Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/689f634179a9f96662556761?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Risk Analytics Consulting Internship](https://jobright.ai/jobs/info/689f45bb83d13d1f5b6c550f?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
-| ↳ | **[eDiscovery Consulting Internship](https://jobright.ai/jobs/info/689f4245faa4e875e82854e3?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
+| **[AlixPartners](http://www.alixpartners.com)** | **[eDiscovery Consulting Internship](https://jobright.ai/jobs/info/689f4245faa4e875e82854e3?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
 | ↳ | **[Turnaround & Restructuring - MBA Intern](https://jobright.ai/jobs/info/689f41ee79a9f96662555549?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Aug 15 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
