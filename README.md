@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate Consultant Intern (North America - University Students)](https://jobright.ai/jobs/info/68a362a737d3cc6b0d5766ba?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Aug 18 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Aug 18 |
 | **[Elliott Davis](https://www.elliottdavis.com/)** | **[Summer 2026 Business Systems Consulting Intern](https://jobright.ai/jobs/info/68a2ac38ff570d7ffd65cf5b?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Aug 17 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68a29637cc9ee94dc9125525?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 17 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Risk Analytics Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f45bb83d13d1f5b6c550f?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 17 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Associate & Legal Intern at Midas Consulting: Apply Now!](https://jobright.ai/jobs/info/68a1e347faa4e875e8295310?utm_campaign=1063&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Investigations, Disputes & Economics Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f4238faa4e875e82854b7?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 16 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf6379a9f9666253ba88?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
 | ↳ | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf4ffaa4e875e826b64b?utm_campaign=1063&utm_source=git)** | Bentonville, Arkansas | On Site | Aug 13 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689cdeb479a9f9666253b7c7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68a35e0237d3cc6b0d5764e8?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40042118](https://jobright.ai/jobs/info/689f23bb83d13d1f5b6c45a2?utm_campaign=1063&utm_source=git)** | Ocoee, FL | On Site | Aug 13 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/689efd3c83d13d1f5b6c3eeb?utm_campaign=1063&utm_source=git)** | Blacksburg, VA | On Site | Aug 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c379bfaa4e875e8267995?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 12 |
@@ -99,9 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Strategy Consulting Associate - 2026](https://jobright.ai/jobs/info/689adc5683d13d1f5b69d492?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/689c222cfaa4e875e8266347?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 11 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a80b15574fd6bc0c830ac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a80a35574fd6bc0c8309c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 11 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7c9ffaa4e875e8259047?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7c42faa4e875e8258fec?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 11 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7bec83d13d1f5b6992e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
