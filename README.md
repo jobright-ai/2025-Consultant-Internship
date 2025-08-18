@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elliott Davis](https://www.elliottdavis.com/)** | **[Summer 2026 Business Systems Consulting Intern](https://jobright.ai/jobs/info/68a2ac38ff570d7ffd65cf5b?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Aug 17 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68a29637cc9ee94dc9125525?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 17 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Risk Analytics Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f45bb83d13d1f5b6c550f?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 17 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Associate & Legal Intern at Midas Consulting: Apply Now!](https://jobright.ai/jobs/info/68a1e347faa4e875e8295310?utm_campaign=1063&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
@@ -98,7 +99,6 @@ Job ID : 262154](https://jobright.ai/jobs/info/68a00603cc9ee94dc911b85e?utm_camp
 | **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Columbus (Returning Intern)](https://jobright.ai/jobs/info/689be408faa4e875e826453c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Aug 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689bdfda79a9f966625344c2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Health Care Consultant Intern - Fall 2025/Spring 2026](https://jobright.ai/jobs/info/689bb666faa4e875e8262e6e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
-| **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/689ba81679a9f966625325fb?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Strategy Consulting Associate - 2026](https://jobright.ai/jobs/info/689adc5683d13d1f5b69d492?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
