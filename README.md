@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a39b49403ad4363b1c28b5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 18 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a391a81ab5f8579e8a6e32?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 18 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a390e3403ad4363b1c2430?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 18 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Aug 18 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
