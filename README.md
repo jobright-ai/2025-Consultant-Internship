@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a3d53b37d3cc6b0d57a017?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 18 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b3051ab5f8579e8a798e?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Aug 18 |
 | ↳ | **[Strategy Insights & Planning Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b2e9403ad4363b1c2fd8?utm_campaign=1063&utm_source=git)** | South San Francisco, CA | On Site | Aug 18 |
 | ↳ | **[Strategy Insights & Planning Associate Consultant Intern (North America - University Students)](https://jobright.ai/jobs/info/68a3aff837d3cc6b0d578c16?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
