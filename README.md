@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Advisory (Profit Participation Services) Intern at GHJ](https://jobright.ai/jobs/info/68a467182d2a252445cd6c6a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
+| ↳ | **[Consulting Internship at Qvest.US](https://jobright.ai/jobs/info/68a46646e9f1c744da121b87?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a3d53b37d3cc6b0d57a017?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 18 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b3051ab5f8579e8a798e?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Aug 18 |
 | ↳ | **[Strategy Insights & Planning Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b2e9403ad4363b1c2fd8?utm_campaign=1063&utm_source=git)** | South San Francisco, CA | On Site | Aug 18 |
@@ -110,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Columbus (Returning Intern)](https://jobright.ai/jobs/info/689be408faa4e875e826453c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Aug 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689bdfda79a9f966625344c2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Health Care Consultant Intern - Fall 2025/Spring 2026](https://jobright.ai/jobs/info/689bb666faa4e875e8262e6e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
