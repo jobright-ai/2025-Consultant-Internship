@@ -110,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/689c377979a9f96662537d4a?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c364583d13d1f5b6a783a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 12 |
 | **[Maharishi International University](https://www.miu.edu/)** | **[FWS Writing Center Consultant](https://jobright.ai/jobs/info/689d82b979a9f9666254124c?utm_campaign=1063&utm_source=git)** | Fairfield, IA | On Site | Aug 12 |
-| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Columbus (Returning Intern)](https://jobright.ai/jobs/info/689be408faa4e875e826453c?utm_campaign=1063&utm_source=git)** | Columbus, OH | On Site | Aug 12 |
-| **[Protiviti](http://www.protiviti.com)** | **[New York City Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689bdfda79a9f966625344c2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
