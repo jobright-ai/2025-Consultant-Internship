@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qvest US](http://www.qvest.com)** | **[Consulting Internship, Summer 2026](https://jobright.ai/jobs/info/68a4e25433dd7158bbc95ea1?utm_campaign=1063&utm_source=git)** | Anywhere in the USA | Hybrid | Aug 19 |
 | **[Andersen](http://www.Andersen.com)** | **[2026 Summer Internship - Investment Consulting Services - McLean, Virginia](https://jobright.ai/jobs/info/68a4cd64541cc3479840e4aa?utm_campaign=1063&utm_source=git)** | McLean, Virginia | On Site | Aug 19 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Advisory (Profit Participation Services) Intern at GHJ](https://jobright.ai/jobs/info/68a467182d2a252445cd6c6a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | ↳ | **[Consulting Internship at Qvest.US](https://jobright.ai/jobs/info/68a46646e9f1c744da121b87?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
