@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b3051ab5f8579e8a798e?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Aug 18 |
+| ↳ | **[Strategy Insights & Planning Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b2e9403ad4363b1c2fd8?utm_campaign=1063&utm_source=git)** | South San Francisco, CA | On Site | Aug 18 |
+| ↳ | **[Strategy Insights & Planning Associate Consultant Intern (North America - University Students)](https://jobright.ai/jobs/info/68a3aff837d3cc6b0d578c16?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a39b49403ad4363b1c28b5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 18 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a391a81ab5f8579e8a6e32?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a390e3403ad4363b1c2430?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 18 |
@@ -107,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Health Care Consultant Intern - Fall 2025/Spring 2026](https://jobright.ai/jobs/info/689bb666faa4e875e8262e6e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Strategy Consulting Associate - 2026](https://jobright.ai/jobs/info/689adc5683d13d1f5b69d492?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/689c222cfaa4e875e8266347?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
