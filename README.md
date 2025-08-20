@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Career Consulting Summer Associate (MBA Track) - Los Angeles - College Program 2026](https://jobright.ai/jobs/info/68a5ead8b6a3617d7fa7401c?utm_campaign=1063&utm_source=git)** | Los Angeles - West 5th | Hybrid | Aug 20 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a58997758f2e4ac3fdfedd?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Aug 20 |
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a588dab6a3617d7fa728fc?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Hybrid | Aug 20 |
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a588ce33dd7158bbc9b14d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 20 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e1159faa4e875e827680d?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Aug 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68a57a6a33dd7158bbc9ac68?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689d85de83d13d1f5b6b1124?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
-| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689d13abfaa4e875e826cecd?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
