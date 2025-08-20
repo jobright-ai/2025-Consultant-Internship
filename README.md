@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf6379a9f9666253ba88?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | Aug 13 |
 | ↳ | **[Associate Consultant Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/689cdf4ffaa4e875e826b64b?utm_campaign=1063&utm_source=git)** | Bentonville, Arkansas | On Site | Aug 13 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Internship Business Development Consulting (3-12 months)](https://jobright.ai/jobs/info/689cdeb479a9f9666253b7c7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
-| **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40042118](https://jobright.ai/jobs/info/689f23bb83d13d1f5b6c45a2?utm_campaign=1063&utm_source=git)** | Ocoee, FL | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
