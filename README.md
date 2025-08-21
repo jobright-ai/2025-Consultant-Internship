@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a774be758f2e4ac3fec50c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 21 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a773a4d627244576e2c7ed?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 21 |
+| **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76dba758f2e4ac3febf09?utm_campaign=1063&utm_source=git)** | Grand Rapids MI USA | On Site | Aug 21 |
+| ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76d7e33dd7158bbca70c2?utm_campaign=1063&utm_source=git)** | Chicago IL USA | On Site | Aug 21 |
+| ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76d45d627244576e2c2d6?utm_campaign=1063&utm_source=git)** | Sacramento CA USA | On Site | Aug 21 |
+| ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76d0e33dd7158bbca6fa0?utm_campaign=1063&utm_source=git)** | Nashville TN USA | On Site | Aug 21 |
+| ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76ca3d627244576e2c149?utm_campaign=1063&utm_source=git)** | Indianapolis IN USA | On Site | Aug 21 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68a7412033dd7158bbca5861?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Aug 21 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[Consultancy Internship in bali](https://jobright.ai/jobs/info/68a728ec33dd7158bbca4f4a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a6d06d33dd7158bbca35c6?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 21 |
@@ -81,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy Insights & Planning Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b2e9403ad4363b1c2fd8?utm_campaign=1063&utm_source=git)** | South San Francisco, CA | On Site | Aug 18 |
 | ↳ | **[Strategy Insights & Planning Associate Consultant Intern (North America - University Students)](https://jobright.ai/jobs/info/68a3aff837d3cc6b0d578c16?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a390e3403ad4363b1c2430?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 18 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a7743cd627244576e2c94e?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Aug 18 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Aug 18 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
