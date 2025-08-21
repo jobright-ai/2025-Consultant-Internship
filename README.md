@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a774be758f2e4ac3fec50c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 21 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a790f933dd7158bbca83bc?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 21 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a78fb2d627244576e2d6d4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 21 |
+| ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a774be758f2e4ac3fec50c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 21 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a773a4d627244576e2c7ed?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 21 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76dba758f2e4ac3febf09?utm_campaign=1063&utm_source=git)** | Grand Rapids MI USA | On Site | Aug 21 |
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76d7e33dd7158bbca70c2?utm_campaign=1063&utm_source=git)** | Chicago IL USA | On Site | Aug 21 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b90758f2e4ac3fe46a5?utm_campaign=1063&utm_source=git)** | Troy, MI | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b3233dd7158bbc9f8b2?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b0e758f2e4ac3fe466f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
-| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f879?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f87a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 20 |
+| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f879?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6267db6a3617d7fa75cbf?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6262f33dd7158bbc9e51d?utm_campaign=1063&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a624b4758f2e4ac3fe3083?utm_campaign=1063&utm_source=git)** | Boston - High St | Hybrid | Aug 20 |
