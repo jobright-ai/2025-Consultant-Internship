@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68a7412033dd7158bbca5861?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Aug 21 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[Consultancy Internship in bali](https://jobright.ai/jobs/info/68a728ec33dd7158bbca4f4a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a689d2758f2e4ac3fe5531?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 20 |
+| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a6d06d33dd7158bbca35c6?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 21 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6845f758f2e4ac3fe53f9?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6818d33dd7158bbca04a4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6782b33dd7158bbca01b9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
