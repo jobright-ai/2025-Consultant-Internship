@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68a633b0b6a3617d7fa762c3?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Aug 20 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6845f758f2e4ac3fe53f9?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Aug 20 |
+| ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6818d33dd7158bbca04a4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
+| ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6782b33dd7158bbca01b9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b90758f2e4ac3fe46a5?utm_campaign=1063&utm_source=git)** | Troy, MI | On Site | Aug 20 |
+| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b3233dd7158bbc9f8b2?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
+| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b0e758f2e4ac3fe466f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
+| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f87a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 20 |
+| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f879?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6267db6a3617d7fa75cbf?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6262f33dd7158bbc9e51d?utm_campaign=1063&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a624b4758f2e4ac3fe3083?utm_campaign=1063&utm_source=git)** | Boston - High St | Hybrid | Aug 20 |
@@ -105,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e136883d13d1f5b6b68a9?utm_campaign=1063&utm_source=git)** | Chicago Riverside Plaza | On Site | Aug 14 |
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e135b79a9f96662546b5e?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Aug 14 |
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e1159faa4e875e827680d?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Aug 14 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68a57a6a33dd7158bbc9ac68?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 13 |
-| **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689d85de83d13d1f5b6b1124?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
