@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZS](https://www.zs.com/)** | **[Advanced Data Science Associate Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/68a7ac1733dd7158bbca8bb5?utm_campaign=1063&utm_source=git)** | Thousand Oaks, CA | On Site | Aug 21 |
+| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (June 2026 Start, 10-week Program)](https://jobright.ai/jobs/info/68a79ace758f2e4ac3fed3d1?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a790f933dd7158bbca83bc?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a78fb2d627244576e2d6d4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a774be758f2e4ac3fec50c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 21 |
@@ -66,9 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76d45d627244576e2c2d6?utm_campaign=1063&utm_source=git)** | Sacramento CA USA | On Site | Aug 21 |
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76d0e33dd7158bbca6fa0?utm_campaign=1063&utm_source=git)** | Nashville TN USA | On Site | Aug 21 |
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76ca3d627244576e2c149?utm_campaign=1063&utm_source=git)** | Indianapolis IN USA | On Site | Aug 21 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68a7412033dd7158bbca5861?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Aug 21 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[Consultancy Internship in bali](https://jobright.ai/jobs/info/68a728ec33dd7158bbca4f4a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a6d06d33dd7158bbca35c6?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 21 |
+| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a689d2758f2e4ac3fe5531?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 20 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6845f758f2e4ac3fe53f9?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6818d33dd7158bbca04a4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6782b33dd7158bbca01b9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
