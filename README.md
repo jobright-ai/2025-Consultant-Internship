@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Healthcare Consulting Summer 2026 Intern](https://jobright.ai/jobs/info/68a88f8d758f2e4ac3ff357c?utm_campaign=1063&utm_source=git)** | United States | On Site | Aug 22 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68a88e39d627244576e33838?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Aug 22 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Product & Technology Communications Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/68a866b4758f2e4ac3ff235f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product & Technology Communications Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/68a81720758f2e4ac3ff0b79?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 22 |
 | **[ZS](https://www.zs.com/)** | **[Advanced Data Science Associate Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/68a7ac1733dd7158bbca8bb5?utm_campaign=1063&utm_source=git)** | Thousand Oaks, CA | On Site | Aug 21 |
@@ -111,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[AlixPartners](http://www.alixpartners.com)** | **[Investigations, Disputes & Economics Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f4238faa4e875e82854b7?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 16 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Aug 16 |
 | **[RKL LLP](https://www.rklcpa.com)** | **[HR Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/689fe0b1faa4e875e828bc45?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
-| ↳ | **[HR Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/689fa7e5faa4e875e828a65e?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
