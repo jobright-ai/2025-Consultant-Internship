@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68a8e133d627244576e36484?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 22 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Healthcare Consulting Summer 2026 Intern](https://jobright.ai/jobs/info/68a8b958d627244576e34cd2?utm_campaign=1063&utm_source=git)** | United States | On Site | Aug 22 |
 | ↳ | **[Healthcare Consulting Summer 2026 Intern](https://jobright.ai/jobs/info/68a8a079d627244576e34177?utm_campaign=1063&utm_source=git)** | United States | On Site | Aug 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68a89a65758f2e4ac3ff38ab?utm_campaign=1063&utm_source=git)** | Boston | Hybrid | Aug 22 |
