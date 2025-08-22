@@ -73,11 +73,12 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6845f758f2e4ac3fe53f9?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6818d33dd7158bbca04a4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6782b33dd7158bbca01b9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
+| **[Loop Capital](http://www.loopcapital.com)** | **[Consulting Services 2026 Summer Intern - Loop Capital](https://jobright.ai/jobs/info/68a7bf79d627244576e2e5e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b90758f2e4ac3fe46a5?utm_campaign=1063&utm_source=git)** | Troy, MI | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b3233dd7158bbc9f8b2?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b0e758f2e4ac3fe466f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
-| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f87a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f879?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 20 |
+| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f87a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 20 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6267db6a3617d7fa75cbf?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6262f33dd7158bbc9e51d?utm_campaign=1063&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a624b4758f2e4ac3fe3083?utm_campaign=1063&utm_source=git)** | Boston - High St | Hybrid | Aug 20 |
@@ -117,5 +118,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Turnaround & Restructuring - MBA Intern](https://jobright.ai/jobs/info/689f41ee79a9f96662555549?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Aug 15 |
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
-| ↳ | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689ef46b79a9f96662553d4c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
