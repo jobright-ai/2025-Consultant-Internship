@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Qvest US](http://www.qvest.com)** | **[Consulting Internship, Summer 2026](https://jobright.ai/jobs/info/68a4e25433dd7158bbc95ea1?utm_campaign=1063&utm_source=git)** | Anywhere in the USA | Hybrid | Aug 19 |
 | **[Andersen](http://www.Andersen.com)** | **[2026 Summer Internship - Investment Consulting Services - McLean, Virginia](https://jobright.ai/jobs/info/68a4cd64541cc3479840e4aa?utm_campaign=1063&utm_source=git)** | McLean, Virginia | On Site | Aug 19 |
 | **[Agentworks](https://www.agentworks.in)** | **[Real Estate Research Consultant](https://jobright.ai/jobs/info/68a53ca6b6a3617d7fa6fa06?utm_campaign=1063&utm_source=git)** | California, United States | Remote | Aug 19 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a800b4758f2e4ac3fefd22?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a3d53b37d3cc6b0d57a017?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 18 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b3051ab5f8579e8a798e?utm_campaign=1063&utm_source=git)** | Princeton, NJ | On Site | Aug 18 |
 | ↳ | **[Strategy Insights & Planning Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/68a3b2e9403ad4363b1c2fd8?utm_campaign=1063&utm_source=git)** | South San Francisco, CA | On Site | Aug 18 |
@@ -116,6 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Living Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/689f634179a9f96662556761?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[eDiscovery Consulting Internship](https://jobright.ai/jobs/info/689f4245faa4e875e82854e3?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
 | ↳ | **[Turnaround & Restructuring - MBA Intern](https://jobright.ai/jobs/info/689f41ee79a9f96662555549?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Aug 15 |
-| **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6874940a5cebcd1dd51bb149?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
-| **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
