@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product & Technology Communications Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/68a81720758f2e4ac3ff0b79?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 22 |
 | **[ZS](https://www.zs.com/)** | **[Advanced Data Science Associate Consultant - Intern (North America - University Students)](https://jobright.ai/jobs/info/68a7ac1733dd7158bbca8bb5?utm_campaign=1063&utm_source=git)** | Thousand Oaks, CA | On Site | Aug 21 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (June 2026 Start, 10-week Program)](https://jobright.ai/jobs/info/68a79ace758f2e4ac3fed3d1?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a790f933dd7158bbca83bc?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 21 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a78fb2d627244576e2d6d4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 21 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a78fb2d627244576e2d6d4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a774be758f2e4ac3fec50c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 21 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a773a4d627244576e2c7ed?utm_campaign=1063&utm_source=git)** | Boston | On Site | Aug 21 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76dba758f2e4ac3febf09?utm_campaign=1063&utm_source=git)** | Grand Rapids MI USA | On Site | Aug 21 |
@@ -69,7 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76d0e33dd7158bbca6fa0?utm_campaign=1063&utm_source=git)** | Nashville TN USA | On Site | Aug 21 |
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76ca3d627244576e2c149?utm_campaign=1063&utm_source=git)** | Indianapolis IN USA | On Site | Aug 21 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[Consultancy Internship in bali](https://jobright.ai/jobs/info/68a728ec33dd7158bbca4f4a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a6d06d33dd7158bbca35c6?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 21 |
+| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a689d2758f2e4ac3fe5531?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 20 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6845f758f2e4ac3fe53f9?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6818d33dd7158bbca04a4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6782b33dd7158bbca01b9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f7feab3e889632cf07bf7?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
 | ↳ | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f637f83d13d1f5b6c62bd?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
 | ↳ | **[Senior Living Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/689f634179a9f96662556761?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[eDiscovery Consulting Internship](https://jobright.ai/jobs/info/689f4245faa4e875e82854e3?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 15 |
-| ↳ | **[Turnaround & Restructuring - MBA Intern](https://jobright.ai/jobs/info/689f41ee79a9f96662555549?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
