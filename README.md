@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b90758f2e4ac3fe46a5?utm_campaign=1063&utm_source=git)** | Troy, MI | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b3233dd7158bbc9f8b2?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b0e758f2e4ac3fe466f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
-| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f879?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f87a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 20 |
+| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f879?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6267db6a3617d7fa75cbf?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6262f33dd7158bbc9e51d?utm_campaign=1063&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a624b4758f2e4ac3fe3083?utm_campaign=1063&utm_source=git)** | Boston - High St | Hybrid | Aug 20 |
@@ -111,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Clarivate](http://clarivate.com)** | **[Fall 2025 Co-Op, Clarivate Consulting](https://jobright.ai/jobs/info/6880c3dd29ad6b2744adb9ff?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Aug 16 |
 | **[RKL LLP](https://www.rklcpa.com)** | **[HR Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/689fe0b1faa4e875e828bc45?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
 | ↳ | **[HR Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/689fa7e5faa4e875e828a65e?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
-| ↳ | **[Senior Living Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/689f801efaa4e875e8288c8b?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
-| ↳ | **[Consulting Intern - Spring or Summer 2026](https://jobright.ai/jobs/info/689f7feab3e889632cf07bf7?utm_campaign=1063&utm_source=git)** | Reading, PA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
