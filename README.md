@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/68ab66bddaf1431824c8ede3?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 24 |
 | ↳ | **[Fleet & Alternate Sales (Operations) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/68ab5e57daf1431824c8ed78?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 24 |
-| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68ab5b69758f2e4ac3fff55a?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Aug 24 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[eDiscovery Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f4245faa4e875e82854e3?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 24 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68aae5aadaf1431824c8e2ec?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Aug 24 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68aa4948758f2e4ac3ffc619?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 23 |
@@ -92,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b90758f2e4ac3fe46a5?utm_campaign=1063&utm_source=git)** | Troy, MI | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b3233dd7158bbc9f8b2?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b0e758f2e4ac3fe466f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
-| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f87a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 20 |
 | ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f879?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 20 |
+| ↳ | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65ab333dd7158bbc9f87a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 20 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6267db6a3617d7fa75cbf?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a6262f33dd7158bbc9e51d?utm_campaign=1063&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Aug 20 |
 | ↳ | **[Oliver Wymam - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68a624b4758f2e4ac3fe3083?utm_campaign=1063&utm_source=git)** | Boston - High St | Hybrid | Aug 20 |
@@ -119,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Aug 18 |
 | **[RKL eSolutions LLC](http://rklesolutions.com)** | **[HR Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a3f6cce9f1c744da11f780?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 18 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Aug 18 |
-| **[Elliott Davis](https://www.elliottdavis.com/)** | **[Summer 2026 Business Systems Consulting Intern](https://jobright.ai/jobs/info/68a2ac38ff570d7ffd65cf5b?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
