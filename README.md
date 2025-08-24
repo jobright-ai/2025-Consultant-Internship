@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68ab3903daf1431824c8ea43?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Aug 24 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68ab261cd627244576e3f4ce?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Aug 24 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/68ab66bddaf1431824c8ede3?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 24 |
+| ↳ | **[Fleet & Alternate Sales (Operations) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/68ab5e57daf1431824c8ed78?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Aug 24 |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68ab5b69758f2e4ac3fff55a?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Aug 24 |
+| **[AlixPartners](http://www.alixpartners.com)** | **[eDiscovery Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f4245faa4e875e82854e3?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 24 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68aae5aadaf1431824c8e2ec?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Aug 24 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68aa4948758f2e4ac3ffc619?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68aa8589d627244576e3d2b9?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 22 |
