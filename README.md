@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68a9f054758f2e4ac3ffbc7e?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Aug 23 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68aa2c15758f2e4ac3ffc344?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Aug 23 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68a916136acf96396f724b27?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Aug 22 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Healthcare Consulting Summer 2026 Intern](https://jobright.ai/jobs/info/68a8b958d627244576e34cd2?utm_campaign=1063&utm_source=git)** | United States | On Site | Aug 22 |
 | ↳ | **[Healthcare Consulting Summer 2026 Intern](https://jobright.ai/jobs/info/68a8a079d627244576e34177?utm_campaign=1063&utm_source=git)** | United States | On Site | Aug 22 |
