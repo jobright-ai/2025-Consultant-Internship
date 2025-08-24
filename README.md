@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68ab261cd627244576e3f4ce?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Aug 24 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68aae5aadaf1431824c8e2ec?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Aug 24 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68aa4948758f2e4ac3ffc619?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68aa8589d627244576e3d2b9?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 22 |
@@ -80,7 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76d0e33dd7158bbca6fa0?utm_campaign=1063&utm_source=git)** | Nashville TN USA | On Site | Aug 21 |
 | ↳ | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/68a76ca3d627244576e2c149?utm_campaign=1063&utm_source=git)** | Indianapolis IN USA | On Site | Aug 21 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[Consultancy Internship in bali](https://jobright.ai/jobs/info/68a728ec33dd7158bbca4f4a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a689d2758f2e4ac3fe5531?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 20 |
+| **[KeyBank](https://www.key.com)** | **[Financial Wellness Consultant - Michigan (Returning Intern)](https://jobright.ai/jobs/info/68a6d06d33dd7158bbca35c6?utm_campaign=1063&utm_source=git)** | Saline, MI | On Site | Aug 21 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6845f758f2e4ac3fe53f9?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6818d33dd7158bbca04a4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Aug 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6782b33dd7158bbca01b9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
