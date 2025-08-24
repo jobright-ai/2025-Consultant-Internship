@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[RKL eSolutions LLC](http://rklesolutions.com)** | **[HR Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a3f6cce9f1c744da11f780?utm_campaign=1063&utm_source=git)** | Lancaster, PA | On Site | Aug 18 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Aug 18 |
 | **[Elliott Davis](https://www.elliottdavis.com/)** | **[Summer 2026 Business Systems Consulting Intern](https://jobright.ai/jobs/info/68a2ac38ff570d7ffd65cf5b?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Aug 17 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Risk Analytics Consulting - Analyst Intern](https://jobright.ai/jobs/info/689f45bb83d13d1f5b6c550f?utm_campaign=1063&utm_source=git)** | New York | Hybrid | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
