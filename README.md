@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68aae5aadaf1431824c8e2ec?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Aug 24 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68aa4948758f2e4ac3ffc619?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68aa8589d627244576e3d2b9?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 22 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68a916136acf96396f724b27?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Aug 22 |
