@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern (North America - Current Students)](https://jobright.ai/jobs/info/68acf17ad627244576e4a0ae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Aug 25 |
+| **[Crowe](https://www.crowe.com/)** | **[Consulting Intern (Markets)](https://jobright.ai/jobs/info/68acf0cdd627244576e4a02f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
+| **[Target](https://www.target.com)** | **[MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2026)](https://jobright.ai/jobs/info/68acefb7daf1431824c99390?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Aug 25 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern - Summer 2026, Chicago (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68ace6c6daf1431824c98f90?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Aug 25 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68acd830d627244576e497d4?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68acd49e758f2e4ac30091a7?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Aug 25 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern Property and Casualty - 2026](https://jobright.ai/jobs/info/68accdf4daf1431824c98683?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | Hybrid | Aug 25 |
@@ -83,11 +87,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca79e758f2e4ac30076b3?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68aca768daf1431824c96e53?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
 | ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca6f3758f2e4ac3007627?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 25 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca6c2daf1431824c96de4?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca668d627244576e47ab8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 25 |
 | ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca627758f2e4ac3007551?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca601d627244576e47a60?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 25 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca5e9d627244576e47a3b?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
+| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca5b8758f2e4ac30074e8?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
 | ↳ | **[Management Consulting - Actuaries Intern - Summer 2026](https://jobright.ai/jobs/info/68aca429d627244576e47886?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Inflight Global Base Operations (Summer 2026)](https://jobright.ai/jobs/info/68ac92c5daf1431824c96238?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Aug 25 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68ac8d53758f2e4ac3006690?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Aug 25 |
@@ -96,41 +100,41 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7d2daf1431824c929c8?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cddaf1431824c929c4?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cbdaf1431824c929ba?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
-| ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cadaf1431824c929b9?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cadaf1431824c929b8?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
+| ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cadaf1431824c929b9?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c6daf1431824c929b7?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c5daf1431824c929b5?utm_campaign=1063&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c3daf1431824c929ae?utm_campaign=1063&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
 | ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c3daf1431824c929ad?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
+| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c3daf1431824c929ae?utm_campaign=1063&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7a9daf1431824c9299e?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Aug 24 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7a8daf1431824c9299c?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf79cdaf1431824c92993?utm_campaign=1063&utm_source=git)** | CA-San Francisco | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf79cdaf1431824c92990?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf780daf1431824c92988?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
-| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77fdaf1431824c92984?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77fdaf1431824c92982?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
+| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77fdaf1431824c92984?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77edaf1431824c92981?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf772daf1431824c92979?utm_campaign=1063&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf757daf1431824c9296c?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
 | ↳ | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf757daf1431824c9296d?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf74fdaf1431824c92962?utm_campaign=1063&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
-| ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf738daf1431824c92959?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Management Consulting - Actuaries Intern - Summer 2026](https://jobright.ai/jobs/info/68abf738daf1431824c92957?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
-| ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf737daf1431824c92952?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
+| ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf738daf1431824c92959?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf737daf1431824c92954?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
+| ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf737daf1431824c92952?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf736daf1431824c92951?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf735daf1431824c9294b?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf735daf1431824c92949?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf613d627244576e43588?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf609d627244576e4357c?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf609d627244576e4357d?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
+| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf609d627244576e4357c?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf609d627244576e4357e?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf608d627244576e4357b?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Aug 24 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf601d627244576e43572?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf601d627244576e43573?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5f9758f2e4ac300320a?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
-| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5f5d627244576e43563?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
 | ↳ | **[Management Consulting - Actuaries Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5f5d627244576e43564?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
+| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5f5d627244576e43563?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
 | ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5f3758f2e4ac3003203?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5eb758f2e4ac30031fb?utm_campaign=1063&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5ead627244576e4355b?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5d8d627244576e43550?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5d7d627244576e4354f?utm_campaign=1063&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5d0758f2e4ac30031d6?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
-| ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bf758f2e4ac30031d3?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bf758f2e4ac30031d1?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
-| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bcd627244576e4353d?utm_campaign=1063&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
+| ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bf758f2e4ac30031d3?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bcd627244576e4353e?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
+| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bcd627244576e4353d?utm_campaign=1063&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b9758f2e4ac30031ce?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
 | ↳ | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b7d627244576e43537?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b1d627244576e43535?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
-| ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b0758f2e4ac30031c7?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf59dd627244576e4352b?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Aug 24 |
-| ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf59cd627244576e43529?utm_campaign=1063&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
-| ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf59cd627244576e4352a?utm_campaign=1063&utm_source=git)** | CA-San Francisco | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
