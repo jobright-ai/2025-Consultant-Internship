@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yeo & Yeo CPAs & Advisors](http://yeoandyeo.com)** | **[Tax & Consulting Intern (January 2026)](https://jobright.ai/jobs/info/68ae10eadaf1431824ca0746?utm_campaign=1063&utm_source=git)** | Troy, MI | On Site | Aug 26 |
+| ↳ | **[Tax & Consulting Intern (January 2026)](https://jobright.ai/jobs/info/68ae0f80758f2e4ac3010fca?utm_campaign=1063&utm_source=git)** | Flint, MI | On Site | Aug 26 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68ae0c10d627244576e511ef?utm_campaign=1063&utm_source=git)** | Chicago Riverside Plaza | On Site | Aug 26 |
+| ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68ae0b1a758f2e4ac3010d2c?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Aug 26 |
+| ↳ | **[2026 Healthcare Revenue Cycle Consulting Intern](https://jobright.ai/jobs/info/68ae0aed758f2e4ac3010d15?utm_campaign=1063&utm_source=git)** | Chicago Riverside Plaza | Hybrid | Aug 26 |
+| ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68ae0a3bdaf1431824ca0224?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Aug 26 |
+| **[Yeo & Yeo CPAs & Advisors](http://yeoandyeo.com)** | **[Tax & Consulting Intern (January 2026)](https://jobright.ai/jobs/info/68ae0626758f2e4ac30106e9?utm_campaign=1063&utm_source=git)** | Troy, Michigan | On Site | Aug 26 |
+| ↳ | **[Tax & Consulting Intern (January 2026)](https://jobright.ai/jobs/info/68ae054c758f2e4ac30105e5?utm_campaign=1063&utm_source=git)** | Saginaw, Michigan | On Site | Aug 26 |
+| ↳ | **[Tax & Consulting Intern (January 2026)](https://jobright.ai/jobs/info/68ae029ed627244576e50912?utm_campaign=1063&utm_source=git)** | Flint, Michigan | On Site | Aug 26 |
+| **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68adf6afd627244576e50316?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
+| ↳ | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68adf686d627244576e502e7?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 26 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68adf591758f2e4ac300fd81?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Aug 26 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Public Consulting Intern](https://jobright.ai/jobs/info/68add0a6d627244576e4f19f?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | Remote | Aug 26 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68adbd29daf1431824c9dc6a?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Aug 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern Life - 2026](https://jobright.ai/jobs/info/68adb534daf1431824c9d893?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
@@ -76,8 +88,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68acd830d627244576e497d4?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern Property and Casualty - 2026](https://jobright.ai/jobs/info/68accdf4daf1431824c98683?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | Hybrid | Aug 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Consulting Intern (Markets)](https://jobright.ai/jobs/info/68acca30daf1431824c98483?utm_campaign=1063&utm_source=git)** | Chicago IL USA | On Site | Aug 25 |
-| **[PwC](http://pwc.com)** | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aca63bd627244576e47a91?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
-| ↳ | **[Sustainability - Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68acbd9a758f2e4ac30085ae?utm_campaign=1063&utm_source=git)** | WA-Seattle | On Site | Aug 25 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68acbd9a758f2e4ac30085ae?utm_campaign=1063&utm_source=git)** | WA-Seattle | On Site | Aug 25 |
 | ↳ | **[Sustainability - Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68acbd4ed627244576e48acd?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 25 |
 | ↳ | **[Sustainability - Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68acbd46daf1431824c97d5e?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Aug 25 |
 | ↳ | **[Sustainability - Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68acbd2f758f2e4ac30084e9?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 25 |
@@ -93,6 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad55ad758f2e4ac300cba6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 25 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad914a758f2e4ac300dbc9?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad90e5d627244576e4e0e3?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
+| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad91dcdaf1431824c9d330?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68ad8ce1758f2e4ac300dba5?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
 | ↳ | **[Management Consulting - Actuaries Intern - Summer 2026](https://jobright.ai/jobs/info/68acae1fd627244576e47ecb?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68acac41daf1431824c96f62?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
@@ -101,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3ce3758f2e4ac300c0fb?utm_campaign=1063&utm_source=git)** | Los Angeles County, CA | On Site | Aug 25 |
 | ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3bdd758f2e4ac300bfa5?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 25 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3eb7d627244576e4c68d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
+| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3d5ddaf1431824c9b8ef?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3d27758f2e4ac300c15b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 25 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3cfad627244576e4c420?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 25 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3d88758f2e4ac300c1f2?utm_campaign=1063&utm_source=git)** | Los Angeles County, CA | On Site | Aug 25 |
 | ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3ebdd627244576e4c695?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3c80daf1431824c9b7d2?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
@@ -125,36 +137,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7d2daf1431824c929c8?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cddaf1431824c929c4?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cbdaf1431824c929ba?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
-| ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cadaf1431824c929b9?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cadaf1431824c929b8?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
+| ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cadaf1431824c929b9?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c6daf1431824c929b7?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c5daf1431824c929b5?utm_campaign=1063&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
-| ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c3daf1431824c929ad?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c3daf1431824c929ae?utm_campaign=1063&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
+| ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c3daf1431824c929ad?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7a9daf1431824c9299e?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Aug 24 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7a8daf1431824c9299c?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
-| ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf79cdaf1431824c92990?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf79cdaf1431824c92993?utm_campaign=1063&utm_source=git)** | CA-San Francisco | On Site | Aug 24 |
+| ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf79cdaf1431824c92990?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf780daf1431824c92988?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77fdaf1431824c92982?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
 | ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77fdaf1431824c92984?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
+| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77fdaf1431824c92982?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Aug 24 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77edaf1431824c92981?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf772daf1431824c92979?utm_campaign=1063&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf757daf1431824c9296c?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
 | ↳ | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf757daf1431824c9296d?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf74fdaf1431824c92962?utm_campaign=1063&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
-| ↳ | **[Management Consulting - Actuaries Intern - Summer 2026](https://jobright.ai/jobs/info/68abf738daf1431824c92957?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf738daf1431824c92959?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
-| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf737daf1431824c92954?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
-| ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf737daf1431824c92952?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
-| ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf736daf1431824c92951?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
-| ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf735daf1431824c9294b?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
-| ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68abf735daf1431824c92949?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Aug 24 |
-| ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf613d627244576e43588?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
-| ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf609d627244576e4357e?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Aug 24 |
-| ↳ | **[Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf609d627244576e4357d?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf609d627244576e4357c?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Aug 24 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf608d627244576e4357b?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Aug 24 |
-| ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf601d627244576e43572?utm_campaign=1063&utm_source=git)** | NY-New York | On Site | Aug 24 |
-| ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68abf601d627244576e43573?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
+| ↳ | **[Management Consulting - Actuaries Intern - Summer 2026](https://jobright.ai/jobs/info/68abf738daf1431824c92957?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
