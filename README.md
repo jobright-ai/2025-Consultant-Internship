@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NiSource](https://www.nisource.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/68b191d1bc187f64e1bd56f1?utm_campaign=1063&utm_source=git)** | Columbus, OH | Hybrid | Aug 29 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68b160776fab621da7b0d45e?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Internship Environmental/Civil Engineer (Environmental Consulting: Remediation, and Solid Waste Design) (Start May/June 2026) - Middletown, NY](https://jobright.ai/jobs/info/68b13d636fab621da7b0b8bd?utm_campaign=1063&utm_source=git)** | Middletown, NY | On Site | Aug 28 |
 | **[NiSource](https://www.nisource.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/68b12dd46fab621da7b0a759?utm_campaign=1063&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 28 |
@@ -91,16 +92,16 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Summer 2026 / Charleston, SC](https://jobright.ai/jobs/info/68af71502daaba398441e432?utm_campaign=1063&utm_source=git)** | Charleston, SC | Hybrid | Aug 27 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern CHRP](https://jobright.ai/jobs/info/68af5fc51f0a2a568a0611b2?utm_campaign=1063&utm_source=git)** | Chicago Riverside Plaza | On Site | Aug 27 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Tax Consulting Intern - Plano, TX](https://jobright.ai/jobs/info/68af727b1f0a2a568a061c1f?utm_campaign=1063&utm_source=git)** | Plano, TX | On Site | Aug 27 |
-| ↳ | **[Summer 2026 Tax Consulting Intern - Plano, TX](https://jobright.ai/jobs/info/68af40691f0a2a568a0600b3?utm_campaign=1063&utm_source=git)** | Plano | On Site | Aug 27 |
+| ↳ | **[Summer 2026 Tax Consulting Intern - Plano, TX](https://jobright.ai/jobs/info/68af41051f0a2a568a0601d4?utm_campaign=1063&utm_source=git)** | Plano | On Site | Aug 27 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Aug 27 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935c8ff47efe2113963bea?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Aug 27 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935752a9199876488dce59?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 27 |
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/68935e5a4c7e851b90add36c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Aug 27 |
-| **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b1622a04557a6c207bd4b4?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
+| **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b1623504557a6c207bd4c1?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2026](https://jobright.ai/jobs/info/68aea98003c5f15c2fd8aca6?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Aug 26 |
-| **[Tevora](http://www.tevora.com/)** | **[Consultant Development Program (Fall 2025) - ISO](https://jobright.ai/jobs/info/68ae8f4fd627244576e54dd8?utm_campaign=1063&utm_source=git)** | Fairfax, VA | Hybrid | Aug 26 |
+| **[Tevora](http://www.tevora.com/)** | **[Consultant Development Program (Fall 2025) - Payments](https://jobright.ai/jobs/info/68ae8f5c758f2e4ac30149e1?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Aug 26 |
+| ↳ | **[Consultant Development Program (Fall 2025) - ISO](https://jobright.ai/jobs/info/68ae8f4fd627244576e54dd8?utm_campaign=1063&utm_source=git)** | Fairfax, VA | Hybrid | Aug 26 |
 | ↳ | **[Consultant Development Program (Fall 2025) - ISO](https://jobright.ai/jobs/info/68ae8e57758f2e4ac3014872?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Aug 26 |
-| ↳ | **[Consultant Development Program (Fall 2025) - Payments](https://jobright.ai/jobs/info/68ae8f5c758f2e4ac30149e1?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Aug 26 |
 | ↳ | **[Consultant Development Program (Fall 2025) - SOC](https://jobright.ai/jobs/info/68ae8b13daf1431824ca3e2f?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Aug 26 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Data Science Consultant (Intern/Co-op Conversion) - Johnson](https://jobright.ai/jobs/info/68ae61c2daf1431824ca2a70?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Aug 26 |
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68ae56f4758f2e4ac3012f01?utm_campaign=1063&utm_source=git)** | RTP, North Carolina, US | On Site | Aug 26 |
@@ -135,9 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax & Consulting Intern (January 2026)](https://jobright.ai/jobs/info/68ae054c758f2e4ac30105e5?utm_campaign=1063&utm_source=git)** | Saginaw, Michigan | On Site | Aug 26 |
 | ↳ | **[Tax & Consulting Intern (January 2026)](https://jobright.ai/jobs/info/68ae029ed627244576e50912?utm_campaign=1063&utm_source=git)** | Flint, Michigan | On Site | Aug 26 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/68ae2777758f2e4ac3011c54?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 26 |
-| **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aeb7262daaba39844199ea?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
+| **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68adf6afd627244576e50316?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | ↳ | **[Business Process Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68adf686d627244576e502e7?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 26 |
-| ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68b09e672d46f6396cae6ee9?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a5dd2d46f6396cae7458?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a74613563e782a9f8181?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Aug 26 |
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68b09fa6b47fb001d6893dfa?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 26 |
@@ -145,16 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b09e4fb47fb001d6893d16?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 26 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a4b013563e782a9f7f26?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b09ea1b47fb001d6893d53?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Aug 26 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68adbd29daf1431824c9dc6a?utm_campaign=1063&utm_source=git)** | Parsippany, NJ | On Site | Aug 26 |
+| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b09e672d46f6396cae6ee8?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern Life - 2026](https://jobright.ai/jobs/info/68adb534daf1431824c9d893?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
 | **[Bates White Economic Consulting](http://www.bateswhite.com/)** | **[Summer Consultant](https://jobright.ai/jobs/info/6890ed2a4c7e851b90acaa6e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Aug 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern Life - 2026](https://jobright.ai/jobs/info/68adaeb6daf1431824c9d65c?utm_campaign=1063&utm_source=git)** | 1900 Market Street, Philadelphia, PA, 19103, US | On Site | Aug 26 |
 | **[PwC](http://pwc.com)** | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68af01061f0a2a568a05e8fe?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aef1012daaba398441ae28?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 26 |
+| ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2026](https://jobright.ai/jobs/info/68aef0892daaba398441adea?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | ↳ | **[Investigations and Forensics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aeecc11f0a2a568a05e536?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
+| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aeec957bcb7608b3d2a209?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aeedb07bcb7608b3d2a296?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Aug 26 |
-| ↳ | **[Cybersecurity Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aeed5c7bcb7608b3d2a275?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | ↳ | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aeebec1f0a2a568a05e4bc?utm_campaign=1063&utm_source=git)** | Washington, CA | On Site | Aug 26 |
-| ↳ | **[Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aef1012daaba398441ae29?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Aug 26 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Management Consulting Intern, Summer 2026](https://jobright.ai/jobs/info/68ad622c758f2e4ac300d0c8?utm_campaign=1063&utm_source=git)** | US-OH-Cleveland | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
