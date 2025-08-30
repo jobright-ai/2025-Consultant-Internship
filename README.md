@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68b330e81ade4306aa63ae5c?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Aug 30 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68b32d0ff4e41a61efd88c04?utm_campaign=1063&utm_source=git)** | Miami, FL | Remote | Aug 30 |
 | **[California Department of Human Resources (CalHR)](https://www.calhr.ca.gov/)** | **[Trainee Project Analyst Internship (Exam Consultant & Exam Validation Maintenance Graduate Student Assistant)](https://jobright.ai/jobs/info/68983ab55574fd6bc0c760b6?utm_campaign=1063&utm_source=git)** | Greater Sacramento | Hybrid | Aug 30 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Summer 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/68b2d9771ade4306aa63a426?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 30 |
 | ↳ | **[Consulting Intern - Spring 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/68b2ce56f4e41a61efd880f0?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Aug 30 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/68b23a7cf4e41a61efd82d88?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23a7bf4e41a61efd82d87?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
 | **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68b23a3c1ade4306aa635052?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Aug 29 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23a3bf4e41a61efd82d59?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[2026 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/68b23a3bf4e41a61efd82d5a?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Aug 29 |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/68b23a3bf4e41a61efd82d5a?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Aug 29 |
+| ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23a3bf4e41a61efd82d59?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[2026 Life Sciences Consulting Intern](https://jobright.ai/jobs/info/68b23a39f4e41a61efd82d55?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23a2cf4e41a61efd82d47?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/68b23a29f4e41a61efd82d45?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Banking Consulting Intern](https://jobright.ai/jobs/info/68b2381cbc187f64e1bd9e4d?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Aug 29 |
 | ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23818bc187f64e1bd9e49?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 29 |
 | ↳ | **[2026 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/68b23811bc187f64e1bd9e42?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
-| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23802bc187f64e1bd9e2f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23802bc187f64e1bd9e2d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
+| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23802bc187f64e1bd9e2f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b237e2bc187f64e1bd9dfe?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Aug 29 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237bfbc187f64e1bd9dd9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894b06b4ed2ea559ca4f7a1?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Aug 28 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[2026 MBA Graduate: MBA Intern, Fidelity Consulting](https://jobright.ai/jobs/info/68b0b44e13563e782a9f8a0f?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
 | ↳ | **[2026 Undergraduate: Intern Analyst, Fidelity Consulting](https://jobright.ai/jobs/info/68b0ac2013563e782a9f86b2?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
-| **[Advisors Asset Management, Inc.](http://aamlive.com)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68b09f2fb47fb001d6893dab?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Aug 28 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Managed IT Consulting Intern](https://jobright.ai/jobs/info/68b0794513563e782a9f6805?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
