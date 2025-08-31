@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68b46cf4f4e41a61efd8c4fb?utm_campaign=1063&utm_source=git)** | Miami, FL | Remote | Aug 31 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68b3554f1ade4306aa63b295?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Aug 30 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68b3c1d0bc187f64e1be0f81?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Aug 30 |
 | **[California Department of Human Resources (CalHR)](https://www.calhr.ca.gov/)** | **[Trainee Project Analyst Internship (Exam Consultant & Exam Validation Maintenance Graduate Student Assistant)](https://jobright.ai/jobs/info/68983ab55574fd6bc0c760b6?utm_campaign=1063&utm_source=git)** | Greater Sacramento | Hybrid | Aug 30 |
@@ -80,15 +81,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b791ade4306aa63514a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
 | ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23b501ade4306aa63511d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b3d1ade4306aa635109?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23b0ff4e41a61efd82e2f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[2026 Productivity Consulting Intern](https://jobright.ai/jobs/info/68b23b0ff4e41a61efd82e30?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
+| ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23b0ff4e41a61efd82e2f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23b0af4e41a61efd82e26?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b23af11ade4306aa6350d8?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ac3f4e41a61efd82dda?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23abd1ade4306aa6350ae?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab51ade4306aa6350a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dca?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 29 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dcb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dca?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 29 |
 | ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23ab01ade4306aa6350a7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23a981ade4306aa63508e?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23a981ade4306aa63508f?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894b06b4ed2ea559ca4f7a1?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Aug 28 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[2026 MBA Graduate: MBA Intern, Fidelity Consulting](https://jobright.ai/jobs/info/68b0b44e13563e782a9f8a0f?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Associate, Internship, United States, Campus](https://jobright.ai/jobs/info/6894a50973b3a600fe880c56?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Aug 28 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Undergraduate: Intern Analyst, Fidelity Consulting](https://jobright.ai/jobs/info/68b0ac2013563e782a9f86b2?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
