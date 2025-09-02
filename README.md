@@ -57,10 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b711ba1ade4306aa6476b4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 02 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Valuation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b71e4af4e41a61efd95cc2?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 02 |
+| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b71df41ade4306aa647c82?utm_campaign=1063&utm_source=git)** | McLean | On Site | Sep 02 |
+| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b71dd4f4e41a61efd95c7f?utm_campaign=1063&utm_source=git)** | Tampa | On Site | Sep 02 |
+| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b71d812124650c1401f901?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Sep 02 |
+| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b71d081ade4306aa647ba3?utm_campaign=1063&utm_source=git)** | New York | On Site | Sep 02 |
+| ↳ | **[Business Valuation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b71d01f4e41a61efd95bca?utm_campaign=1063&utm_source=git)** | Minneapolis | On Site | Sep 02 |
+| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b71c3a2124650c1401f738?utm_campaign=1063&utm_source=git)** | San Francisco | On Site | Sep 02 |
+| ↳ | **[Strategy & Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7159c1ade4306aa647801?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
+| ↳ | **[Deal Analytics Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b6f817f4e41a61efd94cb0?utm_campaign=1063&utm_source=git)** | New York | On Site | Sep 02 |
+| ↳ | **[Deal Analytics Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7113ef4e41a61efd95661?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
+| ↳ | **[Strategy & Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b712932124650c1401f41a?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Sep 02 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b712862124650c1401f409?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
+| ↳ | **[Financial Services Regulatory Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b712682124650c1401f3f0?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
+| ↳ | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b712321ade4306aa647779?utm_campaign=1063&utm_source=git)** | Tampa | Hybrid | Sep 02 |
+| ↳ | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b711ba1ade4306aa6476b4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 02 |
 | ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b711a42124650c1401f2c0?utm_campaign=1063&utm_source=git)** | St. Louis | Hybrid | Sep 02 |
 | ↳ | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7117b2124650c1401f27d?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
-| ↳ | **[Deal Analytics Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7113ef4e41a61efd95661?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b71127f4e41a61efd9563a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b710b82124650c1401f138?utm_campaign=1063&utm_source=git)** | Kansas City | Hybrid | Sep 02 |
 | ↳ | **[Global Financial Services Risk Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b710941ade4306aa6474f1?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
@@ -70,12 +83,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b70ff81ade4306aa6473ed?utm_campaign=1063&utm_source=git)** | Philadelphia | Hybrid | Sep 02 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68b705e9f4e41a61efd9510f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68b7014d1ade4306aa646f2f?utm_campaign=1063&utm_source=git)** | Illinois, United States | Remote | Sep 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Deal Analytics Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b6f817f4e41a61efd94cb0?utm_campaign=1063&utm_source=git)** | New York | On Site | Sep 02 |
-| ↳ | **[Strategy & Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b6f7e9f4e41a61efd94c98?utm_campaign=1063&utm_source=git)** | McLean | On Site | Sep 02 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Strategy & Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b6f7e9f4e41a61efd94c98?utm_campaign=1063&utm_source=git)** | McLean | On Site | Sep 02 |
 | ↳ | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b6f7df1ade4306aa646c97?utm_campaign=1063&utm_source=git)** | New York | On Site | Sep 02 |
 | ↳ | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b6f7051ade4306aa646c62?utm_campaign=1063&utm_source=git)** | Boston | On Site | Sep 02 |
 | ↳ | **[Strategy & Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b6f6732124650c1401e919?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 02 |
 | ↳ | **[Global Financial Services Risk Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b6f66a2124650c1401e918?utm_campaign=1063&utm_source=git)** | New York | On Site | Sep 02 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Accounting Consultant Intern](https://jobright.ai/jobs/info/68b72cc92124650c1401fecb?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Sep 02 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a80a35574fd6bc0c8309c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7bec83d13d1f5b6992e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 02 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a80b15574fd6bc0c830ac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
@@ -108,8 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ec4dbc187f64e1be8850?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebe0bc187f64e1be8829?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68b5eb3af4e41a61efd9184c?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 01 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5eb1af4e41a61efd91830?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 01 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5eb1af4e41a61efd91830?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5eabdf4e41a61efd917ec?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 01 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68b5e37ff4e41a61efd916ce?utm_campaign=1063&utm_source=git)** | Mound City, KS | Remote | Sep 01 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68b5c623f4e41a61efd913d3?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 01 |
@@ -144,17 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b791ade4306aa63514a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
 | ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23b501ade4306aa63511d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b3d1ade4306aa635109?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23b0ff4e41a61efd82e2f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[2026 Productivity Consulting Intern](https://jobright.ai/jobs/info/68b23b0ff4e41a61efd82e30?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
-| ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23b0af4e41a61efd82e26?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b23af11ade4306aa6350d8?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
-| ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ac3f4e41a61efd82dda?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
-| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23abd1ade4306aa6350ae?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab51ade4306aa6350a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dca?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 29 |
-| ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dcb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23ab01ade4306aa6350a7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23a981ade4306aa63508f?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Aug 29 |
-| ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23a981ade4306aa63508e?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/68b23a86f4e41a61efd82d92?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
