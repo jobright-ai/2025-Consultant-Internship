@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lord, Abbett & Co. LLC](https://www.lordabbett.com/en.html)** | **[Advisor Consultant Internship - Summer 2026](https://jobright.ai/jobs/info/68b68daff4e41a61efd93975?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 01 |
 | **[Gartner](http://www.gartner.com)** | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b683e91ade4306aa645808?utm_campaign=1063&utm_source=git)** | Irving, TX | Hybrid | Sep 01 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer / Health Consulting Actuarial Summer Intern - Central Market - College Program 2026](https://jobright.ai/jobs/info/68b6736dbc187f64e1bea20f?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Sep 01 |
 | ↳ | **[Mercer / Health Consulting Financial Summer Intern - Central Market - College Program 2026](https://jobright.ai/jobs/info/68b67346bc187f64e1bea1ab?utm_campaign=1063&utm_source=git)** | Cincinnati - Vine | Hybrid | Sep 01 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mercer / Health Consulting Financial Summer Intern - Central Market - College Program 2026](https://jobright.ai/jobs/info/68b671b01ade4306aa64504a?utm_campaign=1063&utm_source=git)** | Dallas - Main | Hybrid | Sep 01 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5f0221ade4306aa643979?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Sep 01 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ed31bc187f64e1be88ac?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ed31bc187f64e1be88ad?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Sep 01 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ed31bc187f64e1be88ac?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ed2abc187f64e1be88a9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ec4dbc187f64e1be8850?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 01 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dcb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dca?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 29 |
 | ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23ab01ade4306aa6350a7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23a981ade4306aa63508e?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23a981ade4306aa63508f?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Aug 29 |
+| ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23a981ade4306aa63508e?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/68b23a86f4e41a61efd82d92?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/68b23a7cf4e41a61efd82d88?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23a7bf4e41a61efd82d87?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/68b239931ade4306aa634fd6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b2397bbc187f64e1bd9fa2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Banking Consulting Intern](https://jobright.ai/jobs/info/68b239741ade4306aa634fba?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
-| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b2394cbc187f64e1bd9f75?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
