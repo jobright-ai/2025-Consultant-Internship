@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a80a35574fd6bc0c8309c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7bec83d13d1f5b6992e4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 02 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a80b15574fd6bc0c830ac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7c9ffaa4e875e8259047?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/689a7c42faa4e875e8258fec?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 02 |
+| ↳ | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/681946c5610ca73c2c42120e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | **[Lord, Abbett & Co. LLC](https://www.lordabbett.com/en.html)** | **[Advisor Consultant Internship - Summer 2026](https://jobright.ai/jobs/info/68b68daff4e41a61efd93975?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 01 |
 | **[Gartner](http://www.gartner.com)** | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b683e91ade4306aa645808?utm_campaign=1063&utm_source=git)** | Irving, TX | Hybrid | Sep 01 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer / Health Consulting Actuarial Summer Intern - Central Market - College Program 2026](https://jobright.ai/jobs/info/68b6736dbc187f64e1bea20f?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Sep 01 |
@@ -77,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mercer / Health Consulting Financial Summer Intern - Central Market - College Program 2026](https://jobright.ai/jobs/info/68b671b01ade4306aa64504a?utm_campaign=1063&utm_source=git)** | Dallas - Main | Hybrid | Sep 01 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5f0221ade4306aa643979?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Sep 01 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ed31bc187f64e1be88ad?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ed31bc187f64e1be88ac?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 01 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ed31bc187f64e1be88ad?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ed2abc187f64e1be88a9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ec4dbc187f64e1be8850?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 01 |
@@ -120,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b791ade4306aa63514a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
 | ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23b501ade4306aa63511d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b3d1ade4306aa635109?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Productivity Consulting Intern](https://jobright.ai/jobs/info/68b23b0ff4e41a61efd82e30?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23b0ff4e41a61efd82e2f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| ↳ | **[2026 Productivity Consulting Intern](https://jobright.ai/jobs/info/68b23b0ff4e41a61efd82e30?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b23b0af4e41a61efd82e26?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b23af11ade4306aa6350d8?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ac3f4e41a61efd82dda?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b239c41ade4306aa635003?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[2026 Healthcare Consulting Intern](https://jobright.ai/jobs/info/68b239c31ade4306aa635000?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b239c01ade4306aa634ffa?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Aug 29 |
-| ↳ | **[2026 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/68b239bb1ade4306aa634ff5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b239a51ade4306aa634fe6?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Aug 29 |
-| ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/68b2399a1ade4306aa634fdb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/68b239931ade4306aa634fd6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
-| ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b2397bbc187f64e1bd9fa2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
-| ↳ | **[2026 Banking Consulting Intern](https://jobright.ai/jobs/info/68b239741ade4306aa634fba?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
