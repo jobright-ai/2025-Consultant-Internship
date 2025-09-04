@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9e0cf5f38327491861a3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
+| ↳ | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9dcf75f3832749186174c?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 04 |
+| ↳ | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9da088043103d4f21b038?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 04 |
+| ↳ | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9d91b6105227d1189845f?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 04 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68b9ca436105227d11897c48?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68b9b8ac6105227d11897387?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b9b8145f3832749186058e?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b772c12124650c14022d87?utm_campaign=1063&utm_source=git)** | Houston | On Site | Sep 02 |
 | ↳ | **[Cloud Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b772a8f4e41a61efd9905d?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7729e2124650c14022d67?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 02 |
-| ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b772792124650c14022d40?utm_campaign=1063&utm_source=git)** | Mason City | On Site | Sep 02 |
-| ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7726b1ade4306aa64afd4?utm_campaign=1063&utm_source=git)** | Peoria | Hybrid | Sep 02 |
-| ↳ | **[Managed IT Services Service Desk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b77260f4e41a61efd9902b?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Sep 02 |
-| ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7724cf4e41a61efd99019?utm_campaign=1063&utm_source=git)** | Denver Greenwood | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
