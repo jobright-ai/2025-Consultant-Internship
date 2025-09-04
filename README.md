@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90ad95b42bc4562829ec4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
+| ↳ | **[D365 Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b90abd5b42bc4562829ebb?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 03 |
+| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90a9007090163b6ba7171?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Sep 03 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90a785b42bc4562829eab?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90a3e07090163b6ba7158?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
+| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90a395b42bc4562829e96?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Sep 03 |
+| ↳ | **[Financial Services Risk Consulting Intern](https://jobright.ai/jobs/info/68b90a2607090163b6ba714e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
+| **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68b8f40e5b42bc456282945b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 03 |
+| **[Wipfli](http://www.wipfli.com)** | **[Operations, People &amp; Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b8f2deea901c0d269faf4e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 03 |
+| ↳ | **[Operations, People &amp; Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b8f27407090163b6ba65b8?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 03 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/68b8e55507090163b6ba5ffb?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 03 |
 | **[Wipfli](http://www.wipfli.com)** | **[Operations, People &amp; Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b8e37f07090163b6ba5d1b?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 03 |
 | ↳ | **[Operations, People &amp; Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b8e347ea901c0d269fa559?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 03 |
@@ -69,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Risk Consulting Intern](https://jobright.ai/jobs/info/68b8c29b5b42bc456282774d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 03 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Asc Change Mgmt Consultant (Intern/Co-op conversion)](https://jobright.ai/jobs/info/68b8aa5eea901c0d269f8962?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Summer 2026 / Charlotte, NC](https://jobright.ai/jobs/info/68b89de007090163b6ba394f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
-| **[Sabry & Company](sabryandcompany.com)** | **[Graduate Intern, Management Consultant](https://jobright.ai/jobs/info/68b8909507090163b6ba2c8d?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Sep 03 |
 | **[Wipfli](http://www.wipfli.com)** | **[Healthcare Consulting Internship](https://jobright.ai/jobs/info/68b8902907090163b6ba2ba8?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 03 |
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 03 |
@@ -92,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b69e872d1074a98b2a43?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Sep 02 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b64deffbb9793f7b74ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b644195d032a0960b1e0?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Sep 02 |
-| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2959?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2958?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 02 |
+| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2959?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | ↳ | **[Infrastructure Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b606effbb9793f7b7450?utm_campaign=1063&utm_source=git)** | Mason City, IA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b7b5d1effbb9793f7b73a0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b5b8195d032a0960b056?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 02 |
@@ -136,25 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b764b3f4e41a61efd98bd3?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Sep 02 |
 | ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b76314f4e41a61efd98996?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Sep 02 |
 | ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b765651ade4306aa64ace0?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 02 |
-| ↳ | **[Business Valuation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b765571ade4306aa64acd4?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 02 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b76557f4e41a61efd98c54?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
-| ↳ | **[Global Financial Services Risk Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b765161ade4306aa64ac99?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764fb2124650c14022852?utm_campaign=1063&utm_source=git)** | San Francisco, California, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764da1ade4306aa64ac43?utm_campaign=1063&utm_source=git)** | Eden Prairie, Minnesota, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764b0f4e41a61efd98bce?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | Hybrid | Sep 02 |
+| ↳ | **[Business Valuation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b765571ade4306aa64acd4?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 02 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b7651b2124650c14022873?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 02 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Global Financial Services Risk Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b765161ade4306aa64ac99?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764da1ade4306aa64ac43?utm_campaign=1063&utm_source=git)** | Eden Prairie, Minnesota, United States | Hybrid | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7649f1ade4306aa64abdf?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Sep 02 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764341ade4306aa64ab42?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764342124650c140227a6?utm_campaign=1063&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Sep 02 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764432124650c140227b8?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | Hybrid | Sep 02 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764341ade4306aa64ab43?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b76424f4e41a61efd98aff?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b7640a2124650c1402277d?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b763dd2124650c1402275c?utm_campaign=1063&utm_source=git)** | Chelmsford, Massachusetts, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b763c3f4e41a61efd98a71?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | Hybrid | Sep 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7639ef4e41a61efd98a3f?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b763791ade4306aa64aa35?utm_campaign=1063&utm_source=git)** | Tampa, Florida, United States | Hybrid | Sep 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Global Financial Services Risk Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b763731ade4306aa64aa2c?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Sep 02 |
-| ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b76342f4e41a61efd989c3?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Sep 02 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b762fd1ade4306aa64a996?utm_campaign=1063&utm_source=git)** | Portland, Oregon, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b762f7f4e41a61efd98975?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Sep 02 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b762e7f4e41a61efd9896e?utm_campaign=1063&utm_source=git)** | Appleton, Wisconsin, United States | Hybrid | Sep 02 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b764342124650c140227a6?utm_campaign=1063&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Sep 02 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b76407f4e41a61efd98ad1?utm_campaign=1063&utm_source=git)** | Portland, Oregon, United States | Hybrid | Sep 02 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b763f82124650c1402276f?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 02 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/68b763f11ade4306aa64aae4?utm_campaign=1063&utm_source=git)** | Chelmsford, Massachusetts, United States | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
