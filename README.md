@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68b992556105227d11895e52?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 04 |
 | **[Gartner](http://www.gartner.com)** | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b928165b42bc456282b0af?utm_campaign=1063&utm_source=git)** | Remote - California | Hybrid | Sep 03 |
 | ↳ | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b9280bea901c0d269fcd34?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 03 |
 | ↳ | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b927ebea901c0d269fcd04?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b764b3f4e41a61efd98bd3?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Sep 02 |
 | ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b76314f4e41a61efd98996?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Sep 02 |
 | ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b765651ade4306aa64ace0?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 02 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b76557f4e41a61efd98c54?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
