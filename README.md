@@ -98,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern (North America - Current Students)](https://jobright.ai/jobs/info/68acf17ad627244576e4a0ae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Sep 03 |
 | **[Redstone Strategy Group](http://redstonestrategy.com)** | **[Associate Intern, Summer 2026](https://jobright.ai/jobs/info/68b82da63dd50f6e92b89c0d?utm_campaign=1063&utm_source=git)** | Boulder, CO | On Site | Sep 03 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c379bfaa4e875e8267995?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 03 |
+| ↳ | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c364583d13d1f5b6a783a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 03 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b91d255b42bc456282aa1f?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | **[Pfizer](http://www.pfizer.com)** | **[MBA Strategy & Consulting Summer Associate](https://jobright.ai/jobs/info/68b7bad26bcf3b4c256b9454?utm_campaign=1063&utm_source=git)** | United States - New York - New York City | On Site | Sep 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b764b3f4e41a61efd98bd3?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Sep 02 |
 | ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b76314f4e41a61efd98996?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Sep 02 |
 | ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b765651ade4306aa64ace0?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 02 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b76557f4e41a61efd98c54?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
