@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba0b3f8043103d4f21d1a4?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
+| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba0abf6105227d1189a654?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 04 |
+| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba04f25f383274918634d3?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Sep 04 |
+| **[Kx Advisors ](https://kxadvisors.com)** | **[Summer Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba03878043103d4f21ccd3?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | On Site | Sep 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68b9fe296105227d1189a074?utm_campaign=1063&utm_source=git)** | 8401 Greensboro Drive, McLean, VA, 22102, US | On Site | Sep 04 |
+| **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68b9faa18043103d4f21c789?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 04 |
+| **[Echofy](https://www.linkedin.com/company/104976665)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68b9f3686105227d118998c8?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Remote | Sep 04 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9e0cf5f38327491861a3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | ↳ | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9dcf75f3832749186174c?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 04 |
 | ↳ | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9da088043103d4f21b038?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 04 |
@@ -70,8 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9b55c6105227d118971fe?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Sep 04 |
 | ↳ | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9a32e6105227d1189699b?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 04 |
 | ↳ | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9a1ad8043103d4f2192e4?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Sep 04 |
-| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68b9b48d6105227d11897154?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 04 |
-| ↳ | **[Business Consulting Intern](https://jobright.ai/jobs/info/68b992556105227d11895e52?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 04 |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68b992556105227d11895e52?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 04 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68b9a8595f3832749185fd1d?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 04 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689d85de83d13d1f5b6b1124?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 04 |
 | **[Gartner](http://www.gartner.com)** | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b928165b42bc456282b0af?utm_campaign=1063&utm_source=git)** | Remote - California | Hybrid | Sep 03 |
@@ -127,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b69e872d1074a98b2a43?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Sep 02 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b64deffbb9793f7b74ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b644195d032a0960b1e0?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Sep 02 |
-| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2959?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2958?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 02 |
+| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2959?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | ↳ | **[Infrastructure Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b606effbb9793f7b7450?utm_campaign=1063&utm_source=git)** | Mason City, IA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b7b5d1effbb9793f7b73a0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b5b8195d032a0960b056?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792361ade4306aa64c059?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 02 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792131ade4306aa64c021?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant Intern](https://jobright.ai/jobs/info/68b781af2124650c140233b2?utm_campaign=1063&utm_source=git)** | Durham, NC | Hybrid | Sep 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b77e2b1ade4306aa64b5e6?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 02 |
-| ↳ | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b77df91ade4306aa64b595?utm_campaign=1063&utm_source=git)** | Denver Downtown | On Site | Sep 02 |
-| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b77d192124650c140231db?utm_campaign=1063&utm_source=git)** | Philadelphia | On Site | Sep 02 |
-| ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b772c12124650c14022d87?utm_campaign=1063&utm_source=git)** | Houston | On Site | Sep 02 |
-| ↳ | **[Cloud Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b772a8f4e41a61efd9905d?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 02 |
-| ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7729e2124650c14022d67?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
