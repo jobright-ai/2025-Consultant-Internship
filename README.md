@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68b992556105227d11895e52?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 04 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9a32e6105227d1189699b?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 04 |
+| ↳ | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9a1ad8043103d4f2192e4?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Sep 04 |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68b9b48d6105227d11897154?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 04 |
+| ↳ | **[Business Consulting Intern](https://jobright.ai/jobs/info/68b992556105227d11895e52?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 04 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68b9a8595f3832749185fd1d?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 04 |
+| **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689d85de83d13d1f5b6b1124?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 04 |
 | **[Gartner](http://www.gartner.com)** | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b928165b42bc456282b0af?utm_campaign=1063&utm_source=git)** | Remote - California | Hybrid | Sep 03 |
 | ↳ | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b9280bea901c0d269fcd34?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 03 |
 | ↳ | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b927ebea901c0d269fcd04?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 03 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b69e872d1074a98b2a43?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Sep 02 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b64deffbb9793f7b74ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b644195d032a0960b1e0?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Sep 02 |
-| ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2958?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 02 |
 | ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2959?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
+| ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2958?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 02 |
 | ↳ | **[Infrastructure Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b606effbb9793f7b7450?utm_campaign=1063&utm_source=git)** | Mason City, IA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b7b5d1effbb9793f7b73a0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b5b8195d032a0960b056?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7718ef4e41a61efd98fa8?utm_campaign=1063&utm_source=git)** | Los Angeles | On Site | Sep 02 |
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b771561ade4306aa64af2f?utm_campaign=1063&utm_source=git)** | Irvine | Hybrid | Sep 02 |
 | ↳ | **[Infrastructure Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7712b1ade4306aa64af18?utm_campaign=1063&utm_source=git)** | Mason City | On Site | Sep 02 |
-| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b764761ade4306aa64aba4?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 02 |
-| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b76353f4e41a61efd989d9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
-| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b764b3f4e41a61efd98bd3?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Sep 02 |
-| ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b76314f4e41a61efd98996?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Sep 02 |
-| ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b765651ade4306aa64ace0?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
