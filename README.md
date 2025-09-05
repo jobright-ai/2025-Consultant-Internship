@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern SOUT](https://jobright.ai/jobs/info/68bae1648043103d4f223bb4?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68bb00825f3832749186b4f9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Sep 05 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/68baf7088043103d4f224616?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
+| **[Echofy](https://www.linkedin.com/company/104976665)** | **[Consulting and Accounting Internship](https://jobright.ai/jobs/info/68baf2435f3832749186abc7?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Remote | Sep 05 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baecc66105227d118a17e6?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Sep 05 |
+| ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baec9b8043103d4f22415d?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
+| ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baebcf5f3832749186a956?utm_campaign=1063&utm_source=git)** | Chicago Riverside Plaza | On Site | Sep 05 |
+| ↳ | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern SOUT](https://jobright.ai/jobs/info/68bae1648043103d4f223bb4?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
 | ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e231a79a9f966625474aa?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
 | **[Arup](http://www.arup.com)** | **[Resilience Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba84b58043103d4f2213b4?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | ↳ | **[Sustainability Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba849c8043103d4f22139c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
@@ -131,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68ba78bc6105227d1189e423?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Sep 02 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba74066105227d1189e28e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 02 |
 | ↳ | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba6d4b5f3832749186725f?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 02 |
-| ↳ | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b91d255b42bc456282aa1f?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | **[Pfizer](http://www.pfizer.com)** | **[MBA Strategy & Consulting Summer Associate](https://jobright.ai/jobs/info/68b7bad26bcf3b4c256b9454?utm_campaign=1063&utm_source=git)** | United States - New York - New York City | On Site | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cloud Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b7a9872d1074a98b2cef?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b79d872d1074a98b2cd6?utm_campaign=1063&utm_source=git)** | Peoria, IL | On Site | Sep 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Dakota Department of Transportation ](http://www.dot.nd.gov)** | **[Intern Consultant Admin Services](https://jobright.ai/jobs/info/68b90f10ea901c0d269fbcc8?utm_campaign=1063&utm_source=git)** | Bismarck, ND | On Site | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Infrastructure Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba5fb06105227d1189d566?utm_campaign=1063&utm_source=git)** | Dubuque, IA | On Site | Sep 02 |
 | **[Wipfli](http://www.wipfli.com)** | **[Data &amp; Analytics Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b797d42124650c140243c8?utm_campaign=1063&utm_source=git)** | Radnor, PA | Hybrid | Sep 02 |
-| ↳ | **[Data &amp; Analytics Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b797c31ade4306aa64c629?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 02 |
-| ↳ | **[Data &amp; Analytics Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b796222124650c14024197?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
-| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b796122124650c14024187?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68b796112124650c14024184?utm_campaign=1063&utm_source=git)** | Frisco, TX | Remote | Sep 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b795d71ade4306aa64c59e?utm_campaign=1063&utm_source=git)** | San Diego | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
