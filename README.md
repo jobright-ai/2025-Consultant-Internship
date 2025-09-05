@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kx Advisors ](https://kxadvisors.com)** | **[Summer 2026 Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba18b25f38327491863f23?utm_campaign=1063&utm_source=git)** | Washington, D.C. | On Site | Sep 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba0b3f8043103d4f21d1a4?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba0abf6105227d1189a654?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 04 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba04f25f383274918634d3?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792ae1ade4306aa64c0f8?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 02 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792361ade4306aa64c059?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 02 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792131ade4306aa64c021?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
-| **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant Intern](https://jobright.ai/jobs/info/68b781af2124650c140233b2?utm_campaign=1063&utm_source=git)** | Durham, NC | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
