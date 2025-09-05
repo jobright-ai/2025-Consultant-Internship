@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern SOUT](https://jobright.ai/jobs/info/68bae1648043103d4f223bb4?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
+| ↳ | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e231a79a9f966625474aa?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
 | **[Arup](http://www.arup.com)** | **[Resilience Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba84b58043103d4f2213b4?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | ↳ | **[Sustainability Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba849c8043103d4f22139c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | ↳ | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba81ab8043103d4f221176?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Summer 2026 Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba18b25f38327491863f23?utm_campaign=1063&utm_source=git)** | Washington, D.C. | On Site | Sep 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba0abf6105227d1189a654?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 04 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba04f25f383274918634d3?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Sep 04 |
+| **[Kx Advisors ](https://kxadvisors.com)** | **[Summer 2026 Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba03878043103d4f21ccd3?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | On Site | Sep 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68b9fe296105227d1189a074?utm_campaign=1063&utm_source=git)** | 8401 Greensboro Drive, McLean, VA, 22102, US | On Site | Sep 04 |
-| **[Kx Advisors ](https://kxadvisors.com)** | **[Summer Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba03878043103d4f21ccd3?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | On Site | Sep 04 |
 | **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68b9faa18043103d4f21c789?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 04 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9e0cf5f38327491861a3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | ↳ | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9dcf75f3832749186174c?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b796122124650c14024187?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68b796112124650c14024184?utm_campaign=1063&utm_source=git)** | Frisco, TX | Remote | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b795d71ade4306aa64c59e?utm_campaign=1063&utm_source=git)** | San Diego | On Site | Sep 02 |
-| ↳ | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7957ef4e41a61efd9a4a4?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 02 |
-| **[Wipfli](http://www.wipfli.com)** | **[Data &amp; Analytics Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b7948c1ade4306aa64c460?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
