@@ -63,10 +63,9 @@ For a complete list, click the following sortable link below:
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI Consulting - Graduate Program](https://jobright.ai/jobs/info/68ba364f8043103d4f21e8be?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Sep 04 |
 | **[AArete](http://aarete.com)** | **[Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68ba2ab45f38327491864790?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Summer 2026 Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba18b25f38327491863f23?utm_campaign=1063&utm_source=git)** | Washington, D.C. | On Site | Sep 04 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba0b3f8043103d4f21d1a4?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
-| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba0abf6105227d1189a654?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 04 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba0abf6105227d1189a654?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 04 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba04f25f383274918634d3?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Sep 04 |
-| **[Kx Advisors ](https://kxadvisors.com)** | **[Summer Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba03878043103d4f21ccd3?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | On Site | Sep 04 |
+| **[Kx Advisors ](https://kxadvisors.com)** | **[Summer 2026 Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba03878043103d4f21ccd3?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | On Site | Sep 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68b9fe296105227d1189a074?utm_campaign=1063&utm_source=git)** | 8401 Greensboro Drive, McLean, VA, 22102, US | On Site | Sep 04 |
 | **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68b9faa18043103d4f21c789?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 04 |
 | **[Echofy](https://www.linkedin.com/company/104976665)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68b9f3686105227d118998c8?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Remote | Sep 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b794801ade4306aa64c445?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 02 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b793bff4e41a61efd9a1c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b7938ff4e41a61efd9a155?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
+| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792f91ade4306aa64c150?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
