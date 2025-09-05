@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arup](http://www.arup.com)** | **[Resilience Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba84b58043103d4f2213b4?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
+| ↳ | **[Sustainability Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba849c8043103d4f22139c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
+| ↳ | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba81ab8043103d4f221176?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68ba40d95f3832749186585a?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Sep 04 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68ba40125f3832749186575d?utm_campaign=1063&utm_source=git)** | Potomac, MD | Hybrid | Sep 04 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/68ba3e278043103d4f21ee37?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b69e872d1074a98b2a43?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Sep 02 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b64deffbb9793f7b74ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b644195d032a0960b1e0?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Sep 02 |
-| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2959?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2958?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 02 |
+| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b642872d1074a98b2959?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | ↳ | **[Infrastructure Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b606effbb9793f7b7450?utm_campaign=1063&utm_source=git)** | Mason City, IA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b7b5d1effbb9793f7b73a0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b5b8195d032a0960b056?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68b796112124650c14024184?utm_campaign=1063&utm_source=git)** | Frisco, TX | Remote | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b795d71ade4306aa64c59e?utm_campaign=1063&utm_source=git)** | San Diego | On Site | Sep 02 |
 | ↳ | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7957ef4e41a61efd9a4a4?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 02 |
-| **[Wipfli](http://www.wipfli.com)** | **[Data &amp; Analytics Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b7948c1ade4306aa64c460?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
-| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b794801ade4306aa64c445?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 02 |
-| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b793bff4e41a61efd9a1c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
