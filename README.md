@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68bb70135f3832749186f1b3?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 05 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68bb6e5d8043103d4f2288a5?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 05 |
 | **[Allstate](http://www.allstate.com)** | **[Data Analytics Consultant Intern](https://jobright.ai/jobs/info/68bb54af5f3832749186e7c5?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 05 |
 | **[PROJXON](www.projxon.com)** | **[Junior Consultant / Consulting Intern (MBA)](https://jobright.ai/jobs/info/68bb4cce6105227d118a509c?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 05 |
@@ -67,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 05 |
 | ↳ | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern SOUT](https://jobright.ai/jobs/info/68bb28735f3832749186c91e?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb28475f3832749186c8eb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
-| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Business Consulting Internship](https://jobright.ai/jobs/info/68bb23975f3832749186c777?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 05 |
 | **[Allstate](http://www.allstate.com)** | **[Data Analytics Consultant Intern](https://jobright.ai/jobs/info/68bb174a6105227d118a2d75?utm_campaign=1063&utm_source=git)** | USA - IL (Remote) | Remote | Sep 05 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern Summer-Winter 2026](https://jobright.ai/jobs/info/68bb0c616105227d118a28a2?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 05 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68bb00825f3832749186b4f9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Sep 05 |
@@ -119,6 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90a785b42bc4562829eab?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90a3e07090163b6ba7158?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | ↳ | **[Financial Services Risk Consulting Intern](https://jobright.ai/jobs/info/68b90a2607090163b6ba714e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
+| ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bba06f5f38327491870df3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
 | **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68b8f40e5b42bc456282945b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 03 |
 | **[Wipfli](http://www.wipfli.com)** | **[Operations, People &amp; Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b8f2deea901c0d269faf4e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 03 |
 | ↳ | **[Operations, People &amp; Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b8f27407090163b6ba65b8?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b6d2195d032a0960b308?utm_campaign=1063&utm_source=git)** | Mason City, IA | On Site | Sep 02 |
 | ↳ | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b6b7effbb9793f7b75ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b69e872d1074a98b2a43?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Sep 02 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b64deffbb9793f7b74ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
