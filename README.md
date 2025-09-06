@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68bb70135f3832749186f1b3?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 05 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68bb6e5d8043103d4f2288a5?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 05 |
 | **[Allstate](http://www.allstate.com)** | **[Data Analytics Consultant Intern](https://jobright.ai/jobs/info/68bb54af5f3832749186e7c5?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 05 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68bb4f9e6105227d118a535e?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 05 |
 | **[PROJXON](www.projxon.com)** | **[Junior Consultant / Consulting Intern (MBA)](https://jobright.ai/jobs/info/68bb4cce6105227d118a509c?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68bb395c5f3832749186d700?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb30e05f3832749186cdf1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
@@ -73,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern Summer-Winter 2026](https://jobright.ai/jobs/info/68bb0c616105227d118a28a2?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 05 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68bb00825f3832749186b4f9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Sep 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/68baf7088043103d4f224616?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
-| **[Echofy](https://www.linkedin.com/company/104976665)** | **[Consulting and Accounting Internship](https://jobright.ai/jobs/info/68baf2435f3832749186abc7?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Remote | Sep 05 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baecc66105227d118a17e6?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Sep 05 |
+| ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baecc66105227d118a17e6?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Sep 05 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baec9b8043103d4f22415d?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baebcf5f3832749186a956?utm_campaign=1063&utm_source=git)** | Chicago Riverside Plaza | On Site | Sep 05 |
 | ↳ | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern SOUT](https://jobright.ai/jobs/info/68bae1648043103d4f223bb4?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b75aeffbb9793f7b7783?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b721effbb9793f7b76f9?utm_campaign=1063&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b6d2195d032a0960b308?utm_campaign=1063&utm_source=git)** | Mason City, IA | On Site | Sep 02 |
+| ↳ | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b6b7effbb9793f7b75ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
+| ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b69e872d1074a98b2a43?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
