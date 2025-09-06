@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68bc605168300c452ca157d4?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bc55ec3bf9eb44f8323d72?utm_campaign=1063&utm_source=git)** | Denver Downtown | Hybrid | Sep 06 |
-| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Finance & Consulting Intern](https://jobright.ai/jobs/info/68bc54e73bf9eb44f8323d14?utm_campaign=1063&utm_source=git)** | Fort Worth, TX | Remote | Sep 06 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68bc4afa3bf9eb44f8323adb?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Sep 06 |
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68bbc6be6105227d118a9afa?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cloud Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b7a9872d1074a98b2cef?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b79d872d1074a98b2cd6?utm_campaign=1063&utm_source=git)** | Peoria, IL | On Site | Sep 02 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b765195d032a0960b489?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
+| ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b75aeffbb9793f7b7783?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
