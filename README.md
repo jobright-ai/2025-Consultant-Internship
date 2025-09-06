@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68bbc6be6105227d118a9afa?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 05 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/68bbc6026105227d118a9a1a?utm_campaign=1063&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68bb6e5d8043103d4f2288a5?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68bb395c5f3832749186d700?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb30e05f3832749186cdf1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
@@ -144,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c379bfaa4e875e8267995?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 03 |
 | ↳ | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c364583d13d1f5b6a783a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 03 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bc040a8043103d4f22de78?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 03 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Manager, Office of Strategic Management (Internal Management Consulting)](https://jobright.ai/jobs/info/68ba95d86105227d1189f8b3?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Sep 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68ba78bc6105227d1189e423?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Sep 02 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba74066105227d1189e28e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b75aeffbb9793f7b7783?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b721effbb9793f7b76f9?utm_campaign=1063&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b6d2195d032a0960b308?utm_campaign=1063&utm_source=git)** | Mason City, IA | On Site | Sep 02 |
-| ↳ | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b6b7effbb9793f7b75ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
-| ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b69e872d1074a98b2a43?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
