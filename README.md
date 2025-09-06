@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68bbc6be6105227d118a9afa?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 05 |
+| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/68bbc6026105227d118a9a1a?utm_campaign=1063&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68bb6e5d8043103d4f2288a5?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 05 |
 | **[Allstate](http://www.allstate.com)** | **[Data Analytics Consultant Intern](https://jobright.ai/jobs/info/68bb54af5f3832749186e7c5?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 05 |
 | **[PROJXON](www.projxon.com)** | **[Junior Consultant / Consulting Intern (MBA)](https://jobright.ai/jobs/info/68bb4cce6105227d118a509c?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b721effbb9793f7b76f9?utm_campaign=1063&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b6d2195d032a0960b308?utm_campaign=1063&utm_source=git)** | Mason City, IA | On Site | Sep 02 |
 | ↳ | **[Content Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b6b7effbb9793f7b75ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
-| ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b69e872d1074a98b2a43?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Sep 02 |
-| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b64deffbb9793f7b74ea?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
