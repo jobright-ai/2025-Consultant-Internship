@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68bc605168300c452ca157d4?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bc55ec3bf9eb44f8323d72?utm_campaign=1063&utm_source=git)** | Denver Downtown | Hybrid | Sep 06 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Finance & Consulting Intern](https://jobright.ai/jobs/info/68bc54e73bf9eb44f8323d14?utm_campaign=1063&utm_source=git)** | Fort Worth, TX | Remote | Sep 06 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68bc4afa3bf9eb44f8323adb?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Sep 06 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b8cfbfea901c0d269f9aee?utm_campaign=1063&utm_source=git)** | McLean | On Site | Sep 03 |
 | ↳ | **[Financial Services Risk Consulting Intern](https://jobright.ai/jobs/info/68b8c29b5b42bc456282774d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 03 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Asc Change Mgmt Consultant (Intern/Co-op conversion)](https://jobright.ai/jobs/info/68b8aa5eea901c0d269f8962?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Summer 2026 / Charlotte, NC](https://jobright.ai/jobs/info/68b89de007090163b6ba394f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
 | **[Wipfli](http://www.wipfli.com)** | **[Healthcare Consulting Internship](https://jobright.ai/jobs/info/68b8902907090163b6ba2ba8?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 03 |
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 03 |
