@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bc55ec3bf9eb44f8323d72?utm_campaign=1063&utm_source=git)** | Denver Downtown | Hybrid | Sep 06 |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Finance & Consulting Intern](https://jobright.ai/jobs/info/68bc54e73bf9eb44f8323d14?utm_campaign=1063&utm_source=git)** | Fort Worth, TX | Remote | Sep 06 |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68bc4afa3bf9eb44f8323adb?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Sep 06 |
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68bbc6be6105227d118a9afa?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 05 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/68bbc6026105227d118a9a1a?utm_campaign=1063&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern SOUT](https://jobright.ai/jobs/info/68bb28735f3832749186c91e?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb28475f3832749186c8eb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[Allstate](http://www.allstate.com)** | **[Data Analytics Consultant Intern](https://jobright.ai/jobs/info/68bb174a6105227d118a2d75?utm_campaign=1063&utm_source=git)** | USA - IL (Remote) | Remote | Sep 05 |
-| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Financial Wellness Consulting Intern](https://jobright.ai/jobs/info/68bb00825f3832749186b4f9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Remote | Sep 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/68baf7088043103d4f224616?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baecc66105227d118a17e6?utm_campaign=1063&utm_source=git)** | Denver Tech Center | On Site | Sep 05 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68baec9b8043103d4f22415d?utm_campaign=1063&utm_source=git)** | Southfield | On Site | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cloud Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b7a9872d1074a98b2cef?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Sep 02 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b79d872d1074a98b2cd6?utm_campaign=1063&utm_source=git)** | Peoria, IL | On Site | Sep 02 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b765195d032a0960b489?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
-| ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b75aeffbb9793f7b7783?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Sep 02 |
-| ↳ | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b7b721effbb9793f7b76f9?utm_campaign=1063&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
