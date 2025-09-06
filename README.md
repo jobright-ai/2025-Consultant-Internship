@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68bbc6be6105227d118a9afa?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 05 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/68bbc6026105227d118a9a1a?utm_campaign=1063&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68bb6e5d8043103d4f2288a5?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 05 |
-| **[PROJXON](www.projxon.com)** | **[Junior Consultant / Consulting Intern (MBA)](https://jobright.ai/jobs/info/68bb4cce6105227d118a509c?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68bb395c5f3832749186d700?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb30e05f3832749186cdf1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
 | ↳ | **[2026 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/68bb2ab08043103d4f226193?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
