@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Business Consultant Intern - Accounting & Finance](https://jobright.ai/jobs/info/68bd8437c4c5904ff6003b3d?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 07 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c379bfaa4e875e8267995?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 03 |
 | ↳ | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c364583d13d1f5b6a783a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 03 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bc040a8043103d4f22de78?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
