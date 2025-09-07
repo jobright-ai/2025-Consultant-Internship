@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Business Development Consultant Intern (MBA)](https://jobright.ai/jobs/info/68bd0de0ae79610dacdddc80?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca50f68300c452ca15f1d?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Sep 06 |
 | ↳ | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca441ae79610dacddbfd4?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 06 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca4223bf9eb44f83245db?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 06 |
@@ -121,7 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b9277d5b42bc456282b08a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 03 |
 | ↳ | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b925e007090163b6ba8362?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 03 |
 | ↳ | **[2026 Summer Associate Program, IT Strategy Consulting (Spring 2027 Graduates)](https://jobright.ai/jobs/info/68b924f807090163b6ba832a?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Hybrid | Sep 03 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90ad95b42bc4562829ec4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bd0d9368300c452ca17d5e?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Sep 03 |
+| ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90ad95b42bc4562829ec4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | ↳ | **[D365 Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b90abd5b42bc4562829ebb?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 03 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90a9007090163b6ba7171?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Sep 03 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b90a785b42bc4562829eab?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bc040a8043103d4f22de78?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 03 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Manager, Office of Strategic Management (Internal Management Consulting)](https://jobright.ai/jobs/info/68ba95d86105227d1189f8b3?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Sep 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68ba78bc6105227d1189e423?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Sep 02 |
-| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba74066105227d1189e28e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 02 |
-| ↳ | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ba6d4b5f3832749186725f?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
