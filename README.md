@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be4cdb3d31ec76b7e89600?utm_campaign=1063&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | Sep 07 |
+| **[CBRE](https://www.cbre.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be42e9c4c5904ff6004d3c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be279fe57feb02eb0acba4?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Sep 07 |
 | ↳ | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be23d4e57feb02eb0acae9?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 07 |
 | ↳ | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be2375e57feb02eb0acac9?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 03 |
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 03 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[2026 MBA Graduate: MBA Intern, Fidelity Consulting](https://jobright.ai/jobs/info/68b86f1b5b42bc45628245e6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 03 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b864c5ea901c0d269f5de7?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
-| **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern (North America - Current Students)](https://jobright.ai/jobs/info/68acf17ad627244576e4a0ae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
