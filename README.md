@@ -57,18 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c51e57feb02eb0ae640?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
+| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c16c4c5904ff600648f?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 07 |
+| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6be4c4c5904ff6006489?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be4cdb3d31ec76b7e89600?utm_campaign=1063&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be42e9c4c5904ff6004d3c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be279fe57feb02eb0acba4?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Sep 07 |
 | ↳ | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be23d4e57feb02eb0acae9?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 07 |
 | ↳ | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be2375e57feb02eb0acac9?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68bdf806e57feb02eb0ac88d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 07 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68bdec77e57feb02eb0ac782?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Sep 07 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 07 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd2895ae79610dacdde8b9?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
+| **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68be6ab13d31ec76b7e8a409?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 06 |
 | **[PROJXON](www.projxon.com)** | **[Business Development Consultant Intern (MBA)](https://jobright.ai/jobs/info/68bd0de0ae79610dacdddc80?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca50f68300c452ca15f1d?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Sep 06 |
 | ↳ | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca441ae79610dacddbfd4?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 06 |
@@ -79,6 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bc55ec3bf9eb44f8323d72?utm_campaign=1063&utm_source=git)** | Denver Downtown | Hybrid | Sep 06 |
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 06 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/68bbc6026105227d118a9a1a?utm_campaign=1063&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
+| **[Allstate](http://www.allstate.com)** | **[Data Analytics Consultant Intern](https://jobright.ai/jobs/info/68be6962c4c5904ff600642d?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68bb395c5f3832749186d700?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb30e05f3832749186cdf1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b8cffa07090163b6ba527c?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 03 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b8cfbfea901c0d269f9aee?utm_campaign=1063&utm_source=git)** | McLean | On Site | Sep 03 |
 | ↳ | **[Financial Services Risk Consulting Intern](https://jobright.ai/jobs/info/68b8c29b5b42bc456282774d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 03 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Asc Change Mgmt Consultant (Intern/Co-op conversion)](https://jobright.ai/jobs/info/68b8aa5eea901c0d269f8962?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
-| **[Wipfli](http://www.wipfli.com)** | **[Healthcare Consulting Internship](https://jobright.ai/jobs/info/68b8902907090163b6ba2ba8?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 03 |
-| ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 03 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 MBA Graduate: MBA Intern, Fidelity Consulting](https://jobright.ai/jobs/info/68b86f1b5b42bc45628245e6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
