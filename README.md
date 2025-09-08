@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be8a41e57feb02eb0af30a?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 08 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c51e57feb02eb0ae640?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
 | ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c16c4c5904ff600648f?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 07 |
 | ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6be4c4c5904ff6006489?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b8d00707090163b6ba5293?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Sep 03 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b8cffa07090163b6ba527c?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 03 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b8cfbfea901c0d269f9aee?utm_campaign=1063&utm_source=git)** | McLean | On Site | Sep 03 |
-| ↳ | **[Financial Services Risk Consulting Intern](https://jobright.ai/jobs/info/68b8c29b5b42bc456282774d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
