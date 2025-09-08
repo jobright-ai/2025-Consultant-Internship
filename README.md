@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68bede715c5d5f14f46d1b0b?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 08 |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68bede3b8e65e77df55b4ff0?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 08 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman - Summer Internship 2026 - London](https://jobright.ai/jobs/info/68bec2355c5d5f14f46d0c5e?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 08 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be8a41e57feb02eb0af30a?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 08 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c93e57feb02eb0ae649?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 07 |
-| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c51e57feb02eb0ae640?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
-| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c0f3d31ec76b7e8a594?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c51e57feb02eb0ae640?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
+| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c16c4c5904ff600648f?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 07 |
+| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6be4c4c5904ff6006489?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be4cdb3d31ec76b7e89600?utm_campaign=1063&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be42e9c4c5904ff6004d3c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68b8de7a07090163b6ba5971?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Sep 03 |
 | ↳ | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68b8ddf207090163b6ba58fc?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b8d6d95b42bc4562828304?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 03 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68b8d00707090163b6ba5293?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Sep 03 |
-| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b8cffa07090163b6ba527c?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 03 |
-| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b8cfbfea901c0d269f9aee?utm_campaign=1063&utm_source=git)** | McLean | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
