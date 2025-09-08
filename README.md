@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be279fe57feb02eb0acba4?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Sep 07 |
+| ↳ | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be23d4e57feb02eb0acae9?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 07 |
+| ↳ | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be2375e57feb02eb0acac9?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68bdf806e57feb02eb0ac88d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 07 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68bdec77e57feb02eb0ac782?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Sep 07 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 07 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Investments](https://www.fidelity.com)** | **[2026 MBA Graduate: MBA Intern, Fidelity Consulting](https://jobright.ai/jobs/info/68b86f1b5b42bc45628245e6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68b864c5ea901c0d269f5de7?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern (North America - Current Students)](https://jobright.ai/jobs/info/68acf17ad627244576e4a0ae?utm_campaign=1063&utm_source=git)** | Evanston, IL | On Site | Sep 03 |
-| **[Redstone Strategy Group](http://redstonestrategy.com)** | **[Associate Intern, Summer 2026](https://jobright.ai/jobs/info/68b82da63dd50f6e92b89c0d?utm_campaign=1063&utm_source=git)** | Boulder, CO | On Site | Sep 03 |
-| **[Protiviti](http://www.protiviti.com)** | **[Houston Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c379bfaa4e875e8267995?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 03 |
-| ↳ | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/689c364583d13d1f5b6a783a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 03 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Risk & Controls Consulting Intern](https://jobright.ai/jobs/info/689b9bb0faa4e875e8261ab9?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
