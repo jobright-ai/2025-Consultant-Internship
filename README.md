@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c09ff98e65e77df55c34a6?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Innovation Consultant](https://jobright.ai/jobs/info/68c08e06702aa35207aae7da?utm_campaign=1063&utm_source=git)** | University Park, PA | On Site | Sep 09 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c083768e65e77df55c211c?utm_campaign=1063&utm_source=git)** | Denver Downtown | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082e65c5d5f14f46dea0c?utm_campaign=1063&utm_source=git)** | Minneapolis | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082505c5d5f14f46de9ba?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 09 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Field- Worcester, MA/Seattle, WA)](https://jobright.ai/jobs/info/68bf48c75c5d5f14f46d5b46?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 08 |
 | ↳ | **[Intern - Risk Solutions (Worcester, MA / Howell, MI)](https://jobright.ai/jobs/info/68bf48495c5d5f14f46d5ab9?utm_campaign=1063&utm_source=git)** | Howell, MI | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf45f0702aa35207aa4f45?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Sep 08 |
+| **[Roadrunner Venture Studios](https://roadrunnerventurestudios.com)** | **[Computational Fluid Dynamics (CFD) Consultant – Subsurface & Geothermal](https://jobright.ai/jobs/info/68bf3dc5702aa35207aa4922?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68bf24148e65e77df55b744b?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 08 |
 | **[NYC Public Schools](https://schools.nyc.gov)** | **[Data Analytics Intern/Consultant (Temporary Position) - 25668](https://jobright.ai/jobs/info/68bf17ca702aa35207aa30b5?utm_campaign=1063&utm_source=git)** | Manhattan, NY | On Site | Sep 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf163b8e65e77df55b6dba?utm_campaign=1063&utm_source=git)** | US - PA, Philadelphia | On Site | Sep 08 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf14d9702aa35207aa2dd7?utm_campaign=1063&utm_source=git)** | US - IL, Chicago | On Site | Sep 08 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf14c35c5d5f14f46d3709?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Sep 08 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf14885c5d5f14f46d36f5?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Sep 08 |
-| **[Roadrunner Venture Studios](https://roadrunnerventurestudios.com)** | **[Computational Fluid Dynamics (CFD) Consultant – Subsurface & Geothermal](https://jobright.ai/jobs/info/68bf0f758e65e77df55b6981?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 08 |
 | **[PROJXON](www.projxon.com)** | **[Partnership Consultant Intern (MBA)](https://jobright.ai/jobs/info/68bf09e45c5d5f14f46d3204?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 08 |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Economic Litigation Consulting](https://jobright.ai/jobs/info/68befd155c5d5f14f46d2b5d?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 08 |
 | ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68befc44702aa35207aa21d5?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 08 |
@@ -144,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be8a41e57feb02eb0af30a?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 08 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c93e57feb02eb0ae649?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 07 |
 | ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c563d31ec76b7e8a59c?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
-| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6be4c4c5904ff6006489?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
+| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c0f3d31ec76b7e8a594?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be4cdb3d31ec76b7e89600?utm_campaign=1063&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be42e9c4c5904ff6004d3c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd2895ae79610dacdde8b9?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68be6ab13d31ec76b7e8a409?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca4223bf9eb44f83245db?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 06 |
-| ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca41fae79610dacddbfc7?utm_campaign=1063&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
