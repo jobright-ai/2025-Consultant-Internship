@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Charlotte](https://jobright.ai/jobs/info/68bf8ebc5c5d5f14f46d7f9b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf83bb8e65e77df55baf9f?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 08 |
+| **[Tetra Tech](http://www.tetratech.com)** | **[Entry Level Civil/Environmental Engineer (Environmental Consulting: Remediation, and Solid Waste Design) – (June 2026 Start) – Madison, WI](https://jobright.ai/jobs/info/68b0df1113563e782a9f9f0c?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Sep 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf6744702aa35207aa60a9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 08 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Real Estate Development Summer Intern](https://jobright.ai/jobs/info/68bf58398e65e77df55b9751?utm_campaign=1063&utm_source=git)** | Menomonee Falls, WI | On Site | Sep 08 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bf4f82702aa35207aa562a?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Sep 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allstate](http://www.allstate.com)** | **[Data Analytics Consultant Intern](https://jobright.ai/jobs/info/68be6962c4c5904ff600642d?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68bb395c5f3832749186d700?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 05 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb30e05f3832749186cdf1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
