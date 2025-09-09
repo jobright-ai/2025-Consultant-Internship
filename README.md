@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf6744702aa35207aa60a9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 08 |
+| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Real Estate Development Summer Intern](https://jobright.ai/jobs/info/68bf58398e65e77df55b9751?utm_campaign=1063&utm_source=git)** | Menomonee Falls, WI | On Site | Sep 08 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bf4f82702aa35207aa562a?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Sep 08 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Field- Worcester, MA/Seattle, WA)](https://jobright.ai/jobs/info/68bf48c75c5d5f14f46d5b46?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 08 |
 | ↳ | **[Intern - Risk Solutions (Worcester, MA / Howell, MI)](https://jobright.ai/jobs/info/68bf48495c5d5f14f46d5ab9?utm_campaign=1063&utm_source=git)** | Howell, MI | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf45f0702aa35207aa4f45?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Sep 08 |
@@ -127,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be8a41e57feb02eb0af30a?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 08 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c93e57feb02eb0ae649?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 07 |
-| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c51e57feb02eb0ae640?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
+| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c563d31ec76b7e8a59c?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
 | ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c0f3d31ec76b7e8a594?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be4cdb3d31ec76b7e89600?utm_campaign=1063&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | Sep 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68bb395c5f3832749186d700?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb30e05f3832749186cdf1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
 | ↳ | **[2026 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/68bb2ab08043103d4f226193?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
-| ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern SOUT](https://jobright.ai/jobs/info/68bb28735f3832749186c91e?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 05 |
-| ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb28475f3832749186c8eb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
