@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c0445d5c5d5f14f46dc2a5?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 09 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Summer Internship 2026 - London](https://jobright.ai/jobs/info/68bfd99d702aa35207aa994e?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 09 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68bfcae38e65e77df55bd1b7?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 08 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Charlotte](https://jobright.ai/jobs/info/68bf8ebc5c5d5f14f46d7f9b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 08 |
@@ -64,12 +65,10 @@ For a complete list, click the following sortable link below:
 | **[Tetra Tech](http://www.tetratech.com)** | **[Entry Level Civil/Environmental Engineer (Environmental Consulting: Remediation, and Solid Waste Design) – (June 2026 Start) – Madison, WI](https://jobright.ai/jobs/info/68b0df1113563e782a9f9f0c?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Sep 08 |
 | **[Sensiba LLP](http://www.sensiba.com)** | **[Consulting (Outsourced Accounting) Intern - Summer 2026](https://jobright.ai/jobs/info/68bfcb035c5d5f14f46d9c20?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Sep 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf6744702aa35207aa60a9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Real Estate Development Summer Intern](https://jobright.ai/jobs/info/68bf58398e65e77df55b9751?utm_campaign=1063&utm_source=git)** | Menomonee Falls, WI | On Site | Sep 08 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bf4f82702aa35207aa562a?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Sep 08 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Field- Worcester, MA/Seattle, WA)](https://jobright.ai/jobs/info/68bf48c75c5d5f14f46d5b46?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 08 |
 | ↳ | **[Intern - Risk Solutions (Worcester, MA / Howell, MI)](https://jobright.ai/jobs/info/68bf48495c5d5f14f46d5ab9?utm_campaign=1063&utm_source=git)** | Howell, MI | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf45f0702aa35207aa4f45?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Sep 08 |
-| **[Roadrunner Venture Studios](https://roadrunnerventurestudios.com)** | **[Computational Fluid Dynamics (CFD) Consultant – Subsurface & Geothermal](https://jobright.ai/jobs/info/68bf3dc5702aa35207aa4922?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68bf24148e65e77df55b744b?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 08 |
 | **[NYC Public Schools](https://schools.nyc.gov)** | **[Data Analytics Intern/Consultant (Temporary Position) - 25668](https://jobright.ai/jobs/info/68bf17ca702aa35207aa30b5?utm_campaign=1063&utm_source=git)** | Manhattan, NY | On Site | Sep 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf163b8e65e77df55b6dba?utm_campaign=1063&utm_source=git)** | US - PA, Philadelphia | On Site | Sep 08 |
@@ -77,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf14d9702aa35207aa2dd7?utm_campaign=1063&utm_source=git)** | US - IL, Chicago | On Site | Sep 08 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf14c35c5d5f14f46d3709?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Sep 08 |
 | ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf14885c5d5f14f46d36f5?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Sep 08 |
+| **[Roadrunner Venture Studios](https://roadrunnerventurestudios.com)** | **[Computational Fluid Dynamics (CFD) Consultant – Subsurface & Geothermal](https://jobright.ai/jobs/info/68bf0f758e65e77df55b6981?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 08 |
 | **[PROJXON](www.projxon.com)** | **[Partnership Consultant Intern (MBA)](https://jobright.ai/jobs/info/68bf09e45c5d5f14f46d3204?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 08 |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Economic Litigation Consulting](https://jobright.ai/jobs/info/68befd155c5d5f14f46d2b5d?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 08 |
 | ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68befc44702aa35207aa21d5?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 08 |
@@ -85,15 +85,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Consultant (Intern) - Investigations (BI&I)](https://jobright.ai/jobs/info/68befb205c5d5f14f46d2a18?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 08 |
 | ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68befb115c5d5f14f46d2a13?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 08 |
 | ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68bef7c38e65e77df55b5c5a?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 08 |
-| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68bef53f702aa35207aa1e0d?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Sep 08 |
 | **[Google](https://www.google.com)** | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeefa702aa35207aa1b81?utm_campaign=1063&utm_source=git)** | Palo Alto, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeef2702aa35207aa1b79?utm_campaign=1063&utm_source=git)** | Boulder, CO, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeec2702aa35207aa1b3c?utm_campaign=1063&utm_source=git)** | Chicago, IL, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeec1702aa35207aa1b3a?utm_campaign=1063&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeb78e65e77df55b59d6?utm_campaign=1063&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeac8e65e77df55b59cf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b16?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee90702aa35207aa1b0b?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee81702aa35207aa1af9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee808e65e77df55b59c2?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 06 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/68bbc6026105227d118a9a1a?utm_campaign=1063&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
 | **[Allstate](http://www.allstate.com)** | **[Data Analytics Consultant Intern](https://jobright.ai/jobs/info/68be6962c4c5904ff600642d?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 05 |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
