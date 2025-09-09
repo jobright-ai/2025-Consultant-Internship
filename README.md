@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68c05c7b5c5d5f14f46dcf40?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Sep 09 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c083768e65e77df55c211c?utm_campaign=1063&utm_source=git)** | Denver Downtown | On Site | Sep 09 |
+| ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082e65c5d5f14f46dea0c?utm_campaign=1063&utm_source=git)** | Minneapolis | On Site | Sep 09 |
+| ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082505c5d5f14f46de9ba?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 09 |
+| ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
+| ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2026](https://jobright.ai/jobs/info/68c06e9a702aa35207aad0b8?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 09 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68c055975c5d5f14f46dcc7b?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 09 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68c05551702aa35207aac2c8?utm_campaign=1063&utm_source=git)** | Jefferson County, KY | Remote | Sep 09 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68c060235c5d5f14f46dd281?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a3d53b37d3cc6b0d57a017?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Summer Internship 2026 - London](https://jobright.ai/jobs/info/68bfd99d702aa35207aa994e?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 09 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68bfcae38e65e77df55bd1b7?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 08 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Charlotte](https://jobright.ai/jobs/info/68bf8ebc5c5d5f14f46d7f9b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 08 |
@@ -96,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeec1702aa35207aa1b3a?utm_campaign=1063&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeb78e65e77df55b59d6?utm_campaign=1063&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeac8e65e77df55b59cf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b16?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee90702aa35207aa1b0b?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee81702aa35207aa1af9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee808e65e77df55b59c2?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
@@ -138,12 +143,11 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/684c146e6f40850e62e7843e?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be8a41e57feb02eb0af30a?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 08 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c93e57feb02eb0ae649?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 07 |
-| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c51e57feb02eb0ae640?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
-| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c0f3d31ec76b7e8a594?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
+| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6c563d31ec76b7e8a59c?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Sep 07 |
+| ↳ | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68be6be4c4c5904ff6006489?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States | Hybrid | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be4cdb3d31ec76b7e89600?utm_campaign=1063&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be42e9c4c5904ff6004d3c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
-| **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/68be279fe57feb02eb0acba4?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Sep 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/68bdf806e57feb02eb0ac88d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 07 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957899?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68be6ab13d31ec76b7e8a409?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca4223bf9eb44f83245db?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 06 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca41fae79610dacddbfc7?utm_campaign=1063&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 06 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca3e13bf9eb44f83245c7?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Sep 06 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca3b63bf9eb44f83245b7?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 06 |
-| ↳ | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bc55ec3bf9eb44f8323d72?utm_campaign=1063&utm_source=git)** | Denver Downtown | Hybrid | Sep 06 |
-| **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/689f19a0faa4e875e8284589?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
