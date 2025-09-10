@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kendall Lighting Center](http://wabashelectric.com)** | **[Lighting Consultant Intern - Summer 2026 - Kendall Lighting Center](https://jobright.ai/jobs/info/68c1d20e4d652f044775a91a?utm_campaign=1063&utm_source=git)** | Fort Wayne, IN | Hybrid | Sep 10 |
+| **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68c1cf664d652f044775a616?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
+| **[ReliefWeb](http://reliefweb.int/)** | **[Urban Designer - International Consultant - North Lebanon Area](https://jobright.ai/jobs/info/68c1c89e4d652f0447759eea?utm_campaign=1063&utm_source=git)** | Lebanon, NC | On Site | Sep 10 |
+| **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bfc43fd8b059a20f21b7?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 10 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bfc04d652f0447759c01?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 10 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bf8d233c7d3e64d03ec0?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 10 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bf553fd8b059a20f217c?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bf41233c7d3e64d03e99?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bedc3fd8b059a20f2130?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 10 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bd584d652f0447759a35?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bc51233c7d3e64d03ca1?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 10 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant- Financial Services - Federal - Campus 2026](https://jobright.ai/jobs/info/68c1b7653fd8b059a20f1c8b?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b6873fd8b059a20f1bf5?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b65d3fd8b059a20f1bd4?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
@@ -86,15 +97,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2026](https://jobright.ai/jobs/info/68c06e9a702aa35207aad0b8?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 09 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
+| ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a3d53b37d3cc6b0d57a017?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36f74403ad4363b1c0f3a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36e4e1ab5f8579e8a57ad?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
-| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - National Security & CFIUS](https://jobright.ai/jobs/info/68c153963fd8b059a20ef789?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 09 |
-| ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68c14c483fd8b059a20ef650?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 09 |
-| ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68c150f7233c7d3e64d0143e?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 09 |
+| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68c150f7233c7d3e64d0143e?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 09 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Summer Internship 2026 - London](https://jobright.ai/jobs/info/68bfd99d702aa35207aa994e?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 09 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68bfcae38e65e77df55bd1b7?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf83bb8e65e77df55baf9f?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 08 |
@@ -119,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeec1702aa35207aa1b3a?utm_campaign=1063&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeb78e65e77df55b59d6?utm_campaign=1063&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeac8e65e77df55b59cf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b16?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee90702aa35207aa1b0b?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee81702aa35207aa1af9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee808e65e77df55b59c2?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68beeb21702aa35207aa19bc?utm_campaign=1063&utm_source=git)** | Atlanta, 75 Fifth, Corp | On Site | Sep 08 |
 | ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68beeaf4702aa35207aa19a8?utm_campaign=1063&utm_source=git)** | Morristown, 1 Speedwell Ave, Corp | On Site | Sep 08 |
 | ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68beeae38e65e77df55b5675?utm_campaign=1063&utm_source=git)** | Philadelphia, 2001 Market St, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68beeac28e65e77df55b5648?utm_campaign=1063&utm_source=git)** | Houston, 1301 Fannin, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68beea875c5d5f14f46d22cd?utm_campaign=1063&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68beea7e5c5d5f14f46d22c3?utm_campaign=1063&utm_source=git)** | Minneapolis, 333 S 7th, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68beea775c5d5f14f46d22c0?utm_campaign=1063&utm_source=git)** | Dallas, 5205 N OConnor Las Colinas, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68beea135c5d5f14f46d228e?utm_campaign=1063&utm_source=git)** | Arlington, 1201 Wilson, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68bee96c8e65e77df55b5513?utm_campaign=1063&utm_source=git)** | Seattle, 1191 2nd Avenue, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68bee9218e65e77df55b54f2?utm_campaign=1063&utm_source=git)** | Boston, 888 Boylston, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68bee9005c5d5f14f46d2224?utm_campaign=1063&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68bee82d702aa35207aa17b1?utm_campaign=1063&utm_source=git)** | Los Angeles, 1003 E. 4th Place, Corp | On Site | Sep 08 |
-| ↳ | **[Consulting Summer Analyst - NAELFY26](https://jobright.ai/jobs/info/68bee82b8e65e77df55b5496?utm_campaign=1063&utm_source=git)** | IL - Chicago | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
