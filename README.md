@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be8a41e57feb02eb0af30a?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 11 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2026](https://jobright.ai/jobs/info/68c2669163b706703e114ca2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c257a763b706703e114224?utm_campaign=1063&utm_source=git)** | Omaha Riverfront | On Site | Sep 10 |
 | ↳ | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c2574363b706703e114191?utm_campaign=1063&utm_source=git)** | District of Columbia | On Site | Sep 10 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c161473fd8b059a20efa15?utm_campaign=1063&utm_source=git)** | Nashville, TN | Hybrid | Sep 10 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern-Cleveland](https://jobright.ai/jobs/info/68c0dcb68e65e77df55c51fb?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Sep 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68c0dcb4702aa35207ab12b3?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
+| **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Lighting Consultant Intern - Summer 2026 - Kendall Lighting Center](https://jobright.ai/jobs/info/68c29b71b535a221b153d5da?utm_campaign=1063&utm_source=git)** | Fort Wayne, IN | On Site | Sep 09 |
 | **[State of Washington](http://access.wa.gov/)** | **[Data Consultant 3 (Internal Opportunity Only)](https://jobright.ai/jobs/info/68c1f87a63b706703e110ab3?utm_campaign=1063&utm_source=git)** | Walla Walla, WA | On Site | Sep 09 |
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[Internal Communications Consultant](https://jobright.ai/jobs/info/68c1e63a3fd8b059a20f3d4b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 09 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c09ff98e65e77df55c34a6?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeec1702aa35207aa1b3a?utm_campaign=1063&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeb78e65e77df55b59d6?utm_campaign=1063&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeac8e65e77df55b59cf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b16?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b16?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee90702aa35207aa1b0b?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee81702aa35207aa1af9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee808e65e77df55b59c2?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beedfe5c5d5f14f46d23ff?utm_campaign=1063&utm_source=git)** | San Diego, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beedf48e65e77df55b5987?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beedee8e65e77df55b597d?utm_campaign=1063&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beede75c5d5f14f46d23e1?utm_campaign=1063&utm_source=git)** | Cambridge, MA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beedde5c5d5f14f46d23d4?utm_campaign=1063&utm_source=git)** | Kirkland, WA, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
