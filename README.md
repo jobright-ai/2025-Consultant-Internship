@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Actuarial Benefit Consulting Services](https://jobright.ai/jobs/info/68c2d2145adaee6c9bda4624?utm_campaign=1063&utm_source=git)** | Hartford, CT | Hybrid | Sep 11 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68c2ee815001f8077bf5f7b2?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 11 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c2c9d15adaee6c9bda411f?utm_campaign=1063&utm_source=git)** | Charleston, SC | Hybrid | Sep 11 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[MBA Summer Consultant, Consumer & Retail Group](https://jobright.ai/jobs/info/68a65b3233dd7158bbc9f8b2?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 11 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be8a41e57feb02eb0af30a?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 11 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2026](https://jobright.ai/jobs/info/68c2669163b706703e114ca2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c257a763b706703e114224?utm_campaign=1063&utm_source=git)** | Omaha Riverfront | On Site | Sep 10 |
@@ -83,8 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bc51233c7d3e64d03ca1?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b6873fd8b059a20f1bf5?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b65d3fd8b059a20f1bd4?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68c1b60f3fd8b059a20f1baa?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 10 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b5a33fd8b059a20f1b67?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 10 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b5a33fd8b059a20f1b67?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 10 |
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b36b4d652f04477593dc?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b2ef233c7d3e64d03718?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b2e63fd8b059a20f1966?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 10 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeec1702aa35207aa1b3a?utm_campaign=1063&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeb78e65e77df55b59d6?utm_campaign=1063&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeac8e65e77df55b59cf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b16?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b16?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee90702aa35207aa1b0b?utm_campaign=1063&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee81702aa35207aa1af9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee808e65e77df55b59c2?utm_campaign=1063&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beedfe5c5d5f14f46d23ff?utm_campaign=1063&utm_source=git)** | San Diego, CA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beedf48e65e77df55b5987?utm_campaign=1063&utm_source=git)** | Bellevue, WA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beedee8e65e77df55b597d?utm_campaign=1063&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beede75c5d5f14f46d23e1?utm_campaign=1063&utm_source=git)** | Cambridge, MA, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
