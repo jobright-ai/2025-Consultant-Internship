@@ -133,6 +133,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36e4e1ab5f8579e8a57ad?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Summer Internship 2026 - London](https://jobright.ai/jobs/info/68bfd99d702aa35207aa994e?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 09 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68bfcae38e65e77df55bd1b7?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 08 |
+| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Investigations (BI&I)](https://jobright.ai/jobs/info/68c39200b8c22d38284731d3?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 08 |
+| ↳ | **[Associate Consultant (Intern) - Data Science & Analytics](https://jobright.ai/jobs/info/68c3964b80e77b1fa6fcac15?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 08 |
+| ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68c3833e80e77b1fa6fc9c58?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf83bb8e65e77df55baf9f?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 08 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Entry Level Civil/Environmental Engineer (Environmental Consulting: Remediation, and Solid Waste Design) – (June 2026 Start) – Madison, WI](https://jobright.ai/jobs/info/68b0df1113563e782a9f9f0c?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Sep 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf6744702aa35207aa60a9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeec2702aa35207aa1b3c?utm_campaign=1063&utm_source=git)** | Chicago, IL, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeec1702aa35207aa1b3a?utm_campaign=1063&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
 | ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeb78e65e77df55b59d6?utm_campaign=1063&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beeeac8e65e77df55b59cf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b16?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68beee96702aa35207aa1b14?utm_campaign=1063&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
