@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c49404e471ef3ce16d7940?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Sep 12 |
+| **[Connection is Magic with Samson Shulman](http://connectionismagic.com)** | **[Fundraising Consultant / Arts & Mental Health Nonprofit](https://jobright.ai/jobs/info/68c48ec1e396b25cb5c69385?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 12 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/68c4831914bb275ce0194276?utm_campaign=1063&utm_source=git)** | Baton Rouge | On Site | Sep 12 |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Associate Consultant – Audit and Advisory](https://jobright.ai/jobs/info/68c47bcbe471ef3ce16d6a62?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 12 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45e6ce396b25cb5c67552?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45bd514bb275ce0192b38?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 12 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45b2214bb275ce0192a96?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tetra Tech](http://www.tetratech.com)** | **[Entry Level Civil/Environmental Engineer (Environmental Consulting: Remediation, and Solid Waste Design) – (June 2026 Start) – Madison, WI](https://jobright.ai/jobs/info/68b0df1113563e782a9f9f0c?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Sep 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68bf6744702aa35207aa60a9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 08 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bf4f82702aa35207aa562a?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Sep 08 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Field- Worcester, MA/Seattle, WA)](https://jobright.ai/jobs/info/68bf48c75c5d5f14f46d5b46?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 08 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf45f0702aa35207aa4f45?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Sep 08 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68bf24148e65e77df55b744b?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 08 |
-| **[NYC Public Schools](https://schools.nyc.gov)** | **[Data Analytics Intern/Consultant (Temporary Position) - 25668](https://jobright.ai/jobs/info/68bf17ca702aa35207aa30b5?utm_campaign=1063&utm_source=git)** | Manhattan, NY | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
