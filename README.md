@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bf8d233c7d3e64d03ec0?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bf553fd8b059a20f217c?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bf41233c7d3e64d03e99?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bedc3fd8b059a20f2130?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bd584d652f0447759a35?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b6873fd8b059a20f1bf5?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b65d3fd8b059a20f1bd4?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a3d53b37d3cc6b0d57a017?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
