@@ -83,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aa95ac6acf96396f72b182?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 12 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (June 2026 Start, 10-week Program)](https://jobright.ai/jobs/info/68a79ace758f2e4ac3fed3d1?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sales Enablement (Solution Consulting)](https://jobright.ai/jobs/info/68c3dd5ae471ef3ce16d2686?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 12 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6782b33dd7158bbca01b9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sales Enablement (Solution Consulting)](https://jobright.ai/jobs/info/68c3b18180e77b1fa6fcc1eb?utm_campaign=1063&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6845f758f2e4ac3fe53f9?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Sep 11 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 11 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c340855adaee6c9bda8c37?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c340475adaee6c9bda8b93?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | ↳ | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68c3403e5001f8077bf62a07?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68c32abd63829b0a8a50069b?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Sep 11 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Actuarial Summer Intern - West Market - College Program 2026](https://jobright.ai/jobs/info/68c326015adaee6c9bda7b73?utm_campaign=1063&utm_source=git)** | Los Angeles - West 5th | Hybrid | Sep 11 |
 | ↳ | **[Health Consulting Actuarial Summer Intern - West Market - College Program 2026](https://jobright.ai/jobs/info/68c325f55001f8077bf61a27?utm_campaign=1063&utm_source=git)** | Irvine - Von Karman | Hybrid | Sep 11 |
 | ↳ | **[Health Consulting Financial Summer Intern - West Market - College Program 2026](https://jobright.ai/jobs/info/68c325e163829b0a8a5004ac?utm_campaign=1063&utm_source=git)** | Irvine - Von Karman | Hybrid | Sep 11 |
@@ -128,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bf41233c7d3e64d03e99?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bedc3fd8b059a20f2130?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1bd584d652f0447759a35?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
-| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1bc51233c7d3e64d03ca1?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b6873fd8b059a20f1bf5?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b65d3fd8b059a20f1bd4?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b5a33fd8b059a20f1b67?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a3d53b37d3cc6b0d57a017?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36f74403ad4363b1c0f3a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
+| ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
