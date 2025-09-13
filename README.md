@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68c5d347db52c07d28843e1c?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68c5a4337d0db41142734bcd?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 13 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance and Consulting Associate (US Citizen)](https://jobright.ai/jobs/info/68c5928fc96a22563ece95e3?utm_campaign=1063&utm_source=git)** | Miami, FL | Remote | Sep 13 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68c57a4cdb52c07d28842fc6?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ee04c96a22563ece4523?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 12 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c5cbfec96a22563ece9eb7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Charlotte](https://jobright.ai/jobs/info/68c4d7f37279451d6a03834e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 12 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4d7377279451d6a0381fb?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Sep 12 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4a153e396b25cb5c69b9e?utm_campaign=1063&utm_source=git)** | Greensboro - North Elm | Hybrid | Sep 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36f74403ad4363b1c0f3a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36e4e1ab5f8579e8a57ad?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Worcester, MA temporary, IL/WI future)](https://jobright.ai/jobs/info/68bf48495c5d5f14f46d5ab9?utm_campaign=1063&utm_source=git)** | Worcester, MA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
