@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68c57a4cdb52c07d28842fc6?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ef99c96a22563ece4a0c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ee04c96a22563ece4523?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 12 |
@@ -135,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b2ef233c7d3e64d03718?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b2e63fd8b059a20f1966?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 10 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1891b4d652f0447757ff3?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | Sep 10 |
-| ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c188b9233c7d3e64d02329?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1880f233c7d3e64d022df?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c17cc34d652f0447757b55?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c175a73fd8b059a20eff23?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Sep 10 |
