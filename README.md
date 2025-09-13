@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ef99c96a22563ece4a0c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ee04c96a22563ece4523?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 12 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Charlotte](https://jobright.ai/jobs/info/68c4d7f37279451d6a03834e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 12 |
@@ -142,6 +143,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c16a9f3fd8b059a20efc51?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1640f3fd8b059a20efb53?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a800b4758f2e4ac3fefd22?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 10 |
+| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68c540dfdb52c07d28841fbb?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern-Cleveland](https://jobright.ai/jobs/info/68c0dcb68e65e77df55c51fb?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Sep 09 |
 | **[State of Washington](http://access.wa.gov/)** | **[Data Consultant 3 (Internal Opportunity Only)](https://jobright.ai/jobs/info/68c1f87a63b706703e110ab3?utm_campaign=1063&utm_source=git)** | Walla Walla, WA | On Site | Sep 09 |
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[Internal Communications Consultant](https://jobright.ai/jobs/info/68c1e63a3fd8b059a20f3d4b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 09 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
-| ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68a3d53b37d3cc6b0d57a017?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
-| ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36f74403ad4363b1c0f3a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
-| ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
