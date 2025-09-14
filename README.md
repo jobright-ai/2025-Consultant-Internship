@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Nest Solutions](https://www.linkedin.com/company/100044646)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c6e8b57d0db4114273b531?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 14 |
 | **[Venture Lark](https://www.linkedin.com/company/108628076)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68c6c634db52c07d28849b5c?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 14 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c6a20bdb52c07d288497a9?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 14 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68c5a4337d0db41142734bcd?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 13 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (June 2026 Start, 10-week Program)](https://jobright.ai/jobs/info/68a79ace758f2e4ac3fed3d1?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6782b33dd7158bbca01b9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sales Enablement (Solution Consulting)](https://jobright.ai/jobs/info/68c3b18180e77b1fa6fcc1eb?utm_campaign=1063&utm_source=git)** | USA - Remote | Remote | Sep 11 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68c647507d0db4114273795a?utm_campaign=1063&utm_source=git)** | Creve Coeur, MO | On Site | Sep 11 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax Consulting Winter 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a6845f758f2e4ac3fe53f9?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Sep 11 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c377966031587f8458b178?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 11 |
