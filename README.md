@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Venture Lark](https://www.linkedin.com/company/108628076)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68c6c634db52c07d28849b5c?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 14 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c6a20bdb52c07d288497a9?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 14 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68c5a4337d0db41142734bcd?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 13 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082e65c5d5f14f46dea0c?utm_campaign=1063&utm_source=git)** | Minneapolis | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082505c5d5f14f46de9ba?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
-| ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
