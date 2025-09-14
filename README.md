@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c6a20bdb52c07d288497a9?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 14 |
+| **[Prime Nest Solutions](https://www.linkedin.com/company/100044646)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68c7328e7d0db4114273bc4d?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 14 |
+| ↳ | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68c729ffdb52c07d2884a4c3?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 14 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68c5a4337d0db41142734bcd?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68c0f626702aa35207ab21e8?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 13 |
-| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ee04c96a22563ece4523?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 12 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c5cbfec96a22563ece9eb7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sales Enablement (Solution Consulting)](https://jobright.ai/jobs/info/68c63cd57d0db41142736f07?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 12 |
@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c4d77a31e5763f188e409f?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 12 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45e6ce396b25cb5c67552?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45954e471ef3ce16d557a?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 12 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45804e396b25cb5c671cc?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 12 |
 | **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68c4391114bb275ce0191b17?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Sep 12 |
 | ↳ | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68c4367be396b25cb5c66236?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Sep 12 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aa95ac6acf96396f72b182?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Worcester, MA temporary, IL/WI future)](https://jobright.ai/jobs/info/68bf48495c5d5f14f46d5ab9?utm_campaign=1063&utm_source=git)** | Worcester, MA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
