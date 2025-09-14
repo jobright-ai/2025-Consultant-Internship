@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68c5d347db52c07d28843e1c?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68c5a4337d0db41142734bcd?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 13 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance and Consulting Associate (US Citizen)](https://jobright.ai/jobs/info/68c5928fc96a22563ece95e3?utm_campaign=1063&utm_source=git)** | Miami, FL | Remote | Sep 13 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36f74403ad4363b1c0f3a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36e4e1ab5f8579e8a57ad?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Worcester, MA temporary, IL/WI future)](https://jobright.ai/jobs/info/68bf48495c5d5f14f46d5ab9?utm_campaign=1063&utm_source=git)** | Worcester, MA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
