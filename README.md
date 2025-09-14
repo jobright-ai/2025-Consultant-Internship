@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Venture Lark](https://www.linkedin.com/company/108628076)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68c6c634db52c07d28849b5c?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 14 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c6a20bdb52c07d288497a9?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 14 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68c5a4337d0db41142734bcd?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 13 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68c0f626702aa35207ab21e8?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 13 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/688b47d33a30793eb9639725?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ee04c96a22563ece4523?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 12 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c5cbfec96a22563ece9eb7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/68c4831914bb275ce0194276?utm_campaign=1063&utm_source=git)** | Baton Rouge | On Site | Sep 12 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c4d77a31e5763f188e409f?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 12 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45e6ce396b25cb5c67552?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45bd514bb275ce0192b38?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 12 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45954e471ef3ce16d557a?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 12 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c45804e396b25cb5c671cc?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 12 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c4541414bb275ce01925bf?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 12 |
@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c16a9f3fd8b059a20efc51?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1640f3fd8b059a20efb53?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a800b4758f2e4ac3fefd22?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 10 |
-| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68c540dfdb52c07d28841fbb?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68c6538b7d0db41142738841?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 09 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern-Cleveland](https://jobright.ai/jobs/info/68c0dcb68e65e77df55c51fb?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Sep 09 |
 | **[State of Washington](http://access.wa.gov/)** | **[Data Consultant 3 (Internal Opportunity Only)](https://jobright.ai/jobs/info/68c1f87a63b706703e110ab3?utm_campaign=1063&utm_source=git)** | Walla Walla, WA | On Site | Sep 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082e65c5d5f14f46dea0c?utm_campaign=1063&utm_source=git)** | Minneapolis | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082505c5d5f14f46de9ba?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
+| ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
