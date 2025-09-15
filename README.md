@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ramboll](http://www.ramboll.com/)** | **[Intern, Environmental Consulting](https://jobright.ai/jobs/info/68c84a07f9c6ff7aedf0c8cb?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Sep 15 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68c8396e983e6768bc54ae37?utm_campaign=1063&utm_source=git)** | Miami, FL | Remote | Sep 15 |
 | **[RESEARCHPRENEURS (Innovation Hub)](https://researchpreneurs.com)** | **[Register for R&D/Innovation Consulting Career / Innovation & Go-to-Market Strategist](https://jobright.ai/jobs/info/68c8317c95f5211cd2ce2509?utm_campaign=1063&utm_source=git)** | Ithaca, NY | Remote | Sep 15 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c82af4983e6768bc54a703?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | Remote | Sep 15 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c82abf983e6768bc54a6ad?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 15 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c23ed14d652f044775e272?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Sep 10 |
 | ↳ | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c233f333864f172f9bdbdb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c62dcfc96a22563ecead1d?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Sep 10 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c2333563b706703e11245d?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 10 |
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern – Actuarial Benefit Consulting Services](https://jobright.ai/jobs/info/68c21e334d652f044775d373?utm_campaign=1063&utm_source=git)** | CT Hartford | Hybrid | Sep 10 |
 | **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2026 Design Center Consultant Internship](https://jobright.ai/jobs/info/68c2096763b706703e111116?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 10 |
 | **[Kendall Lighting Center](http://wabashelectric.com)** | **[Lighting Consultant Intern - Summer 2026 - Kendall Lighting Center](https://jobright.ai/jobs/info/68c1d20e4d652f044775a91a?utm_campaign=1063&utm_source=git)** | Fort Wayne, IN | Hybrid | Sep 10 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
-| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68c81b8895f5211cd2ce17cf?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 09 |
-| ↳ | **[Associate Consultant (Intern) - National Security & CFIUS](https://jobright.ai/jobs/info/68c81220983e6768bc5493ff?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 09 |
+| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - National Security & CFIUS](https://jobright.ai/jobs/info/68c81220983e6768bc5493ff?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
