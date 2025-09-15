@@ -94,8 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health Consulting Actuarial Summer Intern - West Market - College Program 2026](https://jobright.ai/jobs/info/68c3411c63829b0a8a501738?utm_campaign=1063&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Sep 11 |
 | ↳ | **[Health Consulting Actuarial Summer Intern - West Market - College Program 2026](https://jobright.ai/jobs/info/68c341035001f8077bf62c52?utm_campaign=1063&utm_source=git)** | Los Angeles - West 5th | Hybrid | Sep 11 |
 | ↳ | **[Health Consulting Actuarial Summer Intern - West Market - College Program 2026](https://jobright.ai/jobs/info/68c340fa63829b0a8a5016c0?utm_campaign=1063&utm_source=git)** | Irvine - Von Karman | Hybrid | Sep 11 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c340855adaee6c9bda8c37?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
-| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c340475adaee6c9bda8b93?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c340475adaee6c9bda8b93?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | ↳ | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68c3403e5001f8077bf62a07?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Actuarial Summer Intern - West Market - College Program 2026](https://jobright.ai/jobs/info/68c326015adaee6c9bda7b73?utm_campaign=1063&utm_source=git)** | Los Angeles - West 5th | Hybrid | Sep 11 |
 | ↳ | **[Health Consulting Actuarial Summer Intern - West Market - College Program 2026](https://jobright.ai/jobs/info/68c325f55001f8077bf61a27?utm_campaign=1063&utm_source=git)** | Irvine - Von Karman | Hybrid | Sep 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36f74403ad4363b1c0f3a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
+| ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36e4e1ab5f8579e8a57ad?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
