@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
+| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Economic Litigation Consulting](https://jobright.ai/jobs/info/68c8139bf9c6ff7aedf0a7cc?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 09 |
+| ↳ | **[Associate Consultant (Intern) - National Security & CFIUS](https://jobright.ai/jobs/info/68c81220983e6768bc5493ff?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[Sensiba LLP](http://www.sensiba.com)** | **[Consulting (Outsourced Accounting) Intern - Summer 2026](https://jobright.ai/jobs/info/68c7f9e4f9c6ff7aedf09dde?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Sep 09 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
-| ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
-| ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36f74403ad4363b1c0f3a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
