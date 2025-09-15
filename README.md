@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Prime Nest Solutions](https://www.linkedin.com/company/100044646)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68c729ffdb52c07d2884a4c3?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 14 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68c7ed38983e6768bc548341?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 14 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c7c37a369c3763c743b759?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Sep 12 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ee04c96a22563ece4523?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 12 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
+| **[Sensiba LLP](http://www.sensiba.com)** | **[Consulting (Outsourced Accounting) Intern - Summer 2026](https://jobright.ai/jobs/info/68c7f9e4f9c6ff7aedf09dde?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Sep 09 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36f74403ad4363b1c0f3a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
-| ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 09 |
-| ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a36e4e1ab5f8579e8a57ad?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
