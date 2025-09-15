@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Prime Nest Solutions](https://www.linkedin.com/company/100044646)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68c729ffdb52c07d2884a4c3?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Sep 14 |
+| **[RESEARCHPRENEURS (Innovation Hub)](https://researchpreneurs.com)** | **[Register for R&D/Innovation Consulting Career / Innovation & Go-to-Market Strategist](https://jobright.ai/jobs/info/68c8317c95f5211cd2ce2509?utm_campaign=1063&utm_source=git)** | Ithaca, NY | Remote | Sep 15 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c82af4983e6768bc54a703?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | Remote | Sep 15 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68c82abf983e6768bc54a6ad?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 15 |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68c82a66f9c6ff7aedf0b7af?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 15 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68c7ed38983e6768bc548341?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 14 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c7c37a369c3763c743b759?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Sep 12 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
-| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Economic Litigation Consulting](https://jobright.ai/jobs/info/68c8139bf9c6ff7aedf0a7cc?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 09 |
+| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68c81b8895f5211cd2ce17cf?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 09 |
 | ↳ | **[Associate Consultant (Intern) - National Security & CFIUS](https://jobright.ai/jobs/info/68c81220983e6768bc5493ff?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 09 |
-| **[Sensiba LLP](http://www.sensiba.com)** | **[Consulting (Outsourced Accounting) Intern - Summer 2026](https://jobright.ai/jobs/info/68c7f9e4f9c6ff7aedf09dde?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Sep 09 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
