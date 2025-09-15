@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b6873fd8b059a20f1bf5?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b65d3fd8b059a20f1bd4?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c1b5a33fd8b059a20f1b67?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 10 |
-| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c1b2e63fd8b059a20f1966?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 10 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1880f233c7d3e64d022df?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c17cc34d652f0447757b55?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c175a73fd8b059a20eff23?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Sep 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Worcester, MA temporary, IL/WI future)](https://jobright.ai/jobs/info/68bf48495c5d5f14f46d5ab9?utm_campaign=1063&utm_source=git)** | Worcester, MA | On Site | Sep 09 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
