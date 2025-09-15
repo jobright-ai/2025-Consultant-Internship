@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[URUS Group](https://www.urus.org)** | **[Dairy Consulting Experience - Marketing Internship](https://jobright.ai/jobs/info/68c87e97f9c6ff7aedf0f5cb?utm_campaign=1063&utm_source=git)** | Madison, WI, United States | On Site | Sep 15 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Environmental Consulting](https://jobright.ai/jobs/info/68c84a07f9c6ff7aedf0c8cb?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Sep 15 |
-| **[RESEARCHPRENEURS (Innovation Hub)](https://researchpreneurs.com)** | **[Register for R&D/Innovation Consulting Career / Innovation & Go-to-Market Strategist](https://jobright.ai/jobs/info/68c8317c95f5211cd2ce2509?utm_campaign=1063&utm_source=git)** | Ithaca, NY | Remote | Sep 15 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68c82a66f9c6ff7aedf0b7af?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 15 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68c7ed38983e6768bc548341?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 14 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Healthcare Consulting Summer 2026 Intern](https://jobright.ai/jobs/info/68a8b958d627244576e34cd2?utm_campaign=1063&utm_source=git)** | United States | On Site | Sep 13 |
@@ -79,7 +79,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c49404e471ef3ce16d7940?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Sep 12 |
 | **[Connection is Magic with Samson Shulman](http://connectionismagic.com)** | **[Fundraising Consultant / Arts & Mental Health Nonprofit](https://jobright.ai/jobs/info/68c48ec1e396b25cb5c69385?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 12 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/68c4831914bb275ce0194276?utm_campaign=1063&utm_source=git)** | Baton Rouge | On Site | Sep 12 |
-| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c4d77a31e5763f188e409f?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 12 |
+| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c87a3b95f5211cd2ce58b9?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 12 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c4d77a31e5763f188e409f?utm_campaign=1063&utm_source=git)** | Fresno, CA | Hybrid | Sep 12 |
 | **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68c4391114bb275ce0191b17?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Sep 12 |
 | ↳ | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68c4367be396b25cb5c66236?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Sep 12 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68aa95ac6acf96396f72b182?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 12 |
@@ -126,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern – Actuarial Benefit Consulting Services](https://jobright.ai/jobs/info/68c21e334d652f044775d373?utm_campaign=1063&utm_source=git)** | CT Hartford | Hybrid | Sep 10 |
 | **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2026 Design Center Consultant Internship](https://jobright.ai/jobs/info/68c2096763b706703e111116?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 10 |
 | **[Kendall Lighting Center](http://wabashelectric.com)** | **[Lighting Consultant Intern - Summer 2026 - Kendall Lighting Center](https://jobright.ai/jobs/info/68c1d20e4d652f044775a91a?utm_campaign=1063&utm_source=git)** | Fort Wayne, IN | Hybrid | Sep 10 |
+| **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c878c1983e6768bc54db31?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68c1cf664d652f044775a616?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[ReliefWeb](http://reliefweb.int/)** | **[Urban Designer - International Consultant - North Lebanon Area](https://jobright.ai/jobs/info/68c1c89e4d652f0447759eea?utm_campaign=1063&utm_source=git)** | Lebanon, NC | On Site | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c8691ff9c6ff7aedf0e48e?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Sep 10 |
@@ -140,7 +142,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c175a73fd8b059a20eff23?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c16a9f3fd8b059a20efc51?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1640f3fd8b059a20efb53?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
-| **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Lighting Consultant Intern - Summer 2026 - Kendall Lighting Center](https://jobright.ai/jobs/info/68c86c3d95f5211cd2ce4edc?utm_campaign=1063&utm_source=git)** | Fort Wayne, IN | On Site | Sep 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a800b4758f2e4ac3fefd22?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68c7b4eb5c25e576f7b29af4?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | ↳ | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68c7bdde5c38e536d41a5f0b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c082505c5d5f14f46de9ba?utm_campaign=1063&utm_source=git)** | Des Moines | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
+| **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68c8818b95f5211cd2ce61b4?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
 | **[Sensiba LLP](http://www.sensiba.com)** | **[Consulting (Outsourced Accounting) Intern - Summer 2026](https://jobright.ai/jobs/info/68c7f9e4f9c6ff7aedf09dde?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Sep 09 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions (Worcester, MA temporary, IL/WI future)](https://jobright.ai/jobs/info/68bf48495c5d5f14f46d5ab9?utm_campaign=1063&utm_source=git)** | Worcester, MA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
