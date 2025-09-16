@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9992fa0c52d598ea38dcf?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | Sep 16 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Finance and consulting Intern](https://jobright.ai/jobs/info/68c9b9d0a0c52d598ea3a5ea?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 16 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9a81df9c6ff7aedf1c0a1?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 16 |
+| ↳ | **[Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9992fa0c52d598ea38dcf?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | Sep 16 |
 | **[PROJXON](www.projxon.com)** | **[Business Development Consultant Intern (MBA)](https://jobright.ai/jobs/info/68c9982a95f5211cd2cf1de8?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Sep 16 |
 | **[PwC](http://pwc.com)** | **[Data & Analytics Technology Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3eb7d627244576e4c68d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 16 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68c991bf95f5211cd2cf18fb?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 16 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c66aa4db52c07d288485a6?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c66cb8c96a22563eceeb06?utm_campaign=1063&utm_source=git)** | Fresno, CA | On Site | Sep 10 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c91331a0c52d598ea35020?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 10 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c66c07db52c07d28848868?utm_campaign=1063&utm_source=git)** | Fresno, CA | On Site | Sep 10 |
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/68c7af157d0db4114273f8cd?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c257a763b706703e114224?utm_campaign=1063&utm_source=git)** | Omaha Riverfront | On Site | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c65460db52c07d2884750b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c90586f9c6ff7aedf16681?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c64e2b7d0db41142738329?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 10 |
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c649bfc96a22563ececa6e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
-| ↳ | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c242404d652f044775e8ad?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
