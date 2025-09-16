@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68c9314cf9c6ff7aedf18be5?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 16 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68c9448095f5211cd2cef7f5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68c93a0895f5211cd2cef654?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 16 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68c9314cf9c6ff7aedf18be5?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 16 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2026](https://jobright.ai/jobs/info/68acb5d4daf1431824c9791d?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68c8e0b9f9c6ff7aedf13ebf?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 15 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2026 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/68c8ac58f9c6ff7aedf11782?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68c8c5d9f9c6ff7aedf12534?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Healthcare Consulting Summer 2026 Intern](https://jobright.ai/jobs/info/68a8b958d627244576e34cd2?utm_campaign=1063&utm_source=git)** | United States | On Site | Sep 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a78fb2d627244576e2d6d4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 13 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c7c37a369c3763c743b759?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Sep 12 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ee04c96a22563ece4523?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 12 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c5cbfec96a22563ece9eb7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1880f233c7d3e64d022df?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c17cc34d652f0447757b55?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c175a73fd8b059a20eff23?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Sep 10 |
-| ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c16a9f3fd8b059a20efc51?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Hybrid | Sep 10 |
-| ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1640f3fd8b059a20efb53?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a800b4758f2e4ac3fefd22?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
