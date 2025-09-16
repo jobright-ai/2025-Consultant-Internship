@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68c9314cf9c6ff7aedf18be5?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 16 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2026](https://jobright.ai/jobs/info/68acb5d4daf1431824c9791d?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68c8e0b9f9c6ff7aedf13ebf?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 15 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2026 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/68c8ac58f9c6ff7aedf11782?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
 | **[UltraSoC](https://www.tessentembeddedanalytics.com)** | **[Strategic Student Program: Application Consultant Intern (Spring 2026; GSCS)](https://jobright.ai/jobs/info/68c8a2f4983e6768bc54feae?utm_campaign=1063&utm_source=git)** | Amherst, NY | On Site | Sep 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c16a9f3fd8b059a20efc51?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Hybrid | Sep 10 |
 | ↳ | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c1640f3fd8b059a20efb53?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68a800b4758f2e4ac3fefd22?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 10 |
-| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68c7b4eb5c25e576f7b29af4?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| ↳ | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68c7bdde5c38e536d41a5f0b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
