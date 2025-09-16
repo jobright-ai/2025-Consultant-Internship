@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2026 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/68c8ac58f9c6ff7aedf11782?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
 | **[UltraSoC](https://www.tessentembeddedanalytics.com)** | **[Strategic Student Program: Application Consultant Intern (Spring 2026; GSCS)](https://jobright.ai/jobs/info/68c8a2f4983e6768bc54feae?utm_campaign=1063&utm_source=git)** | Amherst, NY | On Site | Sep 15 |
 | **[URUS Group](https://www.urus.org)** | **[Dairy Consulting Experience - Marketing Internship](https://jobright.ai/jobs/info/68c87e97f9c6ff7aedf0f5cb?utm_campaign=1063&utm_source=git)** | Madison, WI, United States | On Site | Sep 15 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Environmental Consulting](https://jobright.ai/jobs/info/68c84a07f9c6ff7aedf0c8cb?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Sep 15 |
+| **[TRC Advisory](https://www.trcadvisory.com/)** | **[Management/Strategy Consulting Co-ops Spring 2026](https://jobright.ai/jobs/info/68c8a75ff9c6ff7aedf111c1?utm_campaign=1063&utm_source=git)** | Chicago (w/ Travel) | On Site | Sep 14 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2026](https://jobright.ai/jobs/info/68c7ed38983e6768bc548341?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 14 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Healthcare Consulting Summer 2026 Intern](https://jobright.ai/jobs/info/68a8b958d627244576e34cd2?utm_campaign=1063&utm_source=git)** | United States | On Site | Sep 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/686c336435584b65424e2226?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (Spring 2026; GSCS)](https://jobright.ai/jobs/info/68c63c8cc96a22563eceba5d?utm_campaign=1063&utm_source=git)** | Amherst, NY | On Site | Sep 12 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant State and Local Tax (SALT) Summer 2026 / Charlotte](https://jobright.ai/jobs/info/68c4d7f37279451d6a03834e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 12 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4d7377279451d6a0381fb?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Sep 12 |
+| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68c8b8b7f9c6ff7aedf11ee6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4a153e396b25cb5c69b9e?utm_campaign=1063&utm_source=git)** | Greensboro - North Elm | Hybrid | Sep 12 |
 | ↳ | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4a0e814bb275ce019522d?utm_campaign=1063&utm_source=git)** | Richmond - Libbie | Hybrid | Sep 12 |
 | ↳ | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4a0cbe471ef3ce16d7e6f?utm_campaign=1063&utm_source=git)** | Raleigh - Sugar Bush | Hybrid | Sep 12 |
@@ -113,8 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Consultant intern](https://jobright.ai/jobs/info/68be8a41e57feb02eb0af30a?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 11 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68c66aa4db52c07d288485a6?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c66cb8c96a22563eceeb06?utm_campaign=1063&utm_source=git)** | Fresno, CA | On Site | Sep 10 |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2026](https://jobright.ai/jobs/info/68c2669163b706703e114ca2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c66c07db52c07d28848868?utm_campaign=1063&utm_source=git)** | Fresno, CA | On Site | Sep 10 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68c66c07db52c07d28848868?utm_campaign=1063&utm_source=git)** | Fresno, CA | On Site | Sep 10 |
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/68c7af157d0db4114273f8cd?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c257a763b706703e114224?utm_campaign=1063&utm_source=git)** | Omaha Riverfront | On Site | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68c65460db52c07d2884750b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c0821b702aa35207aae1bd?utm_campaign=1063&utm_source=git)** | Irvine | On Site | Sep 09 |
 | ↳ | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c07f73702aa35207aadd7d?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Sep 09 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68c8818b95f5211cd2ce61b4?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 09 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 09 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c55156db52c07d288424c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
