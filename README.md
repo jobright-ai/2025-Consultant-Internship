@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc7d1616d00d2beeb2094b?utm_campaign=1063&utm_source=git)** | DBI-Dallas TX Office | On Site | Sep 18 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc78177342c7623ae655a5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 18 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc77157342c7623ae6543f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 18 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68cc648f7342c7623ae640a7?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Sep 18 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68cc534c128dc347fd922af6?utm_campaign=1063&utm_source=git)** | Highlands Ranch, Colorado, United States | On Site | Sep 18 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68cc52d9128dc347fd922a22?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Sep 18 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68cc51e07342c7623ae628cd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 18 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68cc4a8716d00d2beeb1d1cd?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 18 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68cc49ef7342c7623ae6236a?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 18 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc48ed16d00d2beeb1ceff?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 18 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc40d816d00d2beeb1c84e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 18 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc3e737342c7623ae6170e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 18 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc402816d00d2beeb1c720?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 18 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc3cf016d00d2beeb1c214?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Consulting Co-Op (January - June 2026) - Boston](https://jobright.ai/jobs/info/68cc27ea7342c7623ae60070?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 18 |
 | ↳ | **[Consulting Co-Op (January - June 2026) - Houston](https://jobright.ai/jobs/info/68cc2ac87342c7623ae6051f?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Sep 18 |
@@ -72,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Lippincott - Summer Consultant](https://jobright.ai/jobs/info/68cc287616d00d2beeb1afcc?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 18 |
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Supply Chain Consulting Intern - Boston](https://jobright.ai/jobs/info/68cc23d2128dc347fd91fc06?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 18 |
 | ↳ | **[Consulting Co-Op (January - June 2026) - Boston](https://jobright.ai/jobs/info/68cc055516d00d2beeb1837e?utm_campaign=1063&utm_source=git)** | Boston, US | Hybrid | Sep 18 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc17ae7342c7623ae5ed96?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 18 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68cc3dc5128dc347fd921689?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 18 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/68cbf24d128dc347fd91c7fd?utm_campaign=1063&utm_source=git)** | San Antonio, TX | On Site | Sep 18 |
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Supply Chain Consulting Intern - Boston](https://jobright.ai/jobs/info/68cbf05616d00d2beeb1721e?utm_campaign=1063&utm_source=git)** | Boston, US | Hybrid | Sep 18 |
 | ↳ | **[Consulting Co-Op (January - June 2026) - Houston](https://jobright.ai/jobs/info/68cbf03b128dc347fd91c58c?utm_campaign=1063&utm_source=git)** | Houston, US | Hybrid | Sep 18 |
@@ -149,6 +151,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c49fee14bb275ce01950cd?utm_campaign=1063&utm_source=git)** | Roanoke - Franklin | Hybrid | Sep 12 |
 | ↳ | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c49fe4e471ef3ce16d7d31?utm_campaign=1063&utm_source=git)** | Charlotte - Carnegie Boulevard | Hybrid | Sep 12 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68c49404e471ef3ce16d7940?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Sep 12 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cc7ddf7342c7623ae65a34?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/68c4831914bb275ce0194276?utm_campaign=1063&utm_source=git)** | Baton Rouge | On Site | Sep 12 |
 | **[Mars & Co.](http://www.marsandco.com/)** | **[Summer Associate Consultant - NY Area](https://jobright.ai/jobs/info/68c4391114bb275ce0191b17?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Sep 12 |
 | ↳ | **[Summer Consultant - NY Area](https://jobright.ai/jobs/info/68c4367be396b25cb5c66236?utm_campaign=1063&utm_source=git)** | New York City Area | On Site | Sep 12 |
