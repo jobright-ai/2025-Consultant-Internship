@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d2c13b8c62e63bc7fd96e5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 23 |
+| **[TalentSphere Global](talentsphereglobal.us)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68d2ca1517554c2d9eee9d99?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 23 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d2c9a78c62e63bc7fd9f05?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 23 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68d2c7318c62e63bc7fd9a84?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 23 |
+| **[Symosis Security](https://www.symosis.com)** | **[Sales & Marketing Intern (Cybersecurity Consulting Firm)](https://jobright.ai/jobs/info/68d2c45ef0d9af73038dac8c?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 23 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d2bc9917554c2d9eee95d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d2bc4f17554c2d9eee9597?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 23 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d2b94d17554c2d9eee92f6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68d2a83d8c62e63bc7fd8c4d?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 23 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Digital Business Consulting Analyst Intern](https://jobright.ai/jobs/info/68d2a38417554c2d9eee8b2b?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
 | **[Lord, Abbett & Co. LLC](https://www.lordabbett.com/en.html)** | **[Advisor Consultant Internship - Summer 2026](https://jobright.ai/jobs/info/68b68daff4e41a61efd93975?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 23 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Bath University Placement - 2026](https://jobright.ai/jobs/info/68d269eba54edb3bf3e1e077?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 23 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d21ca18c62e63bc7fd4317?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 22 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d21bb1a54edb3bf3e1a6c4?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 22 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d20efe17554c2d9eee2921?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d269d217554c2d9eee77d4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 23 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d21bb1a54edb3bf3e1a6c4?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 22 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Consulting Fall 2025 / Springfield](https://jobright.ai/jobs/info/68d202d0a54edb3bf3e18b47?utm_campaign=1063&utm_source=git)** | Springfield, MO | Hybrid | Sep 22 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68d1f582a54edb3bf3e181f1?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 22 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern - OD&L](https://jobright.ai/jobs/info/68d1e5148c62e63bc7fd0caf?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68c7799bc96a22563ecf1175?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 20 |
 | ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23802bc187f64e1bd9e2d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 20 |
 | ↳ | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68b239eff4e41a61efd82d0f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
-| ↳ | **[2026 Software Consulting Intern](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dca?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 20 |
-| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23802bc187f64e1bd9e2f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Sep 20 |
-| ↳ | **[2026 Banking Consulting Intern](https://jobright.ai/jobs/info/68ce24881ad6b16f028a24eb?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
