@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Digital Business Consulting Analyst Intern](https://jobright.ai/jobs/info/68d2a38417554c2d9eee8b2b?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d26e4217554c2d9eee78e5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Bath University Placement - 2026](https://jobright.ai/jobs/info/68d269eba54edb3bf3e1e077?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 23 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d269d217554c2d9eee77d4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 23 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d269a0a54edb3bf3e1e056?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 23 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health Consulting Actuarial Summer Intern- Southeast Market- College Program 2026](https://jobright.ai/jobs/info/68d1cea517554c2d9eedfde1?utm_campaign=1063&utm_source=git)** | Richmond - Canal | Hybrid | Sep 22 |
 | ↳ | **[Health Consulting Actuarial Summer Intern- Southeast Market- College Program 2026](https://jobright.ai/jobs/info/68d1ce9217554c2d9eedfdd5?utm_campaign=1063&utm_source=git)** | Atlanta - Lenox | Hybrid | Sep 22 |
 | ↳ | **[Health Consulting Actuarial Summer Intern- Southeast Market- College Program 2026](https://jobright.ai/jobs/info/68d1cde78c62e63bc7fcfccf?utm_campaign=1063&utm_source=git)** | Louisville - West Market | Hybrid | Sep 22 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d1bd8d17554c2d9eedf308?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 22 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Global Line Stations Business Office (Summer 2026)](https://jobright.ai/jobs/info/68d1b75417554c2d9eededdf?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | **[Elire](http://www.elire.com)** | **[Summer 2026 Consulting Internship – Technical Intern](https://jobright.ai/jobs/info/68d1ac1817554c2d9eede61b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 22 |
 | ↳ | **[Summer 2026 Consulting Internship – Functional Consultant](https://jobright.ai/jobs/info/68d1aaa817554c2d9eede425?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Banking Consulting Intern](https://jobright.ai/jobs/info/68ce24881ad6b16f028a24eb?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 20 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/68b2ce56f4e41a61efd880f0?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Sep 20 |
 | ↳ | **[Consulting Intern - Summer 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/68b2d9771ade4306aa63a426?utm_campaign=1063&utm_source=git)** | Ridgeland, MS | On Site | Sep 20 |
-| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/68d0e2757727df7d5a84e568?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
