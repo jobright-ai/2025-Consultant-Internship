@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d26e4217554c2d9eee78e5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Bath University Placement - 2026](https://jobright.ai/jobs/info/68d269eba54edb3bf3e1e077?utm_campaign=1063&utm_source=git)** | London - Baker | Hybrid | Sep 23 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d263a78c62e63bc7fd766c?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 23 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d21cdc8c62e63bc7fd43cc?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 22 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d21ca18c62e63bc7fd4317?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 22 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d21bb1a54edb3bf3e1a6c4?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 22 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d269d217554c2d9eee77d4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 23 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d269a0a54edb3bf3e1e056?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 23 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d263a78c62e63bc7fd766c?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 23 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d21bb1a54edb3bf3e1a6c4?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 22 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d21b5c8c62e63bc7fd3fc2?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 22 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d20efe17554c2d9eee2921?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Consulting Fall 2025 / Springfield](https://jobright.ai/jobs/info/68d202d0a54edb3bf3e18b47?utm_campaign=1063&utm_source=git)** | Springfield, MO | Hybrid | Sep 22 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68d1f582a54edb3bf3e181f1?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 22 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern - OD&L](https://jobright.ai/jobs/info/68d1e5148c62e63bc7fd0caf?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 22 |
