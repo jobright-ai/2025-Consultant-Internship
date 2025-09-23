@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercer Company](https://mercer-company.com/)** | **[Health Consulting Intern- New York- College Program 2026](https://jobright.ai/jobs/info/68d1ddd317554c2d9eee0633?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Sep 22 |
+| **[Ramboll](http://www.ramboll.com/)** | **[Intern, Environmental Consulting](https://jobright.ai/jobs/info/68d1db3a17554c2d9eee0350?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Sep 22 |
+| **[Mercer Company](https://mercer-company.com/)** | **[Health Consulting Actuarial Summer Intern- Southeast Market- College Program 2026](https://jobright.ai/jobs/info/68d1d19fa54edb3bf3e166ef?utm_campaign=1063&utm_source=git)** | Tampa - N. Rocky Point | Hybrid | Sep 22 |
+| ↳ | **[Health Consulting Actuarial Summer Intern- Southeast Market- College Program 2026](https://jobright.ai/jobs/info/68d1cea517554c2d9eedfde1?utm_campaign=1063&utm_source=git)** | Richmond - Canal | Hybrid | Sep 22 |
+| ↳ | **[Health Consulting Actuarial Summer Intern- Southeast Market- College Program 2026](https://jobright.ai/jobs/info/68d1ce9217554c2d9eedfdd5?utm_campaign=1063&utm_source=git)** | Atlanta - Lenox | Hybrid | Sep 22 |
+| ↳ | **[Health Consulting Actuarial Summer Intern- Southeast Market- College Program 2026](https://jobright.ai/jobs/info/68d1cde78c62e63bc7fcfccf?utm_campaign=1063&utm_source=git)** | Louisville - West Market | Hybrid | Sep 22 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d1c3808c62e63bc7fcf7e5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 22 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d1be4fa54edb3bf3e15cfe?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 22 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d1be4a17554c2d9eedf3eb?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 22 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Global Line Stations Business Office (Summer 2026)](https://jobright.ai/jobs/info/68d1b75417554c2d9eededdf?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | **[RESEARCHPRENEURS (Innovation Hub)](https://researchpreneurs.com)** | **[Register for R&D/Innovation Consulting Career / Strategic Growth Advisor for R&D-Driven Ventures](https://jobright.ai/jobs/info/68d1b6fea54edb3bf3e156c9?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Sep 22 |
 | **[Elire](http://www.elire.com)** | **[Summer 2026 Consulting Internship – Technical Intern](https://jobright.ai/jobs/info/68d1ac1817554c2d9eede61b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 22 |
@@ -68,16 +75,15 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Consultant - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68d1858dfa731f61692dfd42?utm_campaign=1063&utm_source=git)** | USA TN Nashville | On Site | Sep 22 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Global Line Stations Business Office (Summer 2026)](https://jobright.ai/jobs/info/68d17e44fa731f61692df821?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Sep 22 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68d17a4f8c62e63bc7fcba63?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 22 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d174decece431f8b583ffb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d170e88c62e63bc7fcb4e1?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 22 |
 | **[Management Solutions](https://www.managementsolutions.com/en)** | **[NEW TECHNOLOGIES AND DIGITAL TRANSFORMATION CONSULTANT BOSTON](https://jobright.ai/jobs/info/68d16dc5fa731f61692debac?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d168dbcece431f8b5837f6?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 22 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d169a18c62e63bc7fcb0de?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/68d1584ffa731f61692de25e?utm_campaign=1063&utm_source=git)** | Portland, OR | Hybrid | Sep 22 |
 | ↳ | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/68d15390cece431f8b582e14?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Sep 22 |
 | ↳ | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/68d15318cece431f8b582dcc?utm_campaign=1063&utm_source=git)** | Brookfield, WI | Hybrid | Sep 22 |
 | ↳ | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/68d150a4cece431f8b582bcc?utm_campaign=1063&utm_source=git)** | Little Falls, NJ | Hybrid | Sep 22 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d110c712769c608d9ba8c2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | **[Colorado African Innovation and Cultural Center](www.caccenter.org)** | **[MBA Business Consulting & Strategy Intern](https://jobright.ai/jobs/info/68d105107727df7d5a850441?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Sep 22 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d0c3cb0ebfb22f38aa873d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 21 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d0bb7b846f0b04af689432?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 21 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23bd6f4e41a61efd82ee6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 21 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b23922bc187f64e1bd9f49?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
 | **[Roadrunner Venture Studios](https://roadrunnerventurestudios.com)** | **[Computational Fluid Dynamics (CFD) Consultant – Subsurface & Geothermal](https://jobright.ai/jobs/info/68c9cf69a0c52d598ea3b940?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 20 |
@@ -108,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/68b2384abc187f64e1bd9e80?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 20 |
 | ↳ | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/68b23bc3f4e41a61efd82ed1?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/68b239931ade4306aa634fd6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 20 |
-| ↳ | **[2026 Life Sciences Consulting Intern](https://jobright.ai/jobs/info/68cd19bcb2a74e1837ed2599?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
 | ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23859bc187f64e1bd9e90?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 20 |
 | ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b2394cbc187f64e1bd9f75?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Sep 20 |
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/68b2399a1ade4306aa634fdb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercer Company](https://mercer-company.com/)** | **[Government Health Consulting Informatics Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68cde943e23def7af55c025b?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Sep 19 |
 | ↳ | **[Government Health Consulting Financial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68cde924b2a74e1837edd41f?utm_campaign=1063&utm_source=git)** | Phoenix - E. Camelback | Hybrid | Sep 19 |
 | ↳ | **[Government Health Consulting Financial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68cde922e23def7af55c0219?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Sep 19 |
-| ↳ | **[Government Health Consulting Informatics Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68cde8db1ad6b16f0289fd1a?utm_campaign=1063&utm_source=git)** | Phoenix - E. Camelback | Hybrid | Sep 19 |
-| **[IBM](http://www.ibm.com)** | **[Federal Package Consultant Intern: 2026](https://jobright.ai/jobs/info/68cde4261ad6b16f0289fb25?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 19 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Government Health Consulting Actuarial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68cdda92b2a74e1837edcd31?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Sep 19 |
-| ↳ | **[Government Health Consulting Actuarial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68cdd9e91ad6b16f0289f67a?utm_campaign=1063&utm_source=git)** | Phoenix - E. Camelback | Hybrid | Sep 19 |
-| **[Wipfli](http://www.wipfli.com)** | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68cd537c1ad6b16f02897ef7?utm_campaign=1063&utm_source=git)** | US-CO-Denver | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
