@@ -57,17 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d98caf061b716fa295a7c9?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 28 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d98c829a8e451a446a4d6e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 28 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d9865c022fc803b48773bf?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 28 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68d94e88061b716fa295a318?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 28 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68d94e5e9a8e451a446a48a8?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Sep 28 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68d94e589a8e451a446a48a2?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Sep 28 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d933b5061b716fa295a0a0?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 28 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d933b1061b716fa295a09c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d933b1061b716fa295a09c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d93277022fc803b4876da4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d930fe061b716fa295a06b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 28 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d92fcb022fc803b4876d74?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 28 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d92f86022fc803b4876d5c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 28 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d8e1fb061b716fa2958afc?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 28 |
 | **[Boston Private](http://www.bostonprivatewm.com/)** | **[2026 Summer Campus Consulting Internship](https://jobright.ai/jobs/info/68d844c17796a83635f10154?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68d81fb27796a83635f0f188?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 27 |
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Summer 2026 Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/68ba03878043103d4f21ccd3?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | On Site | Sep 27 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 27 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e231a79a9f966625474aa?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 27 |
@@ -120,7 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68d5e7a663d77d6f6f3f3256?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Sep 25 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68d5e3b22116ff37ee090f48?utm_campaign=1063&utm_source=git)** | Charleston, SC | Hybrid | Sep 25 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68d5e3151f7fb2169ab14515?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Sep 25 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68d0cd8b7727df7d5a84dc9d?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 25 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[US Consulting Intern Summer 2027 (IT Audit/ Internal Audit) – Pathways Experience Candidates](https://jobright.ai/jobs/info/68d01ce5fb49c96ca6eae137?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68d0cd8b7727df7d5a84dc9d?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 25 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68cee3c5dbd9fb154ede35ed?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 25 |
 | ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68d360568c62e63bc7fe0454?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 25 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68cd9339e23def7af55bbe71?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 25 |
