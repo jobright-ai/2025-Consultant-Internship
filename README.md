@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dae27807c157682e56ef3b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 29 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68daddb80b832179ca4b21cc?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dadcf907c157682e56e918?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68dad9326df7b8311bb1301d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 29 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68dad0a56df7b8311bb126d5?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Sep 29 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/68dac5df07c157682e56d34d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Sep 29 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68dab6d40b832179ca4b0379?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Sep 29 |
 | **[Baringa](http://www.baringa.com/)** | **[US Summer Internship 2026 - Organization, Performance, and Change](https://jobright.ai/jobs/info/68dab11607c157682e56c6a4?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Sep 29 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/68daa8960b832179ca4af762?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Sep 29 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/68daa8690b832179ca4af703?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 29 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/68daa84807c157682e56c0a3?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Sep 29 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68daa04507c157682e56bac7?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68da8c926df7b8311bb0f935?utm_campaign=1063&utm_source=git)** | San Diego, CA | Remote | Sep 29 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da88f007c157682e56abfe?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 29 |
@@ -76,10 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da83316df7b8311bb0f38b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 29 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68da7c2e0b832179ca4add44?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 29 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 29 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da34603c03cd32709444fb?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 29 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da345a3c03cd32709444cb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d9e0939a8e451a446a553f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 28 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d9837a022fc803b4877395?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca41fae79610dacddbfc7?utm_campaign=1063&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d92f86022fc803b4876d5c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 28 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/68bb2ab08043103d4f226193?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 27 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern: 2026](https://jobright.ai/jobs/info/68cc19a416d00d2beeb19ce0?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 27 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 27 |
-| **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sales Enablement (Solution Consulting)](https://jobright.ai/jobs/info/68da60b70b832179ca4ad5f7?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Teneo](https://www.teneo.com)** | **[Summer Intern, Management Consulting](https://jobright.ai/jobs/info/68cd48b6b2a74e1837ed4cfe?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68cf568e846f0b04af681268?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d7933d295f8e37655de206?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 27 |
