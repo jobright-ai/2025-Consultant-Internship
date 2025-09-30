@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68dc259597329f2f77322eb4?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 30 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Sep 30 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Digital Consulting Analyst Intern](https://jobright.ai/jobs/info/68dbfc28d6470e72cf4d7cfd?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Sep 30 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Sep 30 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/68dbf6f66f6c5c3fadf35815?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Sep 30 |
