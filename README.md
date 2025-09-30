@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Search for Common Ground](https://www.sfcg.org/)** | **[Call for Proposal Development Consultants (Junior, Mid-Level, Senior) Based Remotely](https://jobright.ai/jobs/info/68db0f840dffed6f83d2c548?utm_campaign=1063&utm_source=git)** | Washington DC, United States | Remote | Sep 29 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68db02d20dffed6f83d2bdb2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68daf5a96df7b8311bb14cd7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Sep 29 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Business Consulting - Operations & Performance Intern - Summer 2026](https://jobright.ai/jobs/info/68daf52007c157682e570096?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 29 |
 | **[Metis Strategy](https://www.metisstrategy.com)** | **[Summer '26 Graduate Internship - Strategy & Mgmt. Consultant](https://jobright.ai/jobs/info/68daf4a56df7b8311bb1497b?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Remote | Sep 29 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dae27807c157682e56ef3b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 29 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68daddb80b832179ca4b21cc?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dadcf907c157682e56e918?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dad9a46df7b8311bb13138?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 29 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68dad9326df7b8311bb1301d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Sep 29 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68dad0a56df7b8311bb126d5?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Sep 29 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68dab6d40b832179ca4b0379?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Sep 29 |
@@ -84,11 +85,13 @@ For a complete list, click the following sortable link below:
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68da8c926df7b8311bb0f935?utm_campaign=1063&utm_source=git)** | San Diego, CA | Remote | Sep 29 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da860c07c157682e56abd0?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 29 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da83316df7b8311bb0f38b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 29 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68da7c2e0b832179ca4add44?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Sep 29 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Sep 29 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da350f6df7b8311bb0dc9c?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da350d3c03cd3270944742?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 29 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68d8dffa9a8e451a446a33c1?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 28 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68da350d3c03cd3270944742?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 29 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d9e0939a8e451a446a553f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Sep 28 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca3e13bf9eb44f83245c7?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Sep 28 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68d8dffa9a8e451a446a33c1?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Sep 28 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68bca41fae79610dacddbfc7?utm_campaign=1063&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68d92f86022fc803b4876d5c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d4474517554c2d9eef79e8?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Sep 25 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2025](https://jobright.ai/jobs/info/6879a0a62097a271a8978f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68da425b6df7b8311bb0e3e2?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 25 |
-| **[Wipfli](http://www.wipfli.com)** | **[Data &amp; Analytics Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68d64efb4736ff202fdd2684?utm_campaign=1063&utm_source=git)** | Radnor, PA | Hybrid | Sep 25 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68b764761ade4306aa64aba4?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
-| **[World Wide Technology](http://www.wwt.com)** | **[Solutions Consulting & Engineering- MBA Management Consulting Services Intern - 2026](https://jobright.ai/jobs/info/68b736951ade4306aa6487b0?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
