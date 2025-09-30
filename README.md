@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68cd93fbb2a74e1837ed8eba?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 30 |
+| ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 30 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68db84899f13662d20e4c215?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68db84489f13662d20e4c12a?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 30 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68db830534f2c406da6d8ceb?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68cee3c5dbd9fb154ede35ed?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Sep 25 |
 | ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68d360568c62e63bc7fe0454?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Sep 25 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68cd94b81ad6b16f0289bbfd?utm_campaign=1063&utm_source=git)** | Frisco, TX | On Site | Sep 25 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68cf4004dbd9fb154ede5ca1?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 25 |
-| **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/68cc915b16d00d2beeb216e8?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
