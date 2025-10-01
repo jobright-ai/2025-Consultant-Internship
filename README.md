@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd7bf444d32141e0bf73b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68dd9f2fa125e75c422ad42f?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Oct 01 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Oct 01 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68dd9b45ddc10244dd681b41?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 01 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd8b84ddc10244dd680923?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 01 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd8626a125e75c422ab8e8?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd7ebea125e75c422ab411?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd7bf444d32141e0bf73b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd7b2c44d32141e0bf712c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 01 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68dd72ffa125e75c422aac42?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Oct 01 |
 | **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Consulting Accounting Intern](https://jobright.ai/jobs/info/68dd642044d32141e0bf64c7?utm_campaign=1063&utm_source=git)** | Columbia, MD | Remote | Oct 01 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68dd4c36a125e75c422a95ef?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Oct 01 |
 | ↳ | **[Oliver Wyman - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68dd4c13ddc10244dd67dfa5?utm_campaign=1063&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Oct 01 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68dd35d6ddc10244dd67d348?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Oct 01 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/68dd309544d32141e0bf4633?utm_campaign=1063&utm_source=git)** | Mount Laurel, NJ | On Site | Oct 01 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd3083ddc10244dd67d07c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 01 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd3067ddc10244dd67d036?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd296144d32141e0bf428c?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 01 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd294844d32141e0bf4259?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd3bbddc10244dd67a4e6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd260accfd24b67e5a745?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 01 |
