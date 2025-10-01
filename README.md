@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd3bbddc10244dd67a4e6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd43bddc10244dd67a6cd?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd3bbddc10244dd67a4e6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd3a0ddc10244dd67a489?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd260accfd24b67e5a745?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 01 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd191a125e75c422a5909?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 01 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Internship: Business Systems Analyst (Summer 2026)](https://jobright.ai/jobs/info/68dc84a4ddc10244dd676318?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
 | ↳ | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/68dc849cddc10244dd67630d?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dc81ccddc10244dd6762a8?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Sep 30 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dc81a2ddc10244dd67624b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Software Engineering  (Summer 2026)](https://jobright.ai/jobs/info/68dc96a0accfd24b67e57252?utm_campaign=1063&utm_source=git)** | Richmond, VA, USA | On Site | Sep 30 |
 | ↳ | **[Consulting Internship: Data Analysis/Data Engineering  (Summer 2026)](https://jobright.ai/jobs/info/68dc96bfddc10244dd677191?utm_campaign=1063&utm_source=git)** | Richmond, VA, USA | On Site | Sep 30 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4537ddc10244dd6737c0?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Sep 30 |
@@ -86,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68ccd177b274cd205ab4f88d?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68dcdedca125e75c422a66ef?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Sep 25 |
-| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d4474517554c2d9eef79e8?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
