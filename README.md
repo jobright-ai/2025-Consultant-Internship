@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AT&T](https://www.att.com/)** | **[Supply Chain Leadership Program Graduate Internship - Strategy & Consulting](https://jobright.ai/jobs/info/68de4e70a125e75c422b3985?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
+| ↳ | **[Supply Chain Leadership Program Undergraduate Internship - Strategy & Consulting](https://jobright.ai/jobs/info/68de5b8b09bda65a4b629dbf?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68de35a1a125e75c422b2331?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68de355d09bda65a4b627b24?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 02 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68de2e8909bda65a4b62724b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 02 |
@@ -83,9 +85,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oliver Wyman - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68dd4c13ddc10244dd67dfa5?utm_campaign=1063&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Oct 01 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68dd35d6ddc10244dd67d348?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Oct 01 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/68dd309544d32141e0bf4633?utm_campaign=1063&utm_source=git)** | Mount Laurel, NJ | On Site | Oct 01 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd294844d32141e0bf4259?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd29bfddc10244dd67cd76?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 01 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd294844d32141e0bf4259?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd260accfd24b67e5a745?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 01 |
+| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68de48d544d32141e0bff194?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 01 |
+| ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68de47d7a125e75c422b32a4?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 01 |
+| ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68de492709bda65a4b628fd8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - National Security & CFIUS](https://jobright.ai/jobs/info/68de2d41a125e75c422b13c9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | ↳ | **[Associate Consultant (Intern) - Economic Litigation Consulting](https://jobright.ai/jobs/info/68de2df644d32141e0bfd55e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Sep 30 |
 | **[Sensiba LLP](http://www.sensiba.com)** | **[Consulting (Outsourced Accounting) Intern - Summer 2026](https://jobright.ai/jobs/info/68de2f4844d32141e0bfdacc?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Sep 30 |
@@ -107,6 +112,6 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Sep 30 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dbde12d6470e72cf4d4eea?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Sep 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 30 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9dcf75f3832749186174c?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 27 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68ccd177b274cd205ab4f88d?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 26 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9dcf75f3832749186174c?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 26 |
+| ↳ | **[2026 Summer Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68ccd177b274cd205ab4f88d?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
