@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68ddfc5009bda65a4b6259ee?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 01 |
+| ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/68ddf9aba125e75c422b076b?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Oct 01 |
+| ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/68ddf9a444d32141e0bfc476?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 01 |
+| ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68ddf81e09bda65a4b6255e3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Oct 01 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68ddd6c8ddc10244dd6840e6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68ddd682ddc10244dd68406c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68ddd681d624072d9ab04d63?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
@@ -67,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Baringa](http://www.baringa.com/)** | **[US Charlotte Summer Internship 2026 - Financial Services](https://jobright.ai/jobs/info/68dda96044d32141e0bf9f1e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Oct 01 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68dd9f2fa125e75c422ad42f?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Oct 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Oct 01 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd8626a125e75c422ab8e8?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd8b0344d32141e0bf7cc0?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 01 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd8626a125e75c422ab8e8?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd7bf444d32141e0bf73b5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd7b2c44d32141e0bf712c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 01 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68dd72ffa125e75c422aac42?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Oct 01 |
 | **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Consulting Accounting Intern](https://jobright.ai/jobs/info/68dd642044d32141e0bf64c7?utm_campaign=1063&utm_source=git)** | Columbia, MD | Remote | Oct 01 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman - Integrated Consulting Group Intern 2026](https://jobright.ai/jobs/info/68dd4c36a125e75c422a95ef?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Oct 01 |
@@ -78,12 +82,10 @@ For a complete list, click the following sortable link below:
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/68dd309544d32141e0bf4633?utm_campaign=1063&utm_source=git)** | Mount Laurel, NJ | On Site | Oct 01 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dd294844d32141e0bf4259?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd260accfd24b67e5a745?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 01 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68dcb4d9ddc10244dd678f03?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Sep 30 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68dcaa68a125e75c422a3cd3?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 30 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Group Internal Consulting - Data Science](https://jobright.ai/jobs/info/68dc9f8eddc10244dd677a6f?utm_campaign=1063&utm_source=git)** | Weehawken, NJ | On Site | Sep 30 |
 | ↳ | **[2026 Summer Internship - Group Internal Consulting](https://jobright.ai/jobs/info/68dc9ee7accfd24b67e57a6a?utm_campaign=1063&utm_source=git)** | Weehawken, NJ | On Site | Sep 30 |
-| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68ddf39744d32141e0bfc357?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Sep 30 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Software Engineering (Summer 2026)](https://jobright.ai/jobs/info/68dc868fa125e75c422a1937?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
 | ↳ | **[Consulting Internship: Data Analysis/Data Engineering (Summer 2026)](https://jobright.ai/jobs/info/68dc8712accfd24b67e565c9?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
 | ↳ | **[Consulting Internship: Business Systems Analyst (Summer 2026)](https://jobright.ai/jobs/info/68dc84a4ddc10244dd676318?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
