@@ -58,13 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df806bfe896042b0b7ba67?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df7b085ab4977c2e95516f?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df79abfe896042b0b7b437?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 03 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df796ffe896042b0b7b3ca?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 03 |
 | **[Thought Logic Consulting](http://thought-logic.com/)** | **[Finance Technology Enablement Intern - Minneapolis](https://jobright.ai/jobs/info/68df6dbafe896042b0b7abf3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 | ↳ | **[Data & Analytics Consulting Intern - ATL](https://jobright.ai/jobs/info/68df6d085ab4977c2e954716?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68df5055fe896042b0b7962f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df24145ab4977c2e950f39?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 02 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df23b05ab4977c2e950ea7?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df23b05ab4977c2e950ea7?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df22c4fe896042b0b77439?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 02 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Consulting Winter 2026 / Springfield](https://jobright.ai/jobs/info/68df062afe896042b0b741da?utm_campaign=1063&utm_source=git)** | Springfield, MO | Hybrid | Oct 02 |
@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/68dd309544d32141e0bf4633?utm_campaign=1063&utm_source=git)** | Mount Laurel, NJ | On Site | Oct 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68df8e9f5ab4977c2e955cb4?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
-| ↳ | **[Associate Consultant (Intern) - National Security & CFIUS](https://jobright.ai/jobs/info/68df92ff6be63b6ec99717c1?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 01 |
 | ↳ | **[Associate Consultant (Intern) - Economic Litigation Consulting](https://jobright.ai/jobs/info/68df932efe896042b0b7c43e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 01 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dcd260accfd24b67e5a745?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 01 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68dcaa68a125e75c422a3cd3?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 30 |
@@ -131,4 +130,5 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Sep 30 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Sep 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 30 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9dcf75f3832749186174c?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
