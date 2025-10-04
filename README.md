@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Investment Consulting Group](https://jobright.ai/jobs/info/68deef6c09bda65a4b62f2a7?utm_campaign=1063&utm_source=git)** | Wayne, PA | Hybrid | Oct 02 |
 | **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Well-Being Internship](https://jobright.ai/jobs/info/68decd8809bda65a4b62de68?utm_campaign=1063&utm_source=git)** | Des Moines, IA, USA | Hybrid | Oct 02 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea09da125e75c422b55d2?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea052a125e75c422b5555?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 | **[Stanard & Associates, Inc.](https://stanard.com)** | **[Industrial/Organizational Psychology Intern - Public Safety Consulting](https://jobright.ai/jobs/info/68deb7d4a125e75c422b5f9e?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 02 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0a244d32141e0c012e6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9cba44d32141e0c0117c?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 02 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea02344d32141e0c0122a?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea32409bda65a4b62c5e8?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea022a125e75c422b5515?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea052a125e75c422b5555?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 | **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Investment Consulting Group](https://jobright.ai/jobs/info/68de9c7b09bda65a4b62bf2a?utm_campaign=1063&utm_source=git)** | Wayne, PA | Hybrid | Oct 02 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9cf044d32141e0c011cc?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9cc309bda65a4b62c068?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Oct 02 |
