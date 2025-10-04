@@ -71,11 +71,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd2d7b99ec3563b0c9864?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd274b99ec3563b0c981d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd284b99ec3563b0c982c?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 03 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd325b99ec3563b0c98cd?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 03 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfcc59f758fe1f97e4705a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
 | **[Thought Logic Consulting](http://thought-logic.com/)** | **[Data & Analytics Consulting Intern - ATL](https://jobright.ai/jobs/info/68df6d085ab4977c2e954716?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | ↳ | **[Finance Technology Enablement Intern - Minneapolis](https://jobright.ai/jobs/info/68df6dbafe896042b0b7abf3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68df5055fe896042b0b7962f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68df27305ab4977c2e95100e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 02 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 02 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Consulting Winter 2026 / Springfield](https://jobright.ai/jobs/info/68df062afe896042b0b741da?utm_campaign=1063&utm_source=git)** | Springfield, MO | Hybrid | Oct 02 |
 | **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Investment Consulting Group](https://jobright.ai/jobs/info/68deef6c09bda65a4b62f2a7?utm_campaign=1063&utm_source=git)** | Wayne, PA | Hybrid | Oct 02 |
@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0b7a125e75c422b55eb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea3ad09bda65a4b62c745?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea049a125e75c422b5547?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea02344d32141e0c0122a?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea32409bda65a4b62c5e8?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea02344d32141e0c0122a?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea022a125e75c422b5515?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea052a125e75c422b5555?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 | **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Investment Consulting Group](https://jobright.ai/jobs/info/68de9c7b09bda65a4b62bf2a?utm_campaign=1063&utm_source=git)** | Wayne, PA | Hybrid | Oct 02 |
@@ -98,10 +98,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9cc309bda65a4b62c068?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de988344d32141e0c00ec8?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9428a125e75c422b5142?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dec08e09bda65a4b62d558?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dec61d09bda65a4b62d8ff?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deaa3109bda65a4b62ca0d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dec08e09bda65a4b62d558?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deb52409bda65a4b62d264?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deaa3109bda65a4b62ca0d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de902ca125e75c422b4f7b?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deb28609bda65a4b62cded?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | **[AT&T](https://www.att.com/)** | **[Supply Chain Leadership Program Graduate Internship - Strategy & Consulting](https://jobright.ai/jobs/info/68de4e70a125e75c422b3985?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
@@ -119,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/68dd309544d32141e0bf4633?utm_campaign=1063&utm_source=git)** | Mount Laurel, NJ | On Site | Oct 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68dcaa68a125e75c422a3cd3?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Sep 30 |
+| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Investigations (BI&I)](https://jobright.ai/jobs/info/68e0a31a1852e62f007ed451?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Group Internal Consulting - Data Science](https://jobright.ai/jobs/info/68dc9f8eddc10244dd677a6f?utm_campaign=1063&utm_source=git)** | Weehawken, NJ | On Site | Sep 30 |
 | ↳ | **[2026 Summer Internship - Group Internal Consulting](https://jobright.ai/jobs/info/68dc9ee7accfd24b67e57a6a?utm_campaign=1063&utm_source=git)** | Weehawken, NJ | On Site | Sep 30 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Software Engineering (Summer 2026)](https://jobright.ai/jobs/info/68dc868fa125e75c422a1937?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
