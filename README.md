@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68e12b54f758fe1f97e5460f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Oct 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e04a9bb99ec3563b0ce462?utm_campaign=1063&utm_source=git)** | Summit, NJ | On Site | Oct 03 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e046c0f758fe1f97e4be39?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e03b7ef758fe1f97e4b615?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Oct 03 |
@@ -86,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0a244d32141e0c012e6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9cba44d32141e0c0117c?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9c5509bda65a4b62be8f?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0b7a125e75c422b55eb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea40d09bda65a4b62c80a?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0b7a125e75c422b55eb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea3ad09bda65a4b62c745?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea049a125e75c422b5547?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea02344d32141e0c0122a?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Oct 02 |
