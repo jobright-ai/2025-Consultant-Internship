@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crest Vale](crestvale.us)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68e29aecb99ec3563b0dc9a6?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Oct 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e04a9bb99ec3563b0ce462?utm_campaign=1063&utm_source=git)** | Summit, NJ | On Site | Oct 03 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e046c0f758fe1f97e4be39?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e03b7ef758fe1f97e4b615?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Oct 03 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[AT&T](https://www.att.com/)** | **[Supply Chain Leadership Program Graduate Internship - Strategy & Consulting](https://jobright.ai/jobs/info/68de4e70a125e75c422b3985?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | ↳ | **[Supply Chain Leadership Program Undergraduate Internship - Strategy & Consulting](https://jobright.ai/jobs/info/68de5b8b09bda65a4b629dbf?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | **[Cornerstone Advisors](http://crnrstone.com/)** | **[Intern](https://jobright.ai/jobs/info/68de2d6244d32141e0bfd208?utm_campaign=1063&utm_source=git)** | SCOTTSDALE, AZ, USA | On Site | Oct 02 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern](https://jobright.ai/jobs/info/68ddf9a444d32141e0bfc476?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 01 |
-| ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68ddfc5009bda65a4b6259ee?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 01 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68ddfc5009bda65a4b6259ee?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 01 |
+| ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/68ddf9a444d32141e0bfc476?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 01 |
 | ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/68ddf9aba125e75c422b076b?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Oct 01 |
 | ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68ddf81e09bda65a4b6255e3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Oct 01 |
 | **[Cornerstone Advisors](http://crnrstone.com/)** | **[Consultant Intern](https://jobright.ai/jobs/info/68ddcfe8ddc10244dd683d93?utm_campaign=1063&utm_source=git)** | Scottsdale, AZ | On Site | Oct 01 |
