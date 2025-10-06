@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/68e3dbd4b99ec3563b0e30db?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Oct 06 |
+| **[Crest Vale](crestvale.us)** | **[Consulting & Accounting Intern](https://jobright.ai/jobs/info/68e3e66a1852e62f007ff1c2?utm_campaign=1063&utm_source=git)** | Richmond, VA | Remote | Oct 06 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/68e3d6d7f758fe1f97e60d64?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 06 |
 | **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c7eb1852e62f007fdf35?utm_campaign=1063&utm_source=git)** | TX-Dallas | On Site | Oct 06 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c7d21852e62f007fdf1a?utm_campaign=1063&utm_source=git)** | WA-Seattle | On Site | Oct 06 |
@@ -70,6 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c6fb1852e62f007fde97?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Oct 06 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c6dff758fe1f97e60676?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Oct 06 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/68e3be4fb99ec3563b0e2297?utm_campaign=1063&utm_source=git)** | 901 5th Ave N, Seattle, WA 98109, USA | On Site | Oct 06 |
+| **[PwC Experience Center Stockholm](https://digital.pwc.com/en-se.html)** | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3f17db99ec3563b0e3f8f?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 05 |
+| **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68e3ed8bf758fe1f97e61c3d?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Oct 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e04a9bb99ec3563b0ce462?utm_campaign=1063&utm_source=git)** | Summit, NJ | On Site | Oct 03 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e046c0f758fe1f97e4be39?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e03b7ef758fe1f97e4b615?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Oct 03 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea02344d32141e0c0122a?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9cba44d32141e0c0117c?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9c5509bda65a4b62be8f?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0b7a125e75c422b55eb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea40d09bda65a4b62c80a?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0b7a125e75c422b55eb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea3ad09bda65a4b62c745?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea32409bda65a4b62c5e8?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea022a125e75c422b5515?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 02 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9428a125e75c422b5142?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dec08e09bda65a4b62d558?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dec61d09bda65a4b62d8ff?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deaa3109bda65a4b62ca0d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deb52409bda65a4b62d264?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deaa3109bda65a4b62ca0d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de902ca125e75c422b4f7b?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deb28609bda65a4b62cded?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | **[AT&T](https://www.att.com/)** | **[Supply Chain Leadership Program Graduate Internship - Strategy & Consulting](https://jobright.ai/jobs/info/68de4e70a125e75c422b3985?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
