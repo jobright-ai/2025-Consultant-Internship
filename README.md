@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9428a125e75c422b5142?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dec08e09bda65a4b62d558?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dec61d09bda65a4b62d8ff?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deb52409bda65a4b62d264?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deaa3109bda65a4b62ca0d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deb52409bda65a4b62d264?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de902ca125e75c422b4f7b?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68deb28609bda65a4b62cded?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | **[AT&T](https://www.att.com/)** | **[Supply Chain Leadership Program Graduate Internship - Strategy & Consulting](https://jobright.ai/jobs/info/68de4e70a125e75c422b3985?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
