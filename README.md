@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0b7a125e75c422b55eb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea40d09bda65a4b62c80a?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea3ad09bda65a4b62c745?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea32409bda65a4b62c5e8?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea02344d32141e0c0122a?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Oct 02 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea32409bda65a4b62c5e8?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 02 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea022a125e75c422b5515?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 02 |
 | **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Investment Consulting Group](https://jobright.ai/jobs/info/68de9c7b09bda65a4b62bf2a?utm_campaign=1063&utm_source=git)** | Wayne, PA | Hybrid | Oct 02 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68de9cf044d32141e0c011cc?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Oct 02 |
