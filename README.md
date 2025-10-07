@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tevora](http://www.tevora.com/)** | **[Consultant Development Program Winter 2026 - Payments](https://jobright.ai/jobs/info/68e448841852e62f00804269?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Oct 06 |
+| **[Tevora](http://www.tevora.com/)** | **[Consultant Development Program Winter 2026 - Enterprise Risk Management](https://jobright.ai/jobs/info/68e48c751852e62f00807169?utm_campaign=1063&utm_source=git)** | Fairfax, VA | On Site | Oct 06 |
+| ↳ | **[Consultant Development Program Winter 2026 - Payments](https://jobright.ai/jobs/info/68e448841852e62f00804269?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Oct 06 |
 | ↳ | **[Consultant Development Program  Winter 2026 - Enterprise Risk Management](https://jobright.ai/jobs/info/68e442fbb99ec3563b0e8537?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Oct 06 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/68e4420ab99ec3563b0e840d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Tevora](http://www.tevora.com/)** | **[Consultant Development Program Winter 2026- Federal](https://jobright.ai/jobs/info/68e44199b99ec3563b0e838a?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Oct 06 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4159db99ec3563b0e5bfa?utm_campaign=1063&utm_source=git)** | CA-San Francisco | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e41594b99ec3563b0e5bde?utm_campaign=1063&utm_source=git)** | MA-Boston | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e41594b99ec3563b0e5bdf?utm_campaign=1063&utm_source=git)** | IL-Chicago | On Site | Oct 06 |
-| ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e41565b99ec3563b0e5b9b?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e41565b99ec3563b0e5b9c?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Oct 06 |
+| ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e41565b99ec3563b0e5b9b?utm_campaign=1063&utm_source=git)** | CA-Los Angeles | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e41548b99ec3563b0e5b66?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4150bb99ec3563b0e5b01?utm_campaign=1063&utm_source=git)** | IL-Rosemont | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e414f1b99ec3563b0e5ad2?utm_campaign=1063&utm_source=git)** | WA-Seattle | On Site | Oct 06 |
@@ -95,9 +96,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e413f8f758fe1f97e63835?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e413edb99ec3563b0e5803?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e413a2f758fe1f97e6370f?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Oct 06 |
+| ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4139d1852e62f00800edd?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4139d1852e62f00800ed8?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4139d1852e62f00800ed9?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Oct 06 |
-| ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4139d1852e62f00800edd?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4135ff758fe1f97e63624?utm_campaign=1063&utm_source=git)** | CA-San Francisco | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4132df758fe1f97e6357f?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4132df758fe1f97e63580?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Oct 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea052a125e75c422b5555?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 | **[Stanard & Associates, Inc.](https://stanard.com)** | **[Industrial/Organizational Psychology Intern - Public Safety Consulting](https://jobright.ai/jobs/info/68deb7d4a125e75c422b5f9e?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 02 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea0a244d32141e0c012e6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68dea02344d32141e0c0122a?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
