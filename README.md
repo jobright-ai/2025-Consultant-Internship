@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/68e49982ae2b894b1d706d7a?utm_campaign=1063&utm_source=git)** | New York - New York | Hybrid | Oct 06 |
-| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://jobright.ai/jobs/info/68e499371852e62f00807db9?utm_campaign=1063&utm_source=git)** | New York - New York | Hybrid | Oct 06 |
-| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/68e498f11852e62f00807d35?utm_campaign=1063&utm_source=git)** | Illinois - Chicago | Hybrid | Oct 06 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/68e4b3a5ae2b894b1d707bb0?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant](https://jobright.ai/jobs/info/68e4b1d5ae2b894b1d707a07?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/68e4ae5fb99ec3563b0eced8?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://jobright.ai/jobs/info/68e4ad49ae2b894b1d7077d4?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://jobright.ai/jobs/info/68e4ad3cb99ec3563b0ecd5f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/68e49982ae2b894b1d706d7a?utm_campaign=1063&utm_source=git)** | New York - New York | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant](https://jobright.ai/jobs/info/68e4991bae2b894b1d706d3f?utm_campaign=1063&utm_source=git)** | New York - New York | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant](https://jobright.ai/jobs/info/68e498ecae2b894b1d706d28?utm_campaign=1063&utm_source=git)** | Illinois - Chicago | Hybrid | Oct 06 |
 | ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://jobright.ai/jobs/info/68e498c1b99ec3563b0ec284?utm_campaign=1063&utm_source=git)** | Illinois - Chicago | Hybrid | Oct 06 |
-| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant](https://jobright.ai/jobs/info/68e498891852e62f00807c3d?utm_campaign=1063&utm_source=git)** | New York - New York | Hybrid | Oct 06 |
-| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant](https://jobright.ai/jobs/info/68e49858b99ec3563b0ec249?utm_campaign=1063&utm_source=git)** | Illinois - Chicago | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/68e498631852e62f00807bf0?utm_campaign=1063&utm_source=git)** | Illinois - Chicago | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://jobright.ai/jobs/info/68e498561852e62f00807bd6?utm_campaign=1063&utm_source=git)** | New York - New York | Hybrid | Oct 06 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Consulting (Remote)](https://jobright.ai/jobs/info/68e4949bae2b894b1d7069ba?utm_campaign=1063&utm_source=git)** | Reston, VA | Remote | Oct 06 |
 | **[Tevora](http://www.tevora.com/)** | **[Consultant Development Program Winter 2026 - Enterprise Risk Management](https://jobright.ai/jobs/info/68e48c751852e62f00807169?utm_campaign=1063&utm_source=git)** | Fairfax, VA | On Site | Oct 06 |
 | ↳ | **[Consultant Development Program Winter 2026 - Payments](https://jobright.ai/jobs/info/68e448841852e62f00804269?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Oct 06 |
@@ -103,9 +108,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e413f8f758fe1f97e63835?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e413edb99ec3563b0e5803?utm_campaign=1063&utm_source=git)** | CA-Silicon Valley | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e413a2f758fe1f97e6370f?utm_campaign=1063&utm_source=git)** | TX-Houston | On Site | Oct 06 |
-| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4139d1852e62f00800ed8?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4139d1852e62f00800ed9?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4139d1852e62f00800edd?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Oct 06 |
+| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4139d1852e62f00800ed8?utm_campaign=1063&utm_source=git)** | GA-Atlanta | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4135ff758fe1f97e63624?utm_campaign=1063&utm_source=git)** | CA-San Francisco | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4132df758fe1f97e6357f?utm_campaign=1063&utm_source=git)** | DC-Washington | On Site | Oct 06 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e4132df758fe1f97e63580?utm_campaign=1063&utm_source=git)** | PA-Philadelphia | On Site | Oct 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd284b99ec3563b0c982c?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 03 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd325b99ec3563b0c98cd?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 03 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfcc59f758fe1f97e4705a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
-| **[Thought Logic Consulting](http://thought-logic.com/)** | **[Data & Analytics Consulting Intern - ATL](https://jobright.ai/jobs/info/68df6d085ab4977c2e954716?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
-| ↳ | **[Finance Technology Enablement Intern - Minneapolis](https://jobright.ai/jobs/info/68df6dbafe896042b0b7abf3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68df5055fe896042b0b7962f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
-| **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Investment Consulting Group](https://jobright.ai/jobs/info/68deef6c09bda65a4b62f2a7?utm_campaign=1063&utm_source=git)** | Wayne, PA | Hybrid | Oct 02 |
-| **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Well-Being Internship](https://jobright.ai/jobs/info/68decd8809bda65a4b62de68?utm_campaign=1063&utm_source=git)** | Des Moines, IA, USA | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
