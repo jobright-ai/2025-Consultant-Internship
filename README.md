@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68f4e0c09a65fd345858cacf?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e24e783d13d1f5b6b716c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 19 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f4210e9a63986de7574452?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
 | ↳ | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f40b9d76a51a4307bd03b8?utm_campaign=1063&utm_source=git)** | Alexandria, Virginia | On Site | Oct 18 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68f3a2c89a65fd3458587ccf?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Oct 18 |
-| **[Lakeworth Digital](https://lakeworthdigital.com/)** | **[Sales Intern - Salesforce Consulting](https://jobright.ai/jobs/info/68f390859a65fd3458587704?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 18 |
+| **[Lakeworth Digital](https://lakeworthdigitalinc.com/)** | **[Sales Intern - Salesforce Consulting](https://jobright.ai/jobs/info/68f390859a65fd3458587704?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 18 |
 | **[GENEX](https://genex.coop)** | **[Dairy Sales and Consulting Internship (CA, ID, OR, and WA)](https://jobright.ai/jobs/info/68d6d08dd3fe025a3015c403?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Oct 18 |
 | ↳ | **[Dairy Sales and Consulting Internship (CA, ID, OR, and WA)](https://jobright.ai/jobs/info/68d6d0a3d3fe025a3015c418?utm_campaign=1063&utm_source=git)** | Idaho, United States | On Site | Oct 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9dcf75f3832749186174c?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Oct 18 |
@@ -116,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f4552c9a63986de7574b92?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 15 |
 | **[URUS Group](https://www.urus.org)** | **[Calf Performance Consultant Internship (SD)](https://jobright.ai/jobs/info/68f105f5f462172a5a7d2415?utm_campaign=1063&utm_source=git)** | 117 East Green Bay St, Shawano, WI, 54166, US | On Site | Oct 15 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f022c29821486c423c9398?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Oct 15 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e55fef766b3f0fd066be?utm_campaign=1063&utm_source=git)** | Hartford - Church | Hybrid | Oct 15 |
-| ↳ | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e748e6870116b1f51ae9?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Oct 15 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e748e6870116b1f51ae9?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Oct 15 |
 | ↳ | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e3cbf462172a5a7d098d?utm_campaign=1063&utm_source=git)** | Philadelphia - South 17th | Hybrid | Oct 15 |
+| ↳ | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e55fef766b3f0fd066be?utm_campaign=1063&utm_source=git)** | Hartford - Church | Hybrid | Oct 15 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68ef968bde50091dbfa4f1f4?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 15 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Denver Summer 2026](https://jobright.ai/jobs/info/68f4c9b59a63986de75779f0?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 15 |
