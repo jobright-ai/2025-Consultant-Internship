@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68f51ad676a51a4307bd4695?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Oct 19 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68f4e0c09a65fd345858cacf?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e24e783d13d1f5b6b716c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 19 |
