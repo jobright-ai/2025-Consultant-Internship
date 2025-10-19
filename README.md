@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salam Consulting](www.salam-consulting.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/68f549f39a65fd345858d8a2?utm_campaign=1063&utm_source=git)** | Virginia, United States | Remote | Oct 19 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68f51ad676a51a4307bd4695?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Oct 19 |
-| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68f4e0c09a65fd345858cacf?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e24e783d13d1f5b6b716c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 19 |
@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9da088043103d4f21b038?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 17 |
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Oct 17 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68f23720cb0abf15612f61d1?utm_campaign=1063&utm_source=git)** | Frisco, TX | Remote | Oct 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f4a3269a63986de7576f19?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f32ea99a63986de756fb3a?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 16 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f1aecbe6870116b1f5bac3?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Oct 16 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Washington DC- Campus Program 2026](https://jobright.ai/jobs/info/68f1a234ef766b3f0fd10428?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 16 |
@@ -105,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions, Consulting, & Engineering Intern -Technical Delivery & Engineering- 2026](https://jobright.ai/jobs/info/68f4c8ca76a51a4307bd3972?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO | On Site | Oct 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 16 |
 | **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68e33eeab99ec3563b0de530?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
-| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68d3c8025ae5a90cfd481aca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
+| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68d3c8025ae5a90cfd481aca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b793bff4e41a61efd9a1c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792f91ade4306aa64c150?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b7938ff4e41a61efd9a155?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
