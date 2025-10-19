@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f4210e9a63986de7574452?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
 | ↳ | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f40b9d76a51a4307bd03b8?utm_campaign=1063&utm_source=git)** | Alexandria, Virginia | On Site | Oct 18 |
-| **[Elevare Consulting](elevareconsulting.us)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68f4022976a51a4307bd0310?utm_campaign=1063&utm_source=git)** | San Diego County, CA | Remote | Oct 18 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68f3a2c89a65fd3458587ccf?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Oct 18 |
 | **[Lakeworth Digital](https://lakeworthdigital.com/)** | **[Sales Intern - Salesforce Consulting](https://jobright.ai/jobs/info/68f390859a65fd3458587704?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 18 |
 | **[GENEX](https://genex.coop)** | **[Dairy Sales and Consulting Internship (CA, ID, OR, and WA)](https://jobright.ai/jobs/info/68d6d08dd3fe025a3015c403?utm_campaign=1063&utm_source=git)** | California, United States | On Site | Oct 18 |
@@ -82,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9da088043103d4f21b038?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 17 |
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Oct 17 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68f23720cb0abf15612f61d1?utm_campaign=1063&utm_source=git)** | Frisco, TX | Remote | Oct 17 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68f4957e9a65fd345858b29b?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Oct 17 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f32ea99a63986de756fb3a?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 16 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f1aecbe6870116b1f5bac3?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Oct 16 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Washington DC- Campus Program 2026](https://jobright.ai/jobs/info/68f1a234ef766b3f0fd10428?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 16 |
@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f37b279a63986de7572472?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 16 |
 | **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68e33eeab99ec3563b0de530?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
-| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68d3c8025ae5a90cfd481aca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
+| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b793bff4e41a61efd9a1c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792f91ade4306aa64c150?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b7938ff4e41a61efd9a155?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
@@ -128,9 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Summer Intern- Tampa Florida- Campus Program 2026](https://jobright.ai/jobs/info/68ed9fc76335d3323612a64e?utm_campaign=1063&utm_source=git)** | Tampa - N. Rocky Point | Hybrid | Oct 13 |
 | **[RubinBrown LLP](http://rubinbrown.com/)** | **[Winter/Spring 2026 Consulting Services Intern - Information Technology Risk Services (ITRS)](https://jobright.ai/jobs/info/68eef41ee0db92422580cd44?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Oct 13 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant Intern](https://jobright.ai/jobs/info/68ed956870b66e2345d3f36f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 13 |
-| **[PwC](http://pwc.com)** | **[Risk Consulting Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60385e8daec61499a767a?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Oct 12 |
-| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60a311852e62f00817973?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 12 |
+| **[PwC](http://pwc.com)** | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6de351852e62f0081fb77?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 12 |
+| ↳ | **[Risk Consulting Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60385e8daec61499a767a?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Oct 12 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6d716ae2b894b1d71e9c0?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 12 |
-| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e696cc1852e62f0081c4e6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 12 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e627d51852e62f00819839?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 12 |
+| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60751e8daec61499a77c6?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
