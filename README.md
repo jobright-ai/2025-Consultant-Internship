@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Salam Consulting](www.salam-consulting.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/68f549f39a65fd345858d8a2?utm_campaign=1063&utm_source=git)** | Virginia, United States | Remote | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e24e783d13d1f5b6b716c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 19 |
@@ -99,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Oct 16 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d4474517554c2d9eef79e8?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Oct 16 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68f0e3ccf462172a5a7d0990?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | Oct 16 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f37b279a63986de7572472?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 16 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions, Consulting, & Engineering Intern -Technical Delivery & Engineering- 2026](https://jobright.ai/jobs/info/68f4c8ca76a51a4307bd3972?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO | On Site | Oct 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 16 |
 | **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68e33eeab99ec3563b0de530?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
