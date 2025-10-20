@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Oct 20 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 20 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 20 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 20 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e3cbf462172a5a7d098d?utm_campaign=1063&utm_source=git)** | Philadelphia - South 17th | Hybrid | Oct 15 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68ef968bde50091dbfa4f1f4?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 15 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Denver Summer 2026](https://jobright.ai/jobs/info/68f4c9b59a63986de75779f0?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 15 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 14 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Financial Consulting Group (FCG) Intern - Summer](https://jobright.ai/jobs/info/68eedfbc46e5b153e5a60c66?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 14 |
