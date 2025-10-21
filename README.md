@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68cfd9a5fb49c96ca6eabf00?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
 | **[VAS](http://vas.com)** | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f74b57aed0577b7e050b63?utm_campaign=1063&utm_source=git)** | Wisconsin, United States | On Site | Oct 21 |
+| ↳ | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f76e065dc1be60128118fa?utm_campaign=1063&utm_source=git)** | Minnesota, United States | On Site | Oct 21 |
+| ↳ | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f75b33ec6dbe7073fbe94c?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Oct 21 |
+| ↳ | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f765055dc1be601281032c?utm_campaign=1063&utm_source=git)** | Tulare, CA | On Site | Oct 21 |
+| ↳ | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f76abaec6dbe7073fc12bf?utm_campaign=1063&utm_source=git)** | South Dakota, United States | On Site | Oct 21 |
 | **[URUS Group](https://www.urus.org)** | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f7136676a51a4307be0b24?utm_campaign=1063&utm_source=git)** | High Rd, Watertown, WI, 53094, US | Hybrid | Oct 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Greenville SC](https://jobright.ai/jobs/info/68f7134a9a63986de7584cb2?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Oct 20 |
 | **[URUS Group](https://www.urus.org)** | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f711c69a63986de7584c0f?utm_campaign=1063&utm_source=git)** | High Rd, Watertown, WI, 53094, US | Hybrid | Oct 20 |
@@ -136,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f4552c9a63986de7574b92?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 15 |
 | **[URUS Group](https://www.urus.org)** | **[Calf Performance Consultant Internship (SD)](https://jobright.ai/jobs/info/68f105f5f462172a5a7d2415?utm_campaign=1063&utm_source=git)** | 117 East Green Bay St, Shawano, WI, 54166, US | On Site | Oct 15 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f022c29821486c423c9398?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Oct 15 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e748e6870116b1f51ae9?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Oct 15 |
-| ↳ | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e3cbf462172a5a7d098d?utm_campaign=1063&utm_source=git)** | Philadelphia - South 17th | Hybrid | Oct 15 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e3cbf462172a5a7d098d?utm_campaign=1063&utm_source=git)** | Philadelphia - South 17th | Hybrid | Oct 15 |
 | ↳ | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e55fef766b3f0fd066be?utm_campaign=1063&utm_source=git)** | Hartford - Church | Hybrid | Oct 15 |
+| ↳ | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e748e6870116b1f51ae9?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Oct 15 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68ef968bde50091dbfa4f1f4?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 15 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
