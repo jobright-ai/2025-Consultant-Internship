@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protiviti](http://www.protiviti.com)** | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/68f7fdb3ec6dbe7073fcfcae?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 21 |
+| ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68f7faceb0edcf159dc8d09a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 21 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68f7b1f9b0edcf159dc86b14?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Oct 21 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb81d676a1db7c5986090d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 21 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68eca8261eecd439f43fcbbf?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ce6647fb49c96ca6e9ffc4?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 16 |
 | **[GENEX](https://genex.coop)** | **[Calf Performance Consultant Internship (SD)](https://jobright.ai/jobs/info/68f08d3ceb273a32d9769874?utm_campaign=1063&utm_source=git)** | South Dakota, United States | On Site | Oct 15 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f4552c9a63986de7574b92?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 15 |
 | **[URUS Group](https://www.urus.org)** | **[Calf Performance Consultant Internship (SD)](https://jobright.ai/jobs/info/68f105f5f462172a5a7d2415?utm_campaign=1063&utm_source=git)** | 117 East Green Bay St, Shawano, WI, 54166, US | On Site | Oct 15 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f022c29821486c423c9398?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Oct 15 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Actuarial Summer Intern- East Market- College Program 2026](https://jobright.ai/jobs/info/68f0e3cbf462172a5a7d098d?utm_campaign=1063&utm_source=git)** | Philadelphia - South 17th | Hybrid | Oct 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68ef968bde50091dbfa4f1f4?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 15 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
-| **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
