@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68daf5a96df7b8311bb14cd7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Oct 21 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68cf2de5fb49c96ca6ea6356?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68cfd9a5fb49c96ca6eabf00?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
+| ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 21 |
 | **[VAS](http://vas.com)** | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f74b57aed0577b7e050b63?utm_campaign=1063&utm_source=git)** | Wisconsin, United States | On Site | Oct 21 |
 | ↳ | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f76e065dc1be60128118fa?utm_campaign=1063&utm_source=git)** | Minnesota, United States | On Site | Oct 21 |
 | ↳ | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f75b33ec6dbe7073fbe94c?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Oct 21 |
 | ↳ | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f765055dc1be601281032c?utm_campaign=1063&utm_source=git)** | Tulare, CA | On Site | Oct 21 |
 | ↳ | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f76abaec6dbe7073fc12bf?utm_campaign=1063&utm_source=git)** | South Dakota, United States | On Site | Oct 21 |
+| ↳ | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f77d815dc1be6012813c2f?utm_campaign=1063&utm_source=git)** | Twin Falls, ID | On Site | Oct 21 |
 | **[URUS Group](https://www.urus.org)** | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f7136676a51a4307be0b24?utm_campaign=1063&utm_source=git)** | High Rd, Watertown, WI, 53094, US | Hybrid | Oct 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Greenville SC](https://jobright.ai/jobs/info/68f7134a9a63986de7584cb2?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Oct 20 |
 | **[URUS Group](https://www.urus.org)** | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f711c69a63986de7584c0f?utm_campaign=1063&utm_source=git)** | High Rd, Watertown, WI, 53094, US | Hybrid | Oct 20 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant - Intern](https://jobright.ai/jobs/info/68f6c2589a63986de758223b?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Oct 20 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Building Products Consulting](https://jobright.ai/jobs/info/68f6a8f29a63986de7580f94?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 20 |
 | ↳ | **[Summer 2026 - Intern - Consulting (Houston)](https://jobright.ai/jobs/info/68f6a86f76a51a4307bdceb5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 20 |
-| ↳ | **[Summer 2026 - Intern - Consulting (San Diego)](https://jobright.ai/jobs/info/68f6a59276a51a4307bdcbab?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 20 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting](https://jobright.ai/jobs/info/68f6a4d29a65fd3458595a2f?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 20 |
+| **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Consulting (Boca Raton)](https://jobright.ai/jobs/info/68f6a12d9a65fd34585955dc?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Oct 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Consulting Quality & Risk Intern](https://jobright.ai/jobs/info/68f6a07a76a51a4307bdc78a?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Oct 20 |
 | ↳ | **[Consulting Quality & Risk Intern](https://jobright.ai/jobs/info/68f69ec09a63986de75805ee?utm_campaign=1063&utm_source=git)** | Oakbrook Terrace, IL | On Site | Oct 20 |
 | ↳ | **[Consulting Quality & Risk Intern](https://jobright.ai/jobs/info/68f69e709a63986de758059c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 20 |
@@ -86,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 20 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 20 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 20 |
-| **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Consulting (Boca Raton)](https://jobright.ai/jobs/info/68f698459a63986de75800cf?utm_campaign=1063&utm_source=git)** | Boca Raton, FL | On Site | Oct 19 |
+| **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Consulting (San Diego)](https://jobright.ai/jobs/info/68f6968576a51a4307bdbfdf?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk Accounting and Advisory Services Consulting Internship](https://jobright.ai/jobs/info/689e24e783d13d1f5b6b716c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 19 |
@@ -131,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68f0e3ccf462172a5a7d0990?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | Oct 16 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions, Consulting, & Engineering Intern -Technical Delivery & Engineering- 2026](https://jobright.ai/jobs/info/68f4c8ca76a51a4307bd3972?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO | On Site | Oct 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 16 |
-| **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68d3c8025ae5a90cfd481aca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
-| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
+| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
+| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68d3c8025ae5a90cfd481aca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b793bff4e41a61efd9a1c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792f91ade4306aa64c150?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68eca8261eecd439f43fcbbf?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
