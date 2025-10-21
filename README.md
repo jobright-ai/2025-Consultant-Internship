@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68f7b3cd5dc1be60128196d5?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Oct 21 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68f7b1f9b0edcf159dc86b14?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Oct 21 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb81d676a1db7c5986090d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 21 |
@@ -133,6 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health Consulting Summer Intern- Washington DC- Campus Program 2026](https://jobright.ai/jobs/info/68f16656f462172a5a7d7dcc?utm_campaign=1063&utm_source=git)** | Washington - Conn Ave NW | Hybrid | Oct 16 |
 | **[Red Hat](http://www.redhat.com)** | **[AI Consulting Intern](https://jobright.ai/jobs/info/68f158e3f462172a5a7d6c5b?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Oct 16 |
 | ↳ | **[AI Consulting Intern](https://jobright.ai/jobs/info/68f156adf462172a5a7d66be?utm_campaign=1063&utm_source=git)** | Raleigh | On Site | Oct 16 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f7d9625dc1be601281cc33?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 16 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68f0f3dbf462172a5a7d169b?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Oct 16 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68f0f0cbe6870116b1f51f3b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 16 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Oct 16 |
@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68f0e3ccf462172a5a7d0990?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | Oct 16 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions, Consulting, & Engineering Intern -Technical Delivery & Engineering- 2026](https://jobright.ai/jobs/info/68f4c8ca76a51a4307bd3972?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO | On Site | Oct 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 16 |
-| **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68d3c8025ae5a90cfd481aca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
-| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
+| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
+| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68d3c8025ae5a90cfd481aca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b793bff4e41a61efd9a1c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792f91ade4306aa64c150?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 16 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68eca8261eecd439f43fcbbf?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
