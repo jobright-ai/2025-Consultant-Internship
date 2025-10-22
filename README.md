@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4537ddc10244dd6737c0?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Oct 22 |
+| ↳ | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Oct 22 |
+| **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c2574363b706703e114191?utm_campaign=1063&utm_source=git)** | District of Columbia | On Site | Oct 22 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4486a125e75c4229ee33?utm_campaign=1063&utm_source=git)** | Riverside, CA | On Site | Oct 22 |
+| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Group Internal Consulting - Data Science](https://jobright.ai/jobs/info/68dc9f8eddc10244dd677a6f?utm_campaign=1063&utm_source=git)** | Weehawken, NJ | On Site | Oct 22 |
+| ↳ | **[2026 Summer Internship - Group Internal Consulting](https://jobright.ai/jobs/info/68f5e1ff9a65fd345858f987?utm_campaign=1063&utm_source=git)** | Weehawken, NJ | On Site | Oct 22 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/68dc849cddc10244dd67630d?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Oct 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Oct 22 |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68f305959a65fd3458582ec2?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 22 |
@@ -70,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Internship: Data Analysis/Data Engineering (Summer 2026)](https://jobright.ai/jobs/info/68dc8712accfd24b67e565c9?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Oct 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68cd93fbb2a74e1837ed8eba?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Oct 22 |
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68d76a9961a175619f8cc87b?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 22 |
+| ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/68f86105a628d10664e82589?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68f85400a628d10664e81c61?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9da088043103d4f21b038?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 17 |
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Oct 17 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68f8aab66de2db04dc3e13fa?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 17 |
-| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68f23720cb0abf15612f61d1?utm_campaign=1063&utm_source=git)** | Frisco, TX | Remote | Oct 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68f5f6b59a63986de757baec?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68f8755e4bafad6d2d762d99?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Oct 16 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f1aecbe6870116b1f5bac3?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Oct 16 |
-| **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Washington DC- Campus Program 2026](https://jobright.ai/jobs/info/68f1a234ef766b3f0fd10428?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 16 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Summer Intern- Louisville KY- College Program 2026](https://jobright.ai/jobs/info/68f17a09e6870116b1f59842?utm_campaign=1063&utm_source=git)** | Louisville - West Market | Hybrid | Oct 16 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/68f8059bb0edcf159dc8dc8f?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
