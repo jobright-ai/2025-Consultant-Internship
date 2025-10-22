@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBIZ](http://www.cbiz.com)** | **[Compensation Consulting Intern / Summer 2026](https://jobright.ai/jobs/info/68f950bfa628d10664e8be1a?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Oct 22 |
+| **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Asset & Wealth Management – North America Consulting Internship  Program ](https://jobright.ai/jobs/info/68f93a976de2db04dc3e6ee7?utm_campaign=1063&utm_source=git)** | US- New York City | On Site | Oct 22 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68f9130fcadb2e5a06a60cab?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Oct 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fcd96de2db04dc3e398b?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fb456de2db04dc3e3754?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 22 |
@@ -137,14 +139,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68d76a9961a175619f8cc87b?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 22 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/68f86105a628d10664e82589?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68f85400a628d10664e81c61?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
 | ↳ | **[Atlanta Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68f853536de2db04dc3ddfb9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 21 |
 | **[Experian](http://www.experianplc.com)** | **[Analytic Consulting Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f841206de2db04dc3dd308?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Oct 21 |
 | ↳ | **[Analytic Consulting Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83dd74bafad6d2d760b09?utm_campaign=1063&utm_source=git)** | United States, United States, United States, United States | Hybrid | Oct 21 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/68f812e0b0edcf159dc8e6d1?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Oct 21 |
 | ↳ | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/68f80f5db0edcf159dc8e346?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Oct 21 |
-| **[Zyric Grid](https://www.linkedin.com/company/88692952)** | **[Finance & Consulting Intern – Embark Scholars Programr](https://jobright.ai/jobs/info/68f8072cb0edcf159dc8ddcc?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Remote | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68f8011e5dc1be601282014a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 21 |
 | ↳ | **[Dallas Legal Consulting Intern - 2026](https://jobright.ai/jobs/info/68f7fdb3ec6dbe7073fcfcae?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 21 |
 | ↳ | **[New York City Technology Consulting Intern - 2026](https://jobright.ai/jobs/info/68f7faceb0edcf159dc8d09a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 21 |
