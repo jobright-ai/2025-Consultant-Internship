@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68f9130fcadb2e5a06a60cab?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Oct 22 |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/68f90bbf6de2db04dc3e4a71?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Oct 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fcd96de2db04dc3e398b?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fb456de2db04dc3e3754?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fb096de2db04dc3e36c6?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Oct 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68cfd9a5fb49c96ca6eabf00?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 21 |
 | **[VAS](http://vas.com)** | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f74b57aed0577b7e050b63?utm_campaign=1063&utm_source=git)** | Wisconsin, United States | On Site | Oct 21 |
+| ↳ | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f76e065dc1be60128118fa?utm_campaign=1063&utm_source=git)** | Minnesota, United States | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
