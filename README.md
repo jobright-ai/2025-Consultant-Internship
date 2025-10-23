@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68ddf81e09bda65a4b6255e3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Oct 23 |
 | **[United Airlines](https://www.united.com)** | **[Graduate/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68f9edd17ab77a56387e86a4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68f84f336de2db04dc3ddcc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 23 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Oct 23 |
@@ -71,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Oct 23 |
-| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
+| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | **[The Elume Group](www.elumegroup.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/68f96e346de2db04dc3e9231?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
 | **[CBIZ](http://www.cbiz.com)** | **[Compensation Consulting Intern / Summer 2026](https://jobright.ai/jobs/info/68f950bfa628d10664e8be1a?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Oct 22 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Asset & Wealth Management – North America Consulting Internship  Program ](https://jobright.ai/jobs/info/68f93a976de2db04dc3e6ee7?utm_campaign=1063&utm_source=git)** | US- New York City | On Site | Oct 22 |
@@ -146,7 +147,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Consultant (Intern) - Economic Litigation Consulting](https://jobright.ai/jobs/info/68f34f6e9a65fd345858627e?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Software Engineering (Summer 2026)](https://jobright.ai/jobs/info/68dc868fa125e75c422a1937?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Oct 22 |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Investigations (BI&I)](https://jobright.ai/jobs/info/68f1d505e6870116b1f5d7f2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| ↳ | **[Associate Consultant (Intern) - National Security & CFIUS](https://jobright.ai/jobs/info/68f20c27d5fc646bd1de5269?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68f1b095ef766b3f0fd10ed4?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68f2143565ce784c102ed87b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Business Systems Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eb518e8369791ef7825947?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Oct 22 |
