@@ -119,8 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f900156de2db04dc3e3e5a?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90a8fcadb2e5a06a604a4?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f900736de2db04dc3e3ef2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4537ddc10244dd6737c0?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Oct 22 |
-| ↳ | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Oct 22 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Oct 22 |
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c2574363b706703e114191?utm_campaign=1063&utm_source=git)** | District of Columbia | On Site | Oct 22 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4486a125e75c4229ee33?utm_campaign=1063&utm_source=git)** | Riverside, CA | On Site | Oct 22 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Group Internal Consulting - Data Science](https://jobright.ai/jobs/info/68dc9f8eddc10244dd677a6f?utm_campaign=1063&utm_source=git)** | Weehawken, NJ | On Site | Oct 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 21 |
 | **[VAS](http://vas.com)** | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f74b57aed0577b7e050b63?utm_campaign=1063&utm_source=git)** | Wisconsin, United States | On Site | Oct 21 |
 | ↳ | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f76e065dc1be60128118fa?utm_campaign=1063&utm_source=git)** | Minnesota, United States | On Site | Oct 21 |
+| ↳ | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f75b33ec6dbe7073fbe94c?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
