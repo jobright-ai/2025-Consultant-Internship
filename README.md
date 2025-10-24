@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/68fbd79cf55bb021a889d0ee?utm_campaign=1063&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Oct 24 |
+| **[Creative Artists Agency](http://www.caa.com)** | **[CAA ICON - Summer 2026 Strategic Advisory Intern (Denver)](https://jobright.ai/jobs/info/68fbf26a93c49825ab107ae0?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 24 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/68fbe2e7f55bb021a889d994?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
+| ↳ | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/68fbd79cf55bb021a889d0ee?utm_campaign=1063&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Oct 24 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Finance & Consulting Intern – Embark Scholars Program](https://jobright.ai/jobs/info/68fbc22b4129dd33cd134640?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4c9879a63986de7577961?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f5f1919a63986de757b862?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4882d76a51a4307bd20a0?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f487e976a51a4307bd2010?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4550a76a51a4307bd0b32?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f439809a63986de75745c4?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49d9b9a63986de7576ba8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f439809a63986de75745c4?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4ad5276a51a4307bd3236?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4094a9a65fd3458589010?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4bb1e76a51a4307bd34f0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90704cadb2e5a06a6000c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fedaa628d10664e876b9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902236de2db04dc3e41bf?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902c66de2db04dc3e4240?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8ff48cadb2e5a06a5f772?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
