@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arup](http://www.arup.com)** | **[Sustainability Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68faa32367272b29af73209f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9fb3b2c86843bf2105e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9e6db2c86843bf2104c2?utm_campaign=1063&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9e4367272b29af731f40?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 23 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9882edd190144238ed8d?utm_campaign=1063&utm_source=git)** | Research Park, CA | Hybrid | Oct 23 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa908167272b29af730f7a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Oct 23 |
-| **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68fa980eb2c86843bf20fd95?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
+| **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68faac55b2c86843bf210e3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
+| ↳ | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68fa980eb2c86843bf20fd95?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68ddf81e09bda65a4b6255e3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Oct 23 |
 | **[United Airlines](https://www.united.com)** | **[Graduate/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68f9edd17ab77a56387e86a4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/68f84f336de2db04dc3ddcc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 23 |
@@ -78,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Oct 23 |
-| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
-| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
+| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
+| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | **[The Elume Group](www.elumegroup.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/68f96e346de2db04dc3e9231?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
 | **[CBIZ](http://www.cbiz.com)** | **[Compensation Consulting Intern / Summer 2026](https://jobright.ai/jobs/info/68f950bfa628d10664e8be1a?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Oct 22 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Asset & Wealth Management – North America Consulting Internship  Program ](https://jobright.ai/jobs/info/68f93a976de2db04dc3e6ee7?utm_campaign=1063&utm_source=git)** | US- New York City | On Site | Oct 22 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90704cadb2e5a06a6000c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fedaa628d10664e876b9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902236de2db04dc3e41bf?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8ff48cadb2e5a06a5f772?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902c66de2db04dc3e4240?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
+| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8ff48cadb2e5a06a5f772?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90165a628d10664e87b2d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8ff8b6de2db04dc3e3d4a?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f9103ba628d10664e88bfe?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Investigations (BI&I)](https://jobright.ai/jobs/info/68f1d505e6870116b1f5d7f2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68f1b095ef766b3f0fd10ed4?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/68f2143565ce784c102ed87b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
-| **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Business Systems Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eb518e8369791ef7825947?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Oct 22 |
-| ↳ | **[Consulting Internship: Data Analysis/Data Engineering (Summer 2026)](https://jobright.ai/jobs/info/68dc8712accfd24b67e565c9?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
