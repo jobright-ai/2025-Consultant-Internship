@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 25 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd274b99ec3563b0c981d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 25 |
+| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68ce9b89dbd9fb154ede133d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68fcb0370ab3b2224629e849?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 25 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68cd9682e23def7af55bc4cf?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Oct 25 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68e03b5b1852e62f007e9009?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Oct 25 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68e035b4f758fe1f97e4b112?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68cd6326b2a74e1837ed6512?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 25 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68e03305b99ec3563b0cd03c?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68e3ed8bf758fe1f97e61c3d?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68ccdfe577add66568abb09c?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Oct 25 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 25 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/68fc8a41664c6f162a951a29?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 | **[ReliefWeb](http://reliefweb.int/)** | **[INTERNATIONAL TENDER FOR “WASH EXPERT-UKRAINE” Reference: WW/WASH/UKR/2025/IOT01](https://jobright.ai/jobs/info/68fc5f7a4129dd33cd13b862?utm_campaign=1063&utm_source=git)** | Boise, ID | On Site | Oct 24 |
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c257a763b706703e114224?utm_campaign=1063&utm_source=git)** | Omaha Riverfront | On Site | Oct 24 |
@@ -73,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Hantz Group](http://hantzgroup.com)** | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8ec139d0ae3279af7a35?utm_campaign=1063&utm_source=git)** | Sault Sainte Marie, MI, US | On Site | Oct 24 |
 | ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc9628664c6f162a952d06?utm_campaign=1063&utm_source=git)** | Okemos, MI, US | On Site | Oct 24 |
 | ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc7fcd664c6f162a950640?utm_campaign=1063&utm_source=git)** | Maumee, OH, US | On Site | Oct 24 |
+| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fcb830e0c73b3a1118f1be?utm_campaign=1063&utm_source=git)** | Mount Pleasant, MI, US | On Site | Oct 24 |
 | ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc9c820ab3b2224629da20?utm_campaign=1063&utm_source=git)** | Taylor, MI, US | On Site | Oct 24 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/68fbe2e7f55bb021a889d994?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8d9639d0ae3279af7899?utm_campaign=1063&utm_source=git)** | Canton, MI, US | On Site | Oct 24 |
@@ -130,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Oct 23 |
-| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
+| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Oct 23 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Asset & Wealth Management – North America Consulting Internship  Program ](https://jobright.ai/jobs/info/68f93a976de2db04dc3e6ee7?utm_campaign=1063&utm_source=git)** | US- New York City | On Site | Oct 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fcd96de2db04dc3e398b?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Oct 22 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f82ccadb2e5a06a5eae5?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 22 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f81fa628d10664e86e80?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f775cadb2e5a06a5e948?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 22 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f762cadb2e5a06a5e918?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f6da6de2db04dc3e32b4?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f666a628d10664e86b3c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
-| ↳ | **[Risk Consulting Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f6426de2db04dc3e31d5?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f5266de2db04dc3e308b?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f4a76de2db04dc3e3011?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f4566de2db04dc3e2fb1?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f42da628d10664e86862?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3f16de2db04dc3e2f48?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f37fa628d10664e8676c?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f35b6de2db04dc3e2e6d?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f2a26de2db04dc3e2d81?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
