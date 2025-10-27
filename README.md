@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Oct 27 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Consulting and Accounting Internship](https://jobright.ai/jobs/info/68ffc7360ab3b222462addfd?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Oct 27 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/68ffbdf10ab3b222462ad8ac?utm_campaign=1063&utm_source=git)** | Kentucky, United States | On Site | Oct 27 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4d7377279451d6a0381fb?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Oct 26 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Financial Consulting Group (FCG) Intern - Summer](https://jobright.ai/jobs/info/68fd5cae0ab3b222462a1b3b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
+| **[Orion Health](http://www.orionhealth.com)** | **[Associate Implementation Consultant Intern](https://jobright.ai/jobs/info/68ffdd24e0c73b3a1119f812?utm_campaign=1063&utm_source=git)** | Minot, ND | On Site | Oct 25 |
+| ↳ | **[Associate Implementation Consultant Intern](https://jobright.ai/jobs/info/68ffe199e0c73b3a1119fe32?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68df5055fe896042b0b7962f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e03b7ef758fe1f97e4b615?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Oct 25 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfef86f758fe1f97e48065?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
@@ -121,9 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f405e09a65fd3458588fc9?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49db876a51a4307bd2c09?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f492f39a63986de757624d?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
-| **[Thought Logic Consulting](http://thought-logic.com/)** | **[Data & Analytics Consulting Intern - ATL](https://jobright.ai/jobs/info/68df6d085ab4977c2e954716?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
-| ↳ | **[Finance Technology Enablement Intern - Minneapolis](https://jobright.ai/jobs/info/68df6dbafe896042b0b7abf3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4d57d9a63986de7577baa?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4d57d9a63986de7577baa?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ff73d7e0c73b3a1119b84a?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Oct 24 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68cd9fade23def7af55bd07f?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Oct 24 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68ce71abdbd9fb154eddfb88?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Oct 24 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Oct 23 |
-| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
+| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
