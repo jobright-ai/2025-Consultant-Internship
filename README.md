@@ -122,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Thought Logic Consulting](http://thought-logic.com/)** | **[Data & Analytics Consulting Intern - ATL](https://jobright.ai/jobs/info/68df6d085ab4977c2e954716?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
 | ↳ | **[Finance Technology Enablement Intern - Minneapolis](https://jobright.ai/jobs/info/68df6dbafe896042b0b7abf3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4d57d9a63986de7577baa?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ff73d7e0c73b3a1119b84a?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Oct 24 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68cd9fade23def7af55bd07f?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Oct 24 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68ce71abdbd9fb154eddfb88?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Oct 24 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68ce7f55fb49c96ca6ea10b0?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Oct 23 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Asset & Wealth Management – North America Consulting Internship  Program ](https://jobright.ai/jobs/info/68f93a976de2db04dc3e6ee7?utm_campaign=1063&utm_source=git)** | US- New York City | On Site | Oct 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fcd96de2db04dc3e398b?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Oct 22 |
-| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fb456de2db04dc3e3754?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
