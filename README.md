@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/69010b1af8ce7a040fdbb8cf?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Oct 28 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/68e4420ab99ec3563b0e840d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Health Plan Data Consulting Master's Internship](https://jobright.ai/jobs/info/6900befdd5259a1b3cfee483?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Oct 28 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68e42973b99ec3563b0e6cad?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68ce1a4d1ad6b16f028a1d51?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Oct 23 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68ce483c846f0b04af677ccf?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/68a3753837d3cc6b0d576fe1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Oct 23 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
