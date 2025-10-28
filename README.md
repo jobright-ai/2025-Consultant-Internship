@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49db876a51a4307bd2c09?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f492f39a63986de757624d?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4d57d9a63986de7577baa?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/68ff73d7e0c73b3a1119b84a?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Oct 24 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68cd9fade23def7af55bd07f?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Oct 24 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68ce71abdbd9fb154eddfb88?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Oct 24 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68ce7f55fb49c96ca6ea10b0?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 24 |
@@ -154,7 +153,8 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Oct 23 |
-| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
+| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
