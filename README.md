@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 29 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901b7e7d5259a1b3cff7697?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | ↳ | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901a320d5259a1b3cff6df4?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 28 |
 | ↳ | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901c89c4539ea1f21422f19?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68faac55b2c86843bf210e3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | ↳ | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68fa980eb2c86843bf20fd95?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[United Airlines](https://www.united.com)** | **[Graduate/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68f9edd17ab77a56387e86a4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
