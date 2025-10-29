@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901a320d5259a1b3cff6df4?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 28 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901b7e7d5259a1b3cff7697?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| ↳ | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901a320d5259a1b3cff6df4?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 28 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/6901a05ed5259a1b3cff6ccb?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901bc12f8ce7a040fdc2456?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Oct 28 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Health Plan Data Consulting Master&amp;#8217;s Internship](https://jobright.ai/jobs/info/69016fd5f8ce7a040fdbfb4f?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Oct 28 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/69016e1d4539ea1f2141ff32?utm_campaign=1063&utm_source=git)** | 901 Fifth Avenue, Suite 3900, Seattle, United States | On Site | Oct 28 |
 | **[PROJXON](www.projxon.com)** | **[Junior Consultant (MBA) Nonprofit Intern](https://jobright.ai/jobs/info/6901494af8ce7a040fdbe7f7?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68faac55b2c86843bf210e3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | ↳ | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68fa980eb2c86843bf20fd95?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[United Airlines](https://www.united.com)** | **[Graduate/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68f9edd17ab77a56387e86a4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Oct 23 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68fcd2ab0ab3b2224629fb13?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
