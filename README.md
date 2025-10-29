@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed Application Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6902311000a1816c41e9baae?utm_campaign=1063&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 29 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/6902291a00a1816c41e9b7ec?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Oct 29 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 29 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Actuarial Consulting, State Health - Campus 2026](https://jobright.ai/jobs/info/68e5cbd1ae2b894b1d713942?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901b7e7d5259a1b3cff7697?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | ↳ | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901a320d5259a1b3cff6df4?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 28 |
 | ↳ | **[Intern Business Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6901c89c4539ea1f21422f19?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 28 |
@@ -127,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4882d76a51a4307bd20a0?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f487e976a51a4307bd2010?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4550a76a51a4307bd0b32?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49d9b9a63986de7576ba8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f439809a63986de75745c4?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49d9b9a63986de7576ba8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4ad5276a51a4307bd3236?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4094a9a65fd3458589010?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4bb1e76a51a4307bd34f0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9e4367272b29af731f40?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 23 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcc?utm_campaign=1063&utm_source=git)** | Research Park, CA | On Site | Oct 23 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa908167272b29af730f7a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Oct 23 |
-| **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68faac55b2c86843bf210e3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
-| ↳ | **[Consulting Services Intern - Networking Event with AECOM - Chicago](https://jobright.ai/jobs/info/68fa980eb2c86843bf20fd95?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
-| **[United Airlines](https://www.united.com)** | **[Graduate/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68f9edd17ab77a56387e86a4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
