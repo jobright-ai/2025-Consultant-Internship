@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern -  Management Consulting](https://jobright.ai/jobs/info/6902858198707b2b0fe708a0?utm_campaign=1063&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Oct 29 |
+| **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/690294d2ff462851fefe4ebe?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
+| ↳ | **[2026 Consulting Internship](https://jobright.ai/jobs/info/69028fd100a1816c41e9fb97?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
+| ↳ | **[2026 Consulting Internship](https://jobright.ai/jobs/info/6902929598707b2b0fe7139b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 29 |
 | **[Withum](http://www.withum.com)** | **[Summer Management Consulting Internship 2026](https://jobright.ai/jobs/info/69026e58ff462851fefe2ec7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Varmoda Tech](www.varmoda.com)** | **[Internship Opportunity](https://jobright.ai/jobs/info/6902652598707b2b0fe6edf9?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 29 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Insurance – North America Consulting Internship Program ](https://jobright.ai/jobs/info/6902435e00a1816c41e9c484?utm_campaign=1063&utm_source=git)** | New York City | On Site | Oct 29 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4882d76a51a4307bd20a0?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f487e976a51a4307bd2010?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4550a76a51a4307bd0b32?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49d9b9a63986de7576ba8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f439809a63986de75745c4?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49d9b9a63986de7576ba8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4ad5276a51a4307bd3236?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4094a9a65fd3458589010?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4bb1e76a51a4307bd34f0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/68cffb76846f0b04af686ab5?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68fb4a3c4129dd33cd131616?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 24 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68ff2b76e0c73b3a1119a277?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6901a9cbf8ce7a040fdc1c59?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 23 |
-| **[Arup](http://www.arup.com)** | **[Sustainability Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68faa32367272b29af73209f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
-| **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9fb3b2c86843bf2105e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
