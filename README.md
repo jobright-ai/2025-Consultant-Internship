@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Consulting Intern (Markets)](https://jobright.ai/jobs/info/68cf4774fb49c96ca6ea69e3?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c257a763b706703e114224?utm_campaign=1063&utm_source=git)** | Omaha Riverfront | On Site | Oct 29 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Management Consulting](https://jobright.ai/jobs/info/6902bf69ff462851fefe6187?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | ↳ | **[2026 Starr Summer Intern -  Management Consulting](https://jobright.ai/jobs/info/6902858198707b2b0fe708a0?utm_campaign=1063&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Oct 29 |
-| **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/690294d2ff462851fefe4ebe?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
-| ↳ | **[2026 Consulting Internship](https://jobright.ai/jobs/info/6902929598707b2b0fe7139b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 29 |
+| **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/6902929598707b2b0fe7139b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 29 |
 | ↳ | **[2026 Consulting Internship](https://jobright.ai/jobs/info/69028fd100a1816c41e9fb97?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
+| ↳ | **[2026 Consulting Internship](https://jobright.ai/jobs/info/690294d2ff462851fefe4ebe?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
 | **[Withum](http://www.withum.com)** | **[Summer Management Consulting Internship 2026](https://jobright.ai/jobs/info/69026e58ff462851fefe2ec7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Varmoda Tech](www.varmoda.com)** | **[Internship Opportunity](https://jobright.ai/jobs/info/6902652598707b2b0fe6edf9?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 29 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Insurance – North America Consulting Internship Program ](https://jobright.ai/jobs/info/6902435e00a1816c41e9c484?utm_campaign=1063&utm_source=git)** | New York City | On Site | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68ce71abdbd9fb154eddfb88?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Oct 24 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68ce7f55fb49c96ca6ea10b0?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 24 |
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/68cffb76846f0b04af686ab5?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68fb4a3c4129dd33cd131616?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
