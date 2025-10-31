@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/68e87818cc49a84b7e1067c4?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69000962e04ac838fb5be93c?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/68ebeaba8369791ef78286d8?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Revenue Cycle Consulting Intern](https://jobright.ai/jobs/info/68cf73acdbd9fb154ede7f64?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68cc51e07342c7623ae628cd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 31 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/69045429d64a22104aa98f53?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/69041e1363502c0aded7081d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/6903d812ff462851fefefb23?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 30 |
@@ -128,11 +130,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8731664c6f162a951532?utm_campaign=1063&utm_source=git)** | Traverse City, MI, US | On Site | Oct 24 |
 | **[Summit Leadership Partners](https://www.summitleadership.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/68fc932039d0ae3279af7e44?utm_campaign=1063&utm_source=git)** | Charlotte, NC, US | On Site | Oct 24 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8ec139d0ae3279af7a35?utm_campaign=1063&utm_source=git)** | Sault Sainte Marie, MI, US | On Site | Oct 24 |
-| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc9628664c6f162a952d06?utm_campaign=1063&utm_source=git)** | Okemos, MI, US | On Site | Oct 24 |
-| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc7fcd664c6f162a950640?utm_campaign=1063&utm_source=git)** | Maumee, OH, US | On Site | Oct 24 |
-| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fcb830e0c73b3a1118f1be?utm_campaign=1063&utm_source=git)** | Mount Pleasant, MI, US | On Site | Oct 24 |
-| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc9c820ab3b2224629da20?utm_campaign=1063&utm_source=git)** | Taylor, MI, US | On Site | Oct 24 |
-| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8d9639d0ae3279af7899?utm_campaign=1063&utm_source=git)** | Canton, MI, US | On Site | Oct 24 |
-| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/68fc880b664c6f162a95179e?utm_campaign=1063&utm_source=git)** | West Chester, PA, US | On Site | Oct 24 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/68fbd79cf55bb021a889d0ee?utm_campaign=1063&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
