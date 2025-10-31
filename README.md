@@ -132,12 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8d9639d0ae3279af7899?utm_campaign=1063&utm_source=git)** | Canton, MI, US | On Site | Oct 24 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/68fc880b664c6f162a95179e?utm_campaign=1063&utm_source=git)** | West Chester, PA, US | On Site | Oct 24 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/68fbd79cf55bb021a889d0ee?utm_campaign=1063&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Oct 24 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4c9879a63986de7577961?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f5f1919a63986de757b862?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f320219a63986de756f453?utm_campaign=1063&utm_source=git)** | Brooklyn, NY | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f347d49a65fd3458585e68?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f493c076a51a4307bd236a?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4882d76a51a4307bd20a0?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f487e976a51a4307bd2010?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4550a76a51a4307bd0b32?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
