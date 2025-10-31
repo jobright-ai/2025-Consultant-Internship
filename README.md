@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/6904f45eff462851feff8fd0?utm_campaign=1063&utm_source=git)** | McLean | On Site | Oct 31 |
+| **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6904e8e9122e8474c78d4212?utm_campaign=1063&utm_source=git)** | Darrell Waltrip Honda | On Site | Oct 31 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68cf10dc846f0b04af67f0cd?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/68e7e62bcc49a84b7e0ff0ec?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 31 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/68e87818cc49a84b7e1067c4?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 31 |
@@ -125,6 +127,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[CAA ICON](http://iconvenue.com)** | **[CAA ICON - Summer 2026 Strategic Advisory Intern (Denver)](https://jobright.ai/jobs/info/68fc405b4129dd33cd13a2d0?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68fee5ebe04ac838fb5b53fd?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Commercial Financial Services Advisory - Campus 2026](https://jobright.ai/jobs/info/68fc0e50f55bb021a889feb8?utm_campaign=1063&utm_source=git)** | US - VA, Arlington | On Site | Oct 24 |
-| ↳ | **[Intern - Commercial Financial Services Advisory - Campus 2026](https://jobright.ai/jobs/info/68fc0e104129dd33cd13847b?utm_campaign=1063&utm_source=git)** | US - VA, McLean | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
