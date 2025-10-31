@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/690527ac63502c0aded78d07?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6904e8e9122e8474c78d4212?utm_campaign=1063&utm_source=git)** | Darrell Waltrip Honda | On Site | Oct 31 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68cf10dc846f0b04af67f0cd?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/68e7e62bcc49a84b7e0ff0ec?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 31 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Revenue Cycle Consulting Intern](https://jobright.ai/jobs/info/68cf73acdbd9fb154ede7f64?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68cc51e07342c7623ae628cd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/68e81e4acc49a84b7e10243a?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
-| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/69045429d64a22104aa98f53?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/6903d812ff462851fefefb23?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Oct 30 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Industry Consultant Intern – Risk, Fraud and Compliance Solutions](https://jobright.ai/jobs/info/6903c3dcff462851fefee7c4?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68ccdfe577add66568abb09c?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Oct 25 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 25 |
-| **[CAA ICON](http://iconvenue.com)** | **[CAA ICON - Summer 2026 Strategic Advisory Intern (Denver)](https://jobright.ai/jobs/info/68fc405b4129dd33cd13a2d0?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
