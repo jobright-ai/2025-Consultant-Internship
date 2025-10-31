@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/69041e1363502c0aded7081d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/6903d812ff462851fefefb23?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Oct 30 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Industry Consultant Intern – Risk, Fraud and Compliance Solutions](https://jobright.ai/jobs/info/6903c3dcff462851fefee7c4?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
@@ -71,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Gallup](http://www.gallup.com)** | **[Workplace Advisory Consulting Intern — Summer 2026](https://jobright.ai/jobs/info/68c257a763b706703e114224?utm_campaign=1063&utm_source=git)** | Omaha Riverfront | On Site | Oct 29 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Management Consulting](https://jobright.ai/jobs/info/6902bf69ff462851fefe6187?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | ↳ | **[2026 Starr Summer Intern -  Management Consulting](https://jobright.ai/jobs/info/6902858198707b2b0fe708a0?utm_campaign=1063&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Oct 29 |
-| **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/69028fd100a1816c41e9fb97?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
-| ↳ | **[2026 Consulting Internship](https://jobright.ai/jobs/info/690294d2ff462851fefe4ebe?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
+| **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/690294d2ff462851fefe4ebe?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
 | **[Withum](http://www.withum.com)** | **[Summer Management Consulting Internship 2026](https://jobright.ai/jobs/info/69026e58ff462851fefe2ec7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Varmoda Tech](www.varmoda.com)** | **[Internship Opportunity](https://jobright.ai/jobs/info/6902652598707b2b0fe6edf9?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 29 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Insurance – North America Consulting Internship Program ](https://jobright.ai/jobs/info/6902435e00a1816c41e9c484?utm_campaign=1063&utm_source=git)** | New York City | On Site | Oct 29 |
@@ -130,8 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc7fcd664c6f162a950640?utm_campaign=1063&utm_source=git)** | Maumee, OH, US | On Site | Oct 24 |
 | ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fcb830e0c73b3a1118f1be?utm_campaign=1063&utm_source=git)** | Mount Pleasant, MI, US | On Site | Oct 24 |
 | ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc9c820ab3b2224629da20?utm_campaign=1063&utm_source=git)** | Taylor, MI, US | On Site | Oct 24 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/68fbe2e7f55bb021a889d994?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
-| **[Hantz Group](http://hantzgroup.com)** | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8d9639d0ae3279af7899?utm_campaign=1063&utm_source=git)** | Canton, MI, US | On Site | Oct 24 |
+| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8d9639d0ae3279af7899?utm_campaign=1063&utm_source=git)** | Canton, MI, US | On Site | Oct 24 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/68fc880b664c6f162a95179e?utm_campaign=1063&utm_source=git)** | West Chester, PA, US | On Site | Oct 24 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/68fbd79cf55bb021a889d0ee?utm_campaign=1063&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Oct 24 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4c9879a63986de7577961?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Oct 24 |
@@ -156,5 +155,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49db876a51a4307bd2c09?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f492f39a63986de757624d?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4d57d9a63986de7577baa?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Oct 24 |
-| **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68cd9fade23def7af55bd07f?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
