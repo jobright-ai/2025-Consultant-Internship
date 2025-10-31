@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Oct 30 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Industry Consultant Intern – Risk, Fraud and Compliance Solutions](https://jobright.ai/jobs/info/6903c3dcff462851fefee7c4?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
 | ↳ | **[Summer 2026 - Industry Consultant Intern – Risk, Fraud and Compliance Solutions](https://jobright.ai/jobs/info/6903c2abd64a22104aa92a1c?utm_campaign=1063&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6903c069d64a22104aa927d6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/69038ba7ff462851fefec0ec?utm_campaign=1063&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Oct 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Oct 30 |
@@ -141,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4882d76a51a4307bd20a0?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f487e976a51a4307bd2010?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4550a76a51a4307bd0b32?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | On Site | Oct 24 |
-| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49d9b9a63986de7576ba8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f439809a63986de75745c4?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
+| ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f49d9b9a63986de7576ba8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4ad5276a51a4307bd3236?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4094a9a65fd3458589010?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | ↳ | **[Consultant, Internship MBA, United States](https://jobright.ai/jobs/info/68f4bb1e76a51a4307bd34f0?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
