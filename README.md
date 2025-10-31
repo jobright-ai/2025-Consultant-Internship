@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68cf10dc846f0b04af67f0cd?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Oct 31 |
+| **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/68e7e62bcc49a84b7e0ff0ec?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 31 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/68e87818cc49a84b7e1067c4?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 31 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6904cccb63502c0aded7551d?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69000962e04ac838fb5be93c?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/68ebeaba8369791ef78286d8?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Revenue Cycle Consulting Intern](https://jobright.ai/jobs/info/68cf73acdbd9fb154ede7f64?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68cc51e07342c7623ae628cd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 31 |
+| **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/68e81e4acc49a84b7e10243a?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/69045429d64a22104aa98f53?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/69041e1363502c0aded7081d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/6903d812ff462851fefefb23?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 30 |
@@ -123,11 +127,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68fee5ebe04ac838fb5b53fd?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Commercial Financial Services Advisory - Campus 2026](https://jobright.ai/jobs/info/68fc0e50f55bb021a889feb8?utm_campaign=1063&utm_source=git)** | US - VA, Arlington | On Site | Oct 24 |
 | ↳ | **[Intern - Commercial Financial Services Advisory - Campus 2026](https://jobright.ai/jobs/info/68fc0e104129dd33cd13847b?utm_campaign=1063&utm_source=git)** | US - VA, McLean | On Site | Oct 24 |
-| **[Creative Artists Agency](http://www.caa.com)** | **[CAA ICON - Summer 2026 Strategic Advisory Intern (Denver)](https://jobright.ai/jobs/info/68fbf26a93c49825ab107ae0?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 24 |
-| **[Hantz Group](http://hantzgroup.com)** | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc964f664c6f162a952d66?utm_campaign=1063&utm_source=git)** | Saginaw, MI, US | On Site | Oct 24 |
-| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc7cf739d0ae3279af562c?utm_campaign=1063&utm_source=git)** | Tecumseh, MI, US | On Site | Oct 24 |
-| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc85a8664c6f162a951142?utm_campaign=1063&utm_source=git)** | Grandville, MI, US | On Site | Oct 24 |
-| ↳ | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8731664c6f162a951532?utm_campaign=1063&utm_source=git)** | Traverse City, MI, US | On Site | Oct 24 |
-| **[Summit Leadership Partners](https://www.summitleadership.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/68fc932039d0ae3279af7e44?utm_campaign=1063&utm_source=git)** | Charlotte, NC, US | On Site | Oct 24 |
-| **[Hantz Group](http://hantzgroup.com)** | **[Planning Analyst - Intern](https://jobright.ai/jobs/info/68fc8ec139d0ae3279af7a35?utm_campaign=1063&utm_source=git)** | Sault Sainte Marie, MI, US | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
