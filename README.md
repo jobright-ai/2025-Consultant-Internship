@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69000962e04ac838fb5be93c?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
+| ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/68ebeaba8369791ef78286d8?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Revenue Cycle Consulting Intern](https://jobright.ai/jobs/info/68cf73acdbd9fb154ede7f64?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/69045429d64a22104aa98f53?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/69041e1363502c0aded7081d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/6903d812ff462851fefefb23?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 30 |
