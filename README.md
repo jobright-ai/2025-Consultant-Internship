@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Strategy & Management Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/690527ac63502c0aded78d07?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 31 |
+| **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Compensation Consulting Internship - Summer 2026](https://jobright.ai/jobs/info/6905341b63502c0aded7977c?utm_campaign=1063&utm_source=git)** | Remote, US | Remote | Oct 31 |
+| **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Compensation Consulting Internship - Summer 2026](https://jobright.ai/jobs/info/69053313ff462851feffbaef?utm_campaign=1063&utm_source=git)** | Remote, US | Remote | Oct 31 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6904e8e9122e8474c78d4212?utm_campaign=1063&utm_source=git)** | Darrell Waltrip Honda | On Site | Oct 31 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68cf10dc846f0b04af67f0cd?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/68e7e62bcc49a84b7e0ff0ec?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 31 |
@@ -89,11 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 29 |
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/6901a05ed5259a1b3cff6ccb?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/69016e1d4539ea1f2141ff32?utm_campaign=1063&utm_source=git)** | 901 Fifth Avenue, Suite 3900, Seattle, United States | On Site | Oct 28 |
-| **[PROJXON](www.projxon.com)** | **[Junior Consultant (MBA) Nonprofit Intern](https://jobright.ai/jobs/info/6901494af8ce7a040fdbe7f7?utm_campaign=1063&utm_source=git)** | Las Vegas, NV | Remote | Oct 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6901396a4539ea1f2141e206?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/69012736d5259a1b3cff2090?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 28 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/68e4420ab99ec3563b0e840d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 28 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Health Plan Data Consulting Master's Internship](https://jobright.ai/jobs/info/6900befdd5259a1b3cfee483?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Oct 28 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68e42973b99ec3563b0e6cad?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 28 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2026](https://jobright.ai/jobs/info/68cc97ac128dc347fd9270be?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 28 |
