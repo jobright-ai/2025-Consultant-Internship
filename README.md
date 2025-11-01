@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690590d5122e8474c78da16a?utm_campaign=1063&utm_source=git)** | Indianapolis Office, Indianapolis, IN, US | On Site | Oct 31 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (Talent Acquisition) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/690588e363502c0aded7bff6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69056d13122e8474c78d8dec?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 31 |
 | ↳ | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69055efeff462851feffd00f?utm_campaign=1063&utm_source=git)** | New York City, NY | Hybrid | Oct 31 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Human Resources (Talent Acquisition) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6905514c63502c0aded7a4c0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
@@ -106,13 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Orion Health](http://www.orionhealth.com)** | **[Associate Implementation Consultant Intern](https://jobright.ai/jobs/info/68ffdd24e0c73b3a1119f812?utm_campaign=1063&utm_source=git)** | Minot, ND | On Site | Oct 25 |
 | ↳ | **[Associate Implementation Consultant Intern](https://jobright.ai/jobs/info/68ffe199e0c73b3a1119fe32?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e03b7ef758fe1f97e4b615?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Oct 25 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfef86f758fe1f97e48065?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfcc59f758fe1f97e4705a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd2d7b99ec3563b0c9864?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd325b99ec3563b0c98cd?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Oct 25 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd284b99ec3563b0c982c?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 25 |
-| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd274b99ec3563b0c981d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 25 |
-| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68ce9b89dbd9fb154ede133d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68fcb0370ab3b2224629e849?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 25 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68cd9682e23def7af55bc4cf?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
