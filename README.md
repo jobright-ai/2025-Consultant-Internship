@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/69067895122e8474c78e026b?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 01 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/69063ce0122e8474c78df861?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 01 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68b239eff4e41a61efd82d0f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
 | ↳ | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68ce8144dbd9fb154ede0452?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
@@ -77,10 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/68e7e62bcc49a84b7e0ff0ec?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 31 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/68e87818cc49a84b7e1067c4?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69000962e04ac838fb5be93c?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
-| ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/68ebeaba8369791ef78286d8?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Revenue Cycle Consulting Intern](https://jobright.ai/jobs/info/68cf73acdbd9fb154ede7f64?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68cc51e07342c7623ae628cd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Oct 31 |
-| **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/68e81e4acc49a84b7e10243a?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/69012736d5259a1b3cff2090?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 30 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/6903d812ff462851fefefb23?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Oct 30 |
