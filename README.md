@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68b239eff4e41a61efd82d0f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
+| ↳ | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68ce8144dbd9fb154ede0452?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
+| **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 01 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/68afd407b47fb001d688db52?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 31 |
 | ↳ | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690590d5122e8474c78da16a?utm_campaign=1063&utm_source=git)** | Indianapolis Office, Indianapolis, IN, US | On Site | Oct 31 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (Talent Acquisition) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/690588e363502c0aded7bff6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
@@ -69,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68cf10dc846f0b04af67f0cd?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/68e7e62bcc49a84b7e0ff0ec?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 31 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/68e87818cc49a84b7e1067c4?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 31 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6904cccb63502c0aded7551d?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69000962e04ac838fb5be93c?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/68ebeaba8369791ef78286d8?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Revenue Cycle Consulting Intern](https://jobright.ai/jobs/info/68cf73acdbd9fb154ede7f64?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
@@ -106,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Oct 27 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4d7377279451d6a0381fb?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Oct 26 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Financial Consulting Group (FCG) Intern - Summer](https://jobright.ai/jobs/info/68fd5cae0ab3b222462a1b3b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
-| **[Orion Health](http://www.orionhealth.com)** | **[Associate Implementation Consultant Intern](https://jobright.ai/jobs/info/68ffdd24e0c73b3a1119f812?utm_campaign=1063&utm_source=git)** | Minot, ND | On Site | Oct 25 |
-| ↳ | **[Associate Implementation Consultant Intern](https://jobright.ai/jobs/info/68ffe199e0c73b3a1119fe32?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
