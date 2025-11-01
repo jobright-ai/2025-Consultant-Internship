@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69055efeff462851feffd00f?utm_campaign=1063&utm_source=git)** | New York City, NY | Hybrid | Oct 31 |
+| **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69056d13122e8474c78d8dec?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 31 |
+| ↳ | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69055efeff462851feffd00f?utm_campaign=1063&utm_source=git)** | New York City, NY | Hybrid | Oct 31 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Human Resources (Talent Acquisition) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6905514c63502c0aded7a4c0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Compensation Consulting Internship - Summer 2026](https://jobright.ai/jobs/info/6905341b63502c0aded7977c?utm_campaign=1063&utm_source=git)** | Remote, US | Remote | Oct 31 |
 | **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Compensation Consulting Internship - Summer 2026](https://jobright.ai/jobs/info/69053313ff462851feffbaef?utm_campaign=1063&utm_source=git)** | Remote, US | Remote | Oct 31 |
@@ -114,12 +115,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68ce9b89dbd9fb154ede133d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68fcb0370ab3b2224629e849?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 25 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68cd9682e23def7af55bc4cf?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Oct 25 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68e03b5b1852e62f007e9009?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Oct 25 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68e035b4f758fe1f97e4b112?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68cd6326b2a74e1837ed6512?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Oct 25 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68e03305b99ec3563b0cd03c?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
-| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/68e3ed8bf758fe1f97e61c3d?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/68ccdfe577add66568abb09c?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Oct 25 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Oct 25 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
