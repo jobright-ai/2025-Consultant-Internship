@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237bfbc187f64e1bd9dd9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
+| ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23859bc187f64e1bd9e90?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 02 |
+| ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
+| ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23818bc187f64e1bd9e49?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 02 |
+| ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dcb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68ca2f89f16e3266d282413d?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
+| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68ce709efb49c96ca6ea068e?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
+| ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68ceaf2adbd9fb154ede2240?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
+| ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68c7799bc96a22563ecf1175?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
+| ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68cd1936e23def7af55b5376?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 02 |
+| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68ccf875d11b445e0bee5532?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b239c91ade4306aa635007?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Managed IT Consulting Intern](https://jobright.ai/jobs/info/68b1dc1f1ade4306aa632633?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 02 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a0ebff462851fe004d51?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68b239eff4e41a61efd82d0f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
 | ↳ | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68ce8144dbd9fb154ede0452?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
