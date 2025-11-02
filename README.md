@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a0ebff462851fe004d51?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/69063ce0122e8474c78df861?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 01 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68b239eff4e41a61efd82d0f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
 | ↳ | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68ce8144dbd9fb154ede0452?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
