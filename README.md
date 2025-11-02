@@ -57,7 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[West Monroe](https://www.westmonroe.com)** | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237bfbc187f64e1bd9dd9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/68b239e0f4e41a61efd82d00?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
+| **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68b2727fbc187f64e1bdb86f?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Nov 02 |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b791ade4306aa63514a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
+| **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Organizational Consulting - Summer 2026](https://jobright.ai/jobs/info/68ce9bf8dbd9fb154ede13d3?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 02 |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b851ade4306aa63515b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
+| ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23bd6f4e41a61efd82ee6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b238aabc187f64e1bd9ee2?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
+| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b2394cbc187f64e1bd9f75?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
+| ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b3d1ade4306aa635109?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
+| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23802bc187f64e1bd9e2f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
+| ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ac3f4e41a61efd82dda?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
+| ↳ | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/68b23802bc187f64e1bd9e2d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 02 |
+| ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237bfbc187f64e1bd9dd9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
 | ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23859bc187f64e1bd9e90?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 02 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
 | ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23818bc187f64e1bd9e49?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 02 |
@@ -88,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6904e8e9122e8474c78d4212?utm_campaign=1063&utm_source=git)** | Darrell Waltrip Honda | On Site | Oct 31 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineer Intern](https://jobright.ai/jobs/info/68cf10dc846f0b04af67f0cd?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/68e7e62bcc49a84b7e0ff0ec?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 31 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69076dae122e8474c78e4b39?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/68e87818cc49a84b7e1067c4?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69000962e04ac838fb5be93c?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Healthcare Revenue Cycle Consulting Intern](https://jobright.ai/jobs/info/68cf73acdbd9fb154ede7f64?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
