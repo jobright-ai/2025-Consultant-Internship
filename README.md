@@ -57,9 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blue United Corporation](https://blueutd.com/)** | **[Intern - Sports Consulting & Event Operations](https://jobright.ai/jobs/info/6908d2d0d046ab6061cce352?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Nov 03 |
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Compensation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6908ce43d046ab6061cce171?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 03 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/6908c5e04a1b456627af8f28?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Nov 03 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/68b239e0f4e41a61efd82d00?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68b2727fbc187f64e1bdb86f?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Nov 02 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b791ade4306aa63514a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
