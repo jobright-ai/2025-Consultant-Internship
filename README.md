@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Bachelor's Intern](https://jobright.ai/jobs/info/69098cc9bcccf20de59dc4a7?utm_campaign=1063&utm_source=git)** | California-Pasadena-Walnut Center - Regional Offices | Hybrid | Nov 03 |
+| ↳ | **[Consulting Master's Intern](https://jobright.ai/jobs/info/690985d3bcccf20de59dc1a0?utm_campaign=1063&utm_source=git)** | California-Pasadena-Walnut Center - Regional Offices | Hybrid | Nov 03 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Project Finance Consulting Advisory Services - PFC Summer 2026 Internship](https://jobright.ai/jobs/info/690926bb4a1b456627afd465?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Nov 03 |
 | **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69056d13122e8474c78d8dec?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Compensation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6908ce43d046ab6061cce171?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 03 |
@@ -131,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/69016e1d4539ea1f2141ff32?utm_campaign=1063&utm_source=git)** | 901 Fifth Avenue, Suite 3900, Seattle, United States | On Site | Oct 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6901396a4539ea1f2141e206?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/68e4420ab99ec3563b0e840d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 28 |
-| **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68e42973b99ec3563b0e6cad?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
