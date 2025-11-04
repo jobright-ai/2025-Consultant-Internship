@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern, Deployment](https://jobright.ai/jobs/info/69099638bcccf20de59dca2f?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Bachelor's Intern](https://jobright.ai/jobs/info/69098cc9bcccf20de59dc4a7?utm_campaign=1063&utm_source=git)** | California-Pasadena-Walnut Center - Regional Offices | Hybrid | Nov 03 |
 | ↳ | **[Consulting Master's Intern](https://jobright.ai/jobs/info/690985d3bcccf20de59dc1a0?utm_campaign=1063&utm_source=git)** | California-Pasadena-Walnut Center - Regional Offices | Hybrid | Nov 03 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Project Finance Consulting Advisory Services - PFC Summer 2026 Internship](https://jobright.ai/jobs/info/690926bb4a1b456627afd465?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Nov 03 |
@@ -132,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/6901a05ed5259a1b3cff6ccb?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/69016e1d4539ea1f2141ff32?utm_campaign=1063&utm_source=git)** | 901 Fifth Avenue, Suite 3900, Seattle, United States | On Site | Oct 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6901396a4539ea1f2141e206?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
-| **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/68e4420ab99ec3563b0e840d?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
