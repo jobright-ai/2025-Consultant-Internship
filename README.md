@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
+| **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 04 |
+| **[Merrick & Company](http://www.merrick.com)** | **[Industrial Ammonia Refrigeration Consultant / Senior Project Manager - Part Time / Temporary](https://jobright.ai/jobs/info/690a5af3bcccf20de59e1395?utm_campaign=1063&utm_source=git)** | Ellicott City, Maryland | Hybrid | Nov 04 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Nov 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/690a4d2e4a1b456627b05f2a?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 04 |
 | ↳ | **[Consulting Bachelor's Intern](https://jobright.ai/jobs/info/690a4b794a1b456627b05e0c?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 04 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Nov 04 |
 | ↳ | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68e42973b99ec3563b0e6cad?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Nov 04 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Health Management Intern - Employer Services](https://jobright.ai/jobs/info/68d775cf295f8e37655da004?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 04 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Buisness Consulting Intern](https://jobright.ai/jobs/info/690a321bbcccf20de59dfadc?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 04 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/690a28babcccf20de59df648?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd4bdbe23def7af55b7f28?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Nov 04 |
@@ -91,11 +93,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ac3f4e41a61efd82dda?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237bfbc187f64e1bd9dd9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
-| ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68b23818bc187f64e1bd9e49?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 02 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dcb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68ca2f89f16e3266d282413d?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
 | ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68ceaf2adbd9fb154ede2240?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
-| ↳ | **[2026 Financial Management Consulting Intern](https://jobright.ai/jobs/info/68c7799bc96a22563ecf1175?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
 | ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68cd1936e23def7af55b5376?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Managed IT Consulting Intern](https://jobright.ai/jobs/info/68b1dc1f1ade4306aa632633?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 02 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a0ebff462851fe004d51?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
