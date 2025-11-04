@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Project Finance Consulting Advisory Services - PFC Summer 2026 Internship](https://jobright.ai/jobs/info/690926bb4a1b456627afd465?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Nov 03 |
+| **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69056d13122e8474c78d8dec?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Compensation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6908ce43d046ab6061cce171?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 03 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/68b239e0f4e41a61efd82d00?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
 | **[FM](https://www.fmglobal.com)** | **[Consultant Engineering Intern](https://jobright.ai/jobs/info/68b2727fbc187f64e1bdb86f?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Nov 02 |
@@ -94,9 +96,9 @@ For a complete list, click the following sortable link below:
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 31 |
 | ↳ | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690590d5122e8474c78da16a?utm_campaign=1063&utm_source=git)** | Indianapolis Office, Indianapolis, IN, US | On Site | Oct 31 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (Talent Acquisition) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/690588e363502c0aded7bff6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
-| **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69056d13122e8474c78d8dec?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Oct 31 |
-| ↳ | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69055efeff462851feffd00f?utm_campaign=1063&utm_source=git)** | New York City, NY | Hybrid | Oct 31 |
+| **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69055efeff462851feffd00f?utm_campaign=1063&utm_source=git)** | New York City, NY | Hybrid | Oct 31 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Human Resources (Talent Acquisition) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6905514c63502c0aded7a4c0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
+| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/69093723d046ab6061cd2e54?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Oct 31 |
 | **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Compensation Consulting Internship - Summer 2026](https://jobright.ai/jobs/info/6905341b63502c0aded7977c?utm_campaign=1063&utm_source=git)** | Remote, US | Remote | Oct 31 |
 | **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Compensation Consulting Internship - Summer 2026](https://jobright.ai/jobs/info/69053313ff462851feffbaef?utm_campaign=1063&utm_source=git)** | Remote, US | Remote | Oct 31 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6904e8e9122e8474c78d4212?utm_campaign=1063&utm_source=git)** | Darrell Waltrip Honda | On Site | Oct 31 |
