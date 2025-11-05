@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Summer Intern- Charlotte- College Program 2026](https://jobright.ai/jobs/info/690b9ff64a1b456627b10ff2?utm_campaign=1063&utm_source=git)** | Charlotte - North Tryon | Hybrid | Nov 05 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690aeb104a1b456627b0c770?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
 | **[Highspot](https://www.highspot.com)** | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/68d332348c62e63bc7fde7c8?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 05 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/690b73cad046ab6061ce46f1?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Nov 05 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[La French Tech Taiwan](https://www.frenchtechtaiwan.com/)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690b3758d046ab6061ce34b1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 05 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/690aafe7bcccf20de59e4ee6?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Nov 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 04 |
@@ -138,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Oct 30 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e68126ae2b894b1d71ad85?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Oct 30 |
-| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Management Consulting](https://jobright.ai/jobs/info/6902bf69ff462851fefe6187?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
