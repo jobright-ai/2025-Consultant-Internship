@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viveo Capital Partners](https://www.linkedin.com/company/106478841)** | **[Management Consulting Associate Intern](https://jobright.ai/jobs/info/690a8bc1d046ab6061cddfe9?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 04 |
 | **[Merrick & Company](http://www.merrick.com)** | **[Industrial Ammonia Refrigeration Consultant / Senior Project Manager - Part Time / Temporary](https://jobright.ai/jobs/info/690a5af3bcccf20de59e1395?utm_campaign=1063&utm_source=git)** | Ellicott City, Maryland | Hybrid | Nov 04 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce25031ad6b16f028a25cc?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Tampa Florida- Campus Program 2026](https://jobright.ai/jobs/info/6909d47f4a1b456627b033b4?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Nov 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Deployment](https://jobright.ai/jobs/info/69099638bcccf20de59dca2f?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 03 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e53a36b99ec3563b0f1b54?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Oct 29 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e579d1ae2b894b1d70fa4d?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Oct 29 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 29 |
-| **[Energy and Environmental Economics, Inc.](https://ethree.com)** | **[2026 Consulting Internship](https://jobright.ai/jobs/info/6901a05ed5259a1b3cff6ccb?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
