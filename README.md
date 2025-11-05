@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690aeb104a1b456627b0c770?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
 | **[Highspot](https://www.highspot.com)** | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/68d332348c62e63bc7fde7c8?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 05 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/690b73cad046ab6061ce46f1?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Nov 05 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[La French Tech Taiwan](https://www.frenchtechtaiwan.com/)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690b3758d046ab6061ce34b1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 05 |
