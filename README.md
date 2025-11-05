@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
+| **[La French Tech Taiwan](https://www.frenchtechtaiwan.com/)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690b3758d046ab6061ce34b1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/690aafe7bcccf20de59e4ee6?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Nov 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
