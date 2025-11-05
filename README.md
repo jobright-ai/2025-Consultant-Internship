@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highspot](https://www.highspot.com)** | **[Solutions Consulting Intern](https://jobright.ai/jobs/info/68d332348c62e63bc7fde7c8?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 05 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[La French Tech Taiwan](https://www.frenchtechtaiwan.com/)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690b3758d046ab6061ce34b1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 05 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce25031ad6b16f028a25cc?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Tampa Florida- Campus Program 2026](https://jobright.ai/jobs/info/6909d47f4a1b456627b033b4?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Nov 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Deployment](https://jobright.ai/jobs/info/69099638bcccf20de59dca2f?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 03 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e68126ae2b894b1d71ad85?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Oct 30 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Management Consulting](https://jobright.ai/jobs/info/6902bf69ff462851fefe6187?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 29 |
-| ↳ | **[2026 Starr Summer Intern -  Management Consulting](https://jobright.ai/jobs/info/6902858198707b2b0fe708a0?utm_campaign=1063&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
