@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/690aafe7bcccf20de59e4ee6?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Nov 04 |
-| ↳ | **[Consulting Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/690aae9f4a1b456627b0a338?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Nov 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 04 |
@@ -139,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC – Insurance – North America Consulting Internship Program ](https://jobright.ai/jobs/info/6902435e00a1816c41e9c484?utm_campaign=1063&utm_source=git)** | New York City | On Site | Oct 29 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e53a36b99ec3563b0f1b54?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Oct 29 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e579d1ae2b894b1d70fa4d?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Oct 29 |
-| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
