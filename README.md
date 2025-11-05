@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Viveo Capital Partners](https://www.linkedin.com/company/106478841)** | **[Management Consulting Associate Intern](https://jobright.ai/jobs/info/690a8bc1d046ab6061cddfe9?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 04 |
 | **[Merrick & Company](http://www.merrick.com)** | **[Industrial Ammonia Refrigeration Consultant / Senior Project Manager - Part Time / Temporary](https://jobright.ai/jobs/info/690a5af3bcccf20de59e1395?utm_campaign=1063&utm_source=git)** | Ellicott City, Maryland | Hybrid | Nov 04 |
@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Nov 04 |
 | ↳ | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68e42973b99ec3563b0e6cad?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Nov 04 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Health Management Intern - Employer Services](https://jobright.ai/jobs/info/68d775cf295f8e37655da004?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 04 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/690a28babcccf20de59df648?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd4bdbe23def7af55b7f28?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
