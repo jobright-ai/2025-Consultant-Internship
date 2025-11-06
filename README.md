@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d136b221b890c27802d75?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d1309221b890c27802d24?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 06 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d1145d046ab6061cf246a?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 06 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d08e14a1b456627b1ccbe?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Nov 06 |
 | **[Inclusively](https://inclusively.com/)** | **[Inside Sales Consultant](https://jobright.ai/jobs/info/690cdfb6d046ab6061cf02b0?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Nov 06 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d4474517554c2d9eef79e8?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 06 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 06 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/690ce2454a1b456627b1b4a1?utm_campaign=1063&utm_source=git)** | Kentucky, United States | On Site | Nov 06 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f022c29821486c423c9398?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 06 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Health Plan Data Consulting Master&amp;#8217;s Internship](https://jobright.ai/jobs/info/690cceecd046ab6061cefb93?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 06 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/690c9c704a1b456627b19ba3?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 06 |
