@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/690c2710221b890c277fbebd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
+| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b793bff4e41a61efd9a1c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 06 |
 | **[ToyBox Consulting and Management](https://www.toyboxconsulting.net)** | **[ToyBox Consulting – Internship Program (Unpaid / Remote)](https://jobright.ai/jobs/info/690c2cc4d046ab6061ceba63?utm_campaign=1063&utm_source=git)** | Bellevue, WA | Remote | Nov 05 |
 | **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2025 Intern](https://jobright.ai/jobs/info/690c03ba221b890c277fa8a5?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Nov 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/690bc72d4a1b456627b12b34?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 05 |
