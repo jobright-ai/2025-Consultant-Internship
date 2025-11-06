@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2025 Intern](https://jobright.ai/jobs/info/690c03ba221b890c277fa8a5?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Nov 05 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690bf97b4a1b456627b14d2b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/690bc72d4a1b456627b12b34?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690bbf274a1b456627b12513?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 05 |
