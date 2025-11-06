@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/690c2710221b890c277fbebd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/690c9c704a1b456627b19ba3?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 06 |
+| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68fb4661e154835f11efb241?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 06 |
+| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/690c01c0d046ab6061ce9f84?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
+| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b792f91ade4306aa64c150?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 06 |
+| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/690c2710221b890c277fbebd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68b793bff4e41a61efd9a1c0?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 06 |
+| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ce6647fb49c96ca6e9ffc4?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 06 |
+| ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68faed7c9e8e925ac6c87749?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 06 |
+| ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 06 |
 | **[ToyBox Consulting and Management](https://www.toyboxconsulting.net)** | **[ToyBox Consulting – Internship Program (Unpaid / Remote)](https://jobright.ai/jobs/info/690c2cc4d046ab6061ceba63?utm_campaign=1063&utm_source=git)** | Bellevue, WA | Remote | Nov 05 |
 | **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2025 Intern](https://jobright.ai/jobs/info/690c03ba221b890c277fa8a5?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Nov 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/690bc72d4a1b456627b12b34?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 05 |
@@ -138,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Ramboll](http://www.ramboll.com/)** | **[Intern, Site Solutions Environmental Consulting](https://jobright.ai/jobs/info/69012736d5259a1b3cff2090?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Oct 30 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Construction Disputes & Advisory (Forensic Accounting & Claims Consulting)](https://jobright.ai/jobs/info/6903d812ff462851fefefb23?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Oct 30 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Industry Consultant Intern – Risk, Fraud and Compliance Solutions](https://jobright.ai/jobs/info/6903c3dcff462851fefee7c4?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
