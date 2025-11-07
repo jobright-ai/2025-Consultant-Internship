@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f1aecbe6870116b1f5bac3?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Nov 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9da088043103d4f21b038?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 07 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Consulting Intern - Summer/Winter 2026](https://jobright.ai/jobs/info/690dddec221b890c2780a15b?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 07 |
 | **[Red Hat](http://www.redhat.com)** | **[AI Consulting Intern](https://jobright.ai/jobs/info/68f158e3f462172a5a7d6c5b?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68b239eff4e41a61efd82d0f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
 | ↳ | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68ce8144dbd9fb154ede0452?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
-| **[Axle Logistics](https://axlelogistics.com)** | **[Logistics Consultant Sales Intern](https://jobright.ai/jobs/info/690614e263502c0aded80c81?utm_campaign=1063&utm_source=git)** | Knoxville, TN | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
