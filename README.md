@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/690e5e34d046ab6061cfcc0e?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
+| ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e597ed046ab6061cfc807?utm_campaign=1063&utm_source=git)** | US-OH-Cincinnati | On Site | Nov 07 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/690e5629d046ab6061cfc61b?utm_campaign=1063&utm_source=git)** | IL - Chicago | Hybrid | Nov 07 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/690e4a1e44146d3b6ec52a2e?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Nov 07 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
-| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 07 |
+| **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/690e5507221b890c2780cd36?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 07 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f1aecbe6870116b1f5bac3?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Nov 07 |
 | **[LumoraX](lumorax.us)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/690e4b40221b890c2780c7d6?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Nov 07 |
@@ -131,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce25031ad6b16f028a25cc?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce25031ad6b16f028a25cc?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Tampa Florida- Campus Program 2026](https://jobright.ai/jobs/info/6909d47f4a1b456627b033b4?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Nov 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Deployment](https://jobright.ai/jobs/info/69099638bcccf20de59dca2f?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237bfbc187f64e1bd9dd9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dcb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
-| ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68ca2f89f16e3266d282413d?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
-| ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68ceaf2adbd9fb154ede2240?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
-| ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68cd1936e23def7af55b5376?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 02 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Managed IT Consulting Intern](https://jobright.ai/jobs/info/68b1dc1f1ade4306aa632633?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
