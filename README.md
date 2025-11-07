@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f1aecbe6870116b1f5bac3?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Nov 07 |
+| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Nov 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/68b9da088043103d4f21b038?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 07 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Consulting Intern - Summer/Winter 2026](https://jobright.ai/jobs/info/690dddec221b890c2780a15b?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 07 |
 | **[Red Hat](http://www.redhat.com)** | **[AI Consulting Intern](https://jobright.ai/jobs/info/68f158e3f462172a5a7d6c5b?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Washington DC- Campus Program 2026](https://jobright.ai/jobs/info/68f1a234ef766b3f0fd10428?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 07 |
-| **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/6906132163502c0aded809e8?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/690db849221b890c27809040?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 06 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/690d64f24a1b456627b20f4f?utm_campaign=1063&utm_source=git)** | Portland, ME | On Site | Nov 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690d5707221b890c27805f4b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a0ebff462851fe004d51?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68b239eff4e41a61efd82d0f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
 | ↳ | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68ce8144dbd9fb154ede0452?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
