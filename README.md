@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/690d64f24a1b456627b20f4f?utm_campaign=1063&utm_source=git)** | Portland, ME | On Site | Nov 06 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690d5707221b890c27805f4b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d1b98221b890c2780353f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/690d18124a1b456627b1d9ca?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d17654a1b456627b1d90b?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d4474517554c2d9eef79e8?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 06 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 06 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f022c29821486c423c9398?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 06 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/690c9c704a1b456627b19ba3?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 06 |
 | **[GENEX](https://genex.coop)** | **[Calf Performance Consultant Internship (SD)](https://jobright.ai/jobs/info/68f08d3ceb273a32d9769874?utm_campaign=1063&utm_source=git)** | South Dakota, United States | On Site | Nov 06 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68fb4661e154835f11efb241?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 06 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/690c01c0d046ab6061ce9f84?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690590d5122e8474c78da16a?utm_campaign=1063&utm_source=git)** | Indianapolis Office, Indianapolis, IN, US | On Site | Oct 31 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Human Resources (Talent Acquisition) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/690588e363502c0aded7bff6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69055efeff462851feffd00f?utm_campaign=1063&utm_source=git)** | New York City, NY | Hybrid | Oct 31 |
-| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Human Resources (Talent Acquisition) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6905514c63502c0aded7a4c0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
