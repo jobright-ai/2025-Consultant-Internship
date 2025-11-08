@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/690eb206221b890c27810c3a?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
+| ↳ | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/690eb158221b890c27810ba4?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 07 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Intern- New York- College Program 2026](https://jobright.ai/jobs/info/690eae8c221b890c27810a33?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Nov 07 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/690e5e34d046ab6061cfcc0e?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 | ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e597ed046ab6061cfc807?utm_campaign=1063&utm_source=git)** | US-OH-Cincinnati | On Site | Nov 07 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/690e5629d046ab6061cfc61b?utm_campaign=1063&utm_source=git)** | IL - Chicago | Hybrid | Nov 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b238aabc187f64e1bd9ee2?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b3d1ade4306aa635109?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ac3f4e41a61efd82dda?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
-| ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237bfbc187f64e1bd9dd9?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
-| ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 02 |
-| ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ab3f4e41a61efd82dcb?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
