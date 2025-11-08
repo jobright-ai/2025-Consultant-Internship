@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/690edc51d046ab6061d01c20?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/690eb206221b890c27810c3a?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
 | ↳ | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/690eb158221b890c27810ba4?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 07 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Intern- New York- College Program 2026](https://jobright.ai/jobs/info/690eae8c221b890c27810a33?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Nov 07 |
@@ -75,9 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[AI Consulting Intern](https://jobright.ai/jobs/info/68f158e3f462172a5a7d6c5b?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Washington DC- Campus Program 2026](https://jobright.ai/jobs/info/68f1a234ef766b3f0fd10428?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 07 |
-| **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/6906132163502c0aded809e8?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 07 |
+| **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/6906132163502c0aded809e8?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/690d64f24a1b456627b20f4f?utm_campaign=1063&utm_source=git)** | Portland, ME | On Site | Nov 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/690d5707221b890c27805f4b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d1b98221b890c2780353f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/690d18124a1b456627b1d9ca?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d17654a1b456627b1d90b?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
@@ -125,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY CONSULTANT - 42000809 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/690be1ccd046ab6061ce8e96?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Nov 04 |
-| **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern (Financial Management Software)](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
+| **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 04 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Nov 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/690a4d2e4a1b456627b05f2a?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 04 |
 | ↳ | **[Consulting Bachelor's Intern](https://jobright.ai/jobs/info/690a4b794a1b456627b05e0c?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 04 |
