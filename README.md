@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – 2026 Internship](https://jobright.ai/jobs/info/68f2c1459a63986de756bf3e?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 08 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68b9dcf75f3832749186174c?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 08 |
 | ↳ | **[2026 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/68cc28ce7342c7623ae601ae?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 08 |
 | ↳ | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern Southfield](https://jobright.ai/jobs/info/68cd227bb2a74e1837ed3067?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Organizational Consulting - Summer 2026](https://jobright.ai/jobs/info/68ce9bf8dbd9fb154ede13d3?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 02 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b851ade4306aa63515b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23bd6f4e41a61efd82ee6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
-| ↳ | **[2026 Utilities Consulting Intern](https://jobright.ai/jobs/info/68b238aabc187f64e1bd9ee2?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
