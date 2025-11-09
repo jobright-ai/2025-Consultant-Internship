@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f717149a63986de7584e4f?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 09 |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/69109d9e988c2b7b4ec52363?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68cb79ad9e3a822f5d246891?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 09 |
