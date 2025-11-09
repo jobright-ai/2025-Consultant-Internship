@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68cb79ad9e3a822f5d246891?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/68bb29d26105227d118a3858?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 09 |
@@ -123,10 +124,10 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690baa97d046ab6061ce639f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
+| **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern (Financial Management Software)](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
-| **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 04 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Nov 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/690a4d2e4a1b456627b05f2a?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 04 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Nov 04 |
