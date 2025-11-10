@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/6911ea58d1047e3565cf8742?utm_campaign=1063&utm_source=git)** | Ohio, United States | Remote | Nov 10 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/6912411ac98948514c479dad?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 10 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/69122e9bd1047e3565cfa167?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 10 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Nov 10 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690bbf274a1b456627b12513?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 05 |
 | **[Leidos](https://www.leidos.com/)** | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/690bb9f74a1b456627b120ac?utm_campaign=1063&utm_source=git)** | Framingham, MA | On Site | Nov 05 |
 | ↳ | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/690bb7a6d046ab6061ce6bd2?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 05 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Summer Intern- Charlotte- College Program 2026](https://jobright.ai/jobs/info/690b9ff64a1b456627b10ff2?utm_campaign=1063&utm_source=git)** | Charlotte - North Tryon | Hybrid | Nov 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690baa97d046ab6061ce639f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern (Financial Management Software)](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 05 |
