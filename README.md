@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/69114eb1988c2b7b4ec53dd2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 09 |
 | ↳ | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/691149e9183be660d267b0ee?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 09 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/6910dd93988c2b7b4ec52c66?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
@@ -118,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ce6647fb49c96ca6e9ffc4?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 06 |
 | ↳ | **[ERP Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68faed7c9e8e925ac6c87749?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 06 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/68ecc1ccd4b0106e703ecff0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 06 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/6911bbba988c2b7b4ec566b6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 05 |
 | **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2025 Intern](https://jobright.ai/jobs/info/690c03ba221b890c277fa8a5?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Nov 05 |
 | **[Vervint](http://www.vervint.com)** | **[ERP Consulting Intern](https://jobright.ai/jobs/info/690d4492221b890c2780552a?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Nov 05 |
@@ -128,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690baa97d046ab6061ce639f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6911d07f8b818a6dda66bba3?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
@@ -141,13 +144,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce25031ad6b16f028a25cc?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Tampa Florida- Campus Program 2026](https://jobright.ai/jobs/info/6909d47f4a1b456627b033b4?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Nov 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Deployment](https://jobright.ai/jobs/info/69099638bcccf20de59dca2f?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Bachelor's Intern](https://jobright.ai/jobs/info/69098cc9bcccf20de59dc4a7?utm_campaign=1063&utm_source=git)** | California-Pasadena-Walnut Center - Regional Offices | Hybrid | Nov 03 |
 | ↳ | **[Consulting Master's Intern](https://jobright.ai/jobs/info/690985d3bcccf20de59dc1a0?utm_campaign=1063&utm_source=git)** | California-Pasadena-Walnut Center - Regional Offices | Hybrid | Nov 03 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Project Finance Consulting Advisory Services - PFC Summer 2026 Internship](https://jobright.ai/jobs/info/690926bb4a1b456627afd465?utm_campaign=1063&utm_source=git)** | Boston, NY | Hybrid | Nov 03 |
-| **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/69056d13122e8474c78d8dec?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
