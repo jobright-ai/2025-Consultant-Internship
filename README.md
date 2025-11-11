@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/691267a2ea9ab01b82bf252d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/6912411ac98948514c479dad?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 10 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Global Financial Services Risk Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/691272b8ea9ab01b82bf2c24?utm_campaign=1063&utm_source=git)** | Houston | On Site | Nov 10 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/69122e9bd1047e3565cfa167?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 10 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Nov 10 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -99,7 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d136b221b890c27802d75?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d1309221b890c27802d24?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 06 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d1145d046ab6061cf246a?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 06 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d08e14a1b456627b1ccbe?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Nov 06 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69126408ea9ab01b82bf21ee?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d08e14a1b456627b1ccbe?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Nov 06 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/6912524aea9ab01b82bf1616?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Nov 06 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d2a724a1b456627b1eb49?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Nov 06 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce25031ad6b16f028a25cc?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce25031ad6b16f028a25cc?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Tampa Florida- Campus Program 2026](https://jobright.ai/jobs/info/6909d47f4a1b456627b033b4?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Nov 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
