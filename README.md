@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/6912c7a5c98948514c47e043?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 10 |
 | **[GeoComply](https://www.geocomply.com)** | **[Solutions Consultant Intern - Winter 2026](https://jobright.ai/jobs/info/691267a2ea9ab01b82bf252d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/69122e9bd1047e3565cfa167?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69128d84c98948514c47c80a?utm_campaign=1063&utm_source=git)** | TX - Richardson | On Site | Nov 10 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Mercer](http://www.mercer.com)** | **[Health Consulting Summer Intern- Washington DC- Campus Program 2026](https://jobright.ai/jobs/info/68f1a234ef766b3f0fd10428?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 07 |
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/6906132163502c0aded809e8?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
+| **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/6912b2ffc98948514c47d519?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 06 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/690d64f24a1b456627b20f4f?utm_campaign=1063&utm_source=git)** | Portland, ME | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d1b98221b890c2780353f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/690d18124a1b456627b1d9ca?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
