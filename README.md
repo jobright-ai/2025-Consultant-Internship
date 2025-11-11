@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69138a7a1465e02904e956a6?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Nov 11 |
+| **[Blue United Corporation](https://blueutd.com/)** | **[Intern - Sports Consulting & Event Operations](https://jobright.ai/jobs/info/69139824e344172248f7269b?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Nov 11 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb81d676a1db7c5986090d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/691359741465e02904e9435a?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 11 |
