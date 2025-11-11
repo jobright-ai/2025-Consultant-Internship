@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/69133987d1047e3565d01f55?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | On Site | Nov 11 |
+| **[Crowe](https://www.crowe.com/)** | **[Consulting Quality & Risk Intern](https://jobright.ai/jobs/info/68f69ec09a63986de75805ee?utm_campaign=1063&utm_source=git)** | Oakbrook Terrace, IL | On Site | Nov 11 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant – Adobe Experience – Co-op 2026](https://jobright.ai/jobs/info/68f6f3379a63986de7583af6?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 11 |
 | **[Siemens](https://www.siemens.com)** | **[Energy Business Advisory Technical Consultant Internship](https://jobright.ai/jobs/info/6912e99cea9ab01b82bf6505?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 10 |
+| **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/69132c7ae344172248f6fd8a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/6912dccac98948514c47ef06?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69128d84c98948514c47c80a?utm_campaign=1063&utm_source=git)** | TX - Richardson | On Site | Nov 10 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Nov 10 |
@@ -137,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Bachelor's Intern](https://jobright.ai/jobs/info/6912d363d1047e3565cff3f0?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 04 |
 | ↳ | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
-| **[Mirakl](http://www.mirakl.com)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/690a73e2bcccf20de59e271a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
