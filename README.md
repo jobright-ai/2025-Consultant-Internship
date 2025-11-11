@@ -57,22 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb81d676a1db7c5986090d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Consulting Intern – Accounting & Finance](https://jobright.ai/jobs/info/691359741465e02904e9435a?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 11 |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/69137023e344172248f712f5?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 11 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68daf5a96df7b8311bb14cd7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 11 |
 | **[VAS](http://vas.com)** | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f74b57aed0577b7e050b63?utm_campaign=1063&utm_source=git)** | Wisconsin, United States | On Site | Nov 11 |
 | ↳ | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f76e065dc1be60128118fa?utm_campaign=1063&utm_source=git)** | Minnesota, United States | On Site | Nov 11 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/69133ea3e344172248f7028b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Nov 11 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/69133987d1047e3565d01f55?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | On Site | Nov 11 |
-| **[VAS](http://vas.com)** | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f75b33ec6dbe7073fbe94c?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Nov 11 |
+| **[VAS](http://vas.com)** | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f77d815dc1be6012813c2f?utm_campaign=1063&utm_source=git)** | Twin Falls, ID | On Site | Nov 11 |
+| ↳ | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f75b33ec6dbe7073fbe94c?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Nov 11 |
 | ↳ | **[VAS - Farm Performance Consultant Internship (Southwest)](https://jobright.ai/jobs/info/68f765055dc1be601281032c?utm_campaign=1063&utm_source=git)** | Tulare, CA | On Site | Nov 11 |
 | ↳ | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f76abaec6dbe7073fc12bf?utm_campaign=1063&utm_source=git)** | South Dakota, United States | On Site | Nov 11 |
-| **[Crowe](https://www.crowe.com/)** | **[Consulting Quality & Risk Intern](https://jobright.ai/jobs/info/68f69ec09a63986de75805ee?utm_campaign=1063&utm_source=git)** | Oakbrook Terrace, IL | On Site | Nov 11 |
-| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/6913514bd1047e3565d02718?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Nov 11 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant – Adobe Experience – Co-op 2026](https://jobright.ai/jobs/info/68f6f3379a63986de7583af6?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 11 |
 | **[Crowe](https://www.crowe.com/)** | **[Consulting Quality & Risk Intern](https://jobright.ai/jobs/info/68f69e709a63986de758059c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
 | ↳ | **[Consulting Quality & Risk Intern](https://jobright.ai/jobs/info/68f6a07a76a51a4307bdc78a?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Nov 11 |
 | **[Siemens](https://www.siemens.com)** | **[Energy Business Advisory Technical Consultant Internship](https://jobright.ai/jobs/info/6912e99cea9ab01b82bf6505?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Nov 10 |
-| **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/69132c7ae344172248f6fd8a?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/6912dccac98948514c47ef06?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69128d84c98948514c47c80a?utm_campaign=1063&utm_source=git)** | TX - Richardson | On Site | Nov 10 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Nov 10 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/69114eb1988c2b7b4ec53dd2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 09 |
 | ↳ | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/691149e9183be660d267b0ee?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 09 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/6910dd93988c2b7b4ec52c66?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/69136dea1465e02904e9499b?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 09 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f717149a63986de7584e4f?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
 | ↳ | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 09 |
@@ -114,8 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d136b221b890c27802d75?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d1309221b890c27802d24?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 06 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d1145d046ab6061cf246a?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69126408ea9ab01b82bf21ee?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d08e14a1b456627b1ccbe?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Nov 06 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d08e14a1b456627b1ccbe?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Nov 06 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/6912524aea9ab01b82bf1616?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Nov 06 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/690d2a724a1b456627b1eb49?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Nov 06 |
@@ -149,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Bachelor's Intern](https://jobright.ai/jobs/info/6912d363d1047e3565cff3f0?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Nov 04 |
-| ↳ | **[Consultant Intern](https://jobright.ai/jobs/info/690aa1a8bcccf20de59e46ea?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
