@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Experian](http://www.experianplc.com)** | **[Analytic Consulting Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f841206de2db04dc3dd308?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 12 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Consultant Intern](https://jobright.ai/jobs/info/6913f95de344172248f758fa?utm_campaign=1063&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 11 |
 | ↳ | **[Human Resources Consultant Intern](https://jobright.ai/jobs/info/6913f8741465e02904e98f51?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Nov 11 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69138a7a1465e02904e956a6?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Nov 11 |
