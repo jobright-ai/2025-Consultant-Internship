@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schneider Electric](https://www.se.com)** | **[Human Resources Consultant Intern](https://jobright.ai/jobs/info/6913f95de344172248f758fa?utm_campaign=1063&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 11 |
+| ↳ | **[Human Resources Consultant Intern](https://jobright.ai/jobs/info/6913f8741465e02904e98f51?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Nov 11 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69138a7a1465e02904e956a6?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Nov 11 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb81d676a1db7c5986090d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
@@ -148,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern (Financial Management Software)](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 05 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 05 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
