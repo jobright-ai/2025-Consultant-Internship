@@ -147,5 +147,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/690bb7a6d046ab6061ce6bd2?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690baa97d046ab6061ce639f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
-| **[OneStream Software](https://www.onestream.com/)** | **[Consulting Services Intern (Financial Management Software)](https://jobright.ai/jobs/info/690a6d824a1b456627b0786a?utm_campaign=1063&utm_source=git)** | Detroit Metro | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
