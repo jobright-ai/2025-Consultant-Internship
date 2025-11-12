@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/68dc849cddc10244dd67630d?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 12 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 12 |
 | **[Experian](http://www.experianplc.com)** | **[Analytic Consulting Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f841206de2db04dc3dd308?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Consultant Intern](https://jobright.ai/jobs/info/6913f95de344172248f758fa?utm_campaign=1063&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 11 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69138a7a1465e02904e956a6?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Nov 11 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb81d676a1db7c5986090d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
-| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/69137023e344172248f712f5?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 11 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Business Consulting - Operations & Performance Intern - Summer 2026](https://jobright.ai/jobs/info/68daf26807c157682e56ff81?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68daf5a96df7b8311bb14cd7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 11 |
 | **[VAS](http://vas.com)** | **[VAS - Farm Performance Consultant Internship (Midwest)](https://jobright.ai/jobs/info/68f74b57aed0577b7e050b63?utm_campaign=1063&utm_source=git)** | Wisconsin, United States | On Site | Nov 11 |
@@ -144,7 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 05 |
 | **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2025 Intern](https://jobright.ai/jobs/info/690c03ba221b890c277fa8a5?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Nov 05 |
 | **[Vervint](http://www.vervint.com)** | **[ERP Consulting Intern](https://jobright.ai/jobs/info/690d4492221b890c2780552a?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Nov 05 |
-| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690bbf274a1b456627b12513?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 05 |
-| **[Leidos](https://www.leidos.com/)** | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/690bb9f74a1b456627b120ac?utm_campaign=1063&utm_source=git)** | Framingham, MA | On Site | Nov 05 |
-| ↳ | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/690bb7a6d046ab6061ce6bd2?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
