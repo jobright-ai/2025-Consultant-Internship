@@ -145,6 +145,4 @@ For a complete list, click the following sortable link below:
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690bbf274a1b456627b12513?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 05 |
 | **[Leidos](https://www.leidos.com/)** | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/690bb9f74a1b456627b120ac?utm_campaign=1063&utm_source=git)** | Framingham, MA | On Site | Nov 05 |
 | ↳ | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/690bb7a6d046ab6061ce6bd2?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 05 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consultant Intern](https://jobright.ai/jobs/info/690baa97d046ab6061ce639f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/68eb82288369791ef78277b2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
