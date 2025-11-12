@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6914a5956f36db06ef048145?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 12 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Nov 12 |
+| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Nov 12 |
+| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4486a125e75c4229ee33?utm_campaign=1063&utm_source=git)** | Riverside, CA | On Site | Nov 12 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/68dc849cddc10244dd67630d?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 12 |
 | **[Experian](http://www.experianplc.com)** | **[Analytic Consulting Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f841206de2db04dc3dd308?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Consultant Intern](https://jobright.ai/jobs/info/6913f95de344172248f758fa?utm_campaign=1063&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 11 |
 | ↳ | **[Human Resources Consultant Intern](https://jobright.ai/jobs/info/6913f8741465e02904e98f51?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Nov 11 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69138a7a1465e02904e956a6?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Nov 11 |
