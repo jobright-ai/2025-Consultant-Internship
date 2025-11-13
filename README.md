@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting – Insurance Services Intern](https://jobright.ai/jobs/info/6915e2639c388539cbdf6801?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Remote | Nov 13 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/691578069c388539cbdf3e24?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/691531459c388539cbdf15df?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/69152a166f36db06ef04c4b7?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Nov 12 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f6da6de2db04dc3e32b4?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fedaa628d10664e876b9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902236de2db04dc3e41bf?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f666a628d10664e86b3c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90165a628d10664e87b2d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 12 |
+| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f666a628d10664e86b3c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f900cc6de2db04dc3e3f7f?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f35b6de2db04dc3e2e6d?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0fe4bafad6d2d766385?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f717149a63986de7584e4f?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
 | ↳ | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 09 |
-| **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – 2026 Internship](https://jobright.ai/jobs/info/68f2c1459a63986de756bf3e?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
