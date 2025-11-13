@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/691519be6f36db06ef04baeb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f900736de2db04dc3e3ef2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8ff8b6de2db04dc3e3d4a?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fed3cadb2e5a06a5f69b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fb096de2db04dc3e36c6?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f37fa628d10664e8676c?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fec1cadb2e5a06a5f669?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
+| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f81fa628d10664e86e80?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f903aca628d10664e87ebd?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90a8fcadb2e5a06a604a4?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fb04a628d10664e8747e?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902c66de2db04dc3e4240?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902b5a628d10664e87d28?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f9103ba628d10664e88bfe?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
+| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f6da6de2db04dc3e32b4?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fedaa628d10664e876b9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902236de2db04dc3e41bf?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f666a628d10664e86b3c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0536de2db04dc3e2aad?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90467a628d10664e87f91?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f82ccadb2e5a06a5eae5?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 12 |
+| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90704cadb2e5a06a6000c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fb456de2db04dc3e3754?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f903f9cadb2e5a06a5fb48?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fef4a628d10664e876d9?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern Southfield](https://jobright.ai/jobs/info/68cd227bb2a74e1837ed3067?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 08 |
 | ↳ | **[2026 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/68ccd177b274cd205ab4f88d?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 08 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/690eb206221b890c27810c3a?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
-| ↳ | **[Risk Consultant Intern - Milwaukee, Wisconsin Area](https://jobright.ai/jobs/info/690eb158221b890c27810ba4?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 07 |
-| ↳ | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/690e5e34d046ab6061cfcc0e?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
-| ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e597ed046ab6061cfc807?utm_campaign=1063&utm_source=git)** | US-OH-Cincinnati | On Site | Nov 07 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/690e5629d046ab6061cfc61b?utm_campaign=1063&utm_source=git)** | IL - Chicago | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
