@@ -57,22 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690dbc61d046ab6061cf89e0?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Nov 15 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd2d7b99ec3563b0c9864?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd325b99ec3563b0c98cd?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 15 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd284b99ec3563b0c982c?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 15 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfef86f758fe1f97e48065?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
+| ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfcc59f758fe1f97e4705a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/68e03305b99ec3563b0cd03c?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Nov 15 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690dbc61d046ab6061cf89e0?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Nov 15 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 15 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/690dbcd3d046ab6061cf8ad7?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Nov 15 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d13244a1b456627b1d58b?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Nov 15 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/69060a6e122e8474c78ddf0e?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Analytics Centre of Excellence](https://jobright.ai/jobs/info/691878c445fb6f5ead8a57e7?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 15 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern - Canada](https://jobright.ai/jobs/info/69182a8145fb6f5ead8a252d?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Nov 14 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Southwest USA](https://jobright.ai/jobs/info/6918298a15b415636717f375?utm_campaign=1063&utm_source=git)** | Arvada, CO | On Site | Nov 14 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Upper Midwest](https://jobright.ai/jobs/info/6918218abcdbf3560c9cedb2?utm_campaign=1063&utm_source=git)** | De Forest, WI | On Site | Nov 14 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Eastern USA](https://jobright.ai/jobs/info/6917c9bd45fb6f5ead89e9d8?utm_campaign=1063&utm_source=git)** | De Forest, WI | On Site | Nov 14 |
 | **[AOA](https://www.insideaoa.com/)** | **[Visioning & Planning Intern](https://jobright.ai/jobs/info/6917ec76bcdbf3560c9ccafa?utm_campaign=1063&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 14 |
-| **[Stratagem One](stratagemone.us)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/69176acf3ea85638ae1ca72e?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 14 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Consulting Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/69175e23370fde633d07f6f0?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/69173b08370fde633d07e8a8?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 14 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting – Insurance Services Intern](https://jobright.ai/jobs/info/6917613e370fde633d07f8e6?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Remote | Nov 14 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9fb3b2c86843bf2105e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/6908fbf1d046ab6061ccfce1?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcc?utm_campaign=1063&utm_source=git)** | Research Park, CA | Hybrid | Nov 14 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f6da6de2db04dc3e32b4?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fedaa628d10664e876b9?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902236de2db04dc3e41bf?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
-| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90165a628d10664e87b2d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f666a628d10664e86b3c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
+| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90165a628d10664e87b2d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f900cc6de2db04dc3e3f7f?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f35b6de2db04dc3e2e6d?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0fe4bafad6d2d766385?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0556de2db04dc3e2ab2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f8dea628d10664e87010?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f906dda628d10664e88306?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/68f812e0b0edcf159dc8e6d1?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 12 |
-| **[PwC](http://pwc.com)** | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f762cadb2e5a06a5e918?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 12 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/68f80f5db0edcf159dc8e346?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 12 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Nov 12 |
-| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
