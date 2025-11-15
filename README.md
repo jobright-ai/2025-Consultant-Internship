@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690dbc61d046ab6061cf89e0?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Nov 15 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 15 |
+| **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/690dbcd3d046ab6061cf8ad7?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Nov 15 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d13244a1b456627b1d58b?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Nov 15 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Risk Consultant Undergraduate Intern](https://jobright.ai/jobs/info/69060a6e122e8474c78ddf0e?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern - Canada](https://jobright.ai/jobs/info/69182a8145fb6f5ead8a252d?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Nov 14 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Southwest USA](https://jobright.ai/jobs/info/6918298a15b415636717f375?utm_campaign=1063&utm_source=git)** | Arvada, CO | On Site | Nov 14 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Upper Midwest](https://jobright.ai/jobs/info/6918218abcdbf3560c9cedb2?utm_campaign=1063&utm_source=git)** | De Forest, WI | On Site | Nov 14 |
@@ -71,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/6908fbf1d046ab6061ccfce1?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcc?utm_campaign=1063&utm_source=git)** | Research Park, CA | Hybrid | Nov 14 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/690dbbab221b890c2780918b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Nov 14 |
+| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa908167272b29af730f7a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Nov 14 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9e6db2c86843bf2104c2?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Nov 14 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/68f80f5db0edcf159dc8e346?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 12 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Nov 12 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Nov 12 |
-| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4486a125e75c4229ee33?utm_campaign=1063&utm_source=git)** | Riverside, CA | On Site | Nov 12 |
-| **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/68dc849cddc10244dd67630d?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 12 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 12 |
-| **[Experian](http://www.experianplc.com)** | **[Analytic Consulting Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f841206de2db04dc3dd308?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 12 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
-| **[Schneider Electric](https://www.se.com)** | **[Human Resources Consultant Intern](https://jobright.ai/jobs/info/6913f95de344172248f758fa?utm_campaign=1063&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
