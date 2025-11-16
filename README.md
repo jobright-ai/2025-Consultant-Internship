@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Consulting – Actuarial Services Intern](https://jobright.ai/jobs/info/6919660e15b4156367185800?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 15 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Consulting Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/69193459bcdbf3560c9d45d3?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 15 |
 | **[Stratagem One](stratagemone.us)** | **[Consulting – Insurance Services Intern](https://jobright.ai/jobs/info/6918f48915b41563671841fa?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Remote | Nov 15 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/6918c24fbcdbf3560c9d37e2?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 15 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Consulting – Insurance and Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/691899b815b4156367182fe6?utm_campaign=1063&utm_source=git)** | Philadelphia County, PA | On Site | Nov 15 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/691888acbcdbf3560c9d290a?utm_campaign=1063&utm_source=git)** | Alaska, United States | Remote | Nov 15 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/690adafdd046ab6061ce0eb7?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Nov 15 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd2d7b99ec3563b0c9864?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
@@ -105,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern (4 Month)](https://jobright.ai/jobs/info/6917063ebcdbf3560c9c42ea?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 13 |
 | **[PwC](http://pwc.com)** | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f9015ca628d10664e87b15?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Nov 12 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69196d36bcdbf3560c9d5648?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 12 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 12 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/691531459c388539cbdf15df?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/691519be6f36db06ef04baeb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f91745cadb2e5a06a610b1?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fa20a628d10664e8728b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Risk Consulting Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0686de2db04dc3e2ad6?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3f16de2db04dc3e2f48?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
