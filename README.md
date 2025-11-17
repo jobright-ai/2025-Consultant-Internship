@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Accenture](https://www.accenture.com)** | **[Entry Level Consulting Analyst Development Program - Summer Analyst (Intern) - Canada - NAELFY26](https://jobright.ai/jobs/info/691aac6645fb6f5ead8acea8?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Nov 16 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting – Actuarial Services Intern](https://jobright.ai/jobs/info/6919e76ebcdbf3560c9d77f0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 16 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4d7377279451d6a0381fb?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Nov 16 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/690adafdd046ab6061ce0eb7?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Nov 15 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd2d7b99ec3563b0c9864?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
@@ -87,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/690dbbab221b890c2780918b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Nov 14 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa908167272b29af730f7a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Nov 14 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9e6db2c86843bf2104c2?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Nov 14 |
+| **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40042041](https://jobright.ai/jobs/info/691acd42bcdbf3560c9daaeb?utm_campaign=1063&utm_source=git)** | Fleming Island, FL | On Site | Nov 13 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 13 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/69166221286ccf0a15135237?utm_campaign=1063&utm_source=git)** | US-PA-Philadelphia | On Site | Nov 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3f16de2db04dc3e2f48?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f4a76de2db04dc3e3011?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f2a26de2db04dc3e2d81?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
+| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0556de2db04dc3e2ab2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
