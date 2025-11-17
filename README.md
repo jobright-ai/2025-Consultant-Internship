@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/691a015d45fb6f5ead8aae0d?utm_campaign=1063&utm_source=git)** | Louisville, KY | Remote | Nov 16 |
-| ↳ | **[Consulting – Actuarial Services Intern](https://jobright.ai/jobs/info/6919f85b15b4156367187bcc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 16 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting – Actuarial Services Intern](https://jobright.ai/jobs/info/6919e76ebcdbf3560c9d77f0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 16 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Consulting – Insurance and Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/6919e36bbcdbf3560c9d7788?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Nov 16 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4d7377279451d6a0381fb?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Nov 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fa20a628d10664e8728b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Risk Consulting Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0686de2db04dc3e2ad6?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3f16de2db04dc3e2f48?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
+| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f4a76de2db04dc3e3011?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
+| ↳ | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f2a26de2db04dc3e2d81?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
