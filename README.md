@@ -61,9 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting – Actuarial Services Intern](https://jobright.ai/jobs/info/6919f85b15b4156367187bcc?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 16 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting – Actuarial Services Intern](https://jobright.ai/jobs/info/6919e76ebcdbf3560c9d77f0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 16 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Consulting – Insurance and Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/6919e36bbcdbf3560c9d7788?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Nov 16 |
-| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/6919ce9245fb6f5ead8aa6cf?utm_campaign=1063&utm_source=git)** | Utah, United States | Remote | Nov 16 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4d7377279451d6a0381fb?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Nov 16 |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Consulting – Actuarial Services Intern](https://jobright.ai/jobs/info/6919660e15b4156367185800?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 15 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/690adafdd046ab6061ce0eb7?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Nov 15 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd2d7b99ec3563b0c9864?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
 | ↳ | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd325b99ec3563b0c98cd?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 15 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f07e6de2db04dc3e2aee?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f91745cadb2e5a06a610b1?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fa20a628d10664e8728b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
+| ↳ | **[Risk Consulting Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0686de2db04dc3e2ad6?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
+| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3f16de2db04dc3e2f48?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
