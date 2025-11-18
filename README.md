@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/691c8d62bcdbf3560c9e7d35?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Nov 18 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 18 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 18 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2026](https://jobright.ai/jobs/info/68cc97ac128dc347fd9270be?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 18 |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/691c75aaff70244984167fa7?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Nov 18 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Nov 18 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/691c44b2ff70244984167207?utm_campaign=1063&utm_source=git)** | Pennsylvania, United States | Remote | Nov 17 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/691be01dbcdbf3560c9e3801?utm_campaign=1063&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 17 |
@@ -118,7 +122,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90533a628d10664e88063?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f906dda628d10664e88305?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902c66de2db04dc3e4240?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
-| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f9103ba628d10664e88bfe?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f902236de2db04dc3e41bf?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
 | ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f666a628d10664e86b3c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90165a628d10664e87b2d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 12 |
