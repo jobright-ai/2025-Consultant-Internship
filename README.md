@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/691cbb4d22a2cb4b9bd1c97c?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Nov 18 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/691ccf07ff7024498416a8da?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Valorantum Capital](valorantumcapital.us)** | **[Consulting – Financial Services](https://jobright.ai/jobs/info/691c994bbcdbf3560c9e82d5?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Remote | Nov 18 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Consulting – Financial Services - Insurance and Actuarial Advisory Services](https://jobright.ai/jobs/info/691cc61922a2cb4b9bd1d154?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 18 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Consulting Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/691c8d62bcdbf3560c9e7d35?utm_campaign=1063&utm_source=git)** | Louisville, KY | On Site | Nov 18 |
-| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Consulting and Accounting Intern](https://jobright.ai/jobs/info/691cab5122a2cb4b9bd1c139?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Nov 18 |
+| **[Valorantum](valorantum.us)** | **[Consulting – Insurance and Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/691cd3f2ff7024498416ad43?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Nov 18 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 18 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 18 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2026](https://jobright.ai/jobs/info/68cc97ac128dc347fd9270be?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 18 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90467a628d10664e87f91?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f775cadb2e5a06a5e948?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f91745cadb2e5a06a610b1?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
-| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fa20a628d10664e8728b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f4a76de2db04dc3e3011?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0556de2db04dc3e2ab2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f906dda628d10664e88306?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
@@ -129,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Nov 12 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Nov 12 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4486a125e75c4229ee33?utm_campaign=1063&utm_source=git)** | Riverside, CA | On Site | Nov 12 |
-| **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/68dc849cddc10244dd67630d?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
