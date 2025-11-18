@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern](https://jobright.ai/jobs/info/691ba047bcdbf3560c9e0dd0?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Nov 17 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Project Management, Tech Consulting Internship (Spring 2026)](https://jobright.ai/jobs/info/691b8b9f15b4156367190121?utm_campaign=1063&utm_source=git)** | Lehi, UT | On Site | Nov 17 |
 | **[Valorantum Capital](valorantumcapital.us)** | **[Consulting – Financial Services - Insurance and Actuarial Advisory Services](https://jobright.ai/jobs/info/691b440615b415636718db24?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Nov 17 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Consulting – Insurance and Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/691b66b715b415636718ebd3?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Nov 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f91745cadb2e5a06a610b1?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
 | ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fa20a628d10664e8728b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Risk Consulting Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0686de2db04dc3e2ad6?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
-| ↳ | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3f16de2db04dc3e2f48?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
