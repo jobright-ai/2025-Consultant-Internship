@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026) - Mechanical Section](https://jobright.ai/jobs/info/691d1ac2bcdbf3560c9ed309?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 18 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Nov 18 |
 | **[Metropolitan Strategies and Solutions](https://www.mssolutions.us)** | **[Strategy, Analytics, and Human-Centered Design Consulting Intern](https://jobright.ai/jobs/info/691d0159bcdbf3560c9ec38e?utm_campaign=1063&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 18 |
 | **[Massachusetts School Building Authority (MSBA)](http://www.massschoolbuildings.org/)** | **[Capital Planning Data Assistant (Co-op)](https://jobright.ai/jobs/info/691cef7fbcdbf3560c9eb6b8?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 18 |
@@ -118,10 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/691531459c388539cbdf15df?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/691519be6f36db06ef04baeb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6915294e9c388539cbdf1206?utm_campaign=1063&utm_source=git)** | CS-Bryan Area | On Site | Nov 12 |
-| **[PwC](http://pwc.com)** | **[Strategy& Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f666a628d10664e86b3c?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
-| ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f775cadb2e5a06a5e948?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 12 |
-| ↳ | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0556de2db04dc3e2ab2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
-| ↳ | **[Management Consulting - Sales Service and Marketing Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f906dda628d10664e88306?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
+| **[PwC](http://pwc.com)** | **[Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f0556de2db04dc3e2ab2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/68f812e0b0edcf159dc8e6d1?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 12 |
 | ↳ | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/68f80f5db0edcf159dc8e346?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 12 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Nov 12 |
