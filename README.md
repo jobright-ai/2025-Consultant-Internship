@@ -119,7 +119,4 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6915294e9c388539cbdf1206?utm_campaign=1063&utm_source=git)** | CS-Bryan Area | On Site | Nov 12 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/68f812e0b0edcf159dc8e6d1?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 12 |
 | ↳ | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/68f80f5db0edcf159dc8e346?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 12 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68dbf865d6470e72cf4d7ab3?utm_campaign=1063&utm_source=git)** | Sunrise, FL | On Site | Nov 12 |
-| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68fb2e483c99cc1d96029622?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Nov 12 |
-| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dc4486a125e75c4229ee33?utm_campaign=1063&utm_source=git)** | Riverside, CA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
