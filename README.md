@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 19 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026) - Mechanical Section](https://jobright.ai/jobs/info/691d1ac2bcdbf3560c9ed309?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 18 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Nov 18 |
 | **[Massachusetts School Building Authority (MSBA)](http://www.massschoolbuildings.org/)** | **[Capital Planning Data Assistant (Co-op)](https://jobright.ai/jobs/info/691cef7fbcdbf3560c9eb6b8?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 18 |
@@ -113,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern (4 Month)](https://jobright.ai/jobs/info/6917063ebcdbf3560c9c42ea?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 13 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 12 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/691531459c388539cbdf15df?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/691519be6f36db06ef04baeb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6915294e9c388539cbdf1206?utm_campaign=1063&utm_source=git)** | CS-Bryan Area | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
