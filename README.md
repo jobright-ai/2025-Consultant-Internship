@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Nov 18 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern](https://jobright.ai/jobs/info/691ba047bcdbf3560c9e0dd0?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Nov 17 |
 | ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/691bff3d15b4156367195099?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Nov 17 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Project Management, Tech Consulting Internship (Spring 2026)](https://jobright.ai/jobs/info/691b8b9f15b4156367190121?utm_campaign=1063&utm_source=git)** | Lehi, UT | On Site | Nov 17 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Environmental Consulting and Risk Management Internship](https://jobright.ai/jobs/info/68c4d7377279451d6a0381fb?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Nov 16 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/690adafdd046ab6061ce0eb7?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Nov 15 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[U.S. Summer Consultant - 2026](https://jobright.ai/jobs/info/68dfd2d7b99ec3563b0c9864?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
@@ -105,9 +104,5 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40042041](https://jobright.ai/jobs/info/691acd42bcdbf3560c9daaeb?utm_campaign=1063&utm_source=git)** | Fleming Island, FL | On Site | Nov 13 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 13 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/69166221286ccf0a15135237?utm_campaign=1063&utm_source=git)** | US-PA-Philadelphia | On Site | Nov 13 |
-| ↳ | **[Risk Consultant Intern - Tampa, Florida Area](https://jobright.ai/jobs/info/691676da9c388539cbdfbad7?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Nov 13 |
-| ↳ | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/6916741e286ccf0a1513626c?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 13 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/69165f9d6f36db06ef0559c8?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Nov 13 |
-| **[United Airlines](https://www.united.com)** | **[Graduate/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/68f9edd17ab77a56387e86a4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
