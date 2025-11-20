@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Eastern USA](https://jobright.ai/jobs/info/6917c9bd45fb6f5ead89e9d8?utm_campaign=1063&utm_source=git)** | De Forest, WI | On Site | Nov 14 |
 | **[AOA](https://www.insideaoa.com/)** | **[Visioning & Planning Intern](https://jobright.ai/jobs/info/6917ec76bcdbf3560c9ccafa?utm_campaign=1063&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 14 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 14 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9fb3b2c86843bf2105e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/6908fbf1d046ab6061ccfce1?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcc?utm_campaign=1063&utm_source=git)** | Research Park, CA | Hybrid | Nov 14 |
