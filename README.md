@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/691e352aa49a885af9a263c8?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 19 |
 | **[Accenture](https://www.accenture.com)** | **[Accenture Strategy Consultant Development Program - Summer Consultant (MBA Intern) - Canada - NAELFY26](https://jobright.ai/jobs/info/691e2f8a09cc522e877371d4?utm_campaign=1063&utm_source=git)** | Ontario - Toronto | On Site | Nov 19 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Consulting – Insurance and Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/691e45053f782d2f1afb3285?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Nov 19 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Marketing Consultant](https://jobright.ai/jobs/info/691e0b01a49a885af9a240c6?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Nov 19 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e53a36b99ec3563b0f1b54?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Nov 19 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/691e0f693f782d2f1afb05bb?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Nov 19 |
