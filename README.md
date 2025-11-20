@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e68126ae2b894b1d71ad85?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Nov 20 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Nov 20 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/691e352aa49a885af9a263c8?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 19 |
 | **[Accenture](https://www.accenture.com)** | **[Accenture Strategy Consultant Development Program - Summer Consultant (MBA Intern) - Canada - NAELFY26](https://jobright.ai/jobs/info/691e2f8a09cc522e877371d4?utm_campaign=1063&utm_source=git)** | Ontario - Toronto | On Site | Nov 19 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Consulting – Insurance and Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/691e45053f782d2f1afb3285?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Nov 19 |
@@ -104,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40042041](https://jobright.ai/jobs/info/691acd42bcdbf3560c9daaeb?utm_campaign=1063&utm_source=git)** | Fleming Island, FL | On Site | Nov 13 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 13 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691ef032a49a885af9a2b7f3?utm_campaign=1063&utm_source=git)** | US-PA-Philadelphia | On Site | Nov 13 |
-| ↳ | **[Risk Consultant Intern - Tampa, Florida Area](https://jobright.ai/jobs/info/691eefab3f782d2f1afb7ab4?utm_campaign=1063&utm_source=git)** | US-FL-Tampa | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
