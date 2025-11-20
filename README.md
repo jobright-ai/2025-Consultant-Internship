@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/691f32493f782d2f1afb9122?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Nov 20 |
+| ↳ | **[Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/691f2d3ca49a885af9a2cc73?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
+| ↳ | **[Consulting Engineer (Intern) United States](https://jobright.ai/jobs/info/691f28343f782d2f1afb8c4e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e68126ae2b894b1d71ad85?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Nov 20 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Nov 20 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/691e352aa49a885af9a263c8?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 19 |
@@ -104,6 +107,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa908167272b29af730f7a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Nov 14 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9e6db2c86843bf2104c2?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Nov 14 |
 | **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40042041](https://jobright.ai/jobs/info/691acd42bcdbf3560c9daaeb?utm_campaign=1063&utm_source=git)** | Fleming Island, FL | On Site | Nov 13 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
-| ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
