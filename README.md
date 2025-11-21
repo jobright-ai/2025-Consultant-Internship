@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Nov 20 |
+| ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fcf24a49a885af9a344ea?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
+| **[No Barriers Education](https://www.nobarrierseducation.com/)** | **[Higher Education Consultant Intern](https://jobright.ai/jobs/info/691fcca009cc522e87745843?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Nov 20 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Metairie, LA)](https://jobright.ai/jobs/info/691f8dc7a49a885af9a31a22?utm_campaign=1063&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f8c2709cc522e87742c72?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f89bd09cc522e87742a8f?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f88263f782d2f1afbd64b?utm_campaign=1063&utm_source=git)** | 30 North Lasalle Street, Chicago, IL, 60602, US | On Site | Nov 20 |
-| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312f0?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312ef?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
+| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312f0?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa9e43f782d2f1afbf257?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a933f782d2f1afbcb3a?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa23e3f782d2f1afbecc7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
@@ -118,9 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 14 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 14 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9fb3b2c86843bf2105e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
-| ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/6908fbf1d046ab6061ccfce1?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcc?utm_campaign=1063&utm_source=git)** | Research Park, CA | Hybrid | Nov 14 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/690dbbab221b890c2780918b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Nov 14 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa908167272b29af730f7a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Nov 14 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9e6db2c86843bf2104c2?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
