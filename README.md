@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Business Consulting and Strategy Intern](https://jobright.ai/jobs/info/69208e993f782d2f1afc8c32?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Nov 21 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/6920b569a49a885af9a3e44f?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/69208b323f782d2f1afc89ea?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Nov 21 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69207a4100c9ee50eaec43d8?utm_campaign=1063&utm_source=git)** | Ashburn, VA, USA | Hybrid | Nov 21 |
+| ↳ | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Nov 21 |
 | **[Sheehy Auto Stores](http://sheehy.com)** | **[Automotive Internet Sales Consultant (Experienced)](https://jobright.ai/jobs/info/69209af03f782d2f1afc9583?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 21 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/69085823ff462851fe00ea18?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
-| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69207b75a49a885af9a3bbea?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Nov 21 |
+| **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 21 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/690dd02344146d3b6ec4ff57?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
 | ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/690f07a2d046ab6061d02e39?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/69202fd73f782d2f1afc3740?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Nov 21 |
