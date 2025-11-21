@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69207a4100c9ee50eaec43d8?utm_campaign=1063&utm_source=git)** | Ashburn, VA, USA | Hybrid | Nov 21 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/69085823ff462851fe00ea18?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
-| ↳ | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/690dd02344146d3b6ec4ff57?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69207b75a49a885af9a3bbea?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Nov 21 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/690dd02344146d3b6ec4ff57?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
 | ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/690f07a2d046ab6061d02e39?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/69202fd73f782d2f1afc3740?utm_campaign=1063&utm_source=git)** | Kentucky, United States | Remote | Nov 21 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Nov 20 |
@@ -122,5 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Southwest USA](https://jobright.ai/jobs/info/6918298a15b415636717f375?utm_campaign=1063&utm_source=git)** | Arvada, CO | On Site | Nov 14 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Upper Midwest](https://jobright.ai/jobs/info/6918218abcdbf3560c9cedb2?utm_campaign=1063&utm_source=git)** | De Forest, WI | On Site | Nov 14 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Eastern USA](https://jobright.ai/jobs/info/6917c9bd45fb6f5ead89e9d8?utm_campaign=1063&utm_source=git)** | De Forest, WI | On Site | Nov 14 |
-| **[AOA](https://www.insideaoa.com/)** | **[Visioning & Planning Intern](https://jobright.ai/jobs/info/6917ec76bcdbf3560c9ccafa?utm_campaign=1063&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
