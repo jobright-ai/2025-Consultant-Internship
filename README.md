@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artefact](https://artefact.com/)** | **[Data Consultant Intern - (Indonesia, Jakarta)](https://jobright.ai/jobs/info/69219acf3f782d2f1afd324e?utm_campaign=1063&utm_source=git)** | Asia-Pacific | On Site | Nov 22 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/692140e03f782d2f1afd0995?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 21 |
 | **[Target](https://www.target.com)** | **[MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2026)](https://jobright.ai/jobs/info/6921217ba49a885af9a43280?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 21 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920fd9600c9ee50eaeca81f?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Nov 21 |
