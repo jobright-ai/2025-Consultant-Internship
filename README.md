@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68ca2f89f16e3266d282413d?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 23 |
+| ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 23 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Consulting Intern](https://jobright.ai/jobs/info/6923130038cd5478a8d56001?utm_campaign=1063&utm_source=git)** | Kentucky, United States | On Site | Nov 23 |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ac3f4e41a61efd82dda?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
 | **[Summit Leadership Partners](https://www.summitleadership.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/69221713a49a885af9a4860b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Nov 22 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 22 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/68b239eff4e41a61efd82d0f?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 22 |
@@ -67,13 +71,13 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920fd9600c9ee50eaeca81f?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Nov 21 |
 | ↳ | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920fd273f782d2f1afce0a2?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Nov 21 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 21 |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920d2aca49a885af9a3fae3?utm_campaign=1063&utm_source=git)** | Ashburn, VA, USA | Hybrid | Nov 21 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920c5273f782d2f1afcb4c1?utm_campaign=1063&utm_source=git)** | 4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Nov 21 |
 | ↳ | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920c0ad00c9ee50eaec78a5?utm_campaign=1063&utm_source=git)** | 12900 Science Drive Suite 100, Orlando, Florida, United States | On Site | Nov 21 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 21 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 21 |
 | **[Siemens](https://www.siemens.com)** | **[Grid Software Technical Consultant Graduate Internship](https://jobright.ai/jobs/info/69208b323f782d2f1afc89ea?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Nov 21 |
-| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69207a4100c9ee50eaec43d8?utm_campaign=1063&utm_source=git)** | Ashburn, VA, USA | Hybrid | Nov 21 |
-| ↳ | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Nov 21 |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Nov 21 |
 | **[Sheehy Auto Stores](http://sheehy.com)** | **[Automotive Internet Sales Consultant (Experienced)](https://jobright.ai/jobs/info/69209af03f782d2f1afc9583?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 21 |
 | **[IBM](http://www.ibm.com)** | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/69085823ff462851fe00ea18?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 21 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fe89609cc522e8774688a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Metairie, LA)](https://jobright.ai/jobs/info/691f8dc7a49a885af9a31a22?utm_campaign=1063&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f89bd09cc522e87742a8f?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312ef?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312f0?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
+| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312ef?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa9e43f782d2f1afbf257?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a933f782d2f1afbcb3a?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa23e3f782d2f1afbecc7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
