@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Nov 24 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Managed IT Consulting Intern](https://jobright.ai/jobs/info/68b1dc1f1ade4306aa632633?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 24 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68ca2f89f16e3266d282413d?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 23 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 23 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fe89609cc522e8774688a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Metairie, LA)](https://jobright.ai/jobs/info/691f8dc7a49a885af9a31a22?utm_campaign=1063&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f89bd09cc522e87742a8f?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312ef?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312f0?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
+| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312ef?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa9e43f782d2f1afbf257?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a933f782d2f1afbcb3a?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa23e3f782d2f1afbecc7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
@@ -115,12 +116,10 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6901396a4539ea1f2141e206?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 19 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026) - Mechanical Section](https://jobright.ai/jobs/info/691d1ac2bcdbf3560c9ed309?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 18 |
-| **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Nov 18 |
 | **[Massachusetts School Building Authority (MSBA)](http://www.massschoolbuildings.org/)** | **[Capital Planning Data Assistant (Co-op)](https://jobright.ai/jobs/info/691cef7fbcdbf3560c9eb6b8?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 18 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Nov 18 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 18 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2026](https://jobright.ai/jobs/info/68cc97ac128dc347fd9270be?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Nov 18 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern](https://jobright.ai/jobs/info/691ba047bcdbf3560c9e0dd0?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Nov 17 |
-| ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/691bff3d15b4156367195099?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
