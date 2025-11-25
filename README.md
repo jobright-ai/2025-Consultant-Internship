@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/6925290df0beb0723261b4e1?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 24 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/692504f1c0cefa13343e5861?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/6924cc3fc0cefa13343e2136?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Consulting & Analytics Intern](https://jobright.ai/jobs/info/6924bf49c0cefa13343e1796?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 24 |
