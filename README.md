@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fcf24a49a885af9a344ea?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fe89609cc522e8774688a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f89bd09cc522e87742a8f?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312f0?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312ef?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
+| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312f0?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa9e43f782d2f1afbf257?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a933f782d2f1afbcb3a?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa23e3f782d2f1afbecc7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e579d1ae2b894b1d70fa4d?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Nov 19 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6901396a4539ea1f2141e206?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 19 |
-| **[Cisco](http://www.cisco.com)** | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/6924ee3338cd5478a8d601bc?utm_campaign=1063&utm_source=git)** | Richardson, Texas, US | On Site | Nov 19 |
-| ↳ | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/6924eaadec574f4265bb911f?utm_campaign=1063&utm_source=git)** | RTP, North Carolina, US | On Site | Nov 19 |
+| **[Cisco](http://www.cisco.com)** | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/6924eaadec574f4265bb911f?utm_campaign=1063&utm_source=git)** | RTP, North Carolina, US | On Site | Nov 19 |
+| ↳ | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/6924ee3338cd5478a8d601bc?utm_campaign=1063&utm_source=git)** | Richardson, Texas, US | On Site | Nov 19 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026) - Mechanical Section](https://jobright.ai/jobs/info/691d1ac2bcdbf3560c9ed309?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 18 |
 | **[Massachusetts School Building Authority (MSBA)](http://www.massschoolbuildings.org/)** | **[Capital Planning Data Assistant (Co-op)](https://jobright.ai/jobs/info/691cef7fbcdbf3560c9eb6b8?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
