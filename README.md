@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692653c2f0beb07232623fc8?utm_campaign=1063&utm_source=git)** | Canada Corporate | On Site | Nov 25 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692658a127bf2f41a2c456c9?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Nov 25 |
+| ↳ | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692653c2f0beb07232623fc8?utm_campaign=1063&utm_source=git)** | Canada Corporate | On Site | Nov 25 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69262a51f0beb07232622ae2?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Summer or Fall 2026) – Montreal](https://jobright.ai/jobs/info/69263a29d47de4798ecd5b6a?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69260937d47de4798ecd3c57?utm_campaign=1063&utm_source=git)** | 1800, avenue McGill College, Montréal, QUEBEC, H3A 3J6, CA | On Site | Nov 25 |
