@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692653c2f0beb07232623fc8?utm_campaign=1063&utm_source=git)** | Canada Corporate | On Site | Nov 25 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69262a51f0beb07232622ae2?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Summer or Fall 2026) – Montreal](https://jobright.ai/jobs/info/69263a29d47de4798ecd5b6a?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69260937d47de4798ecd3c57?utm_campaign=1063&utm_source=git)** | 1800, avenue McGill College, Montréal, QUEBEC, H3A 3J6, CA | On Site | Nov 25 |
@@ -154,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e579d1ae2b894b1d70fa4d?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Nov 19 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6901396a4539ea1f2141e206?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/68e5621e1852e62f0080f04a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Nov 19 |
-| **[Cisco](http://www.cisco.com)** | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/6924eaadec574f4265bb911f?utm_campaign=1063&utm_source=git)** | RTP, North Carolina, US | On Site | Nov 19 |
-| ↳ | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/6924ee3338cd5478a8d601bc?utm_campaign=1063&utm_source=git)** | Richardson, Texas, US | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
