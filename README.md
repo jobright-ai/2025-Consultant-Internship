@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Nov 26 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cff42fdbd9fb154edec2d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 26 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce25031ad6b16f028a25cc?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | On Site | Nov 26 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fcf24a49a885af9a344ea?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fe89609cc522e8774688a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f89bd09cc522e87742a8f?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312f0?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312ef?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
+| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f863aa49a885af9a312f0?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa9e43f782d2f1afbf257?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a933f782d2f1afbcb3a?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691fa23e3f782d2f1afbecc7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a82a49a885af9a308a9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68e68126ae2b894b1d71ad85?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Nov 20 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Nov 20 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/69204fa43f782d2f1afc48eb?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
