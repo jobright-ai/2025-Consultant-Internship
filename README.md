@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc0e15b415636718a337?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/69287699d47de4798ece2eba?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 27 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/692870c691ceeb2e8a5457fb?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Nov 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc5115b415636718a46e?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sheehy Auto Stores](http://sheehy.com)** | **[Automotive Internet Sales Consultant (Experienced)](https://jobright.ai/jobs/info/69209af03f782d2f1afc9583?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 21 |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Intern Support Consultants - One Person One Record](https://jobright.ai/jobs/info/6925c41ef0beb0723261f112?utm_campaign=1063&utm_source=git)** | Nova Scotia, Canada | On Site | Nov 21 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 21 |
-| **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68cc51e07342c7623ae628cd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 21 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/6922dcf47795cd460c8378d0?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Nov 21 |
-| ↳ | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/6922c520c0cefa13343d93f4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
