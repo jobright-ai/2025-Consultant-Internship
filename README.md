@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/6928b221d47de4798ece380f?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 27 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc0e15b415636718a337?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/69287699d47de4798ece2eba?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 27 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/692870c691ceeb2e8a5457fb?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Nov 21 |
 | **[Sheehy Auto Stores](http://sheehy.com)** | **[Automotive Internet Sales Consultant (Experienced)](https://jobright.ai/jobs/info/69209af03f782d2f1afc9583?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 21 |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Intern Support Consultants - One Person One Record](https://jobright.ai/jobs/info/6925c41ef0beb0723261f112?utm_campaign=1063&utm_source=git)** | Nova Scotia, Canada | On Site | Nov 21 |
-| **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
