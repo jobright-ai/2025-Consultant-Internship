@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Victoria Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69281059f0beb0723262f499?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Nov 27 |
 | ↳ | **[GVA Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69280b1f91ceeb2e8a54447c?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 27 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Nov 20 |
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fcf24a49a885af9a344ea?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Nov 20 |
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fe89609cc522e8774688a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Management Consultancy Intern - Summer 2026](https://jobright.ai/jobs/info/691f89bd09cc522e87742a8f?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
