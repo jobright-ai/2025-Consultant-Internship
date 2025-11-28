@@ -149,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2026)](https://jobright.ai/jobs/info/6921217ba49a885af9a43280?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 21 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920fd9600c9ee50eaeca81f?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Nov 21 |
 | ↳ | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920fd273f782d2f1afce0a2?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Nov 21 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
