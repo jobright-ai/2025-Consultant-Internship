@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/6928cedef0beb072326315aa?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 27 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/6928b221d47de4798ece380f?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 27 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc0e15b415636718a337?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/69287699d47de4798ece2eba?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 27 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920fd9600c9ee50eaeca81f?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Nov 21 |
 | ↳ | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920fd273f782d2f1afce0a2?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Nov 21 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 21 |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920d2aca49a885af9a3fae3?utm_campaign=1063&utm_source=git)** | Ashburn, VA, USA | Hybrid | Nov 21 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920c5273f782d2f1afcb4c1?utm_campaign=1063&utm_source=git)** | 4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Nov 21 |
 | ↳ | **[Technical Accelerator Consultant (Intern)](https://jobright.ai/jobs/info/6920c0ad00c9ee50eaec78a5?utm_campaign=1063&utm_source=git)** | 12900 Science Drive Suite 100, Orlando, Florida, United States | On Site | Nov 21 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Nov 21 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 21 |
-| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69207a4100c9ee50eaec43d8?utm_campaign=1063&utm_source=git)** | Ashburn, VA, USA | Hybrid | Nov 21 |
-| ↳ | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Nov 21 |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Nov 21 |
 | **[Sheehy Auto Stores](http://sheehy.com)** | **[Automotive Internet Sales Consultant (Experienced)](https://jobright.ai/jobs/info/69209af03f782d2f1afc9583?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Nov 21 |
-| **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Intern Support Consultants - One Person One Record](https://jobright.ai/jobs/info/6925c41ef0beb0723261f112?utm_campaign=1063&utm_source=git)** | Nova Scotia, Canada | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
