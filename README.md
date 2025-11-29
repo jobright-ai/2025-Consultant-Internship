@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/692aff70fa28370be2698085?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Nov 29 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Nov 29 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f1aecbe6870116b1f5bac3?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Nov 29 |
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/6906132163502c0aded809e8?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern Southfield](https://jobright.ai/jobs/info/68cd227bb2a74e1837ed3067?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 29 |
 | **[Red Hat](http://www.redhat.com)** | **[AI Consulting Intern](https://jobright.ai/jobs/info/68f158e3f462172a5a7d6c5b?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
