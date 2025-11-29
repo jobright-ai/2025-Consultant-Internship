@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[AI Consulting Intern](https://jobright.ai/jobs/info/68f158e3f462172a5a7d6c5b?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/6929cd0efa28370be26953bc?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Nov 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Nov 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6929bfe24c474121999ca2d9?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 28 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant 12 - 16 Months Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/69299c12fa28370be2694d21?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 28 |
@@ -148,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68ca2f89f16e3266d282413d?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 23 |
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 23 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23ac3f4e41a61efd82dda?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
-| **[Summit Leadership Partners](https://www.summitleadership.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/69221713a49a885af9a4860b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
