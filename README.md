@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Sales Consultant](https://jobright.ai/jobs/info/692b2badfa28370be26985db?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Remote | Nov 29 |
+| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/692b2187fa28370be2698465?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Nov 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/692aff70fa28370be2698085?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Nov 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Nov 29 |
