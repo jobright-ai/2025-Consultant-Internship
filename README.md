@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Lane](horizonlane.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/692ba0c4fa28370be2698ee0?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 29 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Sales Consultant](https://jobright.ai/jobs/info/692b2badfa28370be26985db?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Remote | Nov 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/692aff70fa28370be2698085?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Nov 29 |
