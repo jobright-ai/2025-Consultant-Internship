@@ -148,6 +148,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b851ade4306aa63515b?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Nov 24 |
 | ↳ | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b791ade4306aa63514a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Nov 24 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Nov 24 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68ca2f89f16e3266d282413d?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 23 |
-| ↳ | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
