@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 01 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/69204eb83f782d2f1afc47a2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 01 |
+| ↳ | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/69200476a49a885af9a35e9b?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 01 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 01 |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
+| ↳ | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/692c97ad4c474121999d045d?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 01 |
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/692c976b66796e3028f931a1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/692d0080fa28370be269bd5d?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 30 |
@@ -112,10 +116,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcc?utm_campaign=1063&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/6925290df0beb0723261b4e1?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 24 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/692504f1c0cefa13343e5861?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/6924cc3fc0cefa13343e2136?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Consulting & Analytics Intern](https://jobright.ai/jobs/info/6924bf49c0cefa13343e1796?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d1145d046ab6061cf246a?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
-| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/690d256a4a1b456627b1e63a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Nov 24 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/690d1eccd046ab6061cf30e7?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fa9fb3b2c86843bf2105e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
