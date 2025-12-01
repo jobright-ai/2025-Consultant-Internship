@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/692d0080fa28370be269bd5d?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/68cc28ce7342c7623ae601ae?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 30 |
 | **[Horizon Lane](horizonlane.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/692ba0c4fa28370be2698ee0?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 29 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Sales Consultant](https://jobright.ai/jobs/info/692b2badfa28370be26985db?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Remote | Nov 29 |
