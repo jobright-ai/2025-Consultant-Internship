@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lantern Point Labs](https://lanternpointlabs.org/)** | **[Venture Consultant, Project Manager](https://jobright.ai/jobs/info/692ddf68fa28370be269f0a1?utm_campaign=1063&utm_source=git)** | Fairfield, CT | Hybrid | Dec 01 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Government Health Consulting Informatics Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dd40566796e3028f9686f?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Dec 01 |
 | ↳ | **[Government Health Consulting Financial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dd2e866796e3028f967c2?utm_campaign=1063&utm_source=git)** | Phoenix - E. Camelback | Hybrid | Dec 01 |
 | ↳ | **[Government Health Consulting Actuarial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dcfbe4c474121999d38cf?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Dec 01 |
 | ↳ | **[Government Health Consulting Informatics Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dce3f4c474121999d37e7?utm_campaign=1063&utm_source=git)** | Phoenix - E. Camelback | Hybrid | Dec 01 |
 | ↳ | **[Government Health Consulting Financial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dcdbcfa28370be269e8ca?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Dec 01 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/692dda2066796e3028f96b9d?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Dec 01 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f717149a63986de7584e4f?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Dec 01 |
-| **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Students Only)](https://jobright.ai/jobs/info/692daa844c474121999d2adf?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Dec 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/69204eb83f782d2f1afc47a2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 01 |
 | ↳ | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/69200476a49a885af9a35e9b?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 01 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 01 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69257650f0beb0723261dc0a?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Nov 25 |
 | ↳ | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6925708c27bf2f41a2c3ed08?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Nov 25 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcc?utm_campaign=1063&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/6925290df0beb0723261b4e1?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
