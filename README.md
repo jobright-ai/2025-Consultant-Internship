@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Government Health Consulting Informatics Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dd40566796e3028f9686f?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Dec 01 |
+| ↳ | **[Government Health Consulting Financial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dd2e866796e3028f967c2?utm_campaign=1063&utm_source=git)** | Phoenix - E. Camelback | Hybrid | Dec 01 |
+| ↳ | **[Government Health Consulting Actuarial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dcfbe4c474121999d38cf?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Dec 01 |
+| ↳ | **[Government Health Consulting Informatics Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dce3f4c474121999d37e7?utm_campaign=1063&utm_source=git)** | Phoenix - E. Camelback | Hybrid | Dec 01 |
+| ↳ | **[Government Health Consulting Financial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dcdbcfa28370be269e8ca?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Dec 01 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f717149a63986de7584e4f?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Dec 01 |
 | **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Students Only)](https://jobright.ai/jobs/info/692daa844c474121999d2adf?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Dec 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/69204eb83f782d2f1afc47a2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 01 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/692c976b66796e3028f931a1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/692d0080fa28370be269bd5d?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/68cc28ce7342c7623ae601ae?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 30 |
-| **[Horizon Lane](horizonlane.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/692ba0c4fa28370be2698ee0?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Nov 29 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Sales Consultant](https://jobright.ai/jobs/info/692b2badfa28370be26985db?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Remote | Nov 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
 | ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Nov 29 |
@@ -117,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Residual Risk and Market Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6925708c27bf2f41a2c3ed08?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Nov 25 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcc?utm_campaign=1063&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/6925290df0beb0723261b4e1?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 24 |
-| **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/692504f1c0cefa13343e5861?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
