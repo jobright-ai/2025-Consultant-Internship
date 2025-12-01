@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f717149a63986de7584e4f?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Dec 01 |
+| **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Students Only)](https://jobright.ai/jobs/info/692daa844c474121999d2adf?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Dec 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/69204eb83f782d2f1afc47a2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 01 |
 | ↳ | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/69200476a49a885af9a35e9b?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 01 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 01 |
