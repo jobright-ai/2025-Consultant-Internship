@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Blue United Corporation](https://blueutd.com/)** | **[Intern - Sports Consulting & Event Operations](https://jobright.ai/jobs/info/692eb54def4b48533d140f72?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Dec 02 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Calgary Internship, Management Consulting May 2026](https://jobright.ai/jobs/info/692ebc77ef4b48533d1410c3?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 01 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 01 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Advisory Summer Intern - Retirement Plan Consulting](https://jobright.ai/jobs/info/692e4edd4c474121999d8481?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Dec 01 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e2285fa28370be26a1967?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 01 |
@@ -116,6 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692653c2f0beb07232623fc8?utm_campaign=1063&utm_source=git)** | Canada Corporate | On Site | Nov 25 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69262a51f0beb07232622ae2?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Summer or Fall 2026) – Montreal](https://jobright.ai/jobs/info/69263a29d47de4798ecd5b6a?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
-| ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69260937d47de4798ecd3c57?utm_campaign=1063&utm_source=git)** | 1800, avenue McGill College, Montréal, QUEBEC, H3A 3J6, CA | On Site | Nov 25 |
-| ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Summer or Fall 2026) – Montreal](https://jobright.ai/jobs/info/692619bc27bf2f41a2c434c9?utm_campaign=1063&utm_source=git)** | 1800, avenue McGill College, Montréal, QUEBEC, H3A 3J6, CA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
