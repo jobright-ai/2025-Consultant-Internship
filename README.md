@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Brand Experience Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/692f225d4c474121999dc82c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/692f1384ef4b48533d1428ff?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Dec 02 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Summer 2026 MC Consultant / Sr. Consultant Internship (GTA May-Aug 2026)](https://jobright.ai/jobs/info/6916fcf7bcdbf3560c9c3b37?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 02 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
@@ -118,6 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd4bdbe23def7af55b7f28?utm_campaign=1063&utm_source=git)** | Oakland, CA | On Site | Nov 26 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Nov 26 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 26 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692658a127bf2f41a2c456c9?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Nov 25 |
-| ↳ | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692653c2f0beb07232623fc8?utm_campaign=1063&utm_source=git)** | Canada Corporate | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
