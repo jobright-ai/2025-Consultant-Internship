@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Nov 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692658a127bf2f41a2c456c9?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Nov 25 |
 | ↳ | **[Partnerships and Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/692653c2f0beb07232623fc8?utm_campaign=1063&utm_source=git)** | Canada Corporate | On Site | Nov 25 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69262a51f0beb07232622ae2?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
