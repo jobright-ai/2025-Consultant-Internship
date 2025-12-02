@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Advisory Summer Intern - Retirement Plan Consulting](https://jobright.ai/jobs/info/692e4edd4c474121999d8481?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Dec 01 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e2285fa28370be26a1967?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 01 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Associate UX Consultant- Intern](https://jobright.ai/jobs/info/692e40aefa28370be26a2ce8?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 01 |
 | **[Lantern Point Labs](https://lanternpointlabs.org/)** | **[Venture Consultant, Project Manager](https://jobright.ai/jobs/info/692ddf68fa28370be269f0a1?utm_campaign=1063&utm_source=git)** | Fairfield, CT | Hybrid | Dec 01 |
