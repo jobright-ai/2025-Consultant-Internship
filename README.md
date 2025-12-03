@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University of Guelph)](https://jobright.ai/jobs/info/693038b4fa28370be26af61b?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 03 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Regina & Saskatoon - Management Consulting Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/692ff74fef4b48533d149cf4?utm_campaign=1063&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 03 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Edmonton Internship, Management Consulting (May - August 2026)](https://jobright.ai/jobs/info/693015434c474121999e3e80?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 02 |
@@ -121,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Victoria Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69281059f0beb0723262f499?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Nov 27 |
 | ↳ | **[GVA Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69280b1f91ceeb2e8a54447c?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 27 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 26 |
-| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions - Winter 2026 (Boston, Denver, Los Angeles, New York City, San Francisco)](https://jobright.ai/jobs/info/692765cb91ceeb2e8a53ed91?utm_campaign=1063&utm_source=git)** | 4 515 S Flower St, Los Angeles, CA, 90071, US | On Site | Nov 26 |
-| **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions - Winter 2026 (Boston, Denver, Los Angeles, New York City, San Francisco)](https://jobright.ai/jobs/info/6927643291ceeb2e8a53ebd6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
