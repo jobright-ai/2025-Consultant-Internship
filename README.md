@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fc4fd4c474121999e25fd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 02 |
+| **[Stantec](http://www.stantec.com)** | **[Code Consulting Co-op Student - Winter 2026](https://jobright.ai/jobs/info/692fce2afa28370be26ad9cd?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 02 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Winter/Spring 2026) – Indianapolis Health](https://jobright.ai/jobs/info/692f7723fa28370be26aa773?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 02 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University College Dublin, 2028 Graduate)](https://jobright.ai/jobs/info/692f6cf5ef4b48533d145285?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 02 |
 | ↳ | **[On-Campus Student Consultant (Ross University, 2028 Graduate)](https://jobright.ai/jobs/info/692f8423ef4b48533d1464f3?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 02 |
@@ -117,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions - Winter 2026 (Boston, Denver, Los Angeles, New York City, San Francisco)](https://jobright.ai/jobs/info/692765cb91ceeb2e8a53ed91?utm_campaign=1063&utm_source=git)** | 4 515 S Flower St, Los Angeles, CA, 90071, US | On Site | Nov 26 |
 | **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions - Winter 2026 (Boston, Denver, Los Angeles, New York City, San Francisco)](https://jobright.ai/jobs/info/6927643291ceeb2e8a53ebd6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 26 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d61e2bcdbf3560c9f05f3?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 26 |
-| **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
