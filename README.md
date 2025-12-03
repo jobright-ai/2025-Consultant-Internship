@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Regina & Saskatoon - Management Consulting Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/692ff74fef4b48533d149cf4?utm_campaign=1063&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fdb834c474121999e2db7?utm_campaign=1063&utm_source=git)** | Potomac, MD | Hybrid | Dec 02 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fe56eef4b48533d149756?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fc4fd4c474121999e25fd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 02 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Management Consulting](https://jobright.ai/jobs/info/692fe580ef4b48533d149764?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Brand Experience Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/692f29204c474121999dcbfa?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Dec 02 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Brand Experience Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/692f225d4c474121999dc82c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
-| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe – Consulting & Digital Solutions (m/w/d)](https://jobright.ai/jobs/info/692f4a9fef4b48533d143f82?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Insurer Consulting Intern - NY - 2026](https://jobright.ai/jobs/info/692f4b234c474121999dd8ff?utm_campaign=1063&utm_source=git)** | New York - 1166 | Hybrid | Dec 02 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/692f1384ef4b48533d1428ff?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Dec 02 |
@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 26 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions - Winter 2026 (Boston, Denver, Los Angeles, New York City, San Francisco)](https://jobright.ai/jobs/info/692765cb91ceeb2e8a53ed91?utm_campaign=1063&utm_source=git)** | 4 515 S Flower St, Los Angeles, CA, 90071, US | On Site | Nov 26 |
 | **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions - Winter 2026 (Boston, Denver, Los Angeles, New York City, San Francisco)](https://jobright.ai/jobs/info/6927643291ceeb2e8a53ebd6?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 26 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d61e2bcdbf3560c9f05f3?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
