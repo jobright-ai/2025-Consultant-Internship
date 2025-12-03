@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Regina & Saskatoon - Management Consulting Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/692ff74fef4b48533d149cf4?utm_campaign=1063&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 03 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Edmonton Internship, Management Consulting (May - August 2026)](https://jobright.ai/jobs/info/693015434c474121999e3e80?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 02 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fdb834c474121999e2db7?utm_campaign=1063&utm_source=git)** | Potomac, MD | Hybrid | Dec 02 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fe56eef4b48533d149756?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fc4fd4c474121999e25fd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 02 |
