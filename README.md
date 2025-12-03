@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Performance Improvement Intern](https://jobright.ai/jobs/info/693096dbef4b48533d14c9d9?utm_campaign=1063&utm_source=git)** | Atlanta GA USA | On Site | Dec 03 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Consultant International Tax Global Mobility Winter 2026 / Charlotte](https://jobright.ai/jobs/info/69309ebafa28370be26b18d7?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Dec 03 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d7e300b7dff7341503f27?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/68f812e0b0edcf159dc8e6d1?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Dec 03 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/693078074c474121999e580b?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Dec 03 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Assistant Analytics Consultant Associate Intern](https://jobright.ai/jobs/info/69138a7a1465e02904e956a6?utm_campaign=1063&utm_source=git)** | Richardson, TX | Hybrid | Dec 03 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University of Guelph)](https://jobright.ai/jobs/info/693038b4fa28370be26af61b?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 03 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 03 |
@@ -123,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Victoria Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69281059f0beb0723262f499?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Nov 27 |
 | ↳ | **[GVA Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69280b1f91ceeb2e8a54447c?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 27 |
-| **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
