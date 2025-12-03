@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d7e300b7dff7341503f27?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University of Guelph)](https://jobright.ai/jobs/info/693038b4fa28370be26af61b?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 03 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 03 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Brand Experience Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/692fe8ddfa28370be26ae273?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University College Dublin, 2028 Graduate)](https://jobright.ai/jobs/info/692f6cf5ef4b48533d145285?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 02 |
 | ↳ | **[On-Campus Student Consultant (Ross University, 2028 Graduate)](https://jobright.ai/jobs/info/692f8423ef4b48533d1464f3?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 02 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/692f6673fa28370be26a9a66?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Management Consulting](https://jobright.ai/jobs/info/692fe580ef4b48533d149764?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Brand Experience Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/692f29204c474121999dcbfa?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Dec 02 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Brand Experience Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/692f225d4c474121999dc82c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
