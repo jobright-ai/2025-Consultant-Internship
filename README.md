@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 03 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6930e81fef4b48533d150899?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
 | **[Crowe](https://www.crowe.com/)** | **[Performance Improvement Intern](https://jobright.ai/jobs/info/6930bb944c474121999e82ea?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
-| ↳ | **[Performance Improvement Intern](https://jobright.ai/jobs/info/693096dbef4b48533d14c9d9?utm_campaign=1063&utm_source=git)** | Atlanta GA USA | On Site | Dec 03 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Consultant International Tax Global Mobility Winter 2026 / Charlotte](https://jobright.ai/jobs/info/69309ebafa28370be26b18d7?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Dec 03 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d7e300b7dff7341503f27?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/68f812e0b0edcf159dc8e6d1?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Dec 03 |
