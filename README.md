@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 28 |
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/6928cedef0beb072326315aa?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 27 |
-| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc0e15b415636718a337?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
