@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Dec 03 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/6930fd13fa28370be26b5e6c?utm_campaign=1063&utm_source=git)** | Portland, ME | Hybrid | Dec 03 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Healthcare Summer 2026 Consulting Intern, Chicago (Spring 2027 Graduates)](https://jobright.ai/jobs/info/6930e809ef4b48533d150880?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Dec 03 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Destin, FL)](https://jobright.ai/jobs/info/693102bbef4b48533d1519a7?utm_campaign=1063&utm_source=git)** | Destin, FL | On Site | Dec 03 |
 | **[Park Consulting Group](https://parkconsulting.com)** | **[Consulting Project Analyst Intern](https://jobright.ai/jobs/info/6930d06fef4b48533d14f8ce?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Dec 03 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 03 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6930e81fef4b48533d150899?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
-| **[Crowe](https://www.crowe.com/)** | **[Performance Improvement Intern](https://jobright.ai/jobs/info/6930bb944c474121999e82ea?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Consultant International Tax Global Mobility Winter 2026 / Charlotte](https://jobright.ai/jobs/info/69309ebafa28370be26b18d7?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Dec 03 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d7e300b7dff7341503f27?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/68f812e0b0edcf159dc8e6d1?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Dec 03 |
@@ -125,7 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/6928cedef0beb072326315aa?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 27 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc0e15b415636718a337?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
-| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc5115b415636718a46e?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
