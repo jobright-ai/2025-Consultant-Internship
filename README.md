@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crowe](https://www.crowe.com/)** | **[Performance Improvement Intern](https://jobright.ai/jobs/info/693096dbef4b48533d14c9d9?utm_campaign=1063&utm_source=git)** | Atlanta GA USA | On Site | Dec 03 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Healthcare Summer 2026 Consulting Intern, Chicago (Spring 2027 Graduates)](https://jobright.ai/jobs/info/6930e809ef4b48533d150880?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Dec 03 |
+| **[Park Consulting Group](https://parkconsulting.com)** | **[Consulting Project Analyst Intern](https://jobright.ai/jobs/info/6930d06fef4b48533d14f8ce?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Dec 03 |
+| **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 03 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6930e81fef4b48533d150899?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
+| **[Crowe](https://www.crowe.com/)** | **[Performance Improvement Intern](https://jobright.ai/jobs/info/6930bb944c474121999e82ea?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
+| ↳ | **[Performance Improvement Intern](https://jobright.ai/jobs/info/693096dbef4b48533d14c9d9?utm_campaign=1063&utm_source=git)** | Atlanta GA USA | On Site | Dec 03 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Consultant International Tax Global Mobility Winter 2026 / Charlotte](https://jobright.ai/jobs/info/69309ebafa28370be26b18d7?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Dec 03 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d7e300b7dff7341503f27?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/68f812e0b0edcf159dc8e6d1?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Dec 03 |
@@ -73,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fe56eef4b48533d149756?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fc4fd4c474121999e25fd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 02 |
 | **[Stantec](http://www.stantec.com)** | **[Code Consulting Co-op Student - Winter 2026](https://jobright.ai/jobs/info/692fce2afa28370be26ad9cd?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 02 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Destin, FL)](https://jobright.ai/jobs/info/6930c53ffa28370be26b3864?utm_campaign=1063&utm_source=git)** | Destin, FL | On Site | Dec 02 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Winter/Spring 2026) – Indianapolis Health](https://jobright.ai/jobs/info/692f7723fa28370be26aa773?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 02 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Brand Experience Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/692fe8ddfa28370be26ae273?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University College Dublin, 2028 Graduate)](https://jobright.ai/jobs/info/692f6cf5ef4b48533d145285?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 02 |
@@ -88,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Calgary Internship, Management Consulting May 2026](https://jobright.ai/jobs/info/692ebc77ef4b48533d1410c3?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 01 |
-| **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 01 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Advisory Summer Intern - Retirement Plan Consulting](https://jobright.ai/jobs/info/692e4edd4c474121999d8481?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Dec 01 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e2285fa28370be26a1967?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 01 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Associate UX Consultant- Intern](https://jobright.ai/jobs/info/692e40aefa28370be26a2ce8?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 01 |
@@ -124,6 +129,4 @@ For a complete list, click the following sortable link below:
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc5115b415636718a46e?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Victoria Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69281059f0beb0723262f499?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Nov 27 |
-| ↳ | **[GVA Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69280b1f91ceeb2e8a54447c?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
