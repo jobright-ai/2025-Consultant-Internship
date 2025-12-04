@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Dec 03 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/6930fd13fa28370be26b5e6c?utm_campaign=1063&utm_source=git)** | Portland, ME | Hybrid | Dec 03 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Healthcare Summer 2026 Consulting Intern, Chicago (Spring 2027 Graduates)](https://jobright.ai/jobs/info/6930e809ef4b48533d150880?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Dec 03 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68f1aecbe6870116b1f5bac3?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Nov 29 |
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/6906132163502c0aded809e8?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Healthcare Operations & Value Based Care Consulting Intern Southfield](https://jobright.ai/jobs/info/68cd227bb2a74e1837ed3067?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 29 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/693179a54c474121999f071a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Nov 28 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant 12 - 16 Months Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/69299c12fa28370be2694d21?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
