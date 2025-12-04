@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, SAP Consulting, Summer 2026](https://jobright.ai/jobs/info/69320003fa28370be26c0754?utm_campaign=1063&utm_source=git)** | Casa Grande, AZ | On Site | Dec 04 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Dec 04 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6915fe609c388539cbdf7299?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Hybrid | Dec 04 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/6931ca6a4c474121999f31a3?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Dec 04 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6915fd039c388539cbdf701d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Dec 03 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/6930fd13fa28370be26b5e6c?utm_campaign=1063&utm_source=git)** | Portland, ME | Hybrid | Dec 03 |
