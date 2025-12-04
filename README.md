@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Dec 04 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Payor Services Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6915fd039c388539cbdf701d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 | **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Dec 03 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/6930fd13fa28370be26b5e6c?utm_campaign=1063&utm_source=git)** | Portland, ME | Hybrid | Dec 03 |
@@ -126,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant 12 - 16 Months Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/69299c12fa28370be2694d21?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 28 |
 | ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 28 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/6928cedef0beb072326315aa?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
