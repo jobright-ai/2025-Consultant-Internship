@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/6930fd13fa28370be26b5e6c?utm_campaign=1063&utm_source=git)** | Portland, ME | Hybrid | Dec 03 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Healthcare Summer 2026 Consulting Intern, Chicago (Spring 2027 Graduates)](https://jobright.ai/jobs/info/6930e809ef4b48533d150880?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Dec 03 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2026 (Destin, FL)](https://jobright.ai/jobs/info/693102bbef4b48533d1519a7?utm_campaign=1063&utm_source=git)** | Destin, FL | On Site | Dec 03 |
 | **[Park Consulting Group](https://parkconsulting.com)** | **[Consulting Project Analyst Intern](https://jobright.ai/jobs/info/6930d06fef4b48533d14f8ce?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Dec 03 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 03 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6930e81fef4b48533d150899?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
@@ -109,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 01 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | ↳ | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68cdfa2eb2a74e1837eddd12?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 01 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/692c97ad4c474121999d045d?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 01 |
-| ↳ | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/692c976b66796e3028f931a1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 01 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/692c976b66796e3028f931a1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/692d0080fa28370be269bd5d?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/68cc28ce7342c7623ae601ae?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 30 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc5115b415636718a46e?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/68cf259ddbd9fb154ede556d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
