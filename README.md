@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/6933520ba0dde7020e2ec98a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| **[Sanofi](https://www.sanofi.com)** | **[Scientific Advisor - VIE Contract](https://jobright.ai/jobs/info/69334e4fa0dde7020e2ec6b1?utm_campaign=1063&utm_source=git)** | Cambridge, MA | On Site | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69334cdaf131d96e48461961?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69334bb0a0dde7020e2ec4a3?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6933495da0dde7020e2ec2b0?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
+| **[Grove Partners](https://thegrovepartners.com)** | **[Public Policy Consulting Intern](https://jobright.ai/jobs/info/69334776a0dde7020e2ec18c?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/693344cba0dde7020e2ec028?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/69333da5a0dde7020e2ebc2a?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 05 |
+| **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/692504f1c0cefa13343e5861?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69335339764507023d1b4404?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 05 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/690d1bdbd046ab6061cf2e47?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 05 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6933170aa0dde7020e2ea624?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Dec 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Tampa, Florida Area](https://jobright.ai/jobs/info/692037ad00c9ee50eaec0480?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 05 |
@@ -65,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Dec 05 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/69165f9d6f36db06ef0559c8?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Dec 05 |
 | **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern - Construction Consultant](https://jobright.ai/jobs/info/69329d6a764507023d1af7af?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 05 |
-| **[Blue Ventis](blueventis.us)** | **[Tax Intern - Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/69329c8e764507023d1af77a?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 04 |
 | **[Salam Consulting](www.salam-consulting.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/69326592764507023d1ae313?utm_campaign=1063&utm_source=git)** | Virginia, United States | On Site | Dec 04 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 04 |
 | **[Wavestone](https://www.wavestone.com)** | **[Internship - Summer 2026 (Business Consulting)](https://jobright.ai/jobs/info/6932ed75764507023d1b120a?utm_campaign=1063&utm_source=git)** | Nova Tower 1, Suite 502, Pittsburgh, PA, United States | Hybrid | Dec 04 |
