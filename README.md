@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 04 |
+| **[Wavestone](https://www.wavestone.com)** | **[Internship - Summer 2026 (Business Consulting)](https://jobright.ai/jobs/info/69325091764507023d1acfd2?utm_campaign=1063&utm_source=git)** | Nova Tower 1, Suite 502, Pittsburgh, PA, United States | Hybrid | Dec 04 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 04 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, SAP Consulting, Summer 2026](https://jobright.ai/jobs/info/693214e1d0010831497bf3db?utm_campaign=1063&utm_source=git)** | Casa Grande, AZ | On Site | Dec 04 |
 | ↳ | **[Intern, SAP Consulting, Summer 2026](https://jobright.ai/jobs/info/69320003fa28370be26c0754?utm_campaign=1063&utm_source=git)** | Casa Grande, AZ | On Site | Dec 04 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Dec 04 |
@@ -124,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Nov 28 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant 12 - 16 Months Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/69299c12fa28370be2694d21?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b889bc07090163b6ba27dd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Nov 28 |
-| ↳ | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
