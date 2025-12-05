@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salam Consulting](www.salam-consulting.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/69326592764507023d1ae313?utm_campaign=1063&utm_source=git)** | Virginia, United States | On Site | Dec 04 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 04 |
 | **[Wavestone](https://www.wavestone.com)** | **[Internship - Summer 2026 (Business Consulting)](https://jobright.ai/jobs/info/69325091764507023d1acfd2?utm_campaign=1063&utm_source=git)** | Nova Tower 1, Suite 502, Pittsburgh, PA, United States | Hybrid | Dec 04 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 04 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fdb834c474121999e2db7?utm_campaign=1063&utm_source=git)** | Potomac, MD | Hybrid | Dec 02 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fe56eef4b48533d149756?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fc4fd4c474121999e25fd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 02 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69325ce4764507023d1adb8f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 02 |
 | **[Stantec](http://www.stantec.com)** | **[Code Consulting Co-op Student - Winter 2026](https://jobright.ai/jobs/info/692fce2afa28370be26ad9cd?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 02 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Winter/Spring 2026) – Indianapolis Health](https://jobright.ai/jobs/info/692f7723fa28370be26aa773?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 02 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Brand Experience Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/692fe8ddfa28370be26ae273?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
@@ -125,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/693179a54c474121999f071a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Nov 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Nov 28 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 28 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant 12 - 16 Months Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/69299c12fa28370be2694d21?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
