@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brendan Wood International](https://www.brendanwood.com)** | **[Intern](https://jobright.ai/jobs/info/6932e21ff131d96e4845e78b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 05 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Dec 05 |
 | **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern - Construction Consultant](https://jobright.ai/jobs/info/69329d6a764507023d1af7af?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern - Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/69329c8e764507023d1af77a?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 04 |
 | **[Salam Consulting](www.salam-consulting.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/69326592764507023d1ae313?utm_campaign=1063&utm_source=git)** | Virginia, United States | On Site | Dec 04 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, SAP Consulting, Summer 2026](https://jobright.ai/jobs/info/69320003fa28370be26c0754?utm_campaign=1063&utm_source=git)** | Casa Grande, AZ | On Site | Dec 04 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68dd9c70ddc10244dd681f26?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Dec 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
-| **[Visa](https://www.visa.com)** | **[Visa Consulting & Analytics MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6920b3f800c9ee50eaec7026?utm_campaign=1063&utm_source=git)** | Ashburn, VA | Hybrid | Dec 03 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Summer 2026 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/6930fd13fa28370be26b5e6c?utm_campaign=1063&utm_source=git)** | Portland, ME | Hybrid | Dec 03 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Healthcare Summer 2026 Consulting Intern, Chicago (Spring 2027 Graduates)](https://jobright.ai/jobs/info/6930e809ef4b48533d150880?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Dec 03 |
 | **[Park Consulting Group](https://parkconsulting.com)** | **[Consulting Project Analyst Intern](https://jobright.ai/jobs/info/6930d06fef4b48533d14f8ce?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Dec 03 |
