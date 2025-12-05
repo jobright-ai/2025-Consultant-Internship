@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Tampa, Florida Area](https://jobright.ai/jobs/info/692037ad00c9ee50eaec0480?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 05 |
 | **[Brendan Wood International](https://www.brendanwood.com)** | **[Intern](https://jobright.ai/jobs/info/6932e21ff131d96e4845e78b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Dec 05 |
+| **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/69165f9d6f36db06ef0559c8?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Dec 05 |
 | **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern - Construction Consultant](https://jobright.ai/jobs/info/69329d6a764507023d1af7af?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern - Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/69329c8e764507023d1af77a?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 04 |
 | **[Salam Consulting](www.salam-consulting.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/69326592764507023d1ae313?utm_campaign=1063&utm_source=git)** | Virginia, United States | On Site | Dec 04 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 04 |
+| **[Wavestone](https://www.wavestone.com)** | **[Internship - Summer 2026 (Business Consulting)](https://jobright.ai/jobs/info/6932ed75764507023d1b120a?utm_campaign=1063&utm_source=git)** | Nova Tower 1, Suite 502, Pittsburgh, PA, United States | Hybrid | Dec 04 |
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[Internal Communications Consultant](https://jobright.ai/jobs/info/6932a8fb764507023d1afdcb?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 04 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 04 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, SAP Consulting, Summer 2026](https://jobright.ai/jobs/info/693214e1d0010831497bf3db?utm_campaign=1063&utm_source=git)** | Casa Grande, AZ | On Site | Dec 04 |
