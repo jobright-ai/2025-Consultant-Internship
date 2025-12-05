@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/690d1bdbd046ab6061cf2e47?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 05 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6933170aa0dde7020e2ea624?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Dec 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Tampa, Florida Area](https://jobright.ai/jobs/info/692037ad00c9ee50eaec0480?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 05 |
+| **[Arvento A](arventoa.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693303d2a0dde7020e2e9e9c?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Dec 05 |
 | **[Brendan Wood International](https://www.brendanwood.com)** | **[Intern](https://jobright.ai/jobs/info/6932e21ff131d96e4845e78b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Dec 05 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/69165f9d6f36db06ef0559c8?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Dec 05 |
