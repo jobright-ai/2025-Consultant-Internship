@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/690adafdd046ab6061ce0eb7?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Dec 06 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern - Upper Midwest](https://jobright.ai/jobs/info/6918218abcdbf3560c9cedb2?utm_campaign=1063&utm_source=git)** | De Forest, WI | On Site | Dec 06 |
-| ↳ | **[Dairy Sales, Genetics and Consulting Intern - Southwest USA](https://jobright.ai/jobs/info/6918298a15b415636717f375?utm_campaign=1063&utm_source=git)** | Arvada, CO | On Site | Dec 06 |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/693447a3a0dde7020e2f4f73?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Dec 06 |
+| **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern - Southwest USA](https://jobright.ai/jobs/info/6918298a15b415636717f375?utm_campaign=1063&utm_source=git)** | Arvada, CO | On Site | Dec 06 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern - Canada](https://jobright.ai/jobs/info/69182a8145fb6f5ead8a252d?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Dec 06 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 06 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern - Eastern USA](https://jobright.ai/jobs/info/6917c9bd45fb6f5ead89e9d8?utm_campaign=1063&utm_source=git)** | De Forest, WI | On Site | Dec 06 |
@@ -82,13 +84,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/69337398a0dde7020e2ee2d5?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 05 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69336d9a764507023d1b5842?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69336b22f131d96e484631e4?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Dec 05 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6933645aa0dde7020e2ed5e5?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/693375ed764507023d1b5ee1?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6933645aa0dde7020e2ed5e5?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/693373fe764507023d1b5d64?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69336dcf764507023d1b5863?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
-| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69336db2a0dde7020e2ede4d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69336a50f131d96e4846316c?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Dec 05 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6933751df131d96e484638e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69336db2a0dde7020e2ede4d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69335eaea0dde7020e2ed1ab?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69335c5ef131d96e484627d7?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69335ef3764507023d1b4e52?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Health Consulting Informatics Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dce3f4c474121999d37e7?utm_campaign=1063&utm_source=git)** | Phoenix - E. Camelback | Hybrid | Dec 01 |
 | ↳ | **[Government Health Consulting Financial Summer Intern - College Program 2026](https://jobright.ai/jobs/info/692dcdbcfa28370be269e8ca?utm_campaign=1063&utm_source=git)** | Minneapolis - South Seventh | Hybrid | Dec 01 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Advisory Summer Intern - Retirement Plan Consulting](https://jobright.ai/jobs/info/692df311fa28370be269fb16?utm_campaign=1063&utm_source=git)** | Minneapolis | Hybrid | Dec 01 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[High Consequence Events Prevention Intern](https://jobright.ai/jobs/info/68f717149a63986de7584e4f?utm_campaign=1063&utm_source=git)** | Alexandria, VA | On Site | Dec 01 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/69204eb83f782d2f1afc47a2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
