@@ -57,16 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/6933520ba0dde7020e2ec98a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6933596ef131d96e48462539?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
+| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/6933520ba0dde7020e2ec98a?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/693344cba0dde7020e2ec028?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | **[Sanofi](https://www.sanofi.com)** | **[Scientific Advisor - VIE Contract](https://jobright.ai/jobs/info/69334e4fa0dde7020e2ec6b1?utm_campaign=1063&utm_source=git)** | Cambridge, MA | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69334cdaf131d96e48461961?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69334bb0a0dde7020e2ec4a3?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6933495da0dde7020e2ec2b0?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
 | **[Grove Partners](https://thegrovepartners.com)** | **[Public Policy Consulting Intern](https://jobright.ai/jobs/info/69334776a0dde7020e2ec18c?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 05 |
-| **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/693344cba0dde7020e2ec028?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/69336dcea0dde7020e2ede63?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 05 |
+| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69336943a0dde7020e2eda2f?utm_campaign=1063&utm_source=git)** | Research Park, CA | On Site | Dec 05 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69336d9a764507023d1b5842?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6933645aa0dde7020e2ed5e5?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
+| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69336b22f131d96e484631e4?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Dec 05 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69336a50f131d96e4846316c?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Dec 05 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69336dcf764507023d1b5863?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69336db2a0dde7020e2ede4d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69335eaea0dde7020e2ed1ab?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69335c5ef131d96e484627d7?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
+| ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69336a80a0dde7020e2edb47?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Dec 05 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69335ef3764507023d1b4e52?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/69333da5a0dde7020e2ebc2a?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 05 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/692504f1c0cefa13343e5861?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 05 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69335339764507023d1b4404?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern (4 Month)](https://jobright.ai/jobs/info/69335a38764507023d1b4a97?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Dec 05 |
+| ↳ | **[Associate Business Transformation Consultant – Adobe Experience – Co-op 2026](https://jobright.ai/jobs/info/69335d9a764507023d1b4d31?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 05 |
+| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69335a08764507023d1b4a66?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 05 |
+| ↳ | **[Consultant Intern 2026 (Baton Rouge, LA)](https://jobright.ai/jobs/info/6933589ba0dde7020e2ece80?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | Hybrid | Dec 05 |
+| ↳ | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69335339764507023d1b4404?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 05 |
+| ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/69336054f131d96e48462b00?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Consultant Internship](https://jobright.ai/jobs/info/690d1bdbd046ab6061cf2e47?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Dec 05 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6933170aa0dde7020e2ea624?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Dec 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Tampa, Florida Area](https://jobright.ai/jobs/info/692037ad00c9ee50eaec0480?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 05 |
@@ -100,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Regina & Saskatoon - Management Consulting Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/692ff74fef4b48533d149cf4?utm_campaign=1063&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 03 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Edmonton Internship, Management Consulting (May - August 2026)](https://jobright.ai/jobs/info/693015434c474121999e3e80?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 02 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fdb834c474121999e2db7?utm_campaign=1063&utm_source=git)** | Potomac, MD | Hybrid | Dec 02 |
-| ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fe56eef4b48533d149756?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
 | ↳ | **[Advisory Intern, Management Consulting, Technology & Transformation - Summer 2026 (D.C., New York)](https://jobright.ai/jobs/info/692fc4fd4c474121999e25fd?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69325ce4764507023d1adb8f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 02 |
 | **[Stantec](http://www.stantec.com)** | **[Code Consulting Co-op Student - Winter 2026](https://jobright.ai/jobs/info/692fce2afa28370be26ad9cd?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 02 |
