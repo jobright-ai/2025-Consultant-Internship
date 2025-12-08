@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/69371fee1c1c2161c13f0c1f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 08 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (Ross University, 2028 Graduate) - Southern Veterinary Partners](https://jobright.ai/jobs/info/6936d550aabec14a727c277e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 08 |
@@ -84,17 +85,17 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6933c0f6a0dde7020e2f17b6?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Dec 05 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6933c8f0a0dde7020e2f1ac6?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Dec 05 |
 | ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/69336dcea0dde7020e2ede63?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 05 |
-| ↳ | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/69337398a0dde7020e2ee2d5?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 05 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69336943a0dde7020e2eda2f?utm_campaign=1063&utm_source=git)** | Research Park, CA | On Site | Dec 05 |
+| ↳ | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/69337398a0dde7020e2ee2d5?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 05 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69336d9a764507023d1b5842?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
-| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/693373fe764507023d1b5d64?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6933645aa0dde7020e2ed5e5?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69336b22f131d96e484631e4?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Dec 05 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/693373fe764507023d1b5d64?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/693375ed764507023d1b5ee1?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
+| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69336b22f131d96e484631e4?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69336a50f131d96e4846316c?utm_campaign=1063&utm_source=git)** | Columbia, SC | Hybrid | Dec 05 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69336db2a0dde7020e2ede4d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
-| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69336dcf764507023d1b5863?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6933751df131d96e484638e7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69336dcf764507023d1b5863?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69335eaea0dde7020e2ed1ab?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69335c5ef131d96e484627d7?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69336a80a0dde7020e2edb47?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Dec 05 |
@@ -149,5 +150,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Calgary Internship, Management Consulting May 2026](https://jobright.ai/jobs/info/692ebc77ef4b48533d1410c3?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 01 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/6933a267a0dde7020e2eff14?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
