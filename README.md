@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 14 |
 | **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693e479249a7695fbd049187?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 13 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 13 |
@@ -114,10 +115,10 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/69393cc848a8ce22990d5524?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 10 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Dec 10 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, Safety and Flight Operations Consulting](https://jobright.ai/jobs/info/69390ab37548dd746be58de7?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 09 |
+| **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University College Dublin, 2028 Graduate) - Mission Pet Health](https://jobright.ai/jobs/info/69382c7db95c305f206d687e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 09 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 09 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics & Consulting Associate Intern](https://jobright.ai/jobs/info/69389364aabec14a727d73d5?utm_campaign=1063&utm_source=git)** | IL - Chicago | On Site | Dec 09 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Dec 09 |
-| **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University College Dublin, 2028 Graduate) - Southern Veterinary Partners](https://jobright.ai/jobs/info/69382c7db95c305f206d687e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Dec 09 |
 | **[ANM](http://anm.com)** | **[Consulting Engineer Intern](https://jobright.ai/jobs/info/6937f020a0dde7020e30a3b7?utm_campaign=1063&utm_source=git)** | Albuquerque, Albuquerque, NM, US | Hybrid | Dec 09 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Management Consulting Intern - 2026](https://jobright.ai/jobs/info/6937fc3cb95c305f206d47d8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 08 |
@@ -125,9 +126,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/69378ba81c1c2161c13f5958?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937a8fcaabec14a727ca9da?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6937ae0ba0dde7020e305cea?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 08 |
-| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/693753641c1c2161c13f2ce2?utm_campaign=1063&utm_source=git)** | Austin, Texas, USA | On Site | Dec 08 |
+| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937631fa0dde7020e302393?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69375f011c1c2161c13f37e9?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937631fa0dde7020e302393?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
+| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/693753641c1c2161c13f2ce2?utm_campaign=1063&utm_source=git)** | Austin, Texas, USA | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937542eaabec14a727c681b?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 08 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Summer 2026 MC Consultant Internship (Ottawa May-Aug)](https://jobright.ai/jobs/info/693751e2aabec14a727c6650?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 08 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/69371fee1c1c2161c13f0c1f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 08 |
