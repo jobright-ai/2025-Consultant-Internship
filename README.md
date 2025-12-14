@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693e479249a7695fbd049187?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 13 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 13 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc28e50bbaf76504ff84b?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 12 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6937ae0ba0dde7020e305cea?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 08 |
 | **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/693753641c1c2161c13f2ce2?utm_campaign=1063&utm_source=git)** | Austin, Texas, USA | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69375f011c1c2161c13f37e9?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937631fa0dde7020e302393?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937542eaabec14a727c681b?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 08 |
+| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937631fa0dde7020e302393?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Summer 2026 MC Consultant Internship (Ottawa May-Aug)](https://jobright.ai/jobs/info/693751e2aabec14a727c6650?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 08 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/69371fee1c1c2161c13f0c1f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 08 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 08 |
