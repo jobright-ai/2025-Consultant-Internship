@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](orvanta.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693eee2c49a7695fbd04f674?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693ee979aa598a08c3ef0fc9?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Dec 14 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 14 |
 | **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693e479249a7695fbd049187?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 13 |
@@ -126,14 +128,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/69378ba81c1c2161c13f5958?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937a8fcaabec14a727ca9da?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6937ae0ba0dde7020e305cea?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 08 |
-| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937631fa0dde7020e302393?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69375f011c1c2161c13f37e9?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
+| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937542eaabec14a727c681b?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/693753641c1c2161c13f2ce2?utm_campaign=1063&utm_source=git)** | Austin, Texas, USA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937542eaabec14a727c681b?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 08 |
+| ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69375f011c1c2161c13f37e9?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
+| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937631fa0dde7020e302393?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Summer 2026 MC Consultant Internship (Ottawa May-Aug)](https://jobright.ai/jobs/info/693751e2aabec14a727c6650?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 08 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/69371fee1c1c2161c13f0c1f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 08 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (Ross University, 2028 Graduate) - Southern Veterinary Partners](https://jobright.ai/jobs/info/6936d550aabec14a727c277e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 08 |
-| **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, Safety and Flight Operations Consulting](https://jobright.ai/jobs/info/6938d2b9b95c305f206e063f?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, CA | Remote | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
