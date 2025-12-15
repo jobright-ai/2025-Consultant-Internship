@@ -57,9 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Business Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69400d0e49a7695fbd05aafc?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 15 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Dec 15 |
-| **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Business Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/693fd3c649a7695fbd0587a8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/693b21ad5f2c001987ed2024?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Dec 15 |
 | **[Orvanta](orvanta.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693f993850bbaf765051db8b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
 | ↳ | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693eee2c49a7695fbd04f674?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
@@ -110,8 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a0a0456b68f3dc4e769a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 10 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Business Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6939d80fac80bb5492bc55ae?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 10 |
-| ↳ | **[Business Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6939f1dbac80bb5492bc6923?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Dec 10 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e53a36b99ec3563b0f1b54?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Dec 10 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026) - Mechanical Section](https://jobright.ai/jobs/info/691d1ac2bcdbf3560c9ed309?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 10 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/69397f13ac80bb5492bc04ca?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | Remote | Dec 10 |
@@ -119,10 +115,10 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/69393cc848a8ce22990d5524?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 10 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Dec 10 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, Safety and Flight Operations Consulting](https://jobright.ai/jobs/info/69390ab37548dd746be58de7?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 09 |
+| **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University College Dublin, 2028 Graduate) - Mission Pet Health](https://jobright.ai/jobs/info/69382c7db95c305f206d687e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 09 |
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 09 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics & Consulting Associate Intern](https://jobright.ai/jobs/info/69389364aabec14a727d73d5?utm_campaign=1063&utm_source=git)** | IL - Chicago | On Site | Dec 09 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Dec 09 |
-| **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University College Dublin, 2028 Graduate) - Southern Veterinary Partners](https://jobright.ai/jobs/info/69382c7db95c305f206d687e?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Dec 09 |
 | **[ANM](http://anm.com)** | **[Consulting Engineer Intern](https://jobright.ai/jobs/info/6937f020a0dde7020e30a3b7?utm_campaign=1063&utm_source=git)** | Albuquerque, Albuquerque, NM, US | Hybrid | Dec 09 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Management Consulting Intern - 2026](https://jobright.ai/jobs/info/6937fc3cb95c305f206d47d8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 08 |
