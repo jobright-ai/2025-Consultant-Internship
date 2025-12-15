@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[West Monroe](https://www.westmonroe.com)** | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Dec 15 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/6940488249a7695fbd05d51f?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Dec 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/693b21ad5f2c001987ed2024?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Dec 15 |
 | **[Orvanta](orvanta.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693f993850bbaf765051db8b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
-| ↳ | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693eee2c49a7695fbd04f674?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 14 |
 | **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693e479249a7695fbd049187?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 13 |
