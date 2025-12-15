@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Orvanta](orvanta.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693f993850bbaf765051db8b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 14 |
-| **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693e479249a7695fbd049187?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 13 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Dec 13 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/693fa54950bbaf765051df11?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Dec 12 |
@@ -121,8 +120,4 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Dec 09 |
 | **[ANM](http://anm.com)** | **[Consulting Engineer Intern](https://jobright.ai/jobs/info/6937f020a0dde7020e30a3b7?utm_campaign=1063&utm_source=git)** | Albuquerque, Albuquerque, NM, US | Hybrid | Dec 09 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Management Consulting Intern - 2026](https://jobright.ai/jobs/info/6937fc3cb95c305f206d47d8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 08 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/69378fd81c1c2161c13f5c3b?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/69378ba81c1c2161c13f5958?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937a8fcaabec14a727ca9da?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6937ae0ba0dde7020e305cea?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
