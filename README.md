@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Business Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69400d0e49a7695fbd05aafc?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 15 |
+| **[West Monroe](https://www.westmonroe.com)** | **[2026 Technology Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b237c1bc187f64e1bd9ddd?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Dec 15 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Business Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/693fd3c649a7695fbd0587a8?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/693b21ad5f2c001987ed2024?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Dec 15 |
 | **[Orvanta](orvanta.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693f993850bbaf765051db8b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
 | ↳ | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693eee2c49a7695fbd04f674?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693ee979aa598a08c3ef0fc9?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Remote | Dec 14 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 14 |
 | **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693e479249a7695fbd049187?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 13 |
@@ -129,8 +130,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/69378ba81c1c2161c13f5958?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937a8fcaabec14a727ca9da?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 08 |
 | ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6937ae0ba0dde7020e305cea?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 08 |
-| **[Amazon](https://amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/693753641c1c2161c13f2ce2?utm_campaign=1063&utm_source=git)** | Austin, Texas, USA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937631fa0dde7020e302393?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937542eaabec14a727c681b?utm_campaign=1063&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 08 |
-| ↳ | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69375f011c1c2161c13f37e9?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
