@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercer](http://www.mercer.com)** | **[Mercer Investment Consulting Diversity Career Summit (for Freshmen and Sophomores) Virtual Event](https://jobright.ai/jobs/info/6940bf47aa598a08c3f058f6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Associate UX Consultant- Intern](https://jobright.ai/jobs/info/692e40aefa28370be26a2ce8?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/6940822849a7695fbd0609ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 15 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/6940a57249a7695fbd062f67?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Dec 15 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Attain Partners](http://www.attain.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/692e69acfa28370be26a466b?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Dec 09 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics & Consulting Associate Intern](https://jobright.ai/jobs/info/69389364aabec14a727d73d5?utm_campaign=1063&utm_source=git)** | IL - Chicago | On Site | Dec 09 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Dec 09 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
