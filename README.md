@@ -59,7 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ServiceNow](http://www.servicenow.com)** | **[Associate UX Consultant- Intern](https://jobright.ai/jobs/info/692e40aefa28370be26a2ce8?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/6940822849a7695fbd0609ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 15 |
-| ↳ | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/6940488249a7695fbd05d51f?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Dec 15 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/6940a57249a7695fbd062f67?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Dec 15 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/6940488249a7695fbd05d51f?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Dec 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/693b21ad5f2c001987ed2024?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Dec 15 |
 | **[Orvanta](orvanta.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/693f993850bbaf765051db8b?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 14 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics & Consulting Associate Intern](https://jobright.ai/jobs/info/69389364aabec14a727d73d5?utm_campaign=1063&utm_source=git)** | IL - Chicago | On Site | Dec 09 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/68ffe3b10ab3b222462af9c8?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Dec 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Dec 09 |
-| **[ANM](http://anm.com)** | **[Consulting Engineer Intern](https://jobright.ai/jobs/info/6937f020a0dde7020e30a3b7?utm_campaign=1063&utm_source=git)** | Albuquerque, Albuquerque, NM, US | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
