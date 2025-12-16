@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Internal Consulting Intern - 2026](https://jobright.ai/jobs/info/69419d66bdcf884a5add5203?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 16 |
+| ↳ | **[Vice President Consulting Intern](https://jobright.ai/jobs/info/6941a43550bbaf7650537d48?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 16 |
 | **[Mercer](http://www.mercer.com)** | **[Mercer Investment Consulting Diversity Career Summit (for Freshmen and Sophomores) Virtual Event](https://jobright.ai/jobs/info/6940bf47aa598a08c3f058f6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Associate UX Consultant- Intern](https://jobright.ai/jobs/info/692e40aefa28370be26a2ce8?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/6940a57249a7695fbd062f67?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Dec 15 |
@@ -114,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 10 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/69393cc848a8ce22990d5524?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 10 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Dec 10 |
-| **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, Safety and Flight Operations Consulting](https://jobright.ai/jobs/info/69390ab37548dd746be58de7?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
