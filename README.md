@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/6941e13214ee092a69fff41d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
+| **[MHP – A Porsche Company](https://www.mhp.com)** | **[Digital Advisory MBA Intern](https://jobright.ai/jobs/info/6941db6014ee092a69ffeb06?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 16 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/6941dbebbdcf884a5add8fb3?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 16 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Internal Consulting Intern - 2026](https://jobright.ai/jobs/info/69419d66bdcf884a5add5203?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 16 |
 | ↳ | **[Vice President Consulting Intern](https://jobright.ai/jobs/info/6941a43550bbaf7650537d48?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 16 |
 | **[Mercer](http://www.mercer.com)** | **[Mercer Investment Consulting Diversity Career Summit (for Freshmen and Sophomores) Virtual Event](https://jobright.ai/jobs/info/6940bf47aa598a08c3f058f6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Associate UX Consultant- Intern](https://jobright.ai/jobs/info/692e40aefa28370be26a2ce8?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/69419699bdcf884a5add4cdf?utm_campaign=1063&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Dec 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/693b21ad5f2c001987ed2024?utm_campaign=1063&utm_source=git)** | Pasadena, CA | On Site | Dec 15 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
