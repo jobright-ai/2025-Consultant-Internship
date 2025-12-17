@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Oracle NetSuite Customer Success Associate Consultant Intern](https://jobright.ai/jobs/info/6942f197dd382f5f5668e53e?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Dec 17 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Customer Success Associate Consultant Intern](https://jobright.ai/jobs/info/6942e35950bbaf765054b81b?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 17 |
 | **[UDig](http://udig.com)** | **[2026 Summer Internship, Technology Consulting](https://jobright.ai/jobs/info/6942e31450bbaf765054b7f7?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Dec 17 |
 | ↳ | **[2026 Summer Internship, Technology Consulting (Nashville, TN)](https://jobright.ai/jobs/info/6942df4850bbaf765054b5f1?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Dec 17 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/693172164c474121999ef540?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Supply Chain Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68cc51e07342c7623ae628cd?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Dec 12 |
 | **[Spheros Environmental](https://spherosenvironmental.com)** | **[Environmental Consulting Intern - Sustainability Department](https://jobright.ai/jobs/info/69422b9cbdcf884a5addfabc?utm_campaign=1063&utm_source=git)** | Petaluma, CA | On Site | Dec 11 |
-| **[Sense & Nous Inc.](www.sensenous.ca)** | **[Junior Consultant](https://jobright.ai/jobs/info/693c1ce450bbaf76504f7039?utm_campaign=1063&utm_source=git)** | Ontario, Canada | Hybrid | Dec 11 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Dec 11 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 11 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/691e352aa49a885af9a263c8?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Dec 11 |
