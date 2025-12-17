@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69262a51f0beb07232622ae2?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 17 |
+| **[Orvanta](orvanta.us)** | **[Tax & Business Consulting Intern](https://jobright.ai/jobs/info/6942857450bbaf7650547f6f?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 17 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/694274edbdcf884a5ade4c83?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Dec 17 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Winnipeg Management Consulting TST Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/694278d4bdcf884a5ade4fd9?utm_campaign=1063&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 16 |
 | **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/6942733e14ee092a6900aea5?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 16 |
+| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
+| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/694273e314ee092a6900aebf?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/6941e13214ee092a69fff41d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[MHP – A Porsche Company](https://www.mhp.com)** | **[Digital Advisory MBA Intern](https://jobright.ai/jobs/info/6941db6014ee092a69ffeb06?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 16 |
