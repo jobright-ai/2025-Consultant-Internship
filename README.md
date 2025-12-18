@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wavestone North America](https://www.aspirant.com/)** | **[Internship Summer 2026 (Business Consulting) Pittsburgh, PA Hybrid](https://jobright.ai/jobs/info/69433f4450bbaf7650551f23?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Oracle NetSuite Customer Success Associate Consultant Intern](https://jobright.ai/jobs/info/6942f197dd382f5f5668e53e?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Dec 17 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Customer Success Associate Consultant Intern](https://jobright.ai/jobs/info/6942e35950bbaf765054b81b?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 17 |
-| **[UDig](http://udig.com)** | **[2026 Summer Internship, Technology Consulting](https://jobright.ai/jobs/info/6942e31450bbaf765054b7f7?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Dec 17 |
-| ↳ | **[2026 Summer Internship, Technology Consulting (Nashville, TN)](https://jobright.ai/jobs/info/6942df4850bbaf765054b5f1?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Dec 17 |
+| **[UDig](http://udig.com)** | **[2026 Summer Internship, Technology Consulting (Nashville, TN)](https://jobright.ai/jobs/info/6942df4850bbaf765054b5f1?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Dec 17 |
+| ↳ | **[2026 Summer Internship, Technology Consulting (Richmond, VA)](https://jobright.ai/jobs/info/6942e31450bbaf765054b7f7?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Dec 17 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6942e4b350bbaf765054b8c3?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Dec 17 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Business & Strategy Consulting Intern - Platforms & Customer Strategy](https://jobright.ai/jobs/info/68b23b791ade4306aa63514a?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[The Walt Disney Studios, Content Security Advisory Intern, Summer 2026](https://jobright.ai/jobs/info/6942a9bc94730b739875b978?utm_campaign=1063&utm_source=git)** | Glendale, CA | Hybrid | Dec 17 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 17 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Winnipeg Management Consulting TST Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/694278d4bdcf884a5ade4fd9?utm_campaign=1063&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 16 |
 | **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/6942733e14ee092a6900aea5?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 16 |
-| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
-| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
+| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
+| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/694273e314ee092a6900aebf?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/6941e13214ee092a69fff41d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[MHP – A Porsche Company](https://www.mhp.com)** | **[Digital Advisory MBA Intern](https://jobright.ai/jobs/info/6941db6014ee092a69ffeb06?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 16 |
