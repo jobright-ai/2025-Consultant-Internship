@@ -117,7 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Dec 11 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/691e352aa49a885af9a263c8?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Dec 11 |
 | ↳ | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6901396a4539ea1f2141e206?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/68e579d1ae2b894b1d70fa4d?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Dec 11 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Dec 11 |
-| **[Mission Pet Health](https://missionvetpartners.com/)** | **[On-Campus Student Consultant (University of Guelph) - Mission Pet Health](https://jobright.ai/jobs/info/693aef38d4054a2bc024dc2a?utm_campaign=1063&utm_source=git)** | Birmingham, AL | Hybrid | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
