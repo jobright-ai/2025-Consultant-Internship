@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Retirement Sales and Plan Consulting](https://jobright.ai/jobs/info/6946a38363141d188456672a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Dec 20 |
+| **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 20 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69463b3f7d506e3808f19e46?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/69461b85d1953b5d11bf37fd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[The Walt Disney Studios, Content Security Advisory Intern, Summer 2026](https://jobright.ai/jobs/info/6942d70d50bbaf765054b281?utm_campaign=1063&utm_source=git)** | Glendale, CA | Hybrid | Dec 17 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 17 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Winnipeg Management Consulting TST Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/694278d4bdcf884a5ade4fd9?utm_campaign=1063&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 16 |
-| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
-| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
+| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
+| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/694273e314ee092a6900aebf?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/6941e13214ee092a69fff41d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[MHP – A Porsche Company](https://www.mhp.com)** | **[Digital Advisory MBA Intern](https://jobright.ai/jobs/info/6941db6014ee092a69ffeb06?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 16 |
