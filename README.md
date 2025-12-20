@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Dec 19 |
+| **[Stantec](http://www.stantec.com)** | **[Acoustical Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6945d8d163141d188455796b?utm_campaign=1063&utm_source=git)** | 40 Water Street, Boston, MA, 02109, US | On Site | Dec 19 |
+| **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern – Retirement Sales and Plan Consulting](https://jobright.ai/jobs/info/6945d2c463141d1884557250?utm_campaign=1063&utm_source=git)** | CO Greenwood Village | Hybrid | Dec 19 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6945d0f263141d18845569e3?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Dec 19 |
+| **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern – Retirement Sales and Plan Consulting](https://jobright.ai/jobs/info/6945ce01d1953b5d11bece15?utm_campaign=1063&utm_source=git)** | MA Boston - Federal St | Hybrid | Dec 19 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 19 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Dec 19 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Dec 19 |
@@ -105,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[The Walt Disney Studios, Content Security Advisory Intern, Summer 2026](https://jobright.ai/jobs/info/6942d70d50bbaf765054b281?utm_campaign=1063&utm_source=git)** | Glendale, CA | Hybrid | Dec 17 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 17 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Winnipeg Management Consulting TST Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/694278d4bdcf884a5ade4fd9?utm_campaign=1063&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 16 |
-| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
-| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
+| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
+| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/694273e314ee092a6900aebf?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/6941e13214ee092a69fff41d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[MHP – A Porsche Company](https://www.mhp.com)** | **[Digital Advisory MBA Intern](https://jobright.ai/jobs/info/6941db6014ee092a69ffeb06?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 16 |
