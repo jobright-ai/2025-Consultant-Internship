@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Intern Support Consultants](https://jobright.ai/jobs/info/69499abb63141d188459389f?utm_campaign=1063&utm_source=git)** | Nova Scotia, Canada | Hybrid | Dec 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/694976d5d1953b5d11c27599?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 22 |
-| ↳ | **[Internal Consulting Intern](https://jobright.ai/jobs/info/6949855c63141d1884591f55?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | Remote | Dec 22 |
 | **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/69498ec1d1953b5d11c28c38?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 22 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Field Technical Services Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69498c11d1953b5d11c287de?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Field Technical Services Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6948d3a2d1953b5d11c1e990?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 21 |
@@ -74,8 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 20 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69463b3f7d506e3808f19e46?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/69461b85d1953b5d11bf37fd?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
-| ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/694610fc63141d188455c046?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
-| ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/69460fa663141d188455be92?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 19 |
 | **[Stantec](http://www.stantec.com)** | **[Acoustical Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/694604f87d506e3808f156f0?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 19 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Dec 19 |
 | **[Stantec](http://www.stantec.com)** | **[Acoustical Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6945d8d163141d188455796b?utm_campaign=1063&utm_source=git)** | 40 Water Street, Boston, MA, 02109, US | On Site | Dec 19 |
@@ -96,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[RS&H](http://www.rsandh.com/)** | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944565cdd382f5f566a7127?utm_campaign=1063&utm_source=git)** | US-FL-Tampa | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/694454e050bbaf7650565241?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944541494730b7398777d27?utm_campaign=1063&utm_source=git)** | US-NC-Raleigh | On Site | Dec 18 |
-| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/69445ff4dd382f5f566a7904?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944681350bbaf765056656a?utm_campaign=1063&utm_source=git)** | US-GA-Atlanta | On Site | Dec 18 |
+| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/69445ff4dd382f5f566a7904?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Dec 18 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 18 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d61e2bcdbf3560c9f05f3?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 18 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Dec 18 |
