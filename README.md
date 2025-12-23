@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/6933a267a0dde7020e2eff14?utm_campaign=1063&utm_source=git)** | Southfield, MI | Hybrid | Dec 23 |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern - Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/694a1501c6f0e2546cef1710?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 22 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a0978c6f0e2546ceef9b6?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc5d63141d188459800f?utm_campaign=1063&utm_source=git)** | Bellaire, TX | Hybrid | Dec 22 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[RS&H](http://www.rsandh.com/)** | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944565cdd382f5f566a7127?utm_campaign=1063&utm_source=git)** | US-FL-Tampa | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/694454e050bbaf7650565241?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944541494730b7398777d27?utm_campaign=1063&utm_source=git)** | US-NC-Raleigh | On Site | Dec 18 |
-| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/69445ff4dd382f5f566a7904?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944681350bbaf765056656a?utm_campaign=1063&utm_source=git)** | US-GA-Atlanta | On Site | Dec 18 |
+| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/69445ff4dd382f5f566a7904?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Dec 18 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 18 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d61e2bcdbf3560c9f05f3?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 18 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Dec 18 |
@@ -127,10 +129,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69262a51f0beb07232622ae2?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 17 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 17 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Winnipeg Management Consulting TST Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/694278d4bdcf884a5ade4fd9?utm_campaign=1063&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 16 |
-| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
-| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
+| **[ArcherGrey](http://www.archergrey.com/)** | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/6942830a94730b739875a381?utm_campaign=1063&utm_source=git)** | Remote Worker - N/A | Remote | Dec 16 |
+| ↳ | **[FlexPLM Technical Consultant](https://jobright.ai/jobs/info/69428c9150bbaf76505481e2?utm_campaign=1063&utm_source=git)** | Fully Remote | Remote | Dec 16 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern conversion: Integrated & Global Solutions Analyst 2026](https://jobright.ai/jobs/info/694273e314ee092a6900aebf?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/6941e13214ee092a69fff41d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[MHP – A Porsche Company](https://www.mhp.com)** | **[Digital Advisory MBA Intern](https://jobright.ai/jobs/info/6941db6014ee092a69ffeb06?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 16 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/6941dbebbdcf884a5add8fb3?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
