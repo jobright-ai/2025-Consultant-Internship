@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/68da6ab107c157682e56a1a2?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 23 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/69200476a49a885af9a35e9b?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
+| ↳ | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/69204eb83f782d2f1afc47a2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/6933a267a0dde7020e2eff14?utm_campaign=1063&utm_source=git)** | Southfield, MI | Hybrid | Dec 23 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Calgary Internship, Management Consulting May 2026](https://jobright.ai/jobs/info/692ebc77ef4b48533d1410c3?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 23 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern - Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/694a1501c6f0e2546cef1710?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 22 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a0978c6f0e2546ceef9b6?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc5d63141d188459800f?utm_campaign=1063&utm_source=git)** | Bellaire, TX | Hybrid | Dec 22 |
