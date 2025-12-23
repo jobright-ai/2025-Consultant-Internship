@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a0978c6f0e2546ceef9b6?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
+| **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc5d63141d188459800f?utm_campaign=1063&utm_source=git)** | Bellaire, TX | Hybrid | Dec 22 |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Intern Support Consultants](https://jobright.ai/jobs/info/69499abb63141d188459389f?utm_campaign=1063&utm_source=git)** | Nova Scotia, Canada | Hybrid | Dec 22 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/694976d5d1953b5d11c27599?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 22 |
 | **[Meridien Labs](meridienlabs.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/69498ec1d1953b5d11c28c38?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 22 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Field Technical Services Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69498c11d1953b5d11c287de?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Field Technical Services Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6948d3a2d1953b5d11c1e990?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 21 |
