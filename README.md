@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.us)** | **[Tax Intern - Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/694a1501c6f0e2546cef1710?utm_campaign=1063&utm_source=git)** | Sacramento, CA | Remote | Dec 22 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a0978c6f0e2546ceef9b6?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc5d63141d188459800f?utm_campaign=1063&utm_source=git)** | Bellaire, TX | Hybrid | Dec 22 |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Intern Support Consultants](https://jobright.ai/jobs/info/69499abb63141d188459389f?utm_campaign=1063&utm_source=git)** | Nova Scotia, Canada | Hybrid | Dec 22 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[RS&H](http://www.rsandh.com/)** | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944565cdd382f5f566a7127?utm_campaign=1063&utm_source=git)** | US-FL-Tampa | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/694454e050bbaf7650565241?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944541494730b7398777d27?utm_campaign=1063&utm_source=git)** | US-NC-Raleigh | On Site | Dec 18 |
-| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944681350bbaf765056656a?utm_campaign=1063&utm_source=git)** | US-GA-Atlanta | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/69445ff4dd382f5f566a7904?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Dec 18 |
+| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944681350bbaf765056656a?utm_campaign=1063&utm_source=git)** | US-GA-Atlanta | On Site | Dec 18 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 18 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d61e2bcdbf3560c9f05f3?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 18 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Dec 18 |
