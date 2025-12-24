@@ -104,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[RS&H](http://www.rsandh.com/)** | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944565cdd382f5f566a7127?utm_campaign=1063&utm_source=git)** | US-FL-Tampa | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/694454e050bbaf7650565241?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944541494730b7398777d27?utm_campaign=1063&utm_source=git)** | US-NC-Raleigh | On Site | Dec 18 |
-| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944681350bbaf765056656a?utm_campaign=1063&utm_source=git)** | US-GA-Atlanta | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/69445ff4dd382f5f566a7904?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Dec 18 |
+| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944681350bbaf765056656a?utm_campaign=1063&utm_source=git)** | US-GA-Atlanta | On Site | Dec 18 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 18 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d61e2bcdbf3560c9f05f3?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 18 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Dec 18 |
@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Consulting Intern, Retirement (Summer or Fall 2026) – Montreal](https://jobright.ai/jobs/info/69263a29d47de4798ecd5b6a?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 17 |
 | ↳ | **[Early Careers: Actuarial Consulting Intern, Retirement (Winter, Summer or Fall 2027) – Montreal](https://jobright.ai/jobs/info/69262a51f0beb07232622ae2?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 17 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 17 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Winnipeg Management Consulting TST Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/694278d4bdcf884a5ade4fd9?utm_campaign=1063&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
