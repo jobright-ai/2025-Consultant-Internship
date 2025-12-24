@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 24 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Regina & Saskatoon - Management Consulting Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/692ff74fef4b48533d149cf4?utm_campaign=1063&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 24 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 24 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 24 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Dec 23 |
 | **[Blue Ventis](blueventis.us)** | **[Tax Intern – Business Consulting & Tax Solutions](https://jobright.ai/jobs/info/694ac7e61224705e9001e0d8?utm_campaign=1063&utm_source=git)** | Sacramento, CA | On Site | Dec 23 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 23 |
@@ -116,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6943be1add382f5f5669d3a1?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Dec 18 |
 | **[Wavestone North America](https://www.aspirant.com/)** | **[Internship Summer 2026 (Business Consulting) Pittsburgh, PA Hybrid](https://jobright.ai/jobs/info/69433f4450bbaf7650551f23?utm_campaign=1063&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 17 |
-| **[Oracle](https://www.oracle.com/)** | **[Oracle NetSuite Customer Success Associate Consultant Intern](https://jobright.ai/jobs/info/6942f197dd382f5f5668e53e?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
