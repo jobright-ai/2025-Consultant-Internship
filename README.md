@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/694c3b4bd64ebf28d821d519?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Edmonton Internship, Management Consulting (May - August 2026)](https://jobright.ai/jobs/info/693015434c474121999e3e80?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 24 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 24 |
