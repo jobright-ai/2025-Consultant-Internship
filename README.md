@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/694d6888f5bef51c96eb079a?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 25 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d7e300b7dff7341503f27?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | Hybrid | Dec 25 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/694d586df5bef51c96eafae5?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 25 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 25 |
@@ -111,6 +113,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc0e15b415636718a337?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Dec 19 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Dec 19 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/694a38eb187e565c6bfa4436?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 18 |
-| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6944cdfea7227b3ece6675ee?utm_campaign=1063&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Dec 18 |
-| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6944c8aa50bbaf765056dc72?utm_campaign=1063&utm_source=git)** | Burnaby, Canada | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
