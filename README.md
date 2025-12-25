@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Dec 24 |
 | **[No Barriers Education Inc.](https://www.nobarrierseducation.com/)** | **[Higher Education Consultant Intern](https://jobright.ai/jobs/info/694c6317d64ebf28d822010f?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Dec 24 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/694c3b4bd64ebf28d821d519?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Equities Execution Consulting Intern](https://jobright.ai/jobs/info/68be67113d31ec76b7e8a2a3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd4bdbe23def7af55b7f28?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Dec 18 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6943be1add382f5f5669d3a1?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
