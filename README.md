@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | Hybrid | Dec 25 |
+| ↳ | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36fc337d3cc6b0d576c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 25 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Dec 24 |
 | **[No Barriers Education Inc.](https://www.nobarrierseducation.com/)** | **[Higher Education Consultant Intern](https://jobright.ai/jobs/info/694c6317d64ebf28d822010f?utm_campaign=1063&utm_source=git)** | Boston, MA | Remote | Dec 24 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/694c3b4bd64ebf28d821d519?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
