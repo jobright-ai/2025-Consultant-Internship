@@ -113,12 +113,7 @@ For a complete list, click the following sortable link below:
 | **[RS&H](http://www.rsandh.com/)** | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944565cdd382f5f566a7127?utm_campaign=1063&utm_source=git)** | US-FL-Tampa | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/694454e050bbaf7650565241?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944541494730b7398777d27?utm_campaign=1063&utm_source=git)** | US-NC-Raleigh | On Site | Dec 18 |
-| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944681350bbaf765056656a?utm_campaign=1063&utm_source=git)** | US-GA-Atlanta | On Site | Dec 18 |
 | ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/69445ff4dd382f5f566a7904?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Dec 18 |
+| ↳ | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/6944681350bbaf765056656a?utm_campaign=1063&utm_source=git)** | US-GA-Atlanta | On Site | Dec 18 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 18 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d61e2bcdbf3560c9f05f3?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 18 |
-| **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/685b3aa8144299321de80fc1?utm_campaign=1063&utm_source=git)** | Triangle Area | Hybrid | Dec 18 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Victoria Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69281059f0beb0723262f499?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Dec 18 |
-| **[UDig](http://udig.com)** | **[2026 Summer Internship, Technology Consulting (Richmond, VA)](https://jobright.ai/jobs/info/6942e31450bbaf765054b7f7?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Dec 18 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GVA Internship Opportunities, Management Consulting September 2026](https://jobright.ai/jobs/info/69280b1f91ceeb2e8a54447c?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
