@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc5115b415636718a46e?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Dec 19 |
 | ↳ | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc0e15b415636718a337?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Dec 19 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/68d42ac517554c2d9eef6838?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Dec 19 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/694a38eb187e565c6bfa4436?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
