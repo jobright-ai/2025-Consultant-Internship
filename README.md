@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/694eab2da2668b7f5451fc36?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 26 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, SAP Consulting, Summer 2026](https://jobright.ai/jobs/info/693214e1d0010831497bf3db?utm_campaign=1063&utm_source=git)** | Casa Grande, AZ | On Site | Dec 26 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/694e443529655e4dd657f932?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 26 |
@@ -100,9 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 20 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69463b3f7d506e3808f19e46?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[Stantec](http://www.stantec.com)** | **[Acoustical Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/694604f87d506e3808f156f0?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 19 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Dec 19 |
-| **[Stantec](http://www.stantec.com)** | **[Acoustical Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6945d8d163141d188455796b?utm_campaign=1063&utm_source=git)** | 40 Water Street, Boston, MA, 02109, US | On Site | Dec 19 |
-| **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern – Retirement Sales and Plan Consulting](https://jobright.ai/jobs/info/6945d2c463141d1884557250?utm_campaign=1063&utm_source=git)** | CO Greenwood Village | Hybrid | Dec 19 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6945d0f263141d18845569e3?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Dec 19 |
-| **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern – Retirement Sales and Plan Consulting](https://jobright.ai/jobs/info/6945ce01d1953b5d11bece15?utm_campaign=1063&utm_source=git)** | MA Boston - Federal St | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
