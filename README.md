@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | On Site | Dec 20 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69463b3f7d506e3808f19e46?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
-| **[Stantec](http://www.stantec.com)** | **[Acoustical Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/694604f87d506e3808f156f0?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
