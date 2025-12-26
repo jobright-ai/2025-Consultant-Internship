@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6945d0f263141d18845569e3?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Dec 19 |
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern – Retirement Sales and Plan Consulting](https://jobright.ai/jobs/info/6945ce01d1953b5d11bece15?utm_campaign=1063&utm_source=git)** | MA Boston - Federal St | Hybrid | Dec 19 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 19 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
