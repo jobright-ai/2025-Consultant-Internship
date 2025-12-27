@@ -74,7 +74,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Application Consultant Co-op 2026](https://jobright.ai/jobs/info/69337398a0dde7020e2ee2d5?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 27 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6933495da0dde7020e2ec2b0?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 27 |
 | ↳ | **[Associate Application Consultant Intern 2026](https://jobright.ai/jobs/info/69335ef3764507023d1b4e52?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6933c0f6a0dde7020e2f17b6?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Dec 27 |
 | ↳ | **[Associate Business Transformation Consultant – Adobe Experience – Co-op 2026](https://jobright.ai/jobs/info/69335d9a764507023d1b4d31?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 27 |
+| ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/69336dcea0dde7020e2ede63?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 27 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69335a08764507023d1b4a66?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 27 |
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/69336054f131d96e48462b00?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 27 |
 | ↳ | **[Delivery Consultant Intern (4 Month)](https://jobright.ai/jobs/info/69335a38764507023d1b4a97?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 27 |
