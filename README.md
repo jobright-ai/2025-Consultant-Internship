@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/694ff9d029655e4dd6595141?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 27 |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/69503fbaa2668b7f54533086?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69336a80a0dde7020e2edb47?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Dec 27 |
 | ↳ | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6933596ef131d96e48462539?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Dec 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69335c5ef131d96e484627d7?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Dec 27 |
@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Transformation Consultant – Adobe Experience – Co-op 2026](https://jobright.ai/jobs/info/69335d9a764507023d1b4d31?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 27 |
 | ↳ | **[Associate Business Transformation Consultant Co-op 2026](https://jobright.ai/jobs/info/69336dcea0dde7020e2ede63?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 27 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69335a08764507023d1b4a66?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Dec 27 |
+| ↳ | **[Associate Package Consultant Co-op 2026](https://jobright.ai/jobs/info/69335339764507023d1b4404?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Dec 27 |
 | ↳ | **[Associate X-Force Cyber Range Consultant Intern 2026](https://jobright.ai/jobs/info/69336054f131d96e48462b00?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Dec 27 |
 | ↳ | **[Delivery Consultant Intern (4 Month)](https://jobright.ai/jobs/info/69335a38764507023d1b4a97?utm_campaign=1063&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 27 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69336b22f131d96e484631e4?utm_campaign=1063&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
