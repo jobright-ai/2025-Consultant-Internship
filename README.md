@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/69333da5a0dde7020e2ebc2a?utm_campaign=1063&utm_source=git)** | Southfield, MI | Hybrid | Dec 27 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, SAP Consulting, Summer 2026](https://jobright.ai/jobs/info/693214e1d0010831497bf3db?utm_campaign=1063&utm_source=git)** | Casa Grande, AZ | On Site | Dec 26 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d7e300b7dff7341503f27?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
