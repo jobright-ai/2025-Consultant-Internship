@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado African Innovation and Cultural Center](www.caccenter.org)** | **[MBA Business Consulting & Strategy Intern](https://jobright.ai/jobs/info/6951531fa2668b7f54540bf6?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 28 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Analytics Centre of Excellence](https://jobright.ai/jobs/info/691878c445fb6f5ead8a57e7?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69336a80a0dde7020e2edb47?utm_campaign=1063&utm_source=git)** | Cambridge, MA | Hybrid | Dec 27 |
