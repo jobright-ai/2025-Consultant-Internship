@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Technical Services Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6948cc1f63141d188458676c?utm_campaign=1063&utm_source=git)** | 13470 International Parkway13470 International Parkway | Hybrid | Dec 21 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Dec 21 |
 | ↳ | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Dec 21 |
-| **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Available June 2026)](https://jobright.ai/jobs/info/6906132163502c0aded809e8?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
