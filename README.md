@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Colorado African Innovation and Cultural Center](www.caccenter.org)** | **[MBA Business Consulting & Strategy Intern](https://jobright.ai/jobs/info/6951531fa2668b7f54540bf6?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 28 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Analytics Centre of Excellence](https://jobright.ai/jobs/info/691878c445fb6f5ead8a57e7?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 | **[IBM](http://www.ibm.com)** | **[Associate Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6933c8f0a0dde7020e2f1ac6?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Dec 27 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Dec 27 |
@@ -103,8 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a36ed71ab5f8579e8a5857?utm_campaign=1063&utm_source=git)** | Southfield, MI | Hybrid | Dec 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Analytics Consultant Senior Intern](https://jobright.ai/jobs/info/694c3b4bd64ebf28d821d519?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Edmonton Internship, Management Consulting (May - August 2026)](https://jobright.ai/jobs/info/693015434c474121999e3e80?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 24 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Technical Accounting Advisory Consulting Internship](https://jobright.ai/jobs/info/68a3757937d3cc6b0d577054?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 24 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Regina & Saskatoon - Management Consulting Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/692ff74fef4b48533d149cf4?utm_campaign=1063&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 24 |
+| ↳ | **[Regina & Saskatoon - Management Consulting Internship Consultant (May - August 2026)](https://jobright.ai/jobs/info/692ff74fef4b48533d149cf4?utm_campaign=1063&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 24 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 24 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 24 |
@@ -118,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Information Technology Consulting Public Sector Intern](https://jobright.ai/jobs/info/6933a267a0dde7020e2eff14?utm_campaign=1063&utm_source=git)** | Southfield, MI | Hybrid | Dec 23 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Available June 2026)](https://jobright.ai/jobs/info/68bc05d88043103d4f22e13e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Calgary Internship, Management Consulting May 2026](https://jobright.ai/jobs/info/692ebc77ef4b48533d1410c3?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 23 |
-| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a0978c6f0e2546ceef9b6?utm_campaign=1063&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
