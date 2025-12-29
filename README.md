@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a41bd3019f50a4fe56a5a?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Dec 22 |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Intern Support Consultants](https://jobright.ai/jobs/info/69499abb63141d188459389f?utm_campaign=1063&utm_source=git)** | Nova Scotia, Canada | Hybrid | Dec 22 |
 | ↳ | **[At the Elbow Support Consultant Student - One Person One Record](https://jobright.ai/jobs/info/694a41653019f50a4fe56a0f?utm_campaign=1063&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Dec 22 |
-| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Field Technical Services Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69498c11d1953b5d11c287de?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
