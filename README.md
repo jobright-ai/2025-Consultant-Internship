@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern- Consulting (Summer 2026)](https://jobright.ai/jobs/info/69544048aa05c26e7aaeb79f?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[CarbonCents](https://www.carboncents.com)** | **[Carbon Consulting Intern](https://jobright.ai/jobs/info/69541b735bb7de448ef70de0?utm_campaign=1063&utm_source=git)** | Seneca, SC | On Site | Dec 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
