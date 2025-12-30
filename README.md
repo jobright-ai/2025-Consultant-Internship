@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/69378ba81c1c2161c13f5958?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Dec 30 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Management Consulting Intern - 2026](https://jobright.ai/jobs/info/6937fc3cb95c305f206d47d8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 30 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6937ae0ba0dde7020e305cea?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 30 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Summer 2026 MC Consultant Internship (Ottawa May-Aug)](https://jobright.ai/jobs/info/693751e2aabec14a727c6650?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 30 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/69378fd81c1c2161c13f5c3b?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 30 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6937a8fcaabec14a727ca9da?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
+| ↳ | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/69378fd81c1c2161c13f5c3b?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Dec 30 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/69371fee1c1c2161c13f0c1f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 30 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Internal Audit Consultant Intern](https://jobright.ai/jobs/info/6953a67a5a2fd11f2a0ef484?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 30 |
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 29 |
