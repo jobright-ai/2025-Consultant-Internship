@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Dec 24 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
