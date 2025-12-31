@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wipfli](http://www.wipfli.com)** | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/695463855bb7de448ef755fb?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
+| ↳ | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69545b4df1f8465b79eb896f?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 30 |
+| ↳ | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69545b10f1f8465b79eb8946?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 30 |
+| ↳ | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/695453825bb7de448ef74c7e?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 30 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern- Consulting (Summer 2026)](https://jobright.ai/jobs/info/69544048aa05c26e7aaeb79f?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[CarbonCents](https://www.carboncents.com)** | **[Carbon Consulting Intern](https://jobright.ai/jobs/info/69541b735bb7de448ef70de0?utm_campaign=1063&utm_source=git)** | Seneca, SC | On Site | Dec 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
