@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/695558cbf1f8465b79ec5b9c?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Dec 31 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/69551d799f1b381eb26e8e2b?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | Dec 31 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Dec 31 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/69393cc848a8ce22990d5524?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 31 |
