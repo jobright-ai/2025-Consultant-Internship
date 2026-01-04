@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/695943879f1b381eb2721d4a?utm_campaign=1063&utm_source=git)** | New Jersey, United States | On Site | Jan 03 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Jan 03 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f71dd3f782d2f1afbc3db?utm_campaign=1063&utm_source=git)** | Richfield, OH | On Site | Jan 03 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f80dc09cc522e877422eb?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 03 |
@@ -89,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/69393cc848a8ce22990d5524?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 31 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Dec 31 |
 | **[Wipfli](http://www.wipfli.com)** | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69545b4df1f8465b79eb896f?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 30 |
-| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern- Consulting (Summer 2026)](https://jobright.ai/jobs/info/69544359f1f8465b79eb70d9?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
+| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern- Consulting (Summer 2026)](https://jobright.ai/jobs/info/69544048aa05c26e7aaeb79f?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[CarbonCents](https://www.carboncents.com)** | **[Carbon Consulting Intern](https://jobright.ai/jobs/info/69541b735bb7de448ef70de0?utm_campaign=1063&utm_source=git)** | Seneca, SC | On Site | Dec 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
@@ -100,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/69371fee1c1c2161c13f0c1f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 30 |
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 29 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Analytics Centre of Excellence](https://jobright.ai/jobs/info/691878c445fb6f5ead8a57e7?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
