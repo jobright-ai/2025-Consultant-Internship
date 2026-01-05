@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (LAX, Summer 2026)](https://jobright.ai/jobs/info/695ba42cf396ad6ddab14de5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 05 |
+| **[Blue United Corporation](https://blueutd.com/)** | **[Intern - Sports Consulting & Event Operations](https://jobright.ai/jobs/info/695bb443f396ad6ddab1553a?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Jan 05 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 05 |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 05 |
+| **[United Airlines](https://www.united.com)** | **[Graduate/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/695ba758f396ad6ddab14f55?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 05 |
+| ↳ | **[Intern - Airport Operations (LAX, Summer 2026)](https://jobright.ai/jobs/info/695ba42cf396ad6ddab14de5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (DEN) (Summer 2026)](https://jobright.ai/jobs/info/695ba3a5f396ad6ddab14db7?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (SFO, Summer 2026)](https://jobright.ai/jobs/info/695ba197f396ad6ddab14d2f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (ORD) (Summer 2026)](https://jobright.ai/jobs/info/695ba18df1f8465b79f1ac84?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 05 |
