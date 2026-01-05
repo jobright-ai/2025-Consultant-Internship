@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Research Internship – Healthcare Strategy Consulting](https://jobright.ai/jobs/info/695bed70f1f8465b79f1ebc5?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 05 |
 | **[KSM (Katz, Sapper & Miller)](http://www.ksmcpa.com)** | **[Healthcare Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/695bc7daf396ad6ddab1777f?utm_campaign=1063&utm_source=git)** | Indianapolis | On Site | Jan 05 |
 | **[Blue United Corporation](https://blueutd.com/)** | **[Intern - Sports Consulting & Event Operations](https://jobright.ai/jobs/info/695bb443f396ad6ddab1553a?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Jan 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 05 |
@@ -108,7 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/695b38959f1b381eb27396cd?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 30 |
 | ↳ | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/695b2693f1f8465b79f13e6d?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 30 |
 | ↳ | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69545b4df1f8465b79eb896f?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 30 |
-| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern- Consulting (Summer 2026)](https://jobright.ai/jobs/info/69544359f1f8465b79eb70d9?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
+| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern- Consulting (Summer 2026)](https://jobright.ai/jobs/info/69544048aa05c26e7aaeb79f?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f9e68a7359609b8c84ff?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9f2f18a7359609b8c80a2?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Management Consulting Intern - 2026](https://jobright.ai/jobs/info/6937fc3cb95c305f206d47d8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 30 |
