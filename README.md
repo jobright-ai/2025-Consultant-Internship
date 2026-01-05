@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roland Berger](http://www.rolandberger.com/)** | **[2026 US HERizon Program](https://jobright.ai/jobs/info/695c1f7b22c9dc0d3d53fee3?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 05 |
+| **[Intact](http://www.intactfc.com)** | **[Technical Consultant I, HRdirect - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/695c0ebe22c9dc0d3d53ed97?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Technical Consultant I, HRdirect - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/695c084df1f8465b79f21440?utm_campaign=1063&utm_source=git)** | Montréal, Quebec, CAN | On Site | Jan 05 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695c07fdaa05c26e7ab55aff?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Jan 05 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695c0316f1f8465b79f20ff9?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 05 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695bffc822c9dc0d3d53e2c8?utm_campaign=1063&utm_source=git)** | Brookfield, WI | On Site | Jan 05 |
+| **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 05 |
 | **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Research Internship – Healthcare Strategy Consulting](https://jobright.ai/jobs/info/695bed70f1f8465b79f1ebc5?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 05 |
 | **[KSM (Katz, Sapper & Miller)](http://www.ksmcpa.com)** | **[Healthcare Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/695bc7daf396ad6ddab1777f?utm_campaign=1063&utm_source=git)** | Indianapolis | On Site | Jan 05 |
 | **[Blue United Corporation](https://blueutd.com/)** | **[Intern - Sports Consulting & Event Operations](https://jobright.ai/jobs/info/695bb443f396ad6ddab1553a?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Jan 05 |
@@ -99,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 01 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a0a0456b68f3dc4e769a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 01 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 01 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 01 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 01 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 01 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 01 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 01 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Dec 31 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/69393cc848a8ce22990d5524?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 31 |
