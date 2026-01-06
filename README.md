@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5799f1f8465b79f27d34?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c547222c9dc0d3d544c66?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c4b0e22c9dc0d3d5433a8?utm_campaign=1063&utm_source=git)** | Charleston, SC | Hybrid | Jan 05 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c4a0522c9dc0d3d543107?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 05 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e36f1f8465b79f282f2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5fd7aa05c26e7ab5cb12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e51aa05c26e7ab5c966?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c2e1c22c9dc0d3d540cb7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
+| **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c385a22c9dc0d3d5416c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Intact](http://www.intactfc.com)** | **[Technical Consultant I, HRdirect - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/695c0ebe22c9dc0d3d53ed97?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Technical Consultant I, HRdirect - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/695c084df1f8465b79f21440?utm_campaign=1063&utm_source=git)** | Montréal, Quebec, CAN | On Site | Jan 05 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695c07fdaa05c26e7ab55aff?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Jan 05 |
