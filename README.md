@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Broadridge](http://www.broadridge.com)** | **[Legal Consultant Intern - Contract (Hybrid, Remote)](https://jobright.ai/jobs/info/695d6273f5f3c43f38e22abd?utm_campaign=1063&utm_source=git)** | Edgewood, NY | Hybrid | Jan 06 |
+| ↳ | **[Legal Consultant Intern - Contract (Hybrid, Remote)](https://jobright.ai/jobs/info/695d6255fbd62a0a6565f7a1?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/695d6059fbd62a0a6565f5f3?utm_campaign=1063&utm_source=git)** | Oakland, CA | Remote | Jan 06 |
+| **[Wood Mackenzie](http://www.woodmac.com/)** | **[Consulting Intern (June - August) - Boston](https://jobright.ai/jobs/info/695d5edef5f3c43f38e226a9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/695d5171f1f8465b79f381c0?utm_campaign=1063&utm_source=git)** | United States of America Santa Ana | Hybrid | Jan 06 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695d4726f1f8465b79f374b1?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 06 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations IAD (Summer 2026)](https://jobright.ai/jobs/info/695d438efbd62a0a6565cadf?utm_campaign=1063&utm_source=git)** | United States-VA-IAD - Washington (Dulles) | On Site | Jan 06 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d33cef5f3c43f38e1f1ed?utm_campaign=1063&utm_source=git)** | Salem, USA | On Site | Jan 06 |
@@ -82,12 +87,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695bffc822c9dc0d3d53e2c8?utm_campaign=1063&utm_source=git)** | Brookfield, WI | On Site | Jan 05 |
 | **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 05 |
 | **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Research Internship – Healthcare Strategy Consulting](https://jobright.ai/jobs/info/695bed70f1f8465b79f1ebc5?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 05 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (LAX) (Summer 2026)](https://jobright.ai/jobs/info/695ba42cf396ad6ddab14de5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 05 |
 | **[KSM (Katz, Sapper & Miller)](http://www.ksmcpa.com)** | **[Healthcare Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/695bc7daf396ad6ddab1777f?utm_campaign=1063&utm_source=git)** | Indianapolis | On Site | Jan 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 05 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 05 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (SFO) (Summer 2026)](https://jobright.ai/jobs/info/695ba197f396ad6ddab14d2f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | ↳ | **[Graduate/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/695ba758f396ad6ddab14f55?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 05 |
-| ↳ | **[Intern - Airport Operations (LAX, Summer 2026)](https://jobright.ai/jobs/info/695ba42cf396ad6ddab14de5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (DEN) (Summer 2026)](https://jobright.ai/jobs/info/695ba3a5f396ad6ddab14db7?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (ORD) (Summer 2026)](https://jobright.ai/jobs/info/695ba18df1f8465b79f1ac84?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (IAH) (Summer 2026)](https://jobright.ai/jobs/info/695b9fe5f396ad6ddab14d04?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 05 |
