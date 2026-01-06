@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695d4726f1f8465b79f374b1?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 06 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations IAD (Summer 2026)](https://jobright.ai/jobs/info/695d438efbd62a0a6565cadf?utm_campaign=1063&utm_source=git)** | United States-VA-IAD - Washington (Dulles) | On Site | Jan 06 |
+| **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d33cef5f3c43f38e1f1ed?utm_campaign=1063&utm_source=git)** | Salem, USA | On Site | Jan 06 |
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Consulting Intern (June - August) - Boston](https://jobright.ai/jobs/info/695d2606f1f8465b79f34f20?utm_campaign=1063&utm_source=git)** | Boston, US | Hybrid | Jan 06 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/695d129ffbd62a0a6565ae0c?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jan 06 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5799f1f8465b79f27d34?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 05 |
@@ -118,13 +121,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 01 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a0a0456b68f3dc4e769a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 01 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 01 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 01 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 01 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 01 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 01 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 01 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Dec 31 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/69393cc848a8ce22990d5524?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 31 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Dec 31 |
-| **[Wipfli](http://www.wipfli.com)** | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/695b5f919f1b381eb273c2ca?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
-| ↳ | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/695b38959f1b381eb27396cd?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Dec 30 |
-| ↳ | **[Operations, People & Strategy Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/695b2693f1f8465b79f13e6d?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
