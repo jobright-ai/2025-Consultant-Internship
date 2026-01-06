@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | On Site | Jan 06 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/695d6d87f5f3c43f38e23844?utm_campaign=1063&utm_source=git)** | Raleigh, NC | Hybrid | Jan 06 |
 | **[Broadridge](http://www.broadridge.com)** | **[Legal Consultant Intern - Contract (Hybrid, Remote)](https://jobright.ai/jobs/info/695d6273f5f3c43f38e22abd?utm_campaign=1063&utm_source=git)** | Edgewood, NY | Hybrid | Jan 06 |
 | ↳ | **[Legal Consultant Intern - Contract (Hybrid, Remote)](https://jobright.ai/jobs/info/695d6255fbd62a0a6565f7a1?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/695d6059fbd62a0a6565f5f3?utm_campaign=1063&utm_source=git)** | Oakland, CA | Remote | Jan 06 |
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Consulting Intern (June - August) - Boston](https://jobright.ai/jobs/info/695d5edef5f3c43f38e226a9?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/695d5171f1f8465b79f381c0?utm_campaign=1063&utm_source=git)** | United States of America Santa Ana | Hybrid | Jan 06 |
+| **[Broadridge](http://www.broadridge.com)** | **[Legal Consultant Intern - Contract (Hybrid, Remote)](https://jobright.ai/jobs/info/695d6f3bf1f8465b79f39a99?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695d4726f1f8465b79f374b1?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 06 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations IAD (Summer 2026)](https://jobright.ai/jobs/info/695d438efbd62a0a6565cadf?utm_campaign=1063&utm_source=git)** | United States-VA-IAD - Washington (Dulles) | On Site | Jan 06 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d33cef5f3c43f38e1f1ed?utm_campaign=1063&utm_source=git)** | Salem, USA | On Site | Jan 06 |
@@ -74,10 +76,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e36f1f8465b79f282f2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5fd7aa05c26e7ab5cb12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e51aa05c26e7ab5c966?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c6855f1f8465b79f28cc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c6855f1f8465b79f28cc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c2e1c22c9dc0d3d540cb7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c385a22c9dc0d3d5416c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Intact](http://www.intactfc.com)** | **[Technical Consultant I, HRdirect - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/695c0ebe22c9dc0d3d53ed97?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
@@ -118,6 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/692615a0f0beb07232621de5?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Jan 03 |
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/693fa54950bbaf765051df11?utm_campaign=1063&utm_source=git)** | Durham, NC | Remote | Jan 03 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Value Consulting Analyst Intern](https://jobright.ai/jobs/info/6958690faa05c26e7ab24d5c?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant Intern (Accounting) (Summer 2027)](https://jobright.ai/jobs/info/695d7318f1f8465b79f39f44?utm_campaign=1063&utm_source=git)** | Kansas City, Missouri, United States | Hybrid | Jan 02 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 02 |
 | **[UNICEF](https://agora.unicef.org/)** | **[International Senior Consultant / Recovery Programme Strategy Development for UNICEF Palestine / Hybrid Remote with Travel](https://jobright.ai/jobs/info/6956a875f1f8465b79ed8d13?utm_campaign=1063&utm_source=git)** | Palestine, IA | Hybrid | Jan 01 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Jan 01 |
