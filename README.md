@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/695e8695a112b402660d3627?utm_campaign=1063&utm_source=git)** | Milwaukee | Hybrid | Jan 07 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Strategy Intern - Masters Co-op/Intern - Summer 2026](https://jobright.ai/jobs/info/695e7f9aa112b402660d3224?utm_campaign=1063&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 07 |
 | **[ACORD](https://www.acord.org)** | **[Education, Consulting & Advocacy Internship](https://jobright.ai/jobs/info/695e736108ab990f2829c126?utm_campaign=1063&utm_source=git)** | Little Falls, NJ | Hybrid | Jan 07 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/6941dbebbdcf884a5add8fb3?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 07 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Ottawa)](https://jobright.ai/jobs/info/695d97ccf5f3c43f38e27d66?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[IBM Payments Centre (SWIFT) Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/695d8fa0f5f3c43f38e2712c?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 06 |
 | ↳ | **[Customer Experience Consulting Intern (May 4th - 4 months - Toronto)](https://jobright.ai/jobs/info/695d9b4df5f3c43f38e280fc?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
-| ↳ | **[Digital Product Engineering Consulting Intern (May 2026 - 4 or 8 months - Toronto)](https://jobright.ai/jobs/info/695d9ca6fbd62a0a65665045?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[Federal Consulting Intern (May 2026 - 4 months - Ottawa)](https://jobright.ai/jobs/info/695d9a69fbd62a0a65664da2?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 06 |
+| ↳ | **[Digital Product Engineering Consulting Intern (May 2026 - 4 or 8 months - Toronto)](https://jobright.ai/jobs/info/695d9ca6fbd62a0a65665045?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[IBM Payments Centre Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/695d97c5f5f3c43f38e27d5e?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Montreal)](https://jobright.ai/jobs/info/695d9949fbd62a0a65664c6d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 06 |
 | ↳ | **[IBM Payments Centre Data Intern (May 2026 - 8 months - Toronto)](https://jobright.ai/jobs/info/695d975cf5f3c43f38e27cf6?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e51aa05c26e7ab5c966?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c6855f1f8465b79f28cc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c2e1c22c9dc0d3d540cb7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c385a22c9dc0d3d5416c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Intact](http://www.intactfc.com)** | **[Technical Consultant I, HRdirect - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/695c0ebe22c9dc0d3d53ed97?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 01 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 01 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 01 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
