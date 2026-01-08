@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Internal Consulting Intern](https://jobright.ai/jobs/info/695fd08e7ebc25398eb5ae12?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jan 08 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6943be1add382f5f5669d3a1?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 08 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/691d61e2bcdbf3560c9f05f3?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 08 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Customer Success Associate Consultant Intern](https://jobright.ai/jobs/info/6942e35950bbaf765054b81b?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 08 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 08 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 08 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/6941dbebbdcf884a5add8fb3?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/6941e13214ee092a69fff41d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 07 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Security Consultant Intern](https://jobright.ai/jobs/info/695def0d62ca9111e7826c53?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
-| ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/695dd54c924bd9135dd45ccb?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jan 06 |
 | ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/695ddfe3e4cdbb1454cfdcb2?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | On Site | Jan 06 |
+| ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/695dd54c924bd9135dd45ccb?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jan 06 |
 | **[ANM](http://anm.com)** | **[Consulting Engineer Intern](https://jobright.ai/jobs/info/695d97b6f5f3c43f38e27d50?utm_campaign=1063&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 06 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services Internship/Trainee](https://jobright.ai/jobs/info/695dbb64fbd62a0a65666b1c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/695d83c2f1f8465b79f3b6aa?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 06 |
@@ -87,11 +89,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy Consulting Intern (May 2026 - 4 month term - Toronto)](https://jobright.ai/jobs/info/695d9822fbd62a0a65664b18?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[Cyber Security Consultant Intern - (May 2026 - 12 months - Toronto)](https://jobright.ai/jobs/info/695d8f5ff1f8465b79f3d0cc?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Ottawa)](https://jobright.ai/jobs/info/695d97ccf5f3c43f38e27d66?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 06 |
-| ↳ | **[IBM Payments Centre (SWIFT) Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/695d8fa0f5f3c43f38e2712c?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 06 |
 | ↳ | **[Customer Experience Consulting Intern (May 4th - 4 months - Toronto)](https://jobright.ai/jobs/info/695d9b4df5f3c43f38e280fc?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
-| ↳ | **[Digital Product Engineering Consulting Intern (May 2026 - 4 or 8 months - Toronto)](https://jobright.ai/jobs/info/695d9ca6fbd62a0a65665045?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
+| ↳ | **[IBM Payments Centre (SWIFT) Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/695d8fa0f5f3c43f38e2712c?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 06 |
 | ↳ | **[Federal Consulting Intern (May 2026 - 4 months - Ottawa)](https://jobright.ai/jobs/info/695d9a69fbd62a0a65664da2?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[IBM Payments Centre Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/695d97c5f5f3c43f38e27d5e?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
+| ↳ | **[Digital Product Engineering Consulting Intern (May 2026 - 4 or 8 months - Toronto)](https://jobright.ai/jobs/info/695d9ca6fbd62a0a65665045?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[IBM Payments Centre Data Intern (May 2026 - 8 months - Toronto)](https://jobright.ai/jobs/info/695d975cf5f3c43f38e27cf6?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | ↳ | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Montreal)](https://jobright.ai/jobs/info/695d9949fbd62a0a65664c6d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 06 |
 | ↳ | **[IBM Payments Centre Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/695d9b41f5f3c43f38e280f4?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 06 |
@@ -106,6 +108,8 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations IAD (Summer 2026)](https://jobright.ai/jobs/info/695d438efbd62a0a6565cadf?utm_campaign=1063&utm_source=git)** | United States-VA-IAD - Washington (Dulles) | On Site | Jan 06 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d33cef5f3c43f38e1f1ed?utm_campaign=1063&utm_source=git)** | Salem, USA | On Site | Jan 06 |
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Consulting Intern (June - August) - Boston](https://jobright.ai/jobs/info/695d2606f1f8465b79f34f20?utm_campaign=1063&utm_source=git)** | Boston, US | Hybrid | Jan 06 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (SFO) (Summer 2026)](https://jobright.ai/jobs/info/695ba197f396ad6ddab14d2f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 06 |
+| ↳ | **[Intern - Airport Operations (LAX) (Summer 2026)](https://jobright.ai/jobs/info/695ba42cf396ad6ddab14de5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
 | **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40034478](https://jobright.ai/jobs/info/695de1b4924bd9135dd476db?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Jan 05 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5799f1f8465b79f27d34?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c547222c9dc0d3d544c66?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jan 05 |
@@ -114,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e36f1f8465b79f282f2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5fd7aa05c26e7ab5cb12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e51aa05c26e7ab5c966?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c6855f1f8465b79f28cc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c2e1c22c9dc0d3d540cb7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
@@ -135,9 +139,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Airport Operations (ORD) (Summer 2026)](https://jobright.ai/jobs/info/695ba18df1f8465b79f1ac84?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (IAH) (Summer 2026)](https://jobright.ai/jobs/info/695b9fe5f396ad6ddab14d04?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 05 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Research Consultant Intern](https://jobright.ai/jobs/info/695b9efaf1f8465b79f1ac2a?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 05 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (LAX, Summer 2026)](https://jobright.ai/jobs/info/695ba42cf396ad6ddab14de5?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 05 |
-| ↳ | **[Intern - Airport Operations (SFO, Summer 2026)](https://jobright.ai/jobs/info/695ba197f396ad6ddab14d2f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
-| ↳ | **[Intern - Airport Operations (ORD) (Summer 2026)](https://jobright.ai/jobs/info/695b8f009f1b381eb273f846?utm_campaign=1063&utm_source=git)** | United States-IL-ORD - Chicago - O'Hare | On Site | Jan 05 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (ORD) (Summer 2026)](https://jobright.ai/jobs/info/695b8f009f1b381eb273f846?utm_campaign=1063&utm_source=git)** | United States-IL-ORD - Chicago - O'Hare | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (DEN) (Summer 2026)](https://jobright.ai/jobs/info/695b8d91f1f8465b79f1a13e?utm_campaign=1063&utm_source=git)** | United States-CO-DEN - Denver | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (SFO, Summer 2026)](https://jobright.ai/jobs/info/695b87bdf1f8465b79f1962a?utm_campaign=1063&utm_source=git)** | United States-CA-SFO - San Francisco Airport | On Site | Jan 05 |
 | ↳ | **[Intern - Airport Operations (LAX, Summer 2026)](https://jobright.ai/jobs/info/695b7ffb9f1b381eb273e417?utm_campaign=1063&utm_source=git)** | United States-CA-LAX - Los Angeles | On Site | Jan 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | Remote | Jan 03 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f805d3f782d2f1afbd0af?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Jan 03 |
 | ↳ | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/694cc4baf5bef51c96ea87c3?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Jan 03 |
-| ↳ | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/692615a0f0beb07232621de5?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Jan 03 |
-| ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/693fa54950bbaf765051df11?utm_campaign=1063&utm_source=git)** | Durham, NC | Remote | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
