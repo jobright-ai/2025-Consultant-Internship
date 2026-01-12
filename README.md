@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern - Forensic & Litigation Consulting](https://jobright.ai/jobs/info/6964f9162cbf4e44756e72c8?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 12 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (DEN) (Summer 2026)](https://jobright.ai/jobs/info/6964e688a112b4026612b501?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 12 |
+| ↳ | **[Intern - Airport Operations IAD (Summer 2026)](https://jobright.ai/jobs/info/6964e2eb2cbf4e44756e4f9b?utm_campaign=1063&utm_source=git)** | Dulles Town Center, VA | On Site | Jan 12 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 12 |
+| ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 12 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations EWR (Summer 2026)](https://jobright.ai/jobs/info/6964ddc92cbf4e44756e4f27?utm_campaign=1063&utm_source=git)** | Newark, NJ | On Site | Jan 12 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/6964dcbd2cbf4e44756e4f16?utm_campaign=1063&utm_source=git)** | New Jersey, United States | Remote | Jan 12 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Jan 11 |
-| **[Herspiegel](https://herspiegel.com/)** | **[Intern- Insights Healthcare San Francisco](https://jobright.ai/jobs/info/69626b152cbf4e44756c62ab?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | Remote | Jan 10 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 10 |
@@ -124,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations IAD (Summer 2026)](https://jobright.ai/jobs/info/695d438efbd62a0a6565cadf?utm_campaign=1063&utm_source=git)** | United States-VA-IAD - Washington (Dulles) | On Site | Jan 06 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d33cef5f3c43f38e1f1ed?utm_campaign=1063&utm_source=git)** | Salem, USA | On Site | Jan 06 |
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Consulting Intern (June - August) - Boston](https://jobright.ai/jobs/info/695d2606f1f8465b79f34f20?utm_campaign=1063&utm_source=git)** | Boston, US | Hybrid | Jan 06 |
+| **[Intact](http://www.intactfc.com)** | **[Technical Consultant I, HRdirect - 4 Month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c0ebe22c9dc0d3d53ed97?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 06 |
 | **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40034478](https://jobright.ai/jobs/info/695de1b4924bd9135dd476db?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Jan 05 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5799f1f8465b79f27d34?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c547222c9dc0d3d544c66?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jan 05 |
@@ -134,8 +139,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e51aa05c26e7ab5c966?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c6855f1f8465b79f28cc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c2e1c22c9dc0d3d540cb7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
-| **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c385a22c9dc0d3d5416c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
