@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern - Forensic & Litigation Consulting](https://jobright.ai/jobs/info/6964f9162cbf4e44756e72c8?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 12 |
+| **[Eazzy Consulting Group](https://en.eazzyconsulting.com/)** | **[Marketing Finance Intern / Consultant / Profiler / sales](https://jobright.ai/jobs/info/696516b52cbf4e44756e83aa?utm_campaign=1063&utm_source=git)** | Queens, NY | On Site | Jan 12 |
+| **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern - Economic Consulting](https://jobright.ai/jobs/info/6964fd0b6d52670c5c3dc96d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 12 |
+| ↳ | **[2026 Intern - Forensic & Litigation Consulting](https://jobright.ai/jobs/info/6964f9162cbf4e44756e72c8?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 12 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (DEN) (Summer 2026)](https://jobright.ai/jobs/info/6964e688a112b4026612b501?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 12 |
 | ↳ | **[Intern - Airport Operations IAD (Summer 2026)](https://jobright.ai/jobs/info/6964e2eb2cbf4e44756e4f9b?utm_campaign=1063&utm_source=git)** | Dulles Town Center, VA | On Site | Jan 12 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 12 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Talent – Human Experience Design (CX Practice)](https://jobright.ai/jobs/info/6961a851f3f4cd132506afb1?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | **[Hatch](https://www.hatch.com)** | **[Summer Co-op 2026 - Digital Business Consulting Student](https://jobright.ai/jobs/info/6961a34ee7ed9a5731ba7a5d?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 09 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern - Technology Assurance](https://jobright.ai/jobs/info/6961badff3f4cd132506c134?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 09 |
-| **[Herspiegel](https://herspiegel.com/)** | **[Intern- Insights Healthcare San Francisco](https://jobright.ai/jobs/info/6961b78af3f4cd132506bde5?utm_campaign=1063&utm_source=git)** | San Francisco,CA,US | On Site | Jan 09 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69618bd3e7ed9a5731ba6874?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 09 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (June 2026 Start, 10-week Program)](https://jobright.ai/jobs/info/69614074f3f4cd1325063aa5?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[RS&H](http://www.rsandh.com/)** | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/694454e050bbaf7650565241?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Jan 09 |
@@ -132,13 +133,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[DVOP GOVERNMENT OPERATIONS CONSULTANT II - 40034478](https://jobright.ai/jobs/info/695de1b4924bd9135dd476db?utm_campaign=1063&utm_source=git)** | Miami, FL | On Site | Jan 05 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5799f1f8465b79f27d34?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c547222c9dc0d3d544c66?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c4b0e22c9dc0d3d5433a8?utm_campaign=1063&utm_source=git)** | Charleston, SC | Hybrid | Jan 05 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c4a0522c9dc0d3d543107?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 05 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e36f1f8465b79f282f2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5fd7aa05c26e7ab5cb12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e51aa05c26e7ab5c966?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c6855f1f8465b79f28cc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
