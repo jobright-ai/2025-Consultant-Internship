@@ -134,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e36f1f8465b79f282f2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5fd7aa05c26e7ab5cb12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e51aa05c26e7ab5c966?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c6855f1f8465b79f28cc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c2e1c22c9dc0d3d540cb7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
@@ -147,6 +147,4 @@ For a complete list, click the following sortable link below:
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Technical Consultant I, HRdirect - 4 Month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c084df1f8465b79f21440?utm_campaign=1063&utm_source=git)** | Montréal, Quebec, CAN | On Site | Jan 05 |
 | **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Research Internship – Healthcare Strategy Consulting](https://jobright.ai/jobs/info/695bed70f1f8465b79f1ebc5?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 05 |
 | **[KSM (Katz, Sapper & Miller)](http://www.ksmcpa.com)** | **[Healthcare Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/695bc7daf396ad6ddab1777f?utm_campaign=1063&utm_source=git)** | Indianapolis | On Site | Jan 05 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 05 |
-| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
