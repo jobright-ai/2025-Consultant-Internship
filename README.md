@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations EWR (Summer 2026)](https://jobright.ai/jobs/info/6964ddc92cbf4e44756e4f27?utm_campaign=1063&utm_source=git)** | Newark, NJ | On Site | Jan 12 |
+| **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/6964dcbd2cbf4e44756e4f16?utm_campaign=1063&utm_source=git)** | New Jersey, United States | Remote | Jan 12 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Jan 11 |
-| **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Retirement Sales and Plan Consulting](https://jobright.ai/jobs/info/6946a38363141d188456672a?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | **[Herspiegel](https://herspiegel.com/)** | **[Intern- Insights Healthcare San Francisco](https://jobright.ai/jobs/info/69626b152cbf4e44756c62ab?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | Remote | Jan 10 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/694a38eb187e565c6bfa4436?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd4bdbe23def7af55b7f28?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Jan 09 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
-| **[Intapp](http://www.intapp.com)** | **[Implementation Services Intern](https://jobright.ai/jobs/info/69605bb27ebc25398eb65768?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Jan 08 |
+| **[Intapp](http://www.intapp.com)** | **[Implementation Services Intern](https://jobright.ai/jobs/info/696057d5a112b402660f1ca3?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Jan 08 |
 | ↳ | **[Implementation Services Intern](https://jobright.ai/jobs/info/696053fca1bbea1d9a7b310c?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 08 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/696048a27ebc25398eb64ce7?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Jan 08 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 08 |
@@ -131,15 +132,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e36f1f8465b79f282f2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5fd7aa05c26e7ab5cb12?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5e51aa05c26e7ab5c966?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c6855f1f8465b79f28cc4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c60c3aa05c26e7ab5cc56?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c5bd7aa05c26e7ab5c6be?utm_campaign=1063&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/695c582722c9dc0d3d5453df?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Jan 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c2e1c22c9dc0d3d540cb7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[RELX](https://www.relx.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/695c385a22c9dc0d3d5416c9?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 05 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695c07fdaa05c26e7ab55aff?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Jan 05 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695c0316f1f8465b79f20ff9?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 05 |
-| **[Intact](http://www.intactfc.com)** | **[Technical Consultant I, HRdirect - 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/695c0ebe22c9dc0d3d53ed97?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/695bffc822c9dc0d3d53e2c8?utm_campaign=1063&utm_source=git)** | Brookfield, WI | On Site | Jan 05 |
-| **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
