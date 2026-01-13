@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Sales Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69659ea05ad3a93f8230fc06?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 12 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Mobility Consulting Intern](https://jobright.ai/jobs/info/69659a245ad3a93f8230f5f0?utm_campaign=1063&utm_source=git)** | Portland, OR US | Hybrid | Jan 12 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analytics Consulting Services Corporate Internship - Summer 2026 (Undergrad)](https://jobright.ai/jobs/info/6965844b2cbf4e44756f16ed?utm_campaign=1063&utm_source=git)** | Northbrook, IL | Hybrid | Jan 12 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Sales Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69659e46a112b4026613a5b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 12 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Sales Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69656d8d2cbf4e44756ef86c?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 12 |
 | ↳ | **[Sales Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69656d8aa112b40266135a48?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 12 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern - Economic Consulting](https://jobright.ai/jobs/info/6964fd0b6d52670c5c3dc96d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 12 |
