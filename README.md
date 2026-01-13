@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eazzy Consulting Group](https://en.eazzyconsulting.com/)** | **[Marketing Finance Intern / Consultant / Profiler / sales](https://jobright.ai/jobs/info/696516b52cbf4e44756e83aa?utm_campaign=1063&utm_source=git)** | Queens, NY | On Site | Jan 12 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Analytics Consulting Services Corporate Internship - Summer 2026 (Undergrad)](https://jobright.ai/jobs/info/6965844b2cbf4e44756f16ed?utm_campaign=1063&utm_source=git)** | Northbrook, IL | Hybrid | Jan 12 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Sales Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69656d8d2cbf4e44756ef86c?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 12 |
+| ↳ | **[Sales Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69656d8aa112b40266135a48?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 12 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern - Economic Consulting](https://jobright.ai/jobs/info/6964fd0b6d52670c5c3dc96d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 12 |
 | ↳ | **[2026 Intern - Forensic & Litigation Consulting](https://jobright.ai/jobs/info/6964f9162cbf4e44756e72c8?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 12 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (DEN) (Summer 2026)](https://jobright.ai/jobs/info/6964e688a112b4026612b501?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 12 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Summer Intern - Technology Assurance](https://jobright.ai/jobs/info/6961badff3f4cd132506c134?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 09 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69618bd3e7ed9a5731ba6874?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 09 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (June 2026 Start, 10-week Program)](https://jobright.ai/jobs/info/69614074f3f4cd1325063aa5?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 09 |
-| **[RS&H](http://www.rsandh.com/)** | **[Environmental Consultant Intern](https://jobright.ai/jobs/info/694454e050bbaf7650565241?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Jan 09 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc5115b415636718a46e?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 09 |
 | ↳ | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc0e15b415636718a337?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 09 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 09 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/6941dbebbdcf884a5add8fb3?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Information Technology Consulting - Business Technology Advisor - Enterprise Software Intern](https://jobright.ai/jobs/info/6941e13214ee092a69fff41d?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 07 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Security Consultant Intern](https://jobright.ai/jobs/info/695def0d62ca9111e7826c53?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
-| ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/695ddfe3e4cdbb1454cfdcb2?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | On Site | Jan 06 |
 | ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/695dd54c924bd9135dd45ccb?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Jan 06 |
+| ↳ | **[Security Consultant Intern](https://jobright.ai/jobs/info/695ddfe3e4cdbb1454cfdcb2?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | On Site | Jan 06 |
 | **[ANM](http://anm.com)** | **[Consulting Engineer Intern](https://jobright.ai/jobs/info/695d97b6f5f3c43f38e27d50?utm_campaign=1063&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 06 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services Internship/Trainee](https://jobright.ai/jobs/info/695dbb64fbd62a0a65666b1c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/695d83c2f1f8465b79f3b6aa?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 06 |
