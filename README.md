@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967bc6c1703f05405a95bdb?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jan 14 |
+| ↳ | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/6967c3921703f05405a95eb7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Jan 14 |
+| ↳ | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Jan 14 |
+| ↳ | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/6967bf92f25a3800669611cb?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jan 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 14 |
 | **[Numerator](http://numerator.com)** | **[Research Consulting Intern](https://jobright.ai/jobs/info/69672868f25a380066958668?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Jan 13 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Jan 13 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966ee01a112b4026614fe83?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Jan 13 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966dabfb098f4515f4e3307?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 13 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966dabfb098f4515f4e3307?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 13 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966ee01a112b4026614fe83?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Jan 13 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/696703646f782b4e8d52afad?utm_campaign=1063&utm_source=git)** | Marietta, GA | On Site | Jan 13 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Building Products Consulting](https://jobright.ai/jobs/info/6966ddffb098f4515f4e3842?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6966d3d25ad3a93f82323cc6?utm_campaign=1063&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 13 |
@@ -101,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | Remote | Jan 10 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 10 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/68b88dc45b42bc45628256b1?utm_campaign=1063&utm_source=git)** | Southfield, MI | Hybrid | Jan 10 |
 | **[Bond Brand Loyalty](http://www.bondbrandloyalty.com)** | **[Early Talent – Consulting](https://jobright.ai/jobs/info/6961a923f3f4cd132506b088?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | ↳ | **[Early Talent – Human Experience Design (CX Practice)](https://jobright.ai/jobs/info/6961a851f3f4cd132506afb1?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | **[Hatch](https://www.hatch.com)** | **[Summer Co-op 2026 - Digital Business Consulting Student](https://jobright.ai/jobs/info/6961a34ee7ed9a5731ba7a5d?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 09 |
