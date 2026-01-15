@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[IBM Payments Centre Data Intern (May 2026 - 8 months - Toronto)](https://jobright.ai/jobs/info/69682878639b452fb57dbae3?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
+| ↳ | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/69682a8a639b452fb57dbe83?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6968278f639b452fb57db91b?utm_campaign=1063&utm_source=git)** | Franklin, Tennessee, United States | Hybrid | Jan 14 |
+| **[IBM](http://www.ibm.com)** | **[Strategy Consulting Intern (May 2026 - 4 month term - Toronto)](https://jobright.ai/jobs/info/696829c51703f05405a9cd37?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967bc6c1703f05405a95bdb?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jan 14 |
 | ↳ | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/6967c3921703f05405a95eb7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Jan 14 |
 | ↳ | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Jan 14 |
@@ -122,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/694a38eb187e565c6bfa4436?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd4bdbe23def7af55b7f28?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Jan 09 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
-| **[Intapp](http://www.intapp.com)** | **[Implementation Services Intern](https://jobright.ai/jobs/info/696057d5a112b402660f1ca3?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Jan 08 |
+| **[Intapp](http://www.intapp.com)** | **[Implementation Services Intern](https://jobright.ai/jobs/info/69605bb27ebc25398eb65768?utm_campaign=1063&utm_source=git)** | New York, United States | Hybrid | Jan 08 |
 | ↳ | **[Implementation Services Intern](https://jobright.ai/jobs/info/6960577f7ebc25398eb653a9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 08 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/696048a27ebc25398eb64ce7?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Jan 08 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fb118a7359609b8c8552?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 08 |
