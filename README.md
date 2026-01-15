@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 15 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd4e73ae79610dacddf577?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 15 |
 | **[Capco](http://www.capco.com)** | **[2026 Associate Talent Program (ATP) - Technology Consulting](https://jobright.ai/jobs/info/69688167639b452fb57e32cd?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[Blue Ventis](blueventis.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/696884e31703f05405aa447b?utm_campaign=1063&utm_source=git)** | St. Louis County, MO | On Site | Jan 14 |
 | **[IBM](http://www.ibm.com)** | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/69689599639b452fb57e5387?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
@@ -81,7 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/69683cce639b452fb57dde5f?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/696854eef25a38006696badc?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 14 |
 | **[Arcadis](http://www.arcadis.com)** | **[Asset Management Consultant Intern](https://jobright.ai/jobs/info/69683eb51703f05405a9f1bb?utm_campaign=1063&utm_source=git)** | 28550 Cabot Drive, Suite 500, Novi, MI, 48377, US | Hybrid | Jan 14 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/696825641703f05405a9c604?utm_campaign=1063&utm_source=git)** | Franklin, Tennessee, United States | Hybrid | Jan 14 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6968278f639b452fb57db91b?utm_campaign=1063&utm_source=git)** | Franklin, Tennessee, United States | Hybrid | Jan 14 |
 | **[IBM](http://www.ibm.com)** | **[Strategy Consulting Intern (May 2026 - 4 month term - Toronto)](https://jobright.ai/jobs/info/696829c51703f05405a9cd37?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967bc6c1703f05405a95bdb?utm_campaign=1063&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Jan 14 |
 | ↳ | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/6967c3921703f05405a95eb7?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Jan 14 |
@@ -91,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Numerator](http://numerator.com)** | **[Research Consulting Intern](https://jobright.ai/jobs/info/69672868f25a380066958668?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Jan 13 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Jan 13 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966ee01a112b4026614fe83?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Jan 13 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966dabfb098f4515f4e3307?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 13 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966dabfb098f4515f4e3307?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 13 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966ee01a112b4026614fe83?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Jan 13 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/696703646f782b4e8d52afad?utm_campaign=1063&utm_source=git)** | Marietta, GA | On Site | Jan 13 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Building Products Consulting](https://jobright.ai/jobs/info/6966ddffb098f4515f4e3842?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6966d3d25ad3a93f82323cc6?utm_campaign=1063&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 13 |
