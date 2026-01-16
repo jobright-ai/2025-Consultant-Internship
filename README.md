@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynareon](dynareon.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/696a5173db26b618950d7ae1?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 16 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/696a474b350cf4380311395a?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Jan 16 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/696a538a5fc8624185394cef?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Jan 16 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6969fa5c1703f05405ac019f?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/696a0677639b452fb5800e80?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 15 |
@@ -65,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Management Consulting Intern, Summer 2026](https://jobright.ai/jobs/info/6969ae15639b452fb57f9e33?utm_campaign=1063&utm_source=git)** | Greater Cleveland | Hybrid | Jan 15 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6969a5c81703f05405aba460?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 15 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6969a31ef25a380066985b00?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Jan 15 |
-| **[RSM Canada](https://rsmcanada.com/)** | **[Actuarial Services Consulting Intern - Summer  2026](https://jobright.ai/jobs/info/6969cce7f25a38006698929b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
-| ↳ | **[Actuarial Services Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/6969c23cf25a3800669878c4?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
+| **[RSM Canada](https://rsmcanada.com/)** | **[Actuarial Services Consulting Intern - Fall 2026](https://jobright.ai/jobs/info/6969c23cf25a3800669878c4?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
+| ↳ | **[Actuarial Services Consulting Intern - Summer  2026](https://jobright.ai/jobs/info/6969cce7f25a38006698929b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | ↳ | **[Actuarial Services Consulting Intern - Winter 2027](https://jobright.ai/jobs/info/6969c23ef25a3800669878c5?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: SIMULIA Electromagnetics Solution Consultant (May - Sept)](https://jobright.ai/jobs/info/69698a5c639b452fb57f6749?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Jan 15 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969ae72639b452fb57f9e7d?utm_campaign=1063&utm_source=git)** | CA-ON-Kingston | On Site | Jan 15 |
@@ -103,10 +106,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/69682a8a639b452fb57dbe83?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[Cyber Security Consultant Intern - (May 2026 - 12 months - Toronto)](https://jobright.ai/jobs/info/696850211703f05405a9fe7e?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Toronto)](https://jobright.ai/jobs/info/69684d791703f05405a9fb6f?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
-| ↳ | **[Digital Product Engineering Consulting Intern (May 2026 - 4 or 8 months - Toronto)](https://jobright.ai/jobs/info/69683cdf639b452fb57dde99?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/69683cce639b452fb57dde5f?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 14 |
-| ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/696859721703f05405aa0a14?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 14 |
 | ↳ | **[Oracle Consulting Intern (May 2026 - 4 months - Toronto, Ottawa or Montreal)](https://jobright.ai/jobs/info/69683cdd639b452fb57dde89?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 14 |
+| ↳ | **[Digital Product Engineering Consulting Intern (May 2026 - 4 or 8 months - Toronto)](https://jobright.ai/jobs/info/69683cdf639b452fb57dde99?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
+| ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/696859721703f05405aa0a14?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 14 |
 | ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/696854eef25a38006696badc?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 14 |
 | **[Arcadis](http://www.arcadis.com)** | **[Asset Management Consultant Intern](https://jobright.ai/jobs/info/69683eb51703f05405a9f1bb?utm_campaign=1063&utm_source=git)** | 28550 Cabot Drive, Suite 500, Novi, MI, 48377, US | Hybrid | Jan 14 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/696825641703f05405a9c604?utm_campaign=1063&utm_source=git)** | Franklin, Tennessee, United States | Hybrid | Jan 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Airport Operations IAD (Summer 2026)](https://jobright.ai/jobs/info/6964e2eb2cbf4e44756e4f9b?utm_campaign=1063&utm_source=git)** | Dulles Town Center, VA | On Site | Jan 12 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 12 |
 | ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 12 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations EWR (Summer 2026)](https://jobright.ai/jobs/info/6964ddc92cbf4e44756e4f27?utm_campaign=1063&utm_source=git)** | Newark, NJ | On Site | Jan 12 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Jan 11 |
-| **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
