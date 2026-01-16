@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6969d9ce1703f05405abe7a8?utm_campaign=1063&utm_source=git)** | Boston | Hybrid | Jan 15 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting](https://jobright.ai/jobs/info/6969bab7639b452fb57fa7c0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 15 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Management Consulting Intern, Summer 2026](https://jobright.ai/jobs/info/6969ae15639b452fb57f9e33?utm_campaign=1063&utm_source=git)** | Greater Cleveland | Hybrid | Jan 15 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6969a5c81703f05405aba460?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 15 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: SIMULIA Electromagnetics Solution Consultant (May - Sept)](https://jobright.ai/jobs/info/69698a5c639b452fb57f6749?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Jan 15 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969ae72639b452fb57f9e7d?utm_campaign=1063&utm_source=git)** | CA-ON-Kingston | On Site | Jan 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Intern](https://jobright.ai/jobs/info/6969a7861703f05405aba5fe?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Jan 15 |
-| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Jan 15 |
-| ↳ | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/69699da4f25a3800669856b1?utm_campaign=1063&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jan 15 |
+| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/69699da4f25a3800669856b1?utm_campaign=1063&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jan 15 |
+| ↳ | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Jan 15 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/69695dbf1703f05405ab379d?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 15 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69699355f25a380066984eea?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 15 |
 | **[Numerator](http://numerator.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/69696cb5639b452fb57f4456?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
@@ -97,13 +98,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oracle Consulting Intern (May 2026 - 4 months - Toronto, Ottawa or Montreal)](https://jobright.ai/jobs/info/69682fc7639b452fb57dc829?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[Oracle Consulting Intern (May 2026 - 4 months - Toronto, Ottawa or Montreal)](https://jobright.ai/jobs/info/69683a1b639b452fb57dda5b?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 14 |
 | ↳ | **[IBM Payments Centre Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/69683f31f25a38006696a882?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
-| ↳ | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/69682a8a639b452fb57dbe83?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[Cyber Security Consultant Intern - (May 2026 - 12 months - Toronto)](https://jobright.ai/jobs/info/696850211703f05405a9fe7e?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
+| ↳ | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/69682a8a639b452fb57dbe83?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Toronto)](https://jobright.ai/jobs/info/69684d791703f05405a9fb6f?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
-| ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/696859721703f05405aa0a14?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 14 |
 | ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/69683cce639b452fb57dde5f?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[Oracle Consulting Intern (May 2026 - 4 months - Toronto, Ottawa or Montreal)](https://jobright.ai/jobs/info/69683cdd639b452fb57dde89?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 14 |
 | ↳ | **[Digital Product Engineering Consulting Intern (May 2026 - 4 or 8 months - Toronto)](https://jobright.ai/jobs/info/69683cdf639b452fb57dde99?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
+| ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/696859721703f05405aa0a14?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 14 |
 | ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/696854eef25a38006696badc?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 14 |
 | **[Arcadis](http://www.arcadis.com)** | **[Asset Management Consultant Intern](https://jobright.ai/jobs/info/69683eb51703f05405a9f1bb?utm_campaign=1063&utm_source=git)** | 28550 Cabot Drive, Suite 500, Novi, MI, 48377, US | Hybrid | Jan 14 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/696825641703f05405a9c604?utm_campaign=1063&utm_source=git)** | Franklin, Tennessee, United States | Hybrid | Jan 14 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Numerator](http://numerator.com)** | **[Research Consulting Intern](https://jobright.ai/jobs/info/69672868f25a380066958668?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Jan 13 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Jan 13 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966ee01a112b4026614fe83?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Jan 13 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966dabfb098f4515f4e3307?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 13 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966dabfb098f4515f4e3307?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 13 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6966ee01a112b4026614fe83?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Jan 13 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/696703646f782b4e8d52afad?utm_campaign=1063&utm_source=git)** | Marietta, GA | On Site | Jan 13 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Building Products Consulting](https://jobright.ai/jobs/info/6966ddffb098f4515f4e3842?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6966d3d25ad3a93f82323cc6?utm_campaign=1063&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/696913f5f25a380066979f27?utm_campaign=1063&utm_source=git)** | Oakland, CA | Remote | Jan 10 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | Remote | Jan 10 |
-| **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Consultant](https://jobright.ai/jobs/info/690d3877221b890c27804d5d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
