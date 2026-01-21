@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Verses](techverses.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/6970f0db333b6343a14d616f?utm_campaign=1063&utm_source=git)** | St Louis, MO | Remote | Jan 21 |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/6970ee34587dfa0bb55e7769?utm_campaign=1063&utm_source=git)** | St Louis, MO | Remote | Jan 21 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6970ef2c51f7264771832589?utm_campaign=1063&utm_source=git)** | Cleveland, OH | Remote | Jan 21 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 21 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6970691a587dfa0bb55e0dc8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Jan 21 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6937ae0ba0dde7020e305cea?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Jan 20 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 20 |
-| **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/69371fee1c1c2161c13f0c1f?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Summer 2026 / Tulsa](https://jobright.ai/jobs/info/696ebe55db26b6189511d060?utm_campaign=1063&utm_source=git)** | Tulsa, OK | On Site | Jan 19 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696eb0445fc86241853d8a6f?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 19 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/696ea130350cf438031566b0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 19 |
@@ -128,11 +130,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/696a9f68db26b618950dc787?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 16 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/696ac0095fc862418539d643?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/696ac4705fc862418539ddfc?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Jan 16 |
-| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/696abec25fc862418539d413?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
-| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/696ad2bedb26b618950e2409?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/696abeb55fc862418539d3fb?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Jan 16 |
+| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/696ad2bedb26b618950e2409?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/696abec25fc862418539d413?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/696acabadb26b618950e15e9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
-| **[Cirium](https://www.cirium.com)** | **[Aviation Consultancy and Valuations Intern](https://jobright.ai/jobs/info/696a9799350cf43803118822?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6969d9ce1703f05405abe7a8?utm_campaign=1063&utm_source=git)** | Boston | Hybrid | Jan 15 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/696f138a9c3c52633455d742?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Jan 15 |
