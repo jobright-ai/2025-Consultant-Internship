@@ -70,8 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6972802c4ccbf64f8df272f7?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69728186584a1c1ef6fd7d13?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69724da14ccbf64f8df23907?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Jan 22 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/69726bcd4ccbf64f8df2623b?utm_campaign=1063&utm_source=git)** | Ohio, United States | Remote | Jan 22 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69723b364ccbf64f8df22d58?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Jan 22 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69723b364ccbf64f8df22d58?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Jan 22 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/697257eb4ccbf64f8df2457c?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Jan 22 |
 | **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a251f48a8ce22990e1fbe?utm_campaign=1063&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 22 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
