@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69723b364ccbf64f8df22d58?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Jan 22 |
 | **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a251f48a8ce22990e1fbe?utm_campaign=1063&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 22 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697243fd584a1c1ef6fd3c6e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | Remote | Jan 22 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
 | **[Community Health Alliance](http://www.communityhealthalliance.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6971d17fcda45e6953580594?utm_campaign=1063&utm_source=git)** | Hamilton, OH 45011 | On Site | Jan 21 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69717faf51f726477183dc47?utm_campaign=1063&utm_source=git)** | Horsham, PA | Hybrid | Jan 21 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Advisory Internship - 2026](https://jobright.ai/jobs/info/696e9c8fdb26b61895118441?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 19 |
 | **[GDECA (Gravity Data Engineering & Cloud Analytics)](https://www.gdeca.net/)** | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696e9ab5db26b61895118080?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Remote | Jan 19 |
-| ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb102db26b6189511b071?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Remote | Jan 19 |
 | ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb0f2350cf438031588e6?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Remote | Jan 19 |
+| ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb102db26b6189511b071?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Remote | Jan 19 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/696ce076350cf4380313f7d6?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jan 18 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Analytics Centre of Excellence](https://jobright.ai/jobs/info/691878c445fb6f5ead8a57e7?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 18 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 18 |
@@ -133,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: SIMULIA Electromagnetics Solution Consultant (May - Sept)](https://jobright.ai/jobs/info/69698a5c639b452fb57f6749?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Jan 15 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969ae72639b452fb57f9e7d?utm_campaign=1063&utm_source=git)** | CA-ON-Kingston | On Site | Jan 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Intern](https://jobright.ai/jobs/info/6969a7861703f05405aba5fe?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Jan 15 |
-| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Jan 15 |
-| ↳ | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/69699da4f25a3800669856b1?utm_campaign=1063&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
