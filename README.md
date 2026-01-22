@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/6972a2b09b83b424830eaa41?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
 | **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727e054ccbf64f8df27061?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727d4b4ccbf64f8df26f9a?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727b0b4ccbf64f8df26ce8?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Jan 22 |
@@ -141,5 +142,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/696ac4705fc862418539ddfc?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Jan 16 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/696abec25fc862418539d413?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6969d9ce1703f05405abe7a8?utm_campaign=1063&utm_source=git)** | Boston | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
