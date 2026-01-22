@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
 | **[Community Health Alliance](http://www.communityhealthalliance.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6971d17fcda45e6953580594?utm_campaign=1063&utm_source=git)** | Hamilton, OH 45011 | On Site | Jan 21 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69717faf51f726477183dc47?utm_campaign=1063&utm_source=git)** | Horsham, PA | Hybrid | Jan 21 |
 | ↳ | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/697197fc51f726477183f2a8?utm_campaign=1063&utm_source=git)** | Horsham, Pennsylvania, United States | Hybrid | Jan 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6971346b51f7264771836a29?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69712dd0587dfa0bb55eb613?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
-| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/6970ee34587dfa0bb55e7769?utm_campaign=1063&utm_source=git)** | St Louis, MO | Remote | Jan 21 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 21 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6970691a587dfa0bb55e0dc8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Jan 21 |
@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Jan 15 |
 | ↳ | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/69699da4f25a3800669856b1?utm_campaign=1063&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jan 15 |
 | **[Numerator](http://numerator.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/69696cb5639b452fb57f4456?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
-| **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
