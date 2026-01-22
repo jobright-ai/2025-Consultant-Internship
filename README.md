@@ -133,6 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: SIMULIA Electromagnetics Solution Consultant (May - Sept)](https://jobright.ai/jobs/info/69698a5c639b452fb57f6749?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Jan 15 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969ae72639b452fb57f9e7d?utm_campaign=1063&utm_source=git)** | CA-ON-Kingston | On Site | Jan 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Intern](https://jobright.ai/jobs/info/6969a7861703f05405aba5fe?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Jan 15 |
-| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/69699da4f25a3800669856b1?utm_campaign=1063&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jan 15 |
-| ↳ | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Jan 15 |
+| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Jan 15 |
+| ↳ | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/69699da4f25a3800669856b1?utm_campaign=1063&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
