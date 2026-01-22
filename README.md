@@ -64,6 +64,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727a94584a1c1ef6fd7504?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/697271a79b83b424830e6200?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/697271969b83b424830e61eb?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
+| ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/697288c44ccbf64f8df27bce?utm_campaign=1063&utm_source=git)** | Silicon Valley, CA | On Site | Jan 22 |
+| ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/697280f64ccbf64f8df273f0?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
+| ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/697280f9584a1c1ef6fd7c73?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
+| ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6972802c4ccbf64f8df272f7?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
+| ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69728186584a1c1ef6fd7d13?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69724da14ccbf64f8df23907?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Jan 22 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/69726bcd4ccbf64f8df2623b?utm_campaign=1063&utm_source=git)** | Ohio, United States | Remote | Jan 22 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69723b364ccbf64f8df22d58?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Jan 22 |
@@ -138,7 +143,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/696abec25fc862418539d413?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6916e767286ccf0a1513a46a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6969d9ce1703f05405abe7a8?utm_campaign=1063&utm_source=git)** | Boston | Hybrid | Jan 15 |
-| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/696f138a9c3c52633455d742?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Jan 15 |
-| ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6971b48451f726477184277e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 15 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting](https://jobright.ai/jobs/info/6969bab7639b452fb57fa7c0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
