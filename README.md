@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69723b364ccbf64f8df22d58?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Jan 22 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69724da14ccbf64f8df23907?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Jan 22 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69723b364ccbf64f8df22d58?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Jan 22 |
 | **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a251f48a8ce22990e1fbe?utm_campaign=1063&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697243fd584a1c1ef6fd3c6e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | Remote | Jan 22 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
@@ -108,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697059f151f72647718299f6?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 17 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6970583a51f7264771828af5?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 17 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697046c5333b6343a14cb6aa?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 17 |
+| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69724b969b83b424830e35c6?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
 | ↳ | **[Risk Consultant Intern - Tampa, Florida Area](https://jobright.ai/jobs/info/695a1a299f1b381eb272bb30?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Sports Consulting](https://jobright.ai/jobs/info/696b70d7350cf4380312c6b0?utm_campaign=1063&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
@@ -132,7 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/696f138a9c3c52633455d742?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Jan 15 |
 | ↳ | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6971b48451f726477184277e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | Jan 15 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting](https://jobright.ai/jobs/info/6969bab7639b452fb57fa7c0?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 15 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: SIMULIA Electromagnetics Solution Consultant (May - Sept)](https://jobright.ai/jobs/info/69698a5c639b452fb57f6749?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Jan 15 |
-| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969ae72639b452fb57f9e7d?utm_campaign=1063&utm_source=git)** | CA-ON-Kingston | On Site | Jan 15 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Intern](https://jobright.ai/jobs/info/6969a7861703f05405aba5fe?utm_campaign=1063&utm_source=git)** | Georgia-Atlanta-Regional Office - 9 Piedmont | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
