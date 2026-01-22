@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69724da14ccbf64f8df23907?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Jan 22 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69723b364ccbf64f8df22d58?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Jan 22 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/697257eb4ccbf64f8df2457c?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA | On Site | Jan 22 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697258a44ccbf64f8df248b7?utm_campaign=1063&utm_source=git)** | Cleveland, OH | Remote | Jan 22 |
 | **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a251f48a8ce22990e1fbe?utm_campaign=1063&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697243fd584a1c1ef6fd3c6e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | Remote | Jan 22 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68df1a1c6be63b6ec996bbcc?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
