@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6972d36e1d55d64a2053334f?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Jan 22 |
+| ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6972cc3c4ccbf64f8df2e942?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Jan 22 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6972b0b5584a1c1ef6fdc363?utm_campaign=1063&utm_source=git)** | Nashville - West End | On Site | Jan 22 |
 | ↳ | **[Health Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6972adb94ccbf64f8df2b8ce?utm_campaign=1063&utm_source=git)** | Nashville - Music | On Site | Jan 22 |
 | ↳ | **[Health Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6972ad2d9b83b424830eb572?utm_campaign=1063&utm_source=git)** | Nashville - 3322 West End | On Site | Jan 22 |
@@ -82,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69717faf51f726477183dc47?utm_campaign=1063&utm_source=git)** | Horsham, PA | Hybrid | Jan 21 |
 | ↳ | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/697197fc51f726477183f2a8?utm_campaign=1063&utm_source=git)** | Horsham, Pennsylvania, United States | Hybrid | Jan 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6971346b51f7264771836a29?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69712dd0587dfa0bb55eb613?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69712dd0587dfa0bb55eb613?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 21 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6970691a587dfa0bb55e0dc8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Jan 21 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Advisory Internship - 2026](https://jobright.ai/jobs/info/696e9c8fdb26b61895118441?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 19 |
 | **[GDECA (Gravity Data Engineering & Cloud Analytics)](https://www.gdeca.net/)** | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696e9ab5db26b61895118080?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Remote | Jan 19 |
-| ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb102db26b6189511b071?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Remote | Jan 19 |
 | ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb0f2350cf438031588e6?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Remote | Jan 19 |
+| ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb102db26b6189511b071?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Remote | Jan 19 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/696ce076350cf4380313f7d6?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jan 18 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Analytics Centre of Excellence](https://jobright.ai/jobs/info/691878c445fb6f5ead8a57e7?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 18 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 18 |
