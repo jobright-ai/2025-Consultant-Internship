@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a0a0456b68f3dc4e769a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6972d36e1d55d64a2053334f?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Jan 22 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6972cc3c4ccbf64f8df2e942?utm_campaign=1063&utm_source=git)** | Coral Gables, FL | On Site | Jan 22 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6972b0b5584a1c1ef6fdc363?utm_campaign=1063&utm_source=git)** | Nashville - West End | On Site | Jan 22 |
