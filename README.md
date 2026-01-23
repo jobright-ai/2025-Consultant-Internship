@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6971e2e2b707bf728a4b7948?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6971e212cda45e6953580f7a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6971df1a47b64f4e963e13bf?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69731d04206da320f49d247c?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
