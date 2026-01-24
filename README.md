@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f71dd3f782d2f1afbc3db?utm_campaign=1063&utm_source=git)** | Richfield, OH | On Site | Jan 24 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 24 |
+| **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 24 |
+| ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f71dd3f782d2f1afbc3db?utm_campaign=1063&utm_source=git)** | Richfield, OH | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f73b509cc522e877416fe?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a933f782d2f1afbcb3a?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f805d3f782d2f1afbd0af?utm_campaign=1063&utm_source=git)** | Richardson, TX | On Site | Jan 24 |
@@ -66,9 +68,10 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/693172164c474121999ef540?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
 | ↳ | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/692615a0f0beb07232621de5?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Jan 24 |
 | ↳ | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/695b51e3f1f8465b79f16c1e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
+| ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f80dc09cc522e877422eb?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 24 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/69741e8a37785856350e179c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742ec8206da320f49e5133?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Jan 23 |
-| ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742f44bc8e722e7b1925c9?utm_campaign=1063&utm_source=git)** | Toronto, ON, CA | On Site | Jan 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742f44bc8e722e7b1925c9?utm_campaign=1063&utm_source=git)** | Toronto, ON, CA | On Site | Jan 23 |
+| ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742ec8206da320f49e5133?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Jan 23 |
 | ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742d5937785856350e2759?utm_campaign=1063&utm_source=git)** | Canada Corporate | Remote | Jan 23 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/6973f952206da320f49e0522?utm_campaign=1063&utm_source=git)** | St. Louis, Missouri | On Site | Jan 23 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
@@ -146,15 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Advisory Internship - 2026](https://jobright.ai/jobs/info/696e9c8fdb26b61895118441?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 19 |
 | **[GDECA (Gravity Data Engineering & Cloud Analytics)](https://www.gdeca.net/)** | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696e9ab5db26b61895118080?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Remote | Jan 19 |
-| ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb0f2350cf438031588e6?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Remote | Jan 19 |
 | ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb102db26b6189511b071?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Remote | Jan 19 |
+| ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb0f2350cf438031588e6?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Remote | Jan 19 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/696ce076350cf4380313f7d6?utm_campaign=1063&utm_source=git)** | Greater Indianapolis | On Site | Jan 18 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 18 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 18 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6970681151f726477182b784?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697068dd587dfa0bb55e0bbc?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | Hybrid | Jan 17 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69705926587dfa0bb55ddfac?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | Hybrid | Jan 17 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697059f151f72647718299f6?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 17 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6970583a51f7264771828af5?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 17 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697046c5333b6343a14cb6aa?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
