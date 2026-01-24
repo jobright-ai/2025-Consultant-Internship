@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advanced Datalytics](https://advanceddatalytics.com)** | **[Salesforce Developer Intern Consultant](https://jobright.ai/jobs/info/6974141c37785856350df80e?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/6973f952206da320f49e0522?utm_campaign=1063&utm_source=git)** | St. Louis, Missouri | On Site | Jan 23 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6973d7c7206da320f49dd21c?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 23 |
@@ -142,7 +143,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697046c5333b6343a14cb6aa?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Jan 17 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69724b969b83b424830e35c6?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6971e2e2b707bf728a4b7948?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
-| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6971e212cda45e6953580f7a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
-| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6971df1a47b64f4e963e13bf?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
