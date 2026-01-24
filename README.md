@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/6973f952206da320f49e0522?utm_campaign=1063&utm_source=git)** | St. Louis, Missouri | On Site | Jan 23 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6973d7c7206da320f49dd21c?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 23 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Strategy and Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6973d77637785856350da9e6?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 23 |
