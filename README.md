@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridien Labs](meridienlabs.us)** | **[Digital Risk consulting Intern - summer 2026](https://jobright.ai/jobs/info/69764175206da320f4a010be?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 25 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Digital Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69762c64206da320f4a00ed3?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 25 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 25 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 25 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6975c4af206da320f49fc5d7?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6975a88cbc8e722e7b1a88f5?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 24 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f71dd3f782d2f1afbc3db?utm_campaign=1063&utm_source=git)** | Richfield, OH | On Site | Jan 24 |
@@ -151,6 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Advisory Internship - 2026](https://jobright.ai/jobs/info/696e9c8fdb26b61895118441?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 19 |
 | **[GDECA (Gravity Data Engineering & Cloud Analytics)](https://www.gdeca.net/)** | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696e9ab5db26b61895118080?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Remote | Jan 19 |
-| ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb102db26b6189511b071?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Remote | Jan 19 |
 | ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb0f2350cf438031588e6?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Remote | Jan 19 |
+| ↳ | **[SAP S/4HANA Functional Consultant - Project-Based Internship (Remote)](https://jobright.ai/jobs/info/696eb102db26b6189511b071?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Remote | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
