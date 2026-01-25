@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6975c4af206da320f49fc5d7?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6975a88cbc8e722e7b1a88f5?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 24 |
-| **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/6974deb8206da320f49f0c7d?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f71dd3f782d2f1afbc3db?utm_campaign=1063&utm_source=git)** | Richfield, OH | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f73b509cc522e877416fe?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
