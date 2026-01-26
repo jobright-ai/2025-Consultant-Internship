@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blue Ventis](blueventis.us)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/6976594a37785856351008c8?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 25 |
-| **[Meridien Labs](meridienlabs.us)** | **[Digital Risk consulting Intern - summer 2026](https://jobright.ai/jobs/info/69764175206da320f4a010be?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 25 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Digital Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69762c64206da320f4a00ed3?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 25 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 25 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 25 |
@@ -78,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a82a49a885af9a308a9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f80dc09cc522e877422eb?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 24 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/69741e8a37785856350e179c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742ec8206da320f49e5133?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Jan 23 |
-| ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742d5937785856350e2759?utm_campaign=1063&utm_source=git)** | Canada Corporate | Remote | Jan 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742d5937785856350e2759?utm_campaign=1063&utm_source=git)** | Canada Corporate | Remote | Jan 23 |
+| ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742ec8206da320f49e5133?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Jan 23 |
 | ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742f44bc8e722e7b1925c9?utm_campaign=1063&utm_source=git)** | Toronto, ON, CA | On Site | Jan 23 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/6973f952206da320f49e0522?utm_campaign=1063&utm_source=git)** | St. Louis, Missouri | On Site | Jan 23 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
@@ -115,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Community Health Alliance](http://www.communityhealthalliance.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6971d17fcda45e6953580594?utm_campaign=1063&utm_source=git)** | Hamilton, OH 45011 | On Site | Jan 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69746687bc8e722e7b197aa5?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Jan 21 |
 | ↳ | **[Oracle NetSuite Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/6974593cbc8e722e7b196e1e?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
-| ↳ | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6974390abc8e722e7b192e25?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | ↳ | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/697585a7206da320f49f8162?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69717faf51f726477183dc47?utm_campaign=1063&utm_source=git)** | Horsham, PA | Hybrid | Jan 21 |
 | ↳ | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/697197fc51f726477183f2a8?utm_campaign=1063&utm_source=git)** | Horsham, Pennsylvania, United States | Hybrid | Jan 21 |
@@ -124,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6970691a587dfa0bb55e0dc8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Jan 21 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc5d63141d188459800f?utm_campaign=1063&utm_source=git)** | Bellaire, TX | On Site | Jan 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6974578c37785856350e6d03?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Public Health, Clean Water](www.phcwater.com)** | **[Investor Relations Consultant](https://jobright.ai/jobs/info/6970dbf5587dfa0bb55e6d2a?utm_campaign=1063&utm_source=git)** | West Chester, PA | Hybrid | Jan 20 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Analyst - Summer 2026](https://jobright.ai/jobs/info/69702ea851f7264771825ecc?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69702ddf51f7264771825dee?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
@@ -132,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[PwC Experience Center Stockholm](https://pwc.se/experience-center)** | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69710ffc587dfa0bb55ea2c7?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Consultant International Tax Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/697022d83ed06875134b210a?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Analyst - Summer 2026](https://jobright.ai/jobs/info/697000173ed06875134b0057?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Actuarial Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/696fdf6d0f4e0f657ea425f4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 20 |
 | **[Cognitus](https://www.cognitusconsulting.com/)** | **[SAP Consultant Internship](https://jobright.ai/jobs/info/696fdc670f4e0f657ea42264?utm_campaign=1063&utm_source=git)** | Pennsylvania, United States | Hybrid | Jan 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/696fda1c0f4e0f657ea41fec?utm_campaign=1063&utm_source=git)** | Chicago | Hybrid | Jan 20 |
 | ↳ | **[Actuarial Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/696fcceb82817106e976d76e?utm_campaign=1063&utm_source=git)** | Boston | On Site | Jan 20 |
