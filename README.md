@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Airport Operations (SFO) (Summer 2026)](https://jobright.ai/jobs/info/6967c74ef25a3800669616c6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/697788da52f3c27ec643964a?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/697778e652f3c27ec6437f81?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 26 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/6977631252f3c27ec6436863?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 26 |
 | **[Vyntravo](vyntravo.us)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/697718eafdeb8243a279f0e8?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 25 |
@@ -122,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69717faf51f726477183dc47?utm_campaign=1063&utm_source=git)** | Horsham, PA | Hybrid | Jan 21 |
 | ↳ | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/697197fc51f726477183f2a8?utm_campaign=1063&utm_source=git)** | Horsham, Pennsylvania, United States | Hybrid | Jan 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 21 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Deal Analytics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69777e6988e2b47213bb5f7e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6939311348a8ce22990d4f6f?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 21 |
 | ↳ | **[GMA - Intern/Consultant GenAI - 2026](https://jobright.ai/jobs/info/6970691a587dfa0bb55e0dc8?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Jan 21 |
@@ -146,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69731c91206da320f49d2307?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 19 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6971b2e0333b6343a14e6842?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6972f461206da320f49ceb5b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jan 19 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Summer 2026 / Tulsa](https://jobright.ai/jobs/info/696ebe55db26b6189511d060?utm_campaign=1063&utm_source=git)** | Tulsa, OK | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
