@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6977965588e2b47213bb7e8e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 26 |
+| **[TriNet](http://trinet.com)** | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977a1de88e2b47213bb888b?utm_campaign=1063&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 26 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Research Consultant Intern](https://jobright.ai/jobs/info/695b9efaf1f8465b79f1ac2a?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 26 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (LAX) (Summer 2026)](https://jobright.ai/jobs/info/696813adf25a38006696697f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Jan 26 |
 | ↳ | **[Intern - Airport Operations (SFO) (Summer 2026)](https://jobright.ai/jobs/info/6967c74ef25a3800669616c6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/697788da52f3c27ec643964a?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/697778e652f3c27ec6437f81?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 26 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/6977631252f3c27ec6436863?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 26 |
 | **[Vyntravo](vyntravo.us)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/697718eafdeb8243a279f0e8?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 25 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 25 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 25 |
@@ -85,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Deal Analytics Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/6976f82152f3c27ec6430226?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6976d663bc8e722e7b1b4a14?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/69741e8a37785856350e179c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742f44bc8e722e7b1925c9?utm_campaign=1063&utm_source=git)** | Toronto, ON, CA | On Site | Jan 23 |
-| ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742d5937785856350e2759?utm_campaign=1063&utm_source=git)** | Canada Corporate | Remote | Jan 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742d5937785856350e2759?utm_campaign=1063&utm_source=git)** | Canada Corporate | Remote | Jan 23 |
 | ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742ec8206da320f49e5133?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Jan 23 |
+| ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742f44bc8e722e7b1925c9?utm_campaign=1063&utm_source=git)** | Toronto, ON, CA | On Site | Jan 23 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/6973f952206da320f49e0522?utm_campaign=1063&utm_source=git)** | St. Louis, Missouri | On Site | Jan 23 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
 | ↳ | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9ef557ab77a56387e885d?utm_campaign=1063&utm_source=git)** | San Diego, CA | Hybrid | Jan 23 |
