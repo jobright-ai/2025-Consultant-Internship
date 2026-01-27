@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977ffdc88e2b47213bc0b9a?utm_campaign=1063&utm_source=git)** | Ann Arbor | Hybrid | Jan 26 |
+| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977fd1d52f3c27ec64436c7?utm_campaign=1063&utm_source=git)** | Grand Rapids | Hybrid | Jan 26 |
+| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697809bbfdeb8243a27b05e4?utm_campaign=1063&utm_source=git)** | Chicago | Hybrid | Jan 26 |
+| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/69780763fdeb8243a27b04b4?utm_campaign=1063&utm_source=git)** | Kalamazoo | Hybrid | Jan 26 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6977c78388e2b47213bbbd13?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
+| **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/6977ecc688e2b47213bbeebf?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 26 |
 | **[TriNet](http://trinet.com)** | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977b538fdeb8243a27a9f14?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/6977b412fdeb8243a27a9d06?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 26 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6977965588e2b47213bb7e8e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 26 |
 | **[TriNet](http://trinet.com)** | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977a1de88e2b47213bb888b?utm_campaign=1063&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 26 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Research Consultant Intern](https://jobright.ai/jobs/info/695b9efaf1f8465b79f1ac2a?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 26 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (SFO) (Summer 2026)](https://jobright.ai/jobs/info/6967c74ef25a3800669616c6?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/68cc9a0f7342c7623ae670ec?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/697778e652f3c27ec6437f81?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 26 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 25 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 25 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6877141c5cebcd1dd51ceffc?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 24 |
@@ -99,6 +102,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6976eed288e2b47213babe5b?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Jan 22 |
 | ↳ | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6976d6d93778585635105e15?utm_campaign=1063&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 22 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977ef5b52f3c27ec6442052?utm_campaign=1063&utm_source=git)** | Nashville - Music | On Site | Jan 22 |
+| ↳ | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977eed488e2b47213bbf312?utm_campaign=1063&utm_source=git)** | Nashville - 3322 West End | On Site | Jan 22 |
+| ↳ | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977ebf9fdeb8243a27ae2bc?utm_campaign=1063&utm_source=git)** | Nashville - West End | On Site | Jan 22 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/6972a2b09b83b424830eaa41?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
 | **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727e054ccbf64f8df27061?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727d4b4ccbf64f8df26f9a?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
