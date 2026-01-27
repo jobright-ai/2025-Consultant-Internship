@@ -142,6 +142,4 @@ For a complete list, click the following sortable link below:
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 20 |
-| **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6971e2ddb707bf728a4b78f0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6971e2e2b707bf728a4b7947?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
