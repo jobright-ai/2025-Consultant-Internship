@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/697a25d3a8de441ca7354c2c?utm_campaign=1063&utm_source=git)** | St. Louis City County, MO | On Site | Jan 28 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/6971f921cda45e6953583468?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 28 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc5d63141d188459800f?utm_campaign=1063&utm_source=git)** | Bellaire, TX | On Site | Jan 28 |
 | **[Blue Ventis](blueventis.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/6979d10fca92cf0d6a830f55?utm_campaign=1063&utm_source=git)** | St. Louis City County, MO | On Site | Jan 28 |
 | **[Stratify Edge](stratifyedge.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6979ba4f0791bc1d72308443?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 27 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | On Site | Jan 27 |
 | **[VertoTech](vertotech.us)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/6979204539f7f96cc6d17ee1?utm_campaign=1063&utm_source=git)** | Ohio, United States | On Site | Jan 27 |
 | **[Broadridge](http://www.broadridge.com)** | **[Legal Consultant Intern - Contract (Hybrid, Remote)](https://jobright.ai/jobs/info/695d6255fbd62a0a6565f7a1?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
-| **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69792cc552f3c27ec6457451?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 27 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Tampa Summer 2026](https://jobright.ai/jobs/info/6978e7d252f3c27ec6452510?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 27 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6978e35852f3c27ec645229d?utm_campaign=1063&utm_source=git)** | Ohio, United States | On Site | Jan 27 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern- Remote](https://jobright.ai/jobs/info/6978fa7739f7f96cc6d14e8e?utm_campaign=1063&utm_source=git)** | Bannockburn, IL | Remote | Jan 27 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6976eed288e2b47213babe5b?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Jan 22 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977eed488e2b47213bbf312?utm_campaign=1063&utm_source=git)** | Nashville - 3322 West End | On Site | Jan 22 |
-| ↳ | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977ebf9fdeb8243a27ae2bc?utm_campaign=1063&utm_source=git)** | Nashville - West End | On Site | Jan 22 |
 | ↳ | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977ef5b52f3c27ec6442052?utm_campaign=1063&utm_source=git)** | Nashville - Music | On Site | Jan 22 |
+| ↳ | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977ebf9fdeb8243a27ae2bc?utm_campaign=1063&utm_source=git)** | Nashville - West End | On Site | Jan 22 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/6972a2b09b83b424830eaa41?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
 | **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727e054ccbf64f8df27061?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727d4b4ccbf64f8df26f9a?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
