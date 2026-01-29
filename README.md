@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/697ab770f6fc293b0a2caf2b?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Jan 28 |
+| ↳ | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697ab6cef6fc293b0a2cad8b?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 28 |
+| **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/695ed3ea0badca5763af498c?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
 | **[Trace3](http://trace3.com/)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/690a5198d046ab6061cdb198?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Jan 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697a85ad9d60e431a16c0ac5?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Jan 28 |
 | **[Dynareon](dynareon.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697a5bd6a8de441ca7358377?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 28 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697457fbbc8e722e7b19666e?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 27 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | On Site | Jan 27 |
 | **[Broadridge](http://www.broadridge.com)** | **[Legal Consultant Intern - Contract (Hybrid, Remote)](https://jobright.ai/jobs/info/695d6255fbd62a0a6565f7a1?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Tampa Summer 2026](https://jobright.ai/jobs/info/6978e7d252f3c27ec6452510?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 27 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern- Remote](https://jobright.ai/jobs/info/6978fa7739f7f96cc6d14e8e?utm_campaign=1063&utm_source=git)** | Bannockburn, IL | Remote | Jan 27 |
 | **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69786d8452f3c27ec644bd5b?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jan 26 |
@@ -122,9 +124,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 23 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6976eed288e2b47213babe5b?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Jan 22 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977ef5b52f3c27ec6442052?utm_campaign=1063&utm_source=git)** | Nashville - Music | On Site | Jan 22 |
-| ↳ | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977eed488e2b47213bbf312?utm_campaign=1063&utm_source=git)** | Nashville - 3322 West End | On Site | Jan 22 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977eed488e2b47213bbf312?utm_campaign=1063&utm_source=git)** | Nashville - 3322 West End | On Site | Jan 22 |
 | ↳ | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977ebf9fdeb8243a27ae2bc?utm_campaign=1063&utm_source=git)** | Nashville - West End | On Site | Jan 22 |
+| ↳ | **[Health and Benefits Consulting Intern- Nashville- College Program 2026](https://jobright.ai/jobs/info/6977ef5b52f3c27ec6442052?utm_campaign=1063&utm_source=git)** | Nashville - Music | On Site | Jan 22 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/6972a2b09b83b424830eaa41?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
 | **[PwC](http://pwc.com)** | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727e054ccbf64f8df27061?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69727d4b4ccbf64f8df26f9a?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
