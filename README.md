@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Rockaway Townesquare - Rockaway, NJ](https://jobright.ai/jobs/info/6a52ac87e726ec56126a40e1?utm_campaign=1063&utm_source=git)** | Zales - Rockaway Townesquare - Rockaway, NJ, United States of America | On Site | Jul 17 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[VOLUNTEER / Intern MENTOR PROGRAM DEVELOPMENT CONSULTANT](https://jobright.ai/jobs/info/6a59e9a4c8e3a473cb8a8c69?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Dimond Center - Ancharage, AK](https://jobright.ai/jobs/info/6a50f25457513b72e0c627b3?utm_campaign=1063&utm_source=git)** | Zales - Dimond Center - Anchorage, AK, United States of America | On Site | Jul 16 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Pearlridge Center - Aiea, HI](https://jobright.ai/jobs/info/6a511c0357513b72e0c63f1b?utm_campaign=1063&utm_source=git)** | Zales - Pearlridge Center - Aiea, HI, United States of America | On Site | Jul 16 |
