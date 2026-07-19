@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Fall Intern 2026](https://jobright.ai/jobs/info/6a560b4c21f64463ad3520b0?utm_campaign=1063&utm_source=git)** | Boston, United States of America | On Site | Jul 13 |
 | **[Community Health Alliance](http://www.communityhealthalliance.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6a54fa3aae07d60a8d00e14c?utm_campaign=1063&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 13 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Westland Mall - Hialeah, FL](https://jobright.ai/jobs/info/6a52a7e99fbdab22fe13c735?utm_campaign=1063&utm_source=git)** | Zales - Westland Mall - Hialeah, FL, United States of America | On Site | Jul 12 |
-| **[STRATO](https://strato.id)** | **[Strategy Consultant](https://jobright.ai/jobs/info/6a54f093ae07d60a8d00ddcf?utm_campaign=1063&utm_source=git)** | Washington County, OR, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
