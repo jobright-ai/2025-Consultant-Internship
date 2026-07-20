@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/6a562b91e9b77f668bd61a3a?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Jul 14 |
 | **[BloomHR](www.joinbloomhr.com)** | **[General Application - Human Resources Consulting & PEO Industry](https://jobright.ai/jobs/info/6a56152421f64463ad35284f?utm_campaign=1063&utm_source=git)** | Remote in Charlotte, NC | Remote | Jul 14 |
 | **[Community Boost](https://www.communityboost.org)** | **[Digital Marketing Consulting Intern](https://jobright.ai/jobs/info/6a55d20c14f1040fa611c898?utm_campaign=1063&utm_source=git)** | San Diego, CA, United States | On Site | Jul 13 |
-| **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/6a432e91e09ecb495964261f?utm_campaign=1063&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
