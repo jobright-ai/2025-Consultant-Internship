@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027](https://jobright.ai/jobs/info/6a5e1847270e3033b045be0e?utm_campaign=1063&utm_source=git)** | Arlington, Virginia, United States of America | On Site | Jul 20 |
-| **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a54166f8576ec69c0151f82?utm_campaign=1063&utm_source=git)** | 300 Fieldstone Lane, Blacksburg, VA 24060, USA | On Site | Jul 18 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Westfield Trumbull - Trumbull, CT](https://jobright.ai/jobs/info/6a5211b49fbdab22fe139e4f?utm_campaign=1063&utm_source=git)** | Zales - Westfield Trumbull - Trumbull, CT, United States of America | On Site | Jul 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a5b6d4b856af468ab00ccd4?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Healthcare Consulting Intern - Spring 2027 (Flowood, MS)](https://jobright.ai/jobs/info/6a5add3c686b4755d1e16dad?utm_campaign=1063&utm_source=git)** | Flowood, MS, United States | On Site | Jul 17 |
