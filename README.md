@@ -109,5 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Valley View Mall - Roanoke, VA](https://jobright.ai/jobs/info/6a53171cd007ee02d95fa36c?utm_campaign=1063&utm_source=git)** | Zales - Valley View Mall - Roanoke, VA, United States of America | On Site | Jul 13 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Central Mall - Texarkana, TX](https://jobright.ai/jobs/info/6a552f72ae07d60a8d00f8dc?utm_campaign=1063&utm_source=git)** | Texarkana, TX, United States | On Site | Jul 13 |
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Fall Intern 2026](https://jobright.ai/jobs/info/6a560b4c21f64463ad3520b0?utm_campaign=1063&utm_source=git)** | Boston, United States of America | On Site | Jul 13 |
-| **[Community Health Alliance](http://www.communityhealthalliance.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6a54fa3aae07d60a8d00e14c?utm_campaign=1063&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
