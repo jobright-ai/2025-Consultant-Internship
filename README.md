@@ -95,6 +95,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - University Mall - Tuscaloosa, AL](https://jobright.ai/jobs/info/6a541dc7e726ec56126a9399?utm_campaign=1063&utm_source=git)** | Zales - University Mall - Tuscaloosa, AL, United States of America | On Site | Jul 15 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51db66bf63b66c7997e05e?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 14 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a56a96253b3962b910b1d61?utm_campaign=1063&utm_source=git)** | West Chester, PA, United States | On Site | Jul 14 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56923defb06a45240d6aef?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Jul 14 |
-| ↳ | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56917821f64463ad35569e?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
