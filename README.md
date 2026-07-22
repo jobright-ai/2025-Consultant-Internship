@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51db66bf63b66c7997e05e?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Jul 21 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[VOLUNTEER / Intern MENTOR PROGRAM DEVELOPMENT CONSULTANT](https://jobright.ai/jobs/info/6a59e9a4c8e3a473cb8a8c69?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[ZS](https://www.zs.com/)** | **[Strategy Insights & Planning Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/6a4dfd54fc327f422fef186a?utm_campaign=1063&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 21 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459eed48d2f00f2a86e2d8?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Jul 20 |
