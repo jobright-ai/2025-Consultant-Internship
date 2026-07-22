@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE](http://www.engie.com)** | **[Energy Market Intern (Renewables & Flexible Power)](https://jobright.ai/jobs/info/6a6082d1193c4d692385e583?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459ee63dbab558e29a1d80?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Jul 21 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51db66bf63b66c7997e05e?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Jul 21 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 21 |
@@ -87,8 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Baytown Shops - Baytown, TX](https://jobright.ai/jobs/info/6a537a5e8a74e077472f88ad?utm_campaign=1063&utm_source=git)** | Zales - San Jacinto Mall - Baytown, TX, United States of America | On Site | Jul 15 |
 | **[Fairmont Consulting Group](https://www.fairmontcg.com)** | **[Summer 2027 Aerospace & Defense Consulting Internship](https://jobright.ai/jobs/info/6a57e4d78f51964c040456fe?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | ↳ | **[Summer 2027 Aerospace & Defense Consulting Internship](https://jobright.ai/jobs/info/6a57e4ae9f1f56462cf6728a?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Jul 15 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Augusta Mall - Augusta, GA](https://jobright.ai/jobs/info/6a51bfa5bf63b66c7997bff6?utm_campaign=1063&utm_source=git)** | Zales - Augusta Mall - Augusta, GA, United States of America | On Site | Jul 15 |
-| **[ProSidian Consulting](https://prosidian.com/)** | **[Management Consulting - Intern to Hire Junior Consultant](https://jobright.ai/jobs/info/6a57bb8e10c4d945d8650aee?utm_campaign=1063&utm_source=git)** | N Tryon St, Charlotte, NC, USA | On Site | Jul 15 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales Outlet - Woodburn Premium Outlets - Woodburn, OR](https://jobright.ai/jobs/info/6a54fdb64119652ff3862970?utm_campaign=1063&utm_source=git)** | Zale Outlet - Woodburn Premium Out - Woodburn, OR, United States of America | On Site | Jul 15 |
-| ↳ | **[Sales Associate / Jewelry Consultant - Zales Outlet - The Outlets at Legends - Sparks, NV](https://jobright.ai/jobs/info/6a5240a0d007ee02d95f6c6a?utm_campaign=1063&utm_source=git)** | Sparks, NV, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
