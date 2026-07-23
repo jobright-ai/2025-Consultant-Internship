@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spire Consulting Group, LLC](https://www.spireconsultinggroup.com)** | **[Internship Consultant - Dispute Resolution](https://jobright.ai/jobs/info/6a618895d51f6101c8fbc14e?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Jul 22 |
 | **[ENGIE](http://www.engie.com)** | **[Energy Market Intern (Renewables & Flexible Power)](https://jobright.ai/jobs/info/6a6082d1193c4d692385e583?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459ee63dbab558e29a1d80?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Jul 21 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51db66bf63b66c7997e05e?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Jul 21 |
