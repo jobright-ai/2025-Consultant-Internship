@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[PLANNING INTERN](https://jobright.ai/jobs/info/6a6385208d53603449602b51?utm_campaign=1063&utm_source=git)** | Buckeye, AZ, United States | On Site | Jul 24 |
 | **[Community Boost](https://www.communityboost.org)** | **[Digital Marketing Consulting Intern](https://jobright.ai/jobs/info/6a55d20c14f1040fa611c898?utm_campaign=1063&utm_source=git)** | San Diego, CA, United States | On Site | Jul 23 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56923defb06a45240d6aef?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a627919f805ef6ff4233081?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 23 |
