@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Boost](https://www.communityboost.org)** | **[Digital Marketing Consulting Intern](https://jobright.ai/jobs/info/6a55d20c14f1040fa611c898?utm_campaign=1063&utm_source=git)** | San Diego, CA, United States | On Site | Jul 23 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56923defb06a45240d6aef?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a627919f805ef6ff4233081?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 23 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a45879c0dd56c76cc2f3b6d?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Jul 23 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Healthcare Consulting Fall 2026 / Springfield at Forvis Mazars](https://jobright.ai/jobs/info/6a5fabd7b0f20036bc632566?utm_campaign=1063&utm_source=git)** | Springfield, MO, United States | On Site | Jul 14 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/6a562b91e9b77f668bd61a3a?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Jul 14 |
 | **[BloomHR](www.joinbloomhr.com)** | **[General Application - Human Resources Consulting & PEO Industry](https://jobright.ai/jobs/info/6a56152421f64463ad35284f?utm_campaign=1063&utm_source=git)** | Remote in Charlotte, NC | Remote | Jul 14 |
-| **[Community Boost](https://www.communityboost.org)** | **[Digital Marketing Consulting Intern](https://jobright.ai/jobs/info/6a55d20c14f1040fa611c898?utm_campaign=1063&utm_source=git)** | San Diego, CA, United States | On Site | Jul 13 |
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/6a432e91e09ecb495964261f?utm_campaign=1063&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 13 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Ashland Town Center - Ashland, KY](https://jobright.ai/jobs/info/6a52329a9fbdab22fe13a750?utm_campaign=1063&utm_source=git)** | Zales - Ashland Town Center - Ashland, KY, United States of America | On Site | Jul 13 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Valley View Mall - Roanoke, VA](https://jobright.ai/jobs/info/6a53171cd007ee02d95fa36c?utm_campaign=1063&utm_source=git)** | Zales - Valley View Mall - Roanoke, VA, United States of America | On Site | Jul 13 |
@@ -123,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51be0a78e364789ca5c042?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b17602522b5b722e9b15?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b60a57513b72e0c666b5?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
-| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51af3a57513b72e0c65f66?utm_campaign=1063&utm_source=git)** | Glenwood, MN, United States | On Site | Jul 10 |
+| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
+| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51af3a57513b72e0c65f66?utm_campaign=1063&utm_source=git)** | Glenwood, MN, United States | On Site | Jul 10 |
 | ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51b6b3bf63b66c7997b516?utm_campaign=1063&utm_source=git)** | Charleston, MO, United States | On Site | Jul 10 |
-| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
