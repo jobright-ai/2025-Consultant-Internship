@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a627919f805ef6ff4233081?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 24 |
+| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Economic Litigation](https://jobright.ai/jobs/info/6a640c1d87cef057612cbc15?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a63ec6f979290281c704e31?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 24 |
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Boston Fall Intern 2026](https://jobright.ai/jobs/info/6a63a992979290281c703590?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Jul 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[PLANNING INTERN](https://jobright.ai/jobs/info/6a6385208d53603449602b51?utm_campaign=1063&utm_source=git)** | Buckeye, AZ, United States | On Site | Jul 24 |
 | **[Community Boost](https://www.communityboost.org)** | **[Digital Marketing Consulting Intern](https://jobright.ai/jobs/info/6a55d20c14f1040fa611c898?utm_campaign=1063&utm_source=git)** | San Diego, CA, United States | On Site | Jul 23 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56923defb06a45240d6aef?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 23 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a627919f805ef6ff4233081?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 23 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a45879c0dd56c76cc2f3b6d?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Jul 23 |
 | **[Spire Consulting Group, LLC](https://www.spireconsultinggroup.com)** | **[Internship Consultant - Dispute Resolution](https://jobright.ai/jobs/info/6a618895d51f6101c8fbc14e?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Jul 22 |
 | **[ENGIE](http://www.engie.com)** | **[Energy Market Intern (Renewables & Flexible Power)](https://jobright.ai/jobs/info/6a6082d1193c4d692385e583?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
