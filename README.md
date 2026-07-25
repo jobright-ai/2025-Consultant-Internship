@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a627919f805ef6ff4233081?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 24 |
-| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Economic Litigation](https://jobright.ai/jobs/info/6a640c1d87cef057612cbc15?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a63ec6f979290281c704e31?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 24 |
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Boston Fall Intern 2026](https://jobright.ai/jobs/info/6a63a992979290281c703590?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Jul 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[PLANNING INTERN](https://jobright.ai/jobs/info/6a6385208d53603449602b51?utm_campaign=1063&utm_source=git)** | Buckeye, AZ, United States | On Site | Jul 24 |
