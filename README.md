@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56917821f64463ad35569e?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 25 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a6598ea87cef057612cebca?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a56a96253b3962b910b1d61?utm_campaign=1063&utm_source=git)** | West Chester, PA, United States | On Site | Jul 25 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a627919f805ef6ff4233081?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 24 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Crossroads at Terrell - Terrell, TX](https://jobright.ai/jobs/info/6a4e167a15b4965afd5824a4?utm_campaign=1063&utm_source=git)** | Zales - Crossroads at Terrell - Terrell, TX, United States of America | On Site | Jul 15 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Pearland Town Center - Pearland, TX](https://jobright.ai/jobs/info/6a530d01d007ee02d95fa0e2?utm_campaign=1063&utm_source=git)** | Zales - Pearland Town Center - Pearland, TX, United States of America | On Site | Jul 15 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - University Mall - Tuscaloosa, AL](https://jobright.ai/jobs/info/6a541dc7e726ec56126a9399?utm_campaign=1063&utm_source=git)** | Zales - University Mall - Tuscaloosa, AL, United States of America | On Site | Jul 15 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56917821f64463ad35569e?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 14 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Peoples Jewellers - Pickering Town Centre - Pickering, ON](https://jobright.ai/jobs/info/6a531bca8576ec69c014eaff?utm_campaign=1063&utm_source=git)** | Canada - Pickering Town Centr - Pickering, ON, Canada | On Site | Jul 14 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Sandusky Mall - Sandusky, OH](https://jobright.ai/jobs/info/6a529a188ef95364ead8f0e2?utm_campaign=1063&utm_source=git)** | Zales - Sandusky Mall - Sandusky, OH, United States of America | On Site | Jul 14 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Spotsylvania Town Center - Fredericksburg, VA](https://jobright.ai/jobs/info/6a5366c6e726ec56126a6b00?utm_campaign=1063&utm_source=git)** | Zales - Spotsylvania Town Ce - Fredericksburg, VA, United States of America | On Site | Jul 14 |
