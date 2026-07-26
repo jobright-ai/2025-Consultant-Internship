@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.com)** | **[Management Consulting Expert Internship](https://jobright.ai/jobs/info/6a66191e0c8e2b4f36dd4ac1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Remote | Jul 26 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56917821f64463ad35569e?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 25 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a6598ea87cef057612cebca?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a56a96253b3962b910b1d61?utm_campaign=1063&utm_source=git)** | West Chester, PA, United States | On Site | Jul 25 |
