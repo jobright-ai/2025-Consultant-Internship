@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a6598ea87cef057612cebca?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a56a96253b3962b910b1d61?utm_campaign=1063&utm_source=git)** | West Chester, PA, United States | On Site | Jul 25 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a627919f805ef6ff4233081?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 24 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a63ec6f979290281c704e31?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 24 |
