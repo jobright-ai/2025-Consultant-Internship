@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Ashland Town Center - Ashland, KY](https://jobright.ai/jobs/info/6a52329a9fbdab22fe13a750?utm_campaign=1063&utm_source=git)** | Zales - Ashland Town Center - Ashland, KY, United States of America | On Site | Jul 27 |
+| ↳ | **[Sales Associate / Jewelry Consultant - Zales - Valley View Mall - Roanoke, VA](https://jobright.ai/jobs/info/6a53171cd007ee02d95fa36c?utm_campaign=1063&utm_source=git)** | Zales - Valley View Mall - Roanoke, VA, United States of America | On Site | Jul 27 |
+| ↳ | **[Sales Associate / Jewelry Consultant - Zales Outlet - Osage Beach Premium Outlets - Osage Beach, MO](https://jobright.ai/jobs/info/6a54e412b361d54aceab7b25?utm_campaign=1063&utm_source=git)** | Zale Outlet - Osage Beach Premium - Osage Beach, MO, United States of America | On Site | Jul 27 |
+| ↳ | **[Sales Associate / Jewelry Consultant - Zales - Mall Of Louisiana - Baton Rouge, LA](https://jobright.ai/jobs/info/6a534aec8a74e077472f7e59?utm_campaign=1063&utm_source=git)** | Zales - Mall Of Louisiana - Baton Rouge, LA, United States of America | On Site | Jul 27 |
 | **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Economic Consulting](https://jobright.ai/jobs/info/6a675c9bd0fb4c3df393c7ee?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[2027 Intern - Forensic & Litigation Consulting](https://jobright.ai/jobs/info/6a66d8380c8e2b4f36dd5e5e?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 27 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6a56917821f64463ad35569e?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 25 |
