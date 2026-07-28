@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Embry-Riddle Aeronautical University](http://www.erau.edu/)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/6a67e7b33b5e6b116a55145f?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 27 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6828b851eb742d72756485?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Jul 27 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a68025e2bf1fb2b71928079?utm_campaign=1063&utm_source=git)** | Birmingham, AL, United States | Hybrid | Jul 27 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a68025e2bf1fb2b71928079?utm_campaign=1063&utm_source=git)** | Birmingham, AL, United States | Hybrid | Jul 27 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6828b851eb742d72756485?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Jul 27 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6828abb9adcd752800df51?utm_campaign=1063&utm_source=git)** | Nashville, TN, United States | On Site | Jul 27 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6802443b5e6b116a5519cf?utm_campaign=1063&utm_source=git)** | Greenville, SC, United States | On Site | Jul 27 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a68286651eb742d72756476?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
