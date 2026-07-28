@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Embry-Riddle Aeronautical University](http://www.erau.edu/)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/6a67e7b33b5e6b116a55145f?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 27 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459eed48d2f00f2a86e2d8?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Jul 27 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Ashland Town Center - Ashland, KY](https://jobright.ai/jobs/info/6a52329a9fbdab22fe13a750?utm_campaign=1063&utm_source=git)** | Zales - Ashland Town Center - Ashland, KY, United States of America | On Site | Jul 27 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Valley View Mall - Roanoke, VA](https://jobright.ai/jobs/info/6a53171cd007ee02d95fa36c?utm_campaign=1063&utm_source=git)** | Zales - Valley View Mall - Roanoke, VA, United States of America | On Site | Jul 27 |
