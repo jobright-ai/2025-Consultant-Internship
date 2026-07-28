@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Embry-Riddle Aeronautical University](http://www.erau.edu/)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/6a67e7b33b5e6b116a55145f?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 27 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a68025e2bf1fb2b71928079?utm_campaign=1063&utm_source=git)** | Birmingham, AL, United States | Hybrid | Jul 27 |
-| ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6828b851eb742d72756485?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Jul 27 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6828b851eb742d72756485?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Jul 27 |
+| ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a68025e2bf1fb2b71928079?utm_campaign=1063&utm_source=git)** | Birmingham, AL, United States | Hybrid | Jul 27 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6828abb9adcd752800df51?utm_campaign=1063&utm_source=git)** | Nashville, TN, United States | On Site | Jul 27 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6802443b5e6b116a5519cf?utm_campaign=1063&utm_source=git)** | Greenville, SC, United States | On Site | Jul 27 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a68286651eb742d72756476?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[ENGIE](http://www.engie.com)** | **[Energy Market Intern (Renewables & Flexible Power)](https://jobright.ai/jobs/info/6a6082d1193c4d692385e583?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459ee63dbab558e29a1d80?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Jul 21 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51db66bf63b66c7997e05e?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Jul 21 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
