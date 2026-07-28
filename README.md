@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/6a432e91e09ecb495964261f?utm_campaign=1063&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 28 |
 | **[Embry-Riddle Aeronautical University](http://www.erau.edu/)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/6a67e7b33b5e6b116a55145f?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a6828b851eb742d72756485?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Jul 27 |
 | ↳ | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a68025e2bf1fb2b71928079?utm_campaign=1063&utm_source=git)** | Birmingham, AL, United States | Hybrid | Jul 27 |
