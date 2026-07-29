@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dreamscribe Media](https://www.dreamscribemedia.com/)** | **[Digital Marketing & Sales Consultant (Internship)](https://jobright.ai/jobs/info/6a69da7f19d76667a2abc8f1?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Jul 29 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Jewelry Consultant](https://jobright.ai/jobs/info/6a694de9ceb2691dfb208752?utm_campaign=1063&utm_source=git)** | Friendswood, TX, United States | On Site | Jul 28 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2027](https://jobright.ai/jobs/info/6a68ed37ceb2691dfb20635d?utm_campaign=1063&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 28 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/6a68bb48207d4f2e632e45b0?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Jul 28 |
