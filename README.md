@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Community Health Alliance - Sojourner Recovery Services](https://sojournerrecovery.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6a6c6011acb0a61f9dbc570f?utm_campaign=1063&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 31 |
-| **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bd99d5c54bc4752ceb570?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jul 30 |
+| **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bd99bacb0a61f9dbc32f4?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jul 30 |
 | ↳ | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bda8fca1f9338465fcc85?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Jul 30 |
 | **[RTI International](http://www.rti.org)** | **[Innovation Consulting Intern (Chemistry Focus)](https://jobright.ai/jobs/info/6a6b68f7acb0a61f9dbc0a7c?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/6a6b262d32f9300c3a3dd4be?utm_campaign=1063&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 30 |
