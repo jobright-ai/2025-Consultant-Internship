@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Health Care Consultant Intern - Indianapolis, IN (Summer 2026)](https://jobright.ai/jobs/info/6a7363b38cd88e7ccbf5811d?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 05 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459ee63dbab558e29a1d80?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Aug 05 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6a72e445dc0f425389118305?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Remote | Aug 05 |
 | **[Baker Tilly US](https://www.bakertilly.com/page/baker-tilly-foundation?utm_source=3BL&utm_medium=Media+Insight&utm_campaign=PR-Extra+Impact+Grant)** | **[Cyber Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a725c7fe2b7476e7b213019?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cyber Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a725a95cb96192a3684dae4?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | ↳ | **[Cyber Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a725a9402d93145bf89452e?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 04 |
 | ↳ | **[Cyber Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a725a93e2b7476e7b212fb1?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 04 |
-| ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724daf45b6af1c30dbde31?utm_campaign=1063&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 04 |
 | ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724daf71acd469eeda73e6?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Aug 04 |
+| ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724daf45b6af1c30dbde31?utm_campaign=1063&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 04 |
 | ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724d9371acd469eeda73b3?utm_campaign=1063&utm_source=git)** | Frisco, TX, United States | On Site | Aug 04 |
 | ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724d93ee751e0c79348226?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724d6acb96192a3684d426?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 04 |
