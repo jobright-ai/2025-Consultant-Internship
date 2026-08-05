@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cyber Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a725a95cb96192a3684dae4?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | ↳ | **[Cyber Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a725a9402d93145bf89452e?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 04 |
 | ↳ | **[Cyber Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a725a93e2b7476e7b212fb1?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 04 |
-| ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724daf71acd469eeda73e6?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Aug 04 |
 | ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724daf45b6af1c30dbde31?utm_campaign=1063&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 04 |
+| ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724daf71acd469eeda73e6?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Aug 04 |
 | ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724d9371acd469eeda73b3?utm_campaign=1063&utm_source=git)** | Frisco, TX, United States | On Site | Aug 04 |
 | ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724d93ee751e0c79348226?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | ↳ | **[Business Risk Consultants (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a724d6acb96192a3684d426?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 04 |
@@ -88,5 +88,4 @@ For a complete list, click the following sortable link below:
 | **[RTI International](http://www.rti.org)** | **[Innovation Consulting Intern (Chemistry Focus)](https://jobright.ai/jobs/info/6a6b68f7acb0a61f9dbc0a7c?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/6a6b262d32f9300c3a3dd4be?utm_campaign=1063&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 30 |
 | **[Ivory Center](http://ivorycenter.md/)** | **[Intern](https://jobright.ai/jobs/info/6a6d9ea15c54bc4752cf2d3e?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 29 |
-| **[Community Health Alliance](http://www.communityhealthalliance.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6a54fa3aae07d60a8d00e14c?utm_campaign=1063&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
