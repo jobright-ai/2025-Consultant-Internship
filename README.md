@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a74c10f37da8525e8cda6bd?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 06 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027 - United States](https://jobright.ai/jobs/info/6a749999b17cba5690356675?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 05 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459ee63dbab558e29a1d80?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Aug 05 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6a72e445dc0f425389118305?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Remote | Aug 05 |
@@ -85,6 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a6df55cc56c0956e8ada6b7?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Community Health Alliance - Sojourner Recovery Services](https://sojournerrecovery.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6a6c6011acb0a61f9dbc570f?utm_campaign=1063&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 31 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a70529a59254b3449a5ffed?utm_campaign=1063&utm_source=git)** | Blacksburg, VA, United States | On Site | Jul 31 |
-| **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bd99bacb0a61f9dbc32f4?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jul 30 |
-| ↳ | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bda8fca1f9338465fcc85?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Jul 30 |
+| **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bda8fca1f9338465fcc85?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Jul 30 |
+| ↳ | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bd99d5c54bc4752ceb570?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
