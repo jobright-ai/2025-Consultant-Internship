@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459eed48d2f00f2a86e2d8?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Aug 06 |
 | **[Upsource Solutions](http://www.upsourceit.com/)** | **[Salesforce Consultant/Developer Intern](https://jobright.ai/jobs/info/6a74ec3cbb6ca93ae560cb73?utm_campaign=1063&utm_source=git)** | Lynchburg, VA, United States | On Site | Aug 06 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a74c10f37da8525e8cda6bd?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 06 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027 - United States](https://jobright.ai/jobs/info/6a74d6e620b26a6e93f4929c?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 05 |
