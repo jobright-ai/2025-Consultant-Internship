@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern - Student Only](https://jobright.ai/jobs/info/6a779107a26ccc369f8378af?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Remote | Aug 08 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a77401fbb6ca93ae56145e3?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 08 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Healthcare Consulting Intern - Spring 2027 (Flowood, MS)](https://jobright.ai/jobs/info/6a5add3c686b4755d1e16dad?utm_campaign=1063&utm_source=git)** | Flowood, MS, United States | On Site | Aug 08 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7662294817aa4307048360?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 07 |
