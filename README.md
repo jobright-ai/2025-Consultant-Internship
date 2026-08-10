@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/6a7a4f54bb6ca93ae561b228?utm_campaign=1063&utm_source=git)** | Little Falls, NJ, United States | Hybrid | Aug 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7a3d5467a1ad0bc53d26ee?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[IBM](http://www.ibm.com)** | **[Federal Package Consulting Intern - Oracle 2027](https://jobright.ai/jobs/info/6a7a353267a1ad0bc53d2215?utm_campaign=1063&utm_source=git)** | Herndon, VA, United States | On Site | Aug 10 |
 | ↳ | **[Federal Consulting Intern 2027](https://jobright.ai/jobs/info/6a7a3525b17cba5690365f64?utm_campaign=1063&utm_source=git)** | Herndon, VA, United States | On Site | Aug 10 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Healthcare Consulting Intern - Spring 2027 (Flowood, MS)](https://jobright.ai/jobs/info/6a5add3c686b4755d1e16dad?utm_campaign=1063&utm_source=git)** | Flowood, MS, United States | On Site | Aug 08 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7662294817aa4307048360?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 07 |
 | **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Economic Consulting](https://jobright.ai/jobs/info/6a675c9b3b5e6b116a54e615?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 06 |
+| ↳ | **[2027 Intern - Forensic & Litigation Consulting](https://jobright.ai/jobs/info/6a66d8380c8e2b4f36dd5e5e?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Aug 06 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459eed48d2f00f2a86e2d8?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Remote | Aug 06 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a74c10f37da8525e8cda6bd?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 06 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027 - United States](https://jobright.ai/jobs/info/6a74d6e620b26a6e93f4929c?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 05 |
