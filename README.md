@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7a685ab17cba5690367098?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/6a7a4f54bb6ca93ae561b228?utm_campaign=1063&utm_source=git)** | Little Falls, NJ, United States | Hybrid | Aug 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7a3d5467a1ad0bc53d26ee?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[IBM](http://www.ibm.com)** | **[Federal Package Consulting Intern - Oracle 2027](https://jobright.ai/jobs/info/6a7a353267a1ad0bc53d2215?utm_campaign=1063&utm_source=git)** | Herndon, VA, United States | On Site | Aug 10 |
