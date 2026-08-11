@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salam Consulting](www.salam-consulting.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/6a7a852e67a1ad0bc53d3bba?utm_campaign=1063&utm_source=git)** | Virginia, United States | Remote | Aug 10 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7a685ab17cba5690367098?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/6a7a4f54bb6ca93ae561b228?utm_campaign=1063&utm_source=git)** | Little Falls, NJ, United States | Hybrid | Aug 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7a3d5467a1ad0bc53d26ee?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
@@ -88,8 +89,9 @@ For a complete list, click the following sortable link below:
 | **[Community Health Alliance - Sojourner Recovery Services](https://sojournerrecovery.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6a6c6011acb0a61f9dbc570f?utm_campaign=1063&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 31 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a70529a59254b3449a5ffed?utm_campaign=1063&utm_source=git)** | Blacksburg, VA, United States | On Site | Jul 31 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bda8fca1f9338465fcc85?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Jul 30 |
-| ↳ | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bd99d5c54bc4752ceb570?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jul 30 |
+| ↳ | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bd99bacb0a61f9dbc32f4?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jul 30 |
 | **[RTI International](http://www.rti.org)** | **[Innovation Consulting Intern (Chemistry Focus)](https://jobright.ai/jobs/info/6a6b68f7acb0a61f9dbc0a7c?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 30 |
+| ↳ | **[Innovation Consulting Intern (Chemistry Focus)](https://jobright.ai/jobs/info/6a7a7e6dbb6ca93ae561be98?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/6a6b262d32f9300c3a3dd4be?utm_campaign=1063&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 30 |
 | **[Ivory Center](http://ivorycenter.md/)** | **[Intern](https://jobright.ai/jobs/info/6a6d9ea15c54bc4752cf2d3e?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 29 |
 | **[Community Health Alliance](http://www.communityhealthalliance.com)** | **[Crisis Consultant Intern, 988](https://jobright.ai/jobs/info/6a54fa3aae07d60a8d00e14c?utm_campaign=1063&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 29 |
