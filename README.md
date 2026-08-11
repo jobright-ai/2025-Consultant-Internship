@@ -57,16 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Salam Consulting](www.salam-consulting.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/6a7a852e67a1ad0bc53d3bba?utm_campaign=1063&utm_source=git)** | Virginia, United States | Remote | Aug 10 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[Management Consulting Internship (OTTAWA) - Winter 2027](https://jobright.ai/jobs/info/6a7a289ebb6ca93ae561a2f6?utm_campaign=1063&utm_source=git)** | Ottawa, ON, Canada | On Site | Aug 10 |
-| ↳ | **[Winnipeg Management Consulting P&C Internship Consultant (January - April 2027)](https://jobright.ai/jobs/info/6a79ef39bb6ca93ae5618e0c?utm_campaign=1063&utm_source=git)** | Winnipeg, MB, Canada | On Site | Aug 10 |
 | ↳ | **[Calgary Internship, Management Consulting (January - April 2027)](https://jobright.ai/jobs/info/6a79eee69ee17f276dbf03b8?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 10 |
+| ↳ | **[Winnipeg Management Consulting P&C Internship Consultant (January - April 2027)](https://jobright.ai/jobs/info/6a79ef39bb6ca93ae5618e0c?utm_campaign=1063&utm_source=git)** | Winnipeg, MB, Canada | On Site | Aug 10 |
 | ↳ | **[Victoria Internship Opportunities, Management Consulting, Summer Internship (May - August 2027)](https://jobright.ai/jobs/info/6a7a1b71a26ccc369f83c941?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Aug 10 |
 | ↳ | **[Victoria Internship Opportunities, Management Consulting, Summer Internship (May - August 2027)](https://jobright.ai/jobs/info/6a7a1b87bb6ca93ae5619f1f?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Aug 10 |
 | ↳ | **[Edmonton Management Consulting TST Internship Consultant (January - April 2027)](https://jobright.ai/jobs/info/6a79ef1cbb6ca93ae5618dfb?utm_campaign=1063&utm_source=git)** | Edmonton, AB, Canada | On Site | Aug 10 |
+| ↳ | **[GVA Internship Opportunities, Management Consulting - Summer Internship (May - August 2027)](https://jobright.ai/jobs/info/6a7a1b65ab1385611f8fd61b?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 10 |
 | ↳ | **[GTA Office - Opportunities in Global Compliance and Transformation - Technical Consultant - Co-op & Intern - Winter 2027, Summer 2027](https://jobright.ai/jobs/info/6a79cc7eb17cba5690363bd3?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 10 |
 | ↳ | **[GVA Internship Opportunities, Management Consulting - Summer Internship (May - August 2027)](https://jobright.ai/jobs/info/6a7a1b6dab1385611f8fd620?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 10 |
-| ↳ | **[GVA Internship Opportunities, Management Consulting - Summer Internship (May - August 2027)](https://jobright.ai/jobs/info/6a7a1b65ab1385611f8fd61b?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 10 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7a685ab17cba5690367098?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/6a7a4f54bb6ca93ae561b228?utm_campaign=1063&utm_source=git)** | Little Falls, NJ, United States | Hybrid | Aug 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7a3d5467a1ad0bc53d26ee?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
