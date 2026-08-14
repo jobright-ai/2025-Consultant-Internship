@@ -57,8 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KPMG Canada](https://www.kpmg.se)** | **[Management Consulting Enterprise Solutions: Consultant,  Internship  (Jan-April '27)](https://jobright.ai/jobs/info/6a7dc9f3ad9ff00c26ba8ad7?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 13 |
-| ↳ | **[Management Consulting Enterprise Solutions: Consultant,  Internship  (Jan-April '27)](https://jobright.ai/jobs/info/6a7dc7ee19ce4e6e9d92f957?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 13 |
+| **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2027](https://jobright.ai/jobs/info/6a7e7e55e51a1e18a240e3b6?utm_campaign=1063&utm_source=git)** | Research Park, CA | On Site | Aug 13 |
+| ↳ | **[Consultant Intern - AWS Cloud 2027](https://jobright.ai/jobs/info/6a7e7e1ab56bea5779c0639f?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
+| ↳ | **[Intern Business Transformation Consultant 2027 - Supply Chain](https://jobright.ai/jobs/info/6a7e7dd219ce4e6e9d933893?utm_campaign=1063&utm_source=git)** | Durham, NC, United States | On Site | Aug 13 |
+| ↳ | **[Consultant Intern - AWS Cloud 2027](https://jobright.ai/jobs/info/6a7e7db6e51a1e18a240e388?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
+| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a7e7d98e2030208f2769cef?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Aug 13 |
+| ↳ | **[Intern Business Transformation Consultant - Talent 2027](https://jobright.ai/jobs/info/6a7e7d87b56bea5779c0637a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
+| ↳ | **[Intern Application Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6a7e7d7de2030208f2769ce9?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
+| ↳ | **[Intern Business Transformation Consultant - Talent 2027](https://jobright.ai/jobs/info/6a7e7d670cd4a070325805a8?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
+| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a7e7d6519ce4e6e9d933876?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
+| ↳ | **[Intern Business Transformation Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6a7e7d6219ce4e6e9d933875?utm_campaign=1063&utm_source=git)** | Research Park, CA, United States | On Site | Aug 13 |
+| ↳ | **[Business Transformation Consultant Intern 2027](https://jobright.ai/jobs/info/6a7e7c560cd4a07032580564?utm_campaign=1063&utm_source=git)** | Durham, NC, United States | On Site | Aug 13 |
+| ↳ | **[Intern Business Transformation Consultant - Supply Chain 2027](https://jobright.ai/jobs/info/6a7e7c3fb56bea5779c0632f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
+| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a7e7c35e2030208f2769cb2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[Management Consulting Enterprise Solutions: Consultant,  Internship  (Jan-April '27)](https://jobright.ai/jobs/info/6a7dc7ee19ce4e6e9d92f957?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 13 |
+| ↳ | **[Management Consulting Enterprise Solutions: Consultant,  Internship  (Jan-April '27)](https://jobright.ai/jobs/info/6a7dc9f3ad9ff00c26ba8ad7?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Turnaround & Restructuring Services - Summer 2027 (New York)](https://jobright.ai/jobs/info/6a7e4af119ce4e6e9d9327dd?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7e34b5b56bea5779c04749?utm_campaign=1063&utm_source=git)** | Grapevine, TX, United States | Hybrid | Aug 13 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7e317be2030208f2768389?utm_campaign=1063&utm_source=git)** | Grapevine, TX, United States | Hybrid | Aug 13 |
@@ -73,11 +86,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a7e27c0b56bea5779c040d0?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | ↳ | **[Strategy Consultant Intern 2027](https://jobright.ai/jobs/info/6a7e27bfad9ff00c26baa01b?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
 | ↳ | **[Strategy Consultant Intern 2027](https://jobright.ai/jobs/info/6a7e27b8e51a1e18a240c5fa?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
-| ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a7e27b5e51a1e18a240c5f9?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
 | ↳ | **[Business Transformation Consultant Intern 2027](https://jobright.ai/jobs/info/6a7e27b5b56bea5779c040c6?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
 | ↳ | **[Consultant Intern - AWS Cloud 2027](https://jobright.ai/jobs/info/6a7e27b5b56bea5779c040c7?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
-| **[KPMG Canada](https://www.kpmg.se)** | **[Management Consulting GMA:  Consultant, Internship (Jan-April '27)](https://jobright.ai/jobs/info/6a7c7deaa346cb6c8d5eddb1?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 12 |
-| ↳ | **[Management Consulting GTA: Consultant, Internship (Jan-April '27)](https://jobright.ai/jobs/info/6a7c737683621355407a9907?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 12 |
+| ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a7e27b5e51a1e18a240c5f9?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[Management Consulting GTA: Consultant, Internship (Jan-April '27)](https://jobright.ai/jobs/info/6a7c737683621355407a9907?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 12 |
+| ↳ | **[Management Consulting GMA:  Consultant, Internship (Jan-April '27)](https://jobright.ai/jobs/info/6a7c805b77d5f033c4b8e794?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 12 |
 | ↳ | **[Management Consulting GTA: Senior Consultant, Internship (Jan-April '27)](https://jobright.ai/jobs/info/6a7c8035d77e8156a8e32165?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 12 |
 | **[MNP](http://www.mnp.ca)** | **[Co-op Student, Consulting Services (January 2027)](https://jobright.ai/jobs/info/6a7cd03a77d5f033c4b90b80?utm_campaign=1063&utm_source=git)** | Edmonton, AB, Canada | On Site | Aug 12 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Product Technical Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7d0fd3a346cb6c8d5f186d?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 12 |
