@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KPMG Canada](https://www.kpmg.se)** | **[Management Consulting Enterprise Solutions: Consultant,  Internship  (Jan-April '27)](https://jobright.ai/jobs/info/6a7f0afaad9ff00c26bac703?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Aug 14 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[Management Consulting Enterprise Solutions: Consultant,  Internship  (Jan-April '27)](https://jobright.ai/jobs/info/6a7f187bad9ff00c26bac950?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 14 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a6bda8fca1f9338465fcc85?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 14 |
 | **[IBM](http://www.ibm.com)** | **[Intern Business Transformation Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6a7ed0b0e51a1e18a240f187?utm_campaign=1063&utm_source=git)** | Durham, NC, United States | On Site | Aug 13 |
 | ↳ | **[Intern Application Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6a7eba36b56bea5779c06e66?utm_campaign=1063&utm_source=git)** | Research Park, CA, United States | On Site | Aug 13 |
@@ -114,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winnipeg Management Consulting P&C Internship Consultant (January - April 2027)](https://jobright.ai/jobs/info/6a79ef39bb6ca93ae5618e0c?utm_campaign=1063&utm_source=git)** | Winnipeg, MB, Canada | On Site | Aug 10 |
 | ↳ | **[Victoria Internship Opportunities, Management Consulting, Summer Internship (May - August 2027)](https://jobright.ai/jobs/info/6a7a1b71a26ccc369f83c941?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Aug 10 |
 | ↳ | **[Edmonton Management Consulting TST Internship Consultant (January - April 2027)](https://jobright.ai/jobs/info/6a79ef1cbb6ca93ae5618dfb?utm_campaign=1063&utm_source=git)** | Edmonton, AB, Canada | On Site | Aug 10 |
-| ↳ | **[GVA Internship Opportunities, Management Consulting - Summer Internship (May - August 2027)](https://jobright.ai/jobs/info/6a7a1b65ab1385611f8fd61b?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 10 |
 | ↳ | **[GTA Office - Opportunities in Global Compliance and Transformation - Technical Consultant - Co-op & Intern - Winter 2027, Summer 2027](https://jobright.ai/jobs/info/6a79cc7eb17cba5690363bd3?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 10 |
+| ↳ | **[GVA Internship Opportunities, Management Consulting - Summer Internship (May - August 2027)](https://jobright.ai/jobs/info/6a7a1b65ab1385611f8fd61b?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 10 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7a685ab17cba5690367098?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027](https://jobright.ai/jobs/info/6a7b3aaa77e6b569c61bf310?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Aug 10 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - EB Consulting](https://jobright.ai/jobs/info/6a7a4f54bb6ca93ae561b228?utm_campaign=1063&utm_source=git)** | Little Falls, NJ, United States | Hybrid | Aug 10 |
