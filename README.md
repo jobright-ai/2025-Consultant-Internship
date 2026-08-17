@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a836def9b859b227766eb79?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 17 |
 | **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Economic Consulting](https://jobright.ai/jobs/info/6a675c9bd0fb4c3df393c7ee?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 17 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Peoples Jewellers - Pickering Town Centre - Pickering, ON](https://jobright.ai/jobs/info/6a531bca8576ec69c014eaff?utm_campaign=1063&utm_source=git)** | Canada - Pickering Town Centr - Pickering, ON, Canada | On Site | Aug 17 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Peoples Jewellers - Peter Pond Mall - Fort McMurray, AB](https://jobright.ai/jobs/info/6a53c4e9e726ec56126a7ed1?utm_campaign=1063&utm_source=git)** | Fort McMurray, AB, Canada | On Site | Aug 17 |
@@ -89,20 +90,20 @@ For a complete list, click the following sortable link below:
 | **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Intern Security Consultant - 2027](https://jobright.ai/jobs/info/6a7f9ff8e2030208f27701d3?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
 | **[IBM](http://www.ibm.com)** | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a7f7bb119ce4e6e9d938557?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Aug 14 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Digital Transformation](https://jobright.ai/jobs/info/6a7f6c32b56bea5779c0b1ee?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf0e51a1e18a24126e5?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 14 |
-| ↳ | **[Summer 2027 Consulting Internship - Organizational Excellence, Medicaid](https://jobright.ai/jobs/info/6a7f6c4ae51a1e18a241270f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
-| ↳ | **[Summer 2027 Consulting Internship - Justice](https://jobright.ai/jobs/info/6a7f6c15e2030208f276df3a?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
 | ↳ | **[Summer 2027 Consulting Internship - Organizational Development & Public Development Services](https://jobright.ai/jobs/info/6a7f6c1319ce4e6e9d937bc8?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
+| ↳ | **[Summer 2027 Consulting Internship - Organizational Excellence, Medicaid](https://jobright.ai/jobs/info/6a7f6c4ae51a1e18a241270f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
 | ↳ | **[Summer 2027 Consulting Internship - Management & Information Technology](https://jobright.ai/jobs/info/6a7f6c4ae51a1e18a241270e?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
+| ↳ | **[Summer 2027 Consulting Internship - Justice](https://jobright.ai/jobs/info/6a7f6c15e2030208f276df3a?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
 | ↳ | **[Summer 2027 Consulting Internship - Parks, Recreation, and Libraries](https://jobright.ai/jobs/info/6a7f6c0919ce4e6e9d937bc3?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
 | ↳ | **[Summer 2027 Consulting Internship - Cybersecurity](https://jobright.ai/jobs/info/6a7f6c1b927c79391ad08d77?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
 | ↳ | **[Summer 2027 Consulting Internship - Healthcare Data Management and Strategy](https://jobright.ai/jobs/info/6a7f6c18b56bea5779c0b1e2?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 14 |
 | **[IBM](http://www.ibm.com)** | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a7f78f0ad9ff00c26bae689?utm_campaign=1063&utm_source=git)** | Research Park, CA, United States | On Site | Aug 14 |
 | ↳ | **[Security Consultant Intern 2027](https://jobright.ai/jobs/info/6a7f78eb927c79391ad09675?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
-| ↳ | **[Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a7f78d3e51a1e18a2412e6d?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
-| ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a7f78d3b56bea5779c0ba87?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
 | ↳ | **[Intern Package Consultant - Salesforce 2027](https://jobright.ai/jobs/info/6a7f78d3927c79391ad09655?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
+| ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a7f78d3b56bea5779c0ba87?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
+| ↳ | **[Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a7f78d3e51a1e18a2412e6d?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 | ↳ | **[Intern Package Consultant - Salesforce 2027](https://jobright.ai/jobs/info/6a7f78cfe2030208f276e65c?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 | ↳ | **[Intern Application Consultant 2027 – DPE](https://jobright.ai/jobs/info/6a7f783619ce4e6e9d93830c?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a7f782019ce4e6e9d938301?utm_campaign=1063&utm_source=git)** | Durham, NC, United States | On Site | Aug 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://www.kpmg.se)** | **[Winter 2027 MC Consultant,  Internship (GTA Jan-April '27)](https://jobright.ai/jobs/info/6a7c70ee77d5f033c4b8e482?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 12 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | Jersey City, NJ, United States | On Site | Aug 12 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Energy Market Intern (Renewables & Flexible Power)](https://jobright.ai/jobs/info/6a7c95837c52154b59f5ad3f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 12 |
-| ↳ | **[Energy Market Intern (Renewables & Flexible Power)](https://jobright.ai/jobs/info/6a7c342283621355407a919f?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
