@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Consultant Relations Group Analyst, US](https://jobright.ai/jobs/info/6a8710ede8b6601d1290166d?utm_campaign=1063&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 20 |
+| **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health Policy Analysis](https://jobright.ai/jobs/info/6a86faa525fc4e7ae3daa962?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | **[IBM](http://www.ibm.com)** | **[Associate Experience Consultant 2027](https://jobright.ai/jobs/info/6a86fb8a25fc4e7ae3daa99f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Associate Strategy Consultant 2027](https://jobright.ai/jobs/info/6a86fb7ce8b6601d12900f7f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a86fb55d34f700f87fc2d25?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 20 |
@@ -67,10 +69,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Business Transformation Consultant 2027 – Finance](https://jobright.ai/jobs/info/6a86fb30d34f700f87fc2d1b?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Aug 20 |
 | ↳ | **[Co-Op Package Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a86fb18cde3717f9e9af7d1?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Aug 20 |
 | ↳ | **[Consultant Intern - AWS Cloud 2027](https://jobright.ai/jobs/info/6a86fb05cde3717f9e9af7ca?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d0a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d09?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
-| **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health Policy Analysis](https://jobright.ai/jobs/info/6a86faa525fc4e7ae3daa962?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
+| ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d0a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa92d34f700f87fc2cde?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a86fa0225fc4e7ae3daa937?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 20 |
 | ↳ | **[Enterprise Strategy Consultant Intern (September 2026 - 4 Months Term - Toronto, Calgary, Montreal )](https://jobright.ai/jobs/info/6a86f9f2e8b6601d12900f11?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | Hybrid | Aug 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate / Jewelry Consultant - Peoples Jewellers - Peter Pond Mall - Fort McMurray, AB](https://jobright.ai/jobs/info/6a53c4e9e726ec56126a7ed1?utm_campaign=1063&utm_source=git)** | Fort McMurray, AB, Canada | On Site | Aug 17 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Market Place Mall - Champaign, IL](https://jobright.ai/jobs/info/6a4e7a25fc327f422fef2e9c?utm_campaign=1063&utm_source=git)** | Zales - Market Place Mall - Champaign, IL, United States of America | On Site | Aug 17 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - University Mall - Tuscaloosa, AL](https://jobright.ai/jobs/info/6a541dc7e726ec56126a9399?utm_campaign=1063&utm_source=git)** | Zales - University Mall - Tuscaloosa, AL, United States of America | On Site | Aug 17 |
-| ↳ | **[Sales Associate / Jewelry Consultant - Zales - Baytown Shops - Baytown, TX](https://jobright.ai/jobs/info/6a537a5e8a74e077472f88ad?utm_campaign=1063&utm_source=git)** | Zales - San Jacinto Mall - Baytown, TX, United States of America | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
