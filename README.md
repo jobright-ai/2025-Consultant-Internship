@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6a873abfd34f700f87fc43f1?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Aug 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Consultant Relations Group Analyst, US](https://jobright.ai/jobs/info/6a8710ede8b6601d1290166d?utm_campaign=1063&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 20 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health Policy Analysis](https://jobright.ai/jobs/info/6a86faa525fc4e7ae3daa962?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf0e51a1e18a24126e5?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa92d34f700f87fc2cde?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | **[IBM](http://www.ibm.com)** | **[Associate Experience Consultant 2027](https://jobright.ai/jobs/info/6a86fb8a25fc4e7ae3daa99f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Associate Strategy Consultant 2027](https://jobright.ai/jobs/info/6a86fb7ce8b6601d12900f7f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a86fb55d34f700f87fc2d25?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 20 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Business Transformation Consultant 2027 – Finance](https://jobright.ai/jobs/info/6a86fb30d34f700f87fc2d1b?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Aug 20 |
 | ↳ | **[Co-Op Package Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a86fb18cde3717f9e9af7d1?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Aug 20 |
 | ↳ | **[Consultant Intern - AWS Cloud 2027](https://jobright.ai/jobs/info/6a86fb05cde3717f9e9af7ca?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d09?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d0a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d09?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a86fa0225fc4e7ae3daa937?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 20 |
 | ↳ | **[Enterprise Strategy Consultant Intern (September 2026 - 4 Months Term - Toronto, Calgary, Montreal )](https://jobright.ai/jobs/info/6a86f9f2e8b6601d12900f11?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | Hybrid | Aug 20 |
 | ↳ | **[Experience Consultant Intern 2027](https://jobright.ai/jobs/info/6a86f9d9d34f700f87fc2cbb?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Aug 20 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[JESA S.A](https://www.jesagroup.com/)** | **[Strategy Consulting Intern Job Details / JESA Group](https://jobright.ai/jobs/info/6a83e64bc72fae4bcc8d629c?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Aug 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Strategy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a830f6ab5a0ac0e84a232bb?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 17 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Consultant Relations Group Analyst, US](https://jobright.ai/jobs/info/6a83aff51081a745e9710aeb?utm_campaign=1063&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 17 |
-| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027 - Toronto, Canada](https://jobright.ai/jobs/info/6a8465bd58ded76ad8fe6d53?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 17 |
-| ↳ | **[Associate Consultant Intern, Summer 2027 - Vancouver, Canada](https://jobright.ai/jobs/info/6a8465ad2f4f0014cae20369?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 17 |
+| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027 - Vancouver, Canada](https://jobright.ai/jobs/info/6a8465ad2f4f0014cae20369?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 17 |
+| ↳ | **[Associate Consultant Intern, Summer 2027 - Toronto, Canada](https://jobright.ai/jobs/info/6a8465bd58ded76ad8fe6d53?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 17 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2027](https://jobright.ai/jobs/info/6a8633bb74e02153f145b292?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 17 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Central Mall - Texarkana, TX](https://jobright.ai/jobs/info/6a552f72ae07d60a8d00f8dc?utm_campaign=1063&utm_source=git)** | Texarkana, TX, United States | On Site | Aug 17 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a836def9b859b227766eb79?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate / Jewelry Consultant - Peoples Jewellers - Pickering Town Centre - Pickering, ON](https://jobright.ai/jobs/info/6a531bca8576ec69c014eaff?utm_campaign=1063&utm_source=git)** | Canada - Pickering Town Centr - Pickering, ON, Canada | On Site | Aug 17 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - University Place - Shreveport, LA](https://jobright.ai/jobs/info/6a50f67b78e364789ca578d6?utm_campaign=1063&utm_source=git)** | Zales - Mall St. Vincent - Shreveport, LA, United States of America | On Site | Aug 17 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Crossroads at Terrell - Terrell, TX](https://jobright.ai/jobs/info/6a4e167a15b4965afd5824a4?utm_campaign=1063&utm_source=git)** | Zales - Crossroads at Terrell - Terrell, TX, United States of America | On Site | Aug 17 |
-| ↳ | **[Sales Associate / Jewelry Consultant - Peoples Jewellers - Peter Pond Mall - Fort McMurray, AB](https://jobright.ai/jobs/info/6a53c4e9e726ec56126a7ed1?utm_campaign=1063&utm_source=git)** | Fort McMurray, AB, Canada | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
