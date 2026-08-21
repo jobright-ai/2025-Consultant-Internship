@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2027](https://jobright.ai/jobs/info/6a885ef5cde3717f9e9b4d4a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vans Marketing Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a74c10f37da8525e8cda6bd?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 20 |
 | **[Loop Capital](http://www.loopcapital.com)** | **[Consulting Services 2027 Summer Intern](https://jobright.ai/jobs/info/6a8767c0d34f700f87fc547f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6a873abfd34f700f87fc43f1?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Aug 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Consultant Relations Group Analyst, US](https://jobright.ai/jobs/info/6a8710ede8b6601d1290166d?utm_campaign=1063&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 20 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health Policy Analysis](https://jobright.ai/jobs/info/6a86faa525fc4e7ae3daa962?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf0e51a1e18a24126e5?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa92d34f700f87fc2cde?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
 | **[IBM](http://www.ibm.com)** | **[Associate Experience Consultant 2027](https://jobright.ai/jobs/info/6a86fb8a25fc4e7ae3daa99f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Associate Strategy Consultant 2027](https://jobright.ai/jobs/info/6a86fb7ce8b6601d12900f7f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Westland Mall - Hialeah, FL](https://jobright.ai/jobs/info/6a52a7e99fbdab22fe13c735?utm_campaign=1063&utm_source=git)** | Zales - Westland Mall - Hialeah, FL, United States of America | On Site | Aug 17 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Augusta Mall - Augusta, GA](https://jobright.ai/jobs/info/6a51bfa5bf63b66c7997bff6?utm_campaign=1063&utm_source=git)** | Zales - Augusta Mall - Augusta, GA, United States of America | On Site | Aug 17 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales Outlet - Central Texas Marketplace - Waco, TX](https://jobright.ai/jobs/info/6a5126f002522b5b722e7ff1?utm_campaign=1063&utm_source=git)** | Zale Outlet - Central Texas Market - Waco, TX, United States of America | On Site | Aug 17 |
-| ↳ | **[Sales Associate / Jewelry Consultant - Peoples Jewellers - Pickering Town Centre - Pickering, ON](https://jobright.ai/jobs/info/6a531bca8576ec69c014eaff?utm_campaign=1063&utm_source=git)** | Canada - Pickering Town Centr - Pickering, ON, Canada | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
