@@ -76,10 +76,10 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6a873abfd34f700f87fc43f1?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Aug 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Consultant Relations Group Analyst, US](https://jobright.ai/jobs/info/6a8710ede8b6601d1290166d?utm_campaign=1063&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 20 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health Policy Analysis](https://jobright.ai/jobs/info/6a86faa525fc4e7ae3daa962?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf0e51a1e18a24126e5?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa92d34f700f87fc2cde?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf0e51a1e18a24126e5?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | **[IBM](http://www.ibm.com)** | **[Associate Experience Consultant 2027](https://jobright.ai/jobs/info/6a86fb8a25fc4e7ae3daa99f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Associate Strategy Consultant 2027](https://jobright.ai/jobs/info/6a86fb7ce8b6601d12900f7f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a86fb55d34f700f87fc2d25?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 20 |
@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Business Transformation Consultant 2027 – Finance](https://jobright.ai/jobs/info/6a86fb30d34f700f87fc2d1b?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Aug 20 |
 | ↳ | **[Co-Op Package Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a86fb18cde3717f9e9af7d1?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Aug 20 |
 | ↳ | **[Consultant Intern - AWS Cloud 2027](https://jobright.ai/jobs/info/6a86fb05cde3717f9e9af7ca?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d09?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d0a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d09?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a86fa0225fc4e7ae3daa937?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 20 |
 | ↳ | **[Enterprise Strategy Consultant Intern (September 2026 - 4 Months Term - Toronto, Calgary, Montreal )](https://jobright.ai/jobs/info/6a86f9f2e8b6601d12900f11?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | Hybrid | Aug 20 |
 | ↳ | **[Experience Consultant Intern 2027](https://jobright.ai/jobs/info/6a86f9d9d34f700f87fc2cbb?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Aug 20 |
