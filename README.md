@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[99 Yards](https://99yards.app)** | **[Sales Consultant part time internship](https://jobright.ai/jobs/info/6a88d092d34f700f87fcaa40?utm_campaign=1063&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Aug 21 |
 | **[PwC Canada](https://www.pwc.com/ca/en/)** | **[May 2027 - Operations and Procurement - Summer Intern - Montreal](https://jobright.ai/jobs/info/6a88a5fd25fc4e7ae3db18a2?utm_campaign=1063&utm_source=git)** | Greater Montreal Metropolitan Area, Canada | Hybrid | Aug 21 |
 | ↳ | **[May 2027 - Operations and Procurement - Summer Intern - Edmonton](https://jobright.ai/jobs/info/6a88a5d925fc4e7ae3db1888?utm_campaign=1063&utm_source=git)** | Edmonton, AB, Canada | Hybrid | Aug 21 |
-| **[RTI International](http://www.rti.org)** | **[Innovation Consulting Intern (Chemistry Focus)](https://jobright.ai/jobs/info/6a7a7e6dbb6ca93ae561be98?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 21 |
-| ↳ | **[Innovation Consulting Intern (Chemistry Focus)](https://jobright.ai/jobs/info/6a6b68f7acb0a61f9dbc0a7c?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 21 |
+| **[RTI International](http://www.rti.org)** | **[Innovation Consulting Intern (Chemistry Focus)](https://jobright.ai/jobs/info/6a6b68f7acb0a61f9dbc0a7c?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 21 |
+| ↳ | **[Innovation Consulting Intern (Chemistry Focus)](https://jobright.ai/jobs/info/6a7a7e6dbb6ca93ae561be98?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Internship Sustainability Assurance & Consulting Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a886f0d4afae74a0834ba24?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Aug 21 |
 | ↳ | **[Intern Business Consulting Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a886f0acde3717f9e9b52e2?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 21 |
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Supply Chain Intern (Houston/Boston, Summer 2027)](https://jobright.ai/jobs/info/6a888280e8b6601d129071ff?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 21 |
@@ -76,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6a873abfd34f700f87fc43f1?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Aug 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Consultant Relations Group Analyst, US](https://jobright.ai/jobs/info/6a8710ede8b6601d1290166d?utm_campaign=1063&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 20 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health Policy Analysis](https://jobright.ai/jobs/info/6a86faa525fc4e7ae3daa962?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa92d34f700f87fc2cde?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf0e51a1e18a24126e5?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | **[IBM](http://www.ibm.com)** | **[Associate Experience Consultant 2027](https://jobright.ai/jobs/info/6a86fb8a25fc4e7ae3daa99f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Associate Strategy Consultant 2027](https://jobright.ai/jobs/info/6a86fb7ce8b6601d12900f7f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a86fb55d34f700f87fc2d25?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 20 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Business Transformation Consultant 2027 – Finance](https://jobright.ai/jobs/info/6a86fb30d34f700f87fc2d1b?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Aug 20 |
 | ↳ | **[Co-Op Package Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a86fb18cde3717f9e9af7d1?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Aug 20 |
 | ↳ | **[Consultant Intern - AWS Cloud 2027](https://jobright.ai/jobs/info/6a86fb05cde3717f9e9af7ca?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d0a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d09?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
+| ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a86faf6d34f700f87fc2d0a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | ↳ | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a86fa0225fc4e7ae3daa937?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 20 |
 | ↳ | **[Enterprise Strategy Consultant Intern (September 2026 - 4 Months Term - Toronto, Calgary, Montreal )](https://jobright.ai/jobs/info/6a86f9f2e8b6601d12900f11?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | Hybrid | Aug 20 |
 | ↳ | **[Experience Consultant Intern 2027](https://jobright.ai/jobs/info/6a86f9d9d34f700f87fc2cbb?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Aug 20 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[JESA S.A](https://www.jesagroup.com/)** | **[Strategy Consulting Intern Job Details / JESA Group](https://jobright.ai/jobs/info/6a83e64bc72fae4bcc8d629c?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Aug 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Strategy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a830f6ab5a0ac0e84a232bb?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 17 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Consultant Relations Group Analyst, US](https://jobright.ai/jobs/info/6a83aff51081a745e9710aeb?utm_campaign=1063&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 17 |
-| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027 - Vancouver, Canada](https://jobright.ai/jobs/info/6a8465ad2f4f0014cae20369?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 17 |
-| ↳ | **[Associate Consultant Intern, Summer 2027 - Toronto, Canada](https://jobright.ai/jobs/info/6a8465bd58ded76ad8fe6d53?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 17 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2027](https://jobright.ai/jobs/info/6a8633bb74e02153f145b292?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 17 |
+| **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027 - Toronto, Canada](https://jobright.ai/jobs/info/6a8465bd58ded76ad8fe6d53?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 17 |
+| ↳ | **[Associate Consultant Intern, Summer 2027 - Vancouver, Canada](https://jobright.ai/jobs/info/6a8465ad2f4f0014cae20369?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
