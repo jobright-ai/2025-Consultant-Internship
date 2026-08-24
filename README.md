@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Wide Technology](http://www.wwt.com)** | **[Solutions, Consulting, & Engineering Intern - 2027](https://jobright.ai/jobs/info/6a8c92e51d96e6541c8c1b9d?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO, United States | On Site | Aug 24 |
+| **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a8c8be7d34f700f87fd131f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
+| ↳ | **[Management Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a8c8b961d96e6541c8c1826?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Aug 24 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Analytics & Insights Internship](https://jobright.ai/jobs/info/6a8bae49d34f700f87fce254?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 24 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate - Summer/Fall 2027](https://jobright.ai/jobs/info/6a8c7cb2cde3717f9e9bd7b2?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Aug 23 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Strategy & Finance Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a886f0a25fc4e7ae3db0609?utm_campaign=1063&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 22 |
@@ -72,16 +75,16 @@ For a complete list, click the following sortable link below:
 | **[Wood Mackenzie](http://www.woodmac.com/)** | **[Consulting Co-Op (Boston) Jan - Jun 2027](https://jobright.ai/jobs/info/6a888573680f314a29d3c6c9?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 20 |
 | ↳ | **[Consulting Co-Op (Houston) Jan - Jun 2027](https://jobright.ai/jobs/info/6a8885804afae74a0834c28b?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 20 |
 | **[Mercer](http://www.mercer.com)** | **[Government Health Consulting Financial Summer Intern - College Program 2027](https://jobright.ai/jobs/info/6a8bb660cde3717f9e9bad12?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 20 |
-| ↳ | **[Government Health Consulting Actuarial Summer Intern - College Program 2027](https://jobright.ai/jobs/info/6a8bb65c25fc4e7ae3db606e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 20 |
 | ↳ | **[Government Health Consulting Informatics Summer Intern - College Program 2027](https://jobright.ai/jobs/info/6a8bb673cde3717f9e9bad1c?utm_campaign=1063&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Aug 20 |
+| ↳ | **[Government Health Consulting Actuarial Summer Intern - College Program 2027](https://jobright.ai/jobs/info/6a8bb65c25fc4e7ae3db606e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 20 |
 | **[Loop Capital](http://www.loopcapital.com)** | **[Consulting Services 2027 Summer Intern](https://jobright.ai/jobs/info/6a8767c0d34f700f87fc547f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6a873abfd34f700f87fc43f1?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Aug 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Consultant Relations Group Analyst, US](https://jobright.ai/jobs/info/6a8710ede8b6601d1290166d?utm_campaign=1063&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 20 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health Policy Analysis](https://jobright.ai/jobs/info/6a86faa525fc4e7ae3daa962?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
-| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf0e51a1e18a24126e5?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa98680f314a29d3639f?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | ↳ | **[Summer 2027 Consulting Internship - Medicaid Policy](https://jobright.ai/jobs/info/6a86fa92d34f700f87fc2cde?utm_campaign=1063&utm_source=git)** | Kapolei, HI, United States | On Site | Aug 20 |
+| ↳ | **[Summer 2027 Consulting Internship - Medicaid](https://jobright.ai/jobs/info/6a7f6bf8e2030208f276df29?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Aug 20 |
 | **[IBM](http://www.ibm.com)** | **[Associate Experience Consultant 2027](https://jobright.ai/jobs/info/6a86fb8a25fc4e7ae3daa99f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Associate Strategy Consultant 2027](https://jobright.ai/jobs/info/6a86fb7ce8b6601d12900f7f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a86fb55d34f700f87fc2d25?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Aug 20 |
@@ -154,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qvest US](https://www.qvest.com)** | **[Consulting Internship, Summer 2027](https://jobright.ai/jobs/info/6a84622fe124744552739dc2?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 18 |
 | **[ByteDance](http://bytedance.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2026 Start](https://jobright.ai/jobs/info/6a7f61a2927c79391ad085fd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | **[JESA S.A](https://www.jesagroup.com/)** | **[Strategy Consulting Intern Job Details / JESA Group](https://jobright.ai/jobs/info/6a83e64bc72fae4bcc8d629c?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Aug 17 |
-| **[Capital One](http://www.capitalone.com)** | **[Strategy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a830f6ab5a0ac0e84a232bb?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
