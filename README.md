@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Procter & Gamble](https://us.pg.com)** | **[Analytics & Insights Internship](https://jobright.ai/jobs/info/6a8bae49d34f700f87fce254?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 28 |
+| **[Elire](http://www.elire.com)** | **[Summer 2027 Functional Consulting Internship](https://jobright.ai/jobs/info/6a91ea4bc12c90443efc8bf3?utm_campaign=1063&utm_source=git)** | United States | Remote | Aug 28 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Labs Asset Foundry Consulting Intern](https://jobright.ai/jobs/info/6a91be51c12c90443efc7f39?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Software Engineering (AI Concentration) Consulting Intern](https://jobright.ai/jobs/info/6a91be29a27a2d3c98489d43?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/6a91be279864261ccd29ec21?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
@@ -78,20 +80,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91abe3d18f756748279456?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abe0d18f756748279455?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Product Management Consulting Intern](https://jobright.ai/jobs/info/6a91abe0a27a2d3c984892f8?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91abded18f756748279454?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abde9864261ccd29e1fa?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Healthcare Consulting Intern](https://jobright.ai/jobs/info/6a91abdec12c90443efc74e4?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abde9864261ccd29e1fa?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91abded18f756748279454?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abdbc12c90443efc74e3?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd79864261ccd29e1f6?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd7c12c90443efc74e1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/6a91abd7d18f756748279451?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd79864261ccd29e1f6?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91abd69864261ccd29e1f5?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abd1a27a2d3c984892f3?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/6a91abd1d18f75674827944e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91abd0c12c90443efc74de?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcea27a2d3c984892f1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abccc12c90443efc74dd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abcc3603630099193ada?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abccc12c90443efc74dd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcb8e59685453376de6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abcb9864261ccd29e1f2?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abcba27a2d3c984892f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc7a27a2d3c984892ee?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abc73603630099193ad6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abc6d18f756748279448?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/6a91abc2d18f756748279445?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc28e59685453376de2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/6a91abc2d18f756748279445?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91abc1d18f756748279443?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Healthcare Consulting Intern](https://jobright.ai/jobs/info/6a91a9ad3603630099193a37?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a8029864261ccd29e061?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Origin](https://originutility.com)** | **[QA & Software Testing Consultant- Remote Opportunity - Philippines ONLY](https://jobright.ai/jobs/info/6a9036112e254e06fb9efa88?utm_campaign=1063&utm_source=git)** | Las Vegas, NV, United States | On Site | Aug 26 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions Consulting & Engineering- MBA Management Consulting Services Intern - 2026](https://jobright.ai/jobs/info/6a8de70825fc4e7ae3dbe88c?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO, United States | On Site | Aug 25 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Risk Solutions Field Intern (Worcester Internship, Mid-Atlantic Based)](https://jobright.ai/jobs/info/6a8dfdd3a5639a4810328ed1?utm_campaign=1063&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
-| ↳ | **[Intern - Risk Solutions Field Intern (Worcester Internship, NY Boroughs Based)](https://jobright.ai/jobs/info/6a8dfdd3cc0cf27068526801?utm_campaign=1063&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[2027 Elevate Program and 2028 Summer Technology Risk and Controls Consulting Intern](https://jobright.ai/jobs/info/6a8f5b203ac3a34f92d80e28?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
