@@ -107,10 +107,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/6a91abd1d18f75674827944e?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91abd0c12c90443efc74de?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcea27a2d3c984892f1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abccc12c90443efc74dd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abcc3603630099193ada?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcb8e59685453376de6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abccc12c90443efc74dd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abcb9864261ccd29e1f2?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcb8e59685453376de6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abcba27a2d3c984892f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91abc9a27a2d3c984892ef?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc7a27a2d3c984892ee?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 28 |
