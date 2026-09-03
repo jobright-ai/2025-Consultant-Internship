@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Plano, TX](https://jobright.ai/jobs/info/6a9896bfdef18223c8550575?utm_campaign=1063&utm_source=git)** | Plano, TX, United States | On Site | Sep 02 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[BCG Platinion / AI Tech Consultant, Cybersecurity (Internship)](https://jobright.ai/jobs/info/6a98460011f73b6462c8d8f5?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Plano, TX](https://jobright.ai/jobs/info/6a9896bfdef18223c8550575?utm_campaign=1063&utm_source=git)** | Plano, TX, United States | On Site | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Enterprise Data Integration and Migration Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a987e7011f73b6462c8eee5?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Sep 02 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[BCG Platinion / AI Tech Consultant, Tech Advisory & Delivery (Internship)](https://jobright.ai/jobs/info/6a9845fe11f73b6462c8d8f2?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Sep 02 |
@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/6a97165c455eaf6a08c1a90f?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Sep 01 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/6a975246d13b4819f39e08a0?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 01 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/6a97521d246d697dcee04db1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
-| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/6a975217f5337b2cf73217f0?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 | ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/6a97521c246d697dcee04db0?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 01 |
+| ↳ | **[Consumer & Retail Group Summer Consultant (Undergrad Intern, CRG Campus Recruiting)](https://jobright.ai/jobs/info/6a975217f5337b2cf73217f0?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Business Valuation Consultant Intern](https://jobright.ai/jobs/info/6a97165d246d697dcee03498?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Sep 01 |
 | ↳ | **[2027 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/6a9704f8d13b4819f39de872?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Sep 01 |
 | ↳ | **[2027 Information Technology Consulting: Public Sector – Intern](https://jobright.ai/jobs/info/6a9704f8f5337b2cf731f789?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 01 |
@@ -125,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy& Strategy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d3c8763a3a87ffe06d?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
 | ↳ | **[Management Consulting - Sector Operations - Health Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d2c8763a3a87ffe06b?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
 | ↳ | **[Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d2f28891320e85fd65?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
-| ↳ | **[Technology Consulting - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d93843db01599091f5?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d5c8763a3a87ffe070?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
+| ↳ | **[Technology Consulting - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d93843db01599091f5?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
 | ↳ | **[Cyber - Data, Risk & Privacy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dc4c22023a07937b7f?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
 | **[PwC](http://pwc.com)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d8c8763a3a87ffe07e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Aug 31 |
 | ↳ | **[Management Consulting - Workforce Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dbf28891320e85fd8d?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Aug 31 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[M3 Insurance](http://www.m3ins.com)** | **[2027 Ethica Pharmacy Consulting Internship](https://jobright.ai/jobs/info/6a95f6f6cabc9f6703e1b471?utm_campaign=1063&utm_source=git)** | Wauwatosa, WI, United States | On Site | Aug 31 |
 | ↳ | **[2027 Business Insurance Internship - Consulting Emphasis](https://jobright.ai/jobs/info/6a95ec523843db015990855f?utm_campaign=1063&utm_source=git)** | Kenosha, WI, United States | On Site | Aug 31 |
 | **[Teneo](https://www.teneo.com)** | **[Intern, Management Consulting](https://jobright.ai/jobs/info/6a95de9c4c22023a07936612?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Aug 31 |
-| **[Aflac](http://www.aflac.com)** | **[Business & Benefit Consultant](https://jobright.ai/jobs/info/6a96906026613756de6d8a45?utm_campaign=1063&utm_source=git)** | Carlisle, PA, United States | Hybrid | Aug 31 |
+| **[Aflac](http://www.aflac.com)** | **[Business & Benefit Consultant](https://jobright.ai/jobs/info/6a968fbbd13b4819f39dc67a?utm_campaign=1063&utm_source=git)** | Lancaster, PA, United States | Hybrid | Aug 31 |
+| ↳ | **[Business & Benefit Consultant](https://jobright.ai/jobs/info/6a96906026613756de6d8a45?utm_campaign=1063&utm_source=git)** | Carlisle, PA, United States | Hybrid | Aug 31 |
 | ↳ | **[Business & Benefit Consultant](https://jobright.ai/jobs/info/6a969026e4e60e4b8da5969c?utm_campaign=1063&utm_source=git)** | York, PA, United States | Hybrid | Aug 31 |
-| ↳ | **[Business & Benefit Consultant](https://jobright.ai/jobs/info/6a968fbbd13b4819f39dc67a?utm_campaign=1063&utm_source=git)** | Lancaster, PA, United States | Hybrid | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
