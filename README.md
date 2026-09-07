@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Security Consultant Intern 2027](https://jobright.ai/jobs/info/6a9e364127c94c3d5a1cb7eb?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 06 |
+| **[IBM](http://www.ibm.com)** | **[Organizational Change Management Consultant Intern (January 2027 - 4 Months - Montreal)](https://jobright.ai/jobs/info/6a9e3b0a49f4604c7894def8?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 06 |
+| ↳ | **[Strategy Consultant Intern 2027](https://jobright.ai/jobs/info/6a9e3af7a7ba386c5d671280?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
+| ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e3af02c964816f65ec12e?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Sep 06 |
+| ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e3aee68f82b4036739046?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 06 |
+| ↳ | **[Strategy Consultant Intern 2027](https://jobright.ai/jobs/info/6a9e3aed27c94c3d5a1cb999?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 06 |
+| ↳ | **[Security Consultant Intern 2027](https://jobright.ai/jobs/info/6a9e364127c94c3d5a1cb7eb?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 06 |
 | ↳ | **[Security Consultant Intern 2027](https://jobright.ai/jobs/info/6a9e362e2c964816f65ebf40?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
 | ↳ | **[Salesforce Consulting & GTM Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e35f3dacf777321a90c5d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 06 |
 | ↳ | **[SAP Consultant Intern (January 2027 - 4 Months - Toronto, Ottawa, Montreal, Calgary and Vancouver)](https://jobright.ai/jobs/info/6a9e35dedacf777321a90c5c?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Sep 06 |
@@ -109,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Security Consultant 2027 - Strategy, Risk & Compliance](https://jobright.ai/jobs/info/6a9e26572c964816f65ebcea?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 06 |
 | ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e26542c964816f65ebce7?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e264e75edfa11b4710668?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
-| ↳ | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e264368f82b4036738c0c?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 06 |
 | ↳ | **[Consultant Intern - AWS Cloud 2027](https://jobright.ai/jobs/info/6a9e26432c964816f65ebce0?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
+| ↳ | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e264368f82b4036738c0c?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 06 |
 | ↳ | **[Business Transformation Consultant Intern - Data Services 2027](https://jobright.ai/jobs/info/6a9e254c75edfa11b4710662?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 06 |
 | ↳ | **[Associate Strategy Consultant 2027](https://jobright.ai/jobs/info/6a9e254175edfa11b471065d?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
 | ↳ | **[Co-Op Package Consultant 2027 - SAP](https://jobright.ai/jobs/info/6a9e252c75edfa11b471065c?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | Hybrid | Sep 06 |
@@ -132,14 +137,14 @@ For a complete list, click the following sortable link below:
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2027 Intern, Management Consulting](https://jobright.ai/jobs/info/6a9b0e711388387060596606?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 05 |
 | **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2027 - Advisory Intern (Profit Participation Services)](https://jobright.ai/jobs/info/6a9b65acd5ff1f3f1c39f036?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec92cdc5958f53eaeb5?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Sep 04 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a95db389fcec5442372f9fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 04 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9af3a89c24314c35f9641a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec82cdc5958f53eaeb4?utm_campaign=1063&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 04 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ecefe45b8490f606ea6?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Sep 04 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec82cdc5958f53eaeb4?utm_campaign=1063&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 04 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a95db389fcec5442372f9fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 04 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Analytic Consulting Advisor Internship](https://jobright.ai/jobs/info/6a9b1daa9c24314c35f97d67?utm_campaign=1063&utm_source=git)** | Columbus, OH, United States | On Site | Sep 04 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Summer Internship 2027 (Associate Consultant)](https://jobright.ai/jobs/info/6a9b604c1388387060597e9a?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Sep 04 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b16f990a313642c6588b1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Sep 04 |
-| ↳ | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Sep 04 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b16fc1388387060596930?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Sep 04 |
+| ↳ | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Sep 04 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6a9b310cd5ff1f3f1c39e113?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 04 |
 | ↳ | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6a9b31092cdc5958f53eb499?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Sep 04 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Strategy & Management Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/6a9b362f90a313642c65926c?utm_campaign=1063&utm_source=git)** | Edmonton, AB, Canada | On Site | Sep 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baringa](http://www.baringa.com/)** | **[US Summer Internship - Financial Services](https://jobright.ai/jobs/info/6a9ae437d5ff1f3f1c39b9dd?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC / Insurance Consulting Intern (2027)](https://jobright.ai/jobs/info/6a9a07c5ad752e2ad5503710?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 04 |
 | **[AArete](http://aarete.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/6a9add87fe45b8490f604aa3?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 04 |
-| **[KPMG Canada](https://www.kpmg.se)** | **[Management Consulting Enterprise Solutions: Consultant,  Internship  (Jan-April '27)](https://jobright.ai/jobs/info/6a9055f4d96ad228f12609cf?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 04 |
-| **[Rystad Energy](https://www.rystadenergy.com)** | **[Management Consulting Intern (Energy) - Summer 2027](https://jobright.ai/jobs/info/6a8c8b961d96e6541c8c1826?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 04 |
-| **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC / Insurance Consulting Intern (2027)](https://jobright.ai/jobs/info/6a95b990cabc9f6703e196d5?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a7cea817c52154b59f5d3b5?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 04 |
-| **[PwC](http://pwc.com)** | **[Data & Analytics Technology Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a99d6b61388387060590c79?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
